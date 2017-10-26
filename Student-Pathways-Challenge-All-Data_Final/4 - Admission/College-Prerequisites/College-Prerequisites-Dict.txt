@@ -1,0 +1,306 @@
+Programs / Programmes
+---------------------
+
+0052		Paramedic
+01041		Child & Youth Worker
+0107		Social Service Worker
+0116		Film Production
+0123		Social Service Worker
+0134		Medical Laboratory Science
+0195		Occupational Assistant / Physiotherapy Therapy Assistant
+0265		Dental Hygiene
+0313		Aviation – Flight Management
+0337		Behavioural Science Technology
+0375		Welding Techniques
+0385		Social Service Worker
+03991		Plumbing Techniques
+040108		Practical Nursing
+040208		Dental Hygiene
+04021		Electrical Techniques
+040301		Occupational Therapist Assistant and Physiotherapy Assistant
+040301		Respiratory Therapy
+0430X01FWO	Early Childhood Education
+0432X01FWO	Social Service Worker
+0441		Game Development
+0458		Baking and Pastry Arts
+0476X01FWO	Child & Youth Worker
+04801		Creative Photography
+04831		Film and Television Production
+0491		Practical Nursing
+0602		Medical Radiation Technology
+0603		Medical Laboratory Assistant
+0606X01FWO	Respiratory Therapy
+0619		Practical Nursing
+0620X01FWO	Paramedic
+0633		Veterinary Assistant
+0641		Dental Hygiene
+0694		Paramedic
+07041		Practical Nursing
+07061		Bachelor of Nursing
+0722		Veterinary Technology
+0736C		Powerline Technician (Co-op)
+07651		Paramedic
+0780		Brewmaster and Brewery Operations Management
+0798		Digital Photography
+0814		Paramedic
+0926		Practical Nursing
+0970		Paramedic
+1023		Pre-Health Sciences
+1024		Bachelor of Science in Nursing
+1043		Nursing – B.Sc.N. (McMaster)
+1070		Wind Turbine Technician / Industrial Electrician
+1077		Practical Nursing
+110 		Personal Support Worker
+1102		Bachelor of Applied Arts – Behavioural Psychology
+1111		Occupational Therapist Assistant & Physiotherapist Assistant
+1154C		Electrical Technician - Industrial (Co-op)
+1166		Respiratory Therapy
+1185		Diploma Registered Practical Nurse to B.Sc.N. (McMaster)
+1203		Social Service Worker
+1205		Child & Youth Worker
+1206		Community & Justice Services
+1214		Pre-Health Sciences
+1260		Pre-Service Firefighter Education & Training
+1301		Child and Youth Care
+1405X04FWO	Music Industry Arts
+14161		Baking and Pastry Arts Management
+14181		Sport Management
+1438H01FWO	General Arts & Science Pre-Health Sciences
+1438V01FWO	General Arts & Science Pre-Trades
+1507X01FWO	Welding & Fabrication Techniques
+1511X01FW0	Powerline Technician
+1521X01FWO	Mechanical Techniques Plumbing
+1522X01FWO	Aircraft Maintenance Technician
+1615X01FWO	Medical Radiation Technology
+1618X01FWO	Diagnostic Medical Sonography
+1619X01FWO	Medical Device Reprocessing
+1623X01FWO	Occupational Therapist Assistant/ Physiotherapy Assistant
+1704X01FWO	Practical Nursing
+1927X01FWO	Dental Hygiene
+215 		Social Service Worker
+2206X		Bachelor of Applied Music
+283 		Recreation Therapy
+285 		Paralegal
+290 		Paralegal Co-op
+3024		Practical Nursing
+31541		Home Renovation Technician
+329 		Office Administration – Medical
+3400		Bachelor of Science in Nursing (BScN)
+3506		Medical Laboratory Technician
+3821		Electrician: Construction and Maintenance Co-op / Apprentice
+4061		Aviation Technology – Flight
+407 		Pharmacy Technician
+469 		Massage Therapy
+51491		Soins paramédicaux
+51538		Soins infirmiers auxiliaires
+51594		Assistant de l’ergothérapeute et assistant du physiothérapeute
+61080		Thérapie respiratoire
+612 		Child & Youth Care
+61651		Hygiène dentaire
+6236X01FWO	Pre-Service Firefighter Education & Training
+6320X01FWO	Veterinary Technician
+715 		Practical Nursing
+728 		Cardiovascular Technology
+746 		Occupational Therapist / Physiotherapist Assistant
+8112		Aviation Technician Aircraft Maintenance
+8113		Avionics Maintenance
+8206		Automotive Service Technician Co-op Apprentice Chrysler
+8216		Automotive Service Technician Co-op Apprentice TADA
+9101		Paramedic
+9151		Occupational Therapy Assistant / Physiotherapy Assistant
+9250		Bachelor of Science in Nursing (BScN)
+9320		Fitness and Health Promotion
+9350		Practical Nursing
+9351		Practical Nursing Flex
+ACAR		Animal Care
+ACM 		Museum Management and Curatorship
+ACV 		Acting for Camera and Voice
+ADMH		Addictions and Mental Health
+ANI 		Animation
+APPD		Advanced Care Paramedic
+B101		Early Childhood Education
+B992		Child and Youth Care
+BSCN		Bachelor of Science in Nursing
+BSCN		Baccalauréat en sciences infirmières
+BSCN		Nursing – Bachelor of Science (Collaborative)
+BSCN		Bachelor of Science in Nursing
+BSCN		Nursing – BScN
+C100		Early Childhood Education
+C115		Office Administration – Medical
+C118		Early Childhood Education
+C119		Social Service Worker
+C133		Child & Youth Care
+C139		Health Information Management
+CDA 		Communicative Disorders Assistant
+CICE		Community Integration Through Cooperative Education
+CPET		Chemical Production and Power Engineering Technology
+CYC 		Child & Youth Worker
+CYW4		Child & Youth Care
+DAII		Dental Assisting – Levels I and II
+DENT		Dental Hygiene
+DHY3		Dental Hygiene
+DHYG		Dental Hygiene
+DNTH		Dental Hygiene
+ECHO		Échographie diagnostique (postdiplôme)
+EETN		Electrical Engineering Technician
+EETN		Electrical Engineering Technician
+EETQ		Electrical Techniques
+EETY		Electrical Engineering Technology
+ELEC		Electrical Techniques
+EMP 		Event and Media Production
+FPR 		Bachelor of Aviation Technology
+GRA 		Graphic Design
+H057		Veterinary Assistant
+H058		Veterinary Technician
+H099		Paramedic
+H112		Bachelor of Science in Nursing (BScN)
+H113		Baking and Pastry Arts Management
+H117		Practical Nursing
+H134		Veterinary Technology – Wildlife Rehabilitation
+H142		Pre-Health Sciences
+H150		Medical Laboratory Technician
+H299		Medical Laboratory Technician
+H794		Cardiovascular Technology
+H796		Diagnostic Medical Sonography
+H800		Dental Hygiene
+H837		Medical Laboratory Science
+H840		Paramedic
+H850		Bachelor of Science in Nursing (BScN)
+HYDG		Hygiène dentaire
+IDP 		Independent Digital Photography
+ILU 		Independent Illustration
+IMP 		Independent Music Production
+IPS 		Independent Songwriting & Performance
+JRN 		Journalism
+K240		Early Childhood Education
+K766		Powerline Technician
+K893		Occupational Therapist Assistant / Physiotherapist Assistant
+K940		Paramedic
+K950		Bachelor of Science in Nursing (BScN)
+M001		Instrumentation and Control Engineering Technician
+MBAD		Music Business Administration / Management
+MIA2		Music Industry Arts
+ML111		Medical Laboratory Science
+MLTY		Medical Laboratory Technology
+MNAV		Marine Technology Navigation
+MPLU		Mechanical Techniques – Plumbing
+MRIP		Magnetic Resonance Imaging
+MRT1		Medical Radiation Technology
+MRTY		Medical Radiation Technology
+NURS		Bachelor of Science in Nursing
+OPTA		Occupational Therapist Assistant and Physiotherapist Assistant
+OTPA		Occupational Therapist Assistant / Physiotherapist Assistant
+PANCR		Animal Care
+PAR2		Paramedic
+PARA		Paramedic
+PARA		Paramedic
+PBAAA		Bachelor of Animation
+PBAAI		Bachelor of Illustration
+PBAAP		Bachelor of Photography
+PBAHS		Bachelor of Applied Health Sciences (Athletic Therapy)
+PBAMT		Bachelor of Music Theatre – Performance
+PBDES		Bachelor of Design (Honours)
+PBFTV		Bachelor of Film & Television
+PBGDS		Bachelor of Game Design
+PETC		Power Engineering Technology – Chemical
+PETQ		Power Engineering Techniques
+PHRM		Pharmacy Technician
+PLTN		Powerline Technician
+PMD 		Paramedic
+PMED		Paramedic (Bancroft Campus)
+PMMCA		Makeup for Media and Creative Arts
+PN  		Practical Nursing
+PND 		Practical Nursing
+PNDP		Practical Nursing
+PNG5/PNG5W	Practical Nursing
+PNII		Practical Nursing
+PNRS		Practical Nursing
+PNUR		Practical Nursing
+POA 		Occupational Therapist Assistant and Physiotherapist Assistant
+PPC 		Paramedic
+PPNSG		Practical Nursing
+PRAC		Practical Nursing
+PREH		Pre-Health Science
+PVETT		Veterinary Technician
+R206		Veterinary Technology (Conventional)
+R306		Veterinary Technology (Alternative)
+RS111		Respiratory Therapy
+RST4		Respiratory Therapy
+RTVR		Broadcasting – Radio / Television
+RTVT		Broadcasting – Radio / Television
+S102		Orthotic / Prosthetic Technician
+S113		Dental Assisting (Levels I & II)
+S118		Bachelor of Science in Nursing
+S121		Practical Nursing
+S124		Dental Hygiene
+S125		Fitness and Health Promotion
+SSW1		Social Service Worker
+SSWK		Social Service Worker
+SSWK		Social Service Worker
+T007		Electrical Engineering Technician / Technology
+T074		Electrical Engineering Technician / Technology
+T110		Building Renovation Technician
+T126		Construction Trades Techniques
+T148		Building Renovation Technology
+T755		Biomedical Engineering Technology – Equipment & Devices
+T941		Power Engineering Technology – Fast Track
+TRMG		Technologie en radiation médicale
+USPG		Diagnostic Medical Sonography (Ultrasound)
+UWS 		Underwater Skills
+VEAQ		Techniques de soins vétérinaires (Campus d’Alfred seulement)
+VETA		Veterinary Assistant
+VETN		Veterinary Technician
+VTE 		Veterinary Technician
+
+
+Colleges / Collèges
+-------------------
+
+ALG 	Algonquin
+BOR 	Boréal
+CAM 	Cambrian
+CAN 	Canadore
+CEN 	Centennial
+COE 	Conestoga
+COF 	Confederation
+DUR 	Durham
+FAN 	Fanshawe
+FLE 	Fleming
+GBR 	George Brown
+GEO 	Georgian
+HUM 	Humber
+LAM 	Lambton
+LCI 	La Cité
+LOY 	Loyalist
+MIN 	Michener Institute
+MOH 	Mohawk
+NIA 	Niagara
+NOR 	Northern
+RID 	Ridgetown
+SAU 	Sault
+SCL 	St. Clair
+SEN 	Seneca
+SHE 	Sheridan
+SLA 	St. Lawrence
+
+
+Courses / Cours
+---------------
+
+AFU 	Advanced Functions              	Fonctions avancés
+BIO 	Biology                         	Biologie
+C&V 	Calculus & Vectors              	Calcul et vecteurs
+CHEM	Chemistry                       	Chimie
+ENG 	English                         	Anglais
+EXER	Exercise Science                	Science de l'exercice
+FRA 	French                          	Français
+MATH	Mathematics                     	Mathématiques
+MDM 	Mathematics of Data Management  	Mathématiques de la gestion de données
+PHYS	Physics                         	Physique
+SCI 	Science                         	Science
+VAR 	Visual Art                      	Art Visuel
+
+
+Source: Ontario College Application Service (OCAS)
+
+The Ministry of Advanced Education and Skills Development has endeavored to keep the information provided up to date and correct, but makes no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the information for any purpose.

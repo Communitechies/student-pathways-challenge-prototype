@@ -1,0 +1,86 @@
+Metrics / Indicateurs
+---------------------
+
+A1  	Total applicants (first choice)     	Total des candidats (premier choix)
+AA  	Total applicants (all choices)      	Total des candidats (tous les choix)
+R1  	Total registrants (first choice)    	Total des candidats inscrits (premier choix)
+RA  	Total registrants (all choices)     	Total des candidats inscrits (tous les choix)
+
+
+Subjects / Sujets
+-----------------
+
+AGR 	Agriculture                     	Agriculture
+AHS 	Arts/Humanities/Social Science  	Arts / Sciences humaines / Sciences sociales
+ARC 	Architecture                    	Architecture
+CMB 	Commerce/Mgmt/Business Admin    	Commerce/Gestion/Administration des affaires
+DPR 	Diploma Program                 	Formation diplômante
+EAS 	Engineering & Applied Science   	Ingénierie et sciences appliquées
+EDU 	Education                       	Éducation
+EST 	Environmental Studies           	Études environnementales
+FAA 	Fine & Applied Arts             	Beaux-arts et arts appliqués
+FOR 	Forestry                        	Foresterie
+HSC 	Household Science               	Sciences de ménagerie
+IPR 	Ineligible Program              	Programme inadmissible
+JOU 	Journalism                      	Journalisme
+LAR 	Landscape Architecture          	Architecture paysagère
+MAT 	Mathematics                     	Mathématiques
+MUS 	Music                           	Musique
+NUR 	Nursing                         	Sciences infirmières
+OAD 	Other Administration            	Autre administration
+ODE 	Other Degrees                   	Autres diplômes
+OPT 	Optometry                       	Optométrie
+PHA 	Pharmacy                        	Pharmacie
+PHE 	Phys/Health Ed/Recreation       	Éducation physique
+PYE 	Preliminary Year                	Année préliminaire
+RME 	Rehab Medicine                  	Médecine de réhabilitation
+SCI 	Science                         	Sciences
+SWO 	Social Work                     	Travail social
+VME 	Veterinary Medicine             	Médecine vétérinaire
+
+
+Universities / Universités
+--------------------------
+
+ABR	Algoma Brampton
+ALG	Algoma
+BCW	Brescia University College (Western)
+BRO	Brock
+CAR	Carleton
+GUE	Guelph
+HCW	Huron University College (Western)
+LAK	Lakehead
+LAU	Laurentian
+MCM	McMaster
+MCW	Main Campus (Western)
+MUO	Mississauga (UofT)
+NIP	Nipissing
+OCA	OCAD
+OTT	University of Ottawa
+QUE	Queens
+RYE	Ryerson
+SPU	Saint Paul University (University of Ottawa)
+SUO	Scarborough (University of Toronto)
+TAC	Toronto (All campuses / Tous les campus)
+TOR	Toronto
+TRE	Trent
+TSG	Toronto (St George campus)
+UOI	UOIT
+WAT	Waterloo
+WES	Western
+WIN	Windsor
+WKC	Western (King's University College)
+WLA	Wilfrid Laurier
+YOR	York
+
+
+OSSD (Ontario Secondary School Diploma / Diplôme d'études secondaires de l'Ontario)
+-----------------------------------------------------------------------------------
+
+Y   	Yes    	Oui
+N   	No     	Non
+
+
+Source: Ontario University Application Centre (OUAC)
+
+The Ministry of Advanced Education and Skills Development has endeavored to keep the information provided up to date and correct, but makes no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the information for any purpose.

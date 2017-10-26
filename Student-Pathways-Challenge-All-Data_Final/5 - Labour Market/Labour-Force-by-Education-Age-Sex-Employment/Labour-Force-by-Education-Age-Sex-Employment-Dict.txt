@@ -1,0 +1,30 @@
+Education Levels / Niveaux d'éducation
+--------------------------------------
+
+E0  	0-8 years                                        	0-8 ans
+E1+2	Some high school                                 	Études secondaires partielles
+E3  	High school                                      	Études secondaires
+E4  	Some post-secondary                              	Études postsecondaires partielles
+E5  	Trade certificate                                	Certificat technique
+E6  	College diploma                                  	Diplôme collégial
+E7  	Certificate or diploma below bachelors degree    	Certificat ou diplôme inférieur au baccalauréat
+E8  	Bachelor degree                                  	Baccalauréat
+E9  	Above Bachelor's degree                          	Supérieur au baccalauréat
+
+
+Metrics / Indicateurs
+---------------------
+
+EFT 	Employed full-time      	Employé à temps plein
+EPT 	Employed part-time      	Employé à temps partiel
+ERT 	Employment rate         	Taux d’emploi
+LFO 	Labour force            	Population active
+NLF 	Not in labour force     	Population non-active
+PRT 	Participation rate      	Taux de participation au marché du travail
+UNE 	Unemployed              	Sans-emploi
+URT 	Unemployment rate       	Taux de chômage
+
+
+Source: Statistics Canada
+
+The Ministry of Advanced Education and Skills Development has endeavored to keep the information provided up to date and correct, but makes no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the information for any purpose.

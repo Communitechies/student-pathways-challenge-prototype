@@ -1,0 +1,1694 @@
+Programs / Programmes
+---------------------
+
+AA	Anthropology (Honours BA)
+AAA	Economics (Honours)
+AAB	Economics & Political Science (Honours) (Double Major)
+AAC	English (Honours)
+AAD	English & French (Honours) (Double Major)
+AAE	English & History (Honours) (Double Major)
+AAF	English & Philosophy (Honours) (Double Major)
+AAG	English & Women’s Studies (Honours) (Double Major)
+AAH	French (Honours)
+AAI	French & Philosophy (Honours) (Double Major)
+AAJ	Geography (Honours BA)
+AAK	Gerontology & Psychology (Honours) (Double Major)
+AAL	Gerontology & Women’s Studies (Honours) (Double Major)
+AAM	History (Honours)
+AAN	History & Philosophy (Honours) (Double Major)
+AAO	History & Political Science (Honours) (Double Major)
+AAP	History & Women’s Studies (Honours) (Double Major)
+AAQ	Indigenous Learning (Honours)
+AAR	Indigenous Learning & Philosophy (Honours) (Double Major)
+AAS	Indigenous Learning & Women’s Studies (Honours) (Double Major)
+AAT	Mathematics (Honours BA)
+AAU	Music (Honours BA)
+AAV	Northern Studies (Honours)
+AAW	Philosophy (Honours)
+AAX	Philosophy & Political Science (Honours) (Double Major)
+AAY	Political Science (Honours)
+AAZ	Political Science – Pre- Law (Honours)
+ABA	Psychology (Honours BA)
+ABB	Psychology (Specialized Honours BA)
+ABC	Psychology (Specialized Honours with Major Concentration in Women’s Studies)
+ABD	Psychology & Philosophy (Honours) (Double Major)
+ABE	Psychology & Women’s Studies (Honours) (Double Major)
+ABF	Sociology (Honours)
+ABG	Sociology (Honours)
+ABI	Sociology & Women’s Studies (Honours) (Double Major)
+ABJ	Sociology with Major Concentration in Gerontology (Honours)
+ABK	Lakehead Arts One – Undecided Major
+ABL	Women’s Studies (Honours)
+ABM	Anthropology (Honours BASc)
+ABN	Criminology (Honours)
+ABP	English (Honours)
+ABQ	Environmental Sustainability (Honours)
+ABR	Environmental Sustainability (Co-op) (Honours)
+ABT	Geography (Honours)
+ABU	Interdisciplinary Studies (Honours)
+ABW	Media Studies (Honours)
+ABY	Business (Honours)
+AC	Business Administration
+ACI	Environmental Management (Honours)
+ACJ	Environmental Management (Co-op) (Honours)
+ACL	Biology (Honours BESc)
+ACN	Earth Science (Honours) (BESc)
+ACO	Geography (Honours BESc)
+ACQ	Geography (Honours BES)
+ACS	Forestry (Honours)
+ACT	Forestry (Co-op) (Honours)
+ACV	Kinesiology (Honours)
+ACW	Kinesiology (Co-op) (Honours)
+ACX	Music (Honours BMus)
+ACY	Outdoor Recreation (Honours)
+AD	Outdoor Recreation (Honours) & Geography (Bachelor's) (Double Degree)
+ADB	Outdoor Recreation (Honours) & History (Bachelor's) (Double Degree)
+ADE	Outdoor Recreation (Honours) & Natural Science (Bachelor's) (Double Degree)
+ADI	Anthropology (Honours BSc)
+ADJ	Applied Life Sciences (Honours)
+ADL	Bioinformatics (Honours)
+ADM	Biology (Honours BSc)
+ADN	Biology with Major Concentration in Animal Sciences (Honours)
+ADO	Biology & Chemistry (Honours) (Double Major)
+ADP	Chemistry (Honours)
+ADQ	Chemistry with Specialization in Medical Sciences (Honours)
+ADR	Computer Science (Honours)
+ADS	Computer Science (Co- op) (Honours)
+ADT	Geoarchaelogy (Honours)
+ADU	Geography (Honours BSc)
+ADV	Geography with Geology Minor (Honours)
+ADW	Geology (Honours)
+ADX	Mathematical Physics (Honours)
+ADY	Mathematics (Honours BSc)
+AE	Physics (Honours)
+AEA	Physics (Co-op) (Honours)
+AEB	Physics with Major Concentration in Biomedical Physics (Honours)
+AEC	Psychology (Honours BSc)
+AED	Psychology (Specialized Honours BSc)
+AEE	Resource & Environmental Economics (Honours)
+AEF	Lakehead Science One – Undecided Major
+AEG	Water Resource Science (Honours)
+AEI	Water Resource Science Major Specialization in Applied Environmental Water Management (Honours)
+AEJ	Social Work (Honours)
+AEK	Social Work (Honours)
+AEN	Social Work with Major Concentration in Gerontology (Honours)
+AEO	Social Work with Major Concentration in Indigenous Learning (Honours)
+AET	Anthropology (BA)
+AEU	Economics
+AEV	Economics & Political Science (Double Major)
+AEW	English
+AEX	French
+AEY	General (BA)
+AF	Geography (BA)
+AFA	Gerontology
+AFB	History
+AFC	Indigenous Learning
+AFD	Mathematics (BA)
+AFE	Mathematics & Economics (Double Major)
+AFF	Philosophy
+AFG	Political Science
+AFH	Political Science – Pre- Law
+AFJ	Psychology (BA)
+AFK	Psychology & Philosophy (Double Major)
+AFL	Sociology
+AFN	Visual Arts (BA)
+AFO	Women’s Studies
+AG	Anthropology (BSc)
+AGA	Biology
+AGB	Computer Science
+AGC	Earth Science
+AGD	General (BSc)
+AGE	Geoarchaelogy
+AGF	Geography (BSc)
+AGG	Mathematics (BSc)
+AGH	Mathematics & Physics (Double Major)
+AGI	Natural Science
+AGK	Physics
+AGL	Psychology (BSc)
+AGM	Aboriginal Education (Honours) (Concurrent Education – Primary Junior)
+AGN	Anthropology (Honours) (Concurrent Education – Primary Junior) (Double Degree BA/BEd)
+AGO	English (Honours) (Concurrent Education – Primary Junior) (Double Degree)
+AGP	French (Honours) (Concurrent Education – Primary Junior) (Double Degree)
+AGQ	Geography (Honours) (Concurrent Education – Primary Junior) (Double Degree BA/BEd)
+AGR	History (Honours) (Concurrent Education – Primary Junior) (Double Degree)
+AGS	Mathematics (Honours) (Concurrent Education – Primary Junior) (Double Degree BA/BEd)
+AGT	Music (Honours) (Concurrent Education – Primary Junior) (Double Degree)
+AGU	Philosophy (Honours) (Concurrent Education – Primary Junior) (Double Degree)
+AGV	Psychology (Honours) (Concurrent Education – Primary Junior) (Double Degree BA/BEd)
+AGW	Sociology (Honours) (Concurrent Education – Primary Junior) (Double Degree)
+AGX	Lakehead Arts One with Con. Ed (Primary Junior)
+AGY	Women's Studies (Honours) (Concurrent Education – Primary Junior) (Double Degree)
+AGZ	Anthropology (Honours) (Concurrent Education – Intermediate Senior) (Double Degree BA/ BEd)
+AH	English (Honours) (Concurrent Education – Intermediate Senior) (Double Degree)
+AHA	English & French (Honours) (Concurrent Education – Intermediate Senior) (Double Degree)
+AHB	English & History (Honours) (Concurrent Education – Intermediate Senior) (Double Degree)
+AHC	French (Honours) (Concurrent Education – Intermediate Senior) (Double Degree)
+AHD	Geography (Honours) (Concurrent Education – Intermediate Senior) (Double Degree BA/ BEd)
+AHE	History (Honours) (Concurrent Education – Intermediate Senior) (Double Degree BA/ BEd)
+AHF	Mathematics (Honours) (Concurrent Education – Intermediate Senior) (Double Degree BA/ BEd)
+AHG	Music (Honours) (Concurrent Education – Intermediate Senior) (Double Degree)
+AHH	Psychology (Honours) (Concurrent Education – Intermediate Senior) (Double Degree BA/ BEd)
+AHI	Lakehead Arts One with Con. Ed (Intermediate Senior) – Undecided Major
+AHJ	Anthropology (Honours) (Concurrent Education – Primary Junior) (Double Degree)
+AHK	English (Honours) (Concurrent Education – Primary Junior) (Double Degree)
+AHL	Geography (Honours) (Concurrent Education – Primary Junior) (Double Degree)
+AHM	Interdisciplinary Studies (Honours) (Concurrent Education – Primary Junior) (Double Degree)
+AHO	Geography (Honours) (Concurrent Education – Intermediate Senior) (Double Degree BESc/ BEd)
+AHP	Geography (Honours) (Concurrent Education – Intermediate Senior) (Double Degree BA/ BEd)
+AHQ	Visual Arts (Honours) (Concurrent Education – Intermediate Senior) (Double Degree)
+AHR	Kinesiology (Honours) (Concurrent Education – Primary Junior) (Double Degree)
+AHS	Kinesiology (Honours) (Concurrent Education – Intermediate Senior) (Double Degree)
+AHT	Outdoor Recreation (Honours) (Concurrent Education – Primary Junior) (Double Degree)
+AHU	Outdoor Recreation (Honours) (Concurrent Education – Intermediate Senior) (Double Degree)
+AHV	Anthropology (Honours) (Concurrent Education – Primary Junior) (Double Degree BSc/BEd)
+AHW	Chemistry (Honours) (Concurrent Education – Primary Junior) (Double Degree)
+AHX	Geography (Honours) (Concurrent Education – Primary Junior) (Double Degree BSc/BEd)
+AHY	Mathematics (Honours) (Concurrent Education – Primary Junior) (Double Degree BSc/BEd)
+AHZ	Physics (Honours) (Concurrent Education – Primary Junior) (Double Degree)
+AI	Lakehead Science One with Con. Ed (Primary Junior) – Undecided Major
+AIA	Anthropology (Honours) (Concurrent Education – Intermediate Senior) (Double Degree BSc/ BEd)
+AIB	Biology (Honours) (Concurrent Education – Intermediate Senior) (Double Degree BSc/ BEd)
+AIC	Biology & Chemistry (Honours) (Concurrent Education – Intermediate Senior) (Double Degree)
+AID	Chemistry (Honours) (Concurrent Education – Intermediate Senior) (Double Degree)
+AIF	Geography (Honours) (Concurrent Education – Intermediate Senior) (Double Degree BSc/ BEd)
+AIG	Geology (Honours) (Concurrent Education – Intermediate Senior) (Double Degree)
+AIH	Mathematics (Honours) (Concurrent Education – Intermediate Senior) (Double Degree BSc/ BEd)
+AII	Physics (Honours) (Concurrent Education – Intermediate Senior) (Double Degree)
+AIJ	Psychology (Honours) (Concurrent Education – Intermediate Senior) (Double Degree BSc/ BEd)
+AIK	Lakehead Science One with Con. Ed (Intermediate Senior) – Undecided Major
+AIL	Anthropology (Concurrent Education – Primary Junior) (Double Degree BA/BEd)
+AIM	English (Concurrent Education – Primary Junior) (Double Degree)
+AIN	French (Concurrent Education – Primary Junior) (Double Degree)
+AIO	Geography (Concurrent Education – Primary Junior) (Double Degree BA/BEd)
+AIP	History (Concurrent Education – Primary Junior) (Double Degree)
+AIQ	Mathematics (Concurrent Education – Primary Junior) (Double Degree BA/BEd)
+AIR	Philosophy (Concurrent Education – Primary Junior) (Double Degree)
+AIS	Psychology (Concurrent Education – Primary Junior) (Double Degree BA/BEd)
+AIU	Sociology (Concurrent Education – Primary Junior) (Double Degree)
+AIV	Visual Arts (Concurrent Education – Primary Junior) (Double Degree)
+AIW	Women's Studies (Concurrent Education – Primary Junior) (Double Degree)
+AIX	Anthropology (Concurrent Education – Intermediate Senior) (Double Degree BA/ BEd)
+AIY	English (Concurrent Education – Intermediate Senior) (Double Degree)
+AIZ	French (Concurrent Education – Intermediate Senior) (Double Degree)
+AJ	Geography (Concurrent Education – Intermediate Senior) (Double Degree BA/ BEd)
+AJA	History (Concurrent Education – Intermediate Senior) (Double Degree)
+AJB	Indigenous Learning (Concurrent Education – Intermediate Senior) (Double Degree)
+AJC	Mathematics (Concurrent Education – Intermediate Senior) (Double Degree BA/ BEd)
+AJD	Psychology (Concurrent Education – Intermediate Senior) (Double Degree BA/ BEd)
+AJE	Interdisciplinary Studies (Concurrent Education – Primary Junior) (Double Degree)
+AJF	Anthropology (Concurrent Education – Primary Junior) (Double Degree BSc/BEd)
+AJG	Earth Science (Concurrent Education – Primary Junior) (Double Degree)
+AJH	Geography (Concurrent Education – Primary Junior) (Double Degree BSc/BEd)
+AJI	Mathematics (Concurrent Education – Primary Junior) (Double Degree BSc/BEd)
+AJJ	Natural Science (Concurrent Education – Primary Junior) (Double Degree)
+AJK	Physics (Concurrent Education – Primary Junior) (Double Degree)
+AJL	Earth Science (Concurrent Education – Intermediate Senior) (Double Degree)
+AJM	Geography (Concurrent Education – Intermediate Senior) (Double Degree BSc/ BEd)
+AJN	Mathematics (Concurrent Education – Intermediate Senior) (Double Degree BSc/ BEd)
+AJO	Physics (Concurrent Education – Intermediate Senior) (Double Degree)
+AJP	Psychology (Concurrent Education – Intermediate Senior) (Double Degree BSc/ BEd)
+AJQ	Anthropology (Honours BA)
+AJR	French & History (Honours) (Double Major)
+AJS	Political Science (Honours)
+AJU	Anthropology (Honours BSc)
+AJV	Anthropology (BA)
+AJW	Political Science
+AJX	Anthropology (BSc)
+AJY	French & History (Honours) (Concurrent Education – Intermediate Senior) (Double Degree)
+AJZ	Environmental Sustainability (Honours) (Concurrent Education – Primary Junior) (Double Degree)
+AKB	Outdoor Recreation (Honours) & Women's Studies (Double Degree)
+AKC	General (BA Online)
+AKD	History (Online)
+AKL	Biology with Major Concentration in Plant Sciences (Honours)
+AKM	Biology with Major Concentration in Neuroscience (Honours)
+AKN	Biology with Major Concentration in Biodiversity and Conservation (Honours)
+AKQ	Applied Life Sciences with Major Concentration in Biomedical Sciences (Honours)
+AKR	Interdisciplinary Studies with Major Concentration in Social Justice (Honours)
+AKS	Interdisciplinary Studies with Major Concentration in International Conflict and Human Rights (Honours)
+AKT	Interdisciplinary Studies with Major Concentration in Human Nature (Honours)
+AKU	Social Work with Major Concentration in Women’s Studies (Honours)
+AKV	Outdoor Recreation with Major Concentration in Nature-Based Therapeutic Recreation (Honours)
+AKX	Environmental Sustainability with Specialization in Ecosystem Management (Honours BASc) (Integrated Degree & Diploma)
+AKZ	Global Entrepreneurship (Honours)
+ALC	History & Sociology (Double Major) (Honours)
+ALD	Interdisciplinary Studies with Major Concentration in Human Nature (Honours) (Concurrent Education – Primary Junior) (Double Degree)
+ALE	Interdisciplinary Studies with Major Concentration in International Conflict and Human Rights (Honours) (Concurrent Education – Primary Junior) (Double Degree)
+ALF	Interdisciplinary Studies with Major Concentration in Social Justice (Honours) (Concurrent Education – Primary Junior) (Double Degree)
+ALG	English (Honours)
+ALH	Applied Life Sciences (Honours)
+ALI	English
+ALJ	History
+ALK	English (Concurrent Education – Primary Junior) (Double Degree)
+ALM	History (Concurrent Education – Primary Junior) (Double Degree)
+ALQ	Interdisciplinary Studies with Major Concentration in Environment in Politics and Culture
+ALQ	HBA Political Science and Women's Studies
+ALR	Interdisciplinary Studies with Major Concentration in Environment in Politics and Culture (PJ) (Double Degree)
+ALS	Kinesiology (Honours) (Concurrent Education – Primary Junior) (Double Degree) Accelerated
+5-Year Program
+ALT	Kinesiology (Honours) (Concurrent Education – Intermediate Senior) (Double Degree) Accelerated 5-Year Program
+ALU	Political Science & Women's Studies (Honours) (Double Major)
+ALV	Media Studies with Major Concentration in Photographic Production (Honours) and Certificate in Photography (Integrated Degree & Diploma)
+AMA	General (BA)
+AMB	Applied Life Sciences (Honours) and Biotechnology Diploma (Integrated Degree & Diploma)
+AMC	Computer Science (Honours) and Computer Programmer Diploma (Integrated Degree & Diploma)
+AMN	Biology (Honours) (Concurrent Education – Intermediate Senior) (Double Degree BESc/ BEd)
+AN	Nursing (Offered in Collaboration with Confederation College)
+ANC	Nursing (Compressed Three-Year Program)
+ART	Visual Arts (Honours BFA)
+AX	Chemical Engineering
+AXA	Chemical Engineering (Co-op)
+AXC	Civil Engineering
+AXD	Civil Engineering (Co- op)
+AXF	Electrical Engineering
+AXG	Electrical Engineering (Co-op)
+AXI	Mechanical Engineering
+AXJ	Mechanical Engineering (Co-op)
+AXL	Software Engineering
+AXM	Software Engineering (Co-op)
+AXO	Common Year in Applied Science (One- Year Upgrading Program for Engineering)
+AXP	Electrical Engineering and Electrical Engineering Technology Advanced Diploma (Integrated Degree & Diploma)
+BAE	Applied Economic Analysis
+BAH	Community Health
+BAI	Concurrent BA Honours/BEd - Intermediate/ Senior
+BAJ	Concurrent BA Integrated Studies Honours/BEd - Junior/ Intermediate
+BAL	Applied Linguistics
+BBP	Biophysics
+BCB	Computing and Business
+BCH	Biochemistry
+BD	Child and Youth Studies
+BDP	Concurrent BA Child and Youth Studies Honours/BEd - Primary/Junior
+BE	Business Economics
+BEC	Economics
+BEG	Environmental Geosciences
+BF	Film Studies
+BG	Computer Science
+BGD	Game Design
+BGE	Geography (BA)
+BGN	Computing and Network Communications Co-op
+BGP	Game Programming
+BH	Mathematics and Statistics
+BHE	Humanities - Faculty of Humanities
+BHG	Computer Science and Mathematics Co-op only
+BHI	History
+BHL	Child Health
+BI	Sciences
+BII	Concurrent BSc Honours/BEd - Intermediate/ Senior
+BIJ	Concurrent BSc Integrated Studies/BEd - Junior/ Intermediate
+BIM	Biomedical Sciences
+BIN	Neuroscience
+BIP	International Political Economy
+BIS	Interactive Arts and Science
+BIT	Biotechnology
+BJC	Chemistry
+BJP	Physics
+BK	Accounting
+BLB	Labour Studies
+BM	Music
+BN	Business Administration
+BND	Business Administration Co-op International Dual Degree
+BNS	Nursing
+BO	Geography (BSc)
+BOV	Oenology and Viticulture
+BP	Physical Education
+BPC	Popular Culture
+BPI	Concurrent BPhEd Honours/BEd - Intermediate/ Senior
+BPJ	Concurrent BPhEd Honours/BEd - Junior/ Intermediate
+BPK	Kinesiology (BKin)
+BPO	Political Science
+BPU	Public Health
+BPY	Psychology
+BR	Visual Arts
+BS	Biological Sciences
+BSC	Computing and Solid State Device Technology
+BSH	Medical Sciences
+BSK	Kinesiology (BScKin)
+BSM	Sport Management
+BSO	Sociology
+BSS	Social Sciences
+BT	Dramatic Arts
+BTV	Tourism Studies
+BUC	Media and Communication Studies
+BUD	Business Communication
+BW	Recreation and Leisure Studies
+BWS	Women's and Gender Studies
+BX	Earth Sciences
+CA	BA – General (3 years)
+CBB	International Business
+CBC	Humanities - Option A
+CBD	Humanities with Biology - Option B
+CBE	Economics
+CC	Commerce (regular and co-op)
+CCA	Commerce – International Business (regular and co-op)
+CCC	Commerce – Accounting (regular and co- op)
+CCE	Commerce – Entrepreneurship (regular and co-op)
+CCF	Commerce – Finance (regular and co-op)
+CCH	Commerce – Management (regular and co-op)
+CCJ	Commerce – Information Systems (regular and co-op)
+CCM	Commerce – Marketing (regular and co- op)
+CCR	Communication and Media Studies
+CCS	Commerce – Supply Chain Management (regular and co-op)
+CD	Industrial Design (regular and co-op)
+CDS	Public Affairs and Policy Management - Development Policy Studies (regular and co-op)
+CEA	Engineering - Aerospace Engineering (co-op option available)
+CEB	Engineering - Civil Engineering (regular and co-op)
+CEC	Engineering - Computer Systems Engineering (regular and co-op)
+CED	Engineering - Mechanical Engineering (regular and co-op)
+CEE	Engineering - Environmental Engineering (regular and co-op)
+CEF	Engineering - Electrical Engineering (regular and co-op)
+CEG	Engineering - Biomedical and Electrical Engineering (regular and co-op)
+CEH	Engineering - Communications Engineering (regular and co-op)
+CEJ	Engineering - Biomedical and Mechanical Engineering (regular and co-op)
+CEK	Engineering - Sustainable and Renewable Energy (regular and co-op)
+CEP	Engineering - Engineering Physics (regular and co-op)
+CES	Engineering - Software Engineering (regular and co-op)
+CEX	Engineering - Architectural Conservation and Sustainability Engineering
+CGG	Cognitive Science - General
+CGI	Global and International Studies
+CGS	Cognitive Science - Honours (regular and co-op)
+CH	BA – Honours (4 years) (co-op available with some concentrations)
+CHS	Health Sciences – Honours (4 years)
+CII	Information Technology - Information Resource Management (regular and co- op) (program offered jointly with Algonquin College)
+CIM	Information Technology – Interactive Multimedia and Design (regular and co- op) (program offered jointly with Algonquin College)
+CIN	Information Technology - Network Technology (regular and co-op) (program offered jointly with Algonquin College)
+CIP	Information Technology - Photonics and Laser Technology (regular and co-op) (program offered jointly with Algonquin College)
+CJ	Journalism
+CJH	Journalism and Humanities
+CK	Science - Major (4 years)
+CL	Certificate in Public Service Studies (CPSS)
+CM	Music
+CMA	Mathematics – Honours (4 years) (regular and co-op)
+CMB	Mathematics - General (3 years)
+CMP	Media Production and Design
+COD	Computer Science – Honours (regular and co-op)
+CON	Computer Science - Major
+COS	Computer Science - Honours: Computer and Internet Security (regular and co-op)
+CPA	Public Affairs and Policy Management - Public Policy & Administration (regular and co-op)
+CPI	Public Affairs and Policy Management - International Policy Studies (regular and co-op)
+CPT	Public Affairs and Policy Management - Communication & Policy Studies (regular and co-op)
+CPX	Public Affairs and Policy Management - Undeclared (first year only) (regular and co-op)
+CR	Architectural Studies (regular and co-op) – Design
+CRC	Architectural Studies (regular and co-op) – Conservation and Sustainability
+CRU	Architectural Studies (regular and co-op) – Urbanism
+CS	Science - General (3 years)
+CSC	Certificate in Carillon Studies
+CSW	Social Work
+CT	Science - Honours (4 years) (regular and co-op)
+DAJ	Criminology and Justice
+DAL	Legal Studies
+DAO	Political Science
+DBC	Commerce
+DBE	Entrepreneurship
+DBM	Marketing
+DDC	Communication and Digital Media Studies
+DEA	Automotive Engineering
+DEC	Mechanical Engineering
+DEE	Electrical Engineering
+DEH	Mechatronics Engineering
+DEM	Manufacturing Engineering
+DEN	Nuclear Engineering
+DEW	Software Engineering
+DGD	Game Development and Entrepreneurship
+DHL	Medical Laboratory Science
+DHN	Collaborative Nursing
+DHS	Health Sciences
+DIT	Networking and Information Technology Security
+DKN	Kinesiology
+DPS	Psychology – Forensic Psychology
+DSB	Biological Science
+DSD	Computer Science
+DSH	Chemical Biology
+DSI	Applied and Industrial Mathematics
+DSK	Physics
+DSM	Data Science
+DSN	Forensic Science
+DSR	Health Physics and Radiation Science
+DSU	Life Sciences
+DSW	Pharmaceutical Chemistry
+DSY	Chemistry
+DTM	Technology Management
+EA	Arts and Humanities
+EAV	Fine Arts – Studio
+EBA	Arts
+EBC	Preliminary Year Co- educational
+EBD	Management and Organizational Studies
+EBF	BA Family Studies (Human Ecology)
+EBH	BSc Foods and Nutrition
+EBO	Social Science
+EBP	Kinesiology
+EBW	Health Sciences
+EBZ	BSc Family Studies (Human Ecology)
+ED	Management and Organizational Studies
+EDF	Management and Organizational Studies (Commercial Aviation Management) - Flight Training (Main campus only)
+EDN	Management and Organizational Studies (Commercial Aviation Management) – Flight and Non-Flight (Main campus only)
+EE	Engineering
+EH	Foods and Nutrition
+EHA	Arts
+EHD	Management and Organizational Studies
+EHO	Social Science
+EHT	Bachelor of Theology (BTh)
+EI	Media, Information and Technoculture
+EKA	Arts
+EKC	Childhood and Social Institutions
+EKD	Management and Organizational Studies
+EKJ	Social Justice and Peace Studies
+EKO	Social Sciences
+EM	Music (BMus)
+EMA	Music (BA)
+EMD	Music Performance Diploma (3 years)
+EMS	Music Administrative Studies
+ENF	Nursing (Western-Fanshawe Collaborative Program) – Fanshawe College Site
+ENW	Nursing (Western-Fanshawe Collaborative Program) – Western Site
+EO	Social Science
+EP	Kinesiology
+ES	Science
+ESM	Medical Sciences
+EW	Health Science
+GAD	Adult Development
+GAS	Arts and Sciences
+GBB	Food and Agricultural Business
+GBC	Environmental Management
+GBD	Management Economics and Finance
+GBE	Marketing Management
+GBF	Leadership and Organizational Management
+GBI	Biomedical Engineering
+GBJ	Public Management
+GBK	Accounting
+GBL	Computer Engineering
+GBM	Biological Engineering
+GBN	Environmental Engineering
+GBO	Bachelor of Engineering - Undeclared (first- year only)
+GBR	Water Resources Engineering
+GBS	Software Engineering
+GBT	Food Industry Management
+GBU	Commerce - Undeclared Major (first year only)
+GCG	General Bachelor of Computing
+GCJ	Criminal Justice and Public Policy
+GCT	Computer Science
+GDB	Honours Bachelor of Business Administration and Diploma in Business Administration
+GEA	Bachelor of Science in Environmental Sciences
+GEK	Engineering Systems and Computing
+GFS	Studio Art
+GHE	Honours Bachelor of Applied Science in Early Childhood Studies and Diploma in Early Childhood Education
+GHF	Honours Bachelor of Applied Science in Family and Community Social Services and Social Service Worker Diploma
+GHG	Equine Management
+GHK	Honours Bachelor of Applied Science in Kinesiology and Diploma in Fitness and Health Promotion
+GHR	Real Estate and Housing
+GHT	Hospitality and Tourism Management
+GK	Arts Honours
+GKG	Arts General
+GL	Landscape Architecture
+GMA	Honours Bachelor of Applied Science in Psychology and Diploma in General Arts and Science
+GME	Mechanical Engineering
+GMP	Honours Bachelor of Applied Science in Justice Studies and Diploma in Police Foundations OR Community and Justice Services
+GMT	Honours Bachelor of Applied Arts in Media Studies and Diploma in Media Communications
+GNG	Major to be Determined - Arts
+GPA	Agriculture
+GS	Applied Human Nutrition
+GTM	Turfgrass Management (Associate Diploma Program)
+GYF	Child, Youth and Family
+GZ	Bachelor of Science, Honours (4 years)
+GZB	Bio-Medical Science
+GZG	Bachelor of Science, General (3 years)
+GZK	Human Kinetics
+HAD	Advertising
+HCD	Cross- Disciplinary Art
+HCP	Criticism & Curatorial Practice
+HDF	Digital Futures
+HDP	Drawing & Painting
+HED	Environmental Design
+HGD	Graphic Design
+HID	Industrial Design
+HIG	Indigenous Visual Culture
+HIL	Illustration
+HIM	Integrated Media
+HMD	Material Art & Design
+HPR	Printmaking
+HPT	Photography
+HSI	Sculpture/ Installation
+HVC	Visual and Critical Studies (BA Honours)
+JAA	Accounting (3 years)
+JAB	Anishinaabemowin (3 years)
+JAC	Community Development (3 years)
+JAD	Community Economic & Social Development (3 years)
+JAG	Economics (3 years)
+JAH	English (3 years)
+JAI	Fine Arts (3 years)
+JAK	Geography (3 years)
+JAL	History (3 years)
+JAN	Law and Justice (3 years)
+JAP	Music (3 years)
+JAQ	Political Science (3 years)
+JAR	Psychology BA (3 years)
+JAS	Sociology (3 years)
+JBA	Community Economic and Social Development (4 years)
+JBB	English (4 years)
+JBC	Finance and Economics (4 years)
+JBD	History (4 years)
+JBE	Law and Justice (4 years)
+JBF	Political Science (4 years)
+JBG	Psychology BA (4 years)
+JBH	Sociology (4 years)
+JBJ	Geography (4 years)
+JCA	Visual Arts BFA (4 years)
+JDA	Business Administration (4 years)
+JEA	Computer Science BCoSc (4 years)
+JFA	Biology (3 years)
+JFB	Computer Science BSc (3 years)
+JGA	Biology (4 years)
+JGB	Computer Science BSc (4 years)
+JGC	Psychology BSc (4 years)
+JHA	Social Work (4 years)
+JIA	Computer Science BCoSc (3 years)
+LAA	Fine Arts - Theatre (4 years)
+LAE	Outdoor Adventure Leadership
+LAF	Leadership : Activités physiques de plein air (4 ans)
+LAI	Concurrent Education (Primary/Junior) with Arts - 5-year double degree
+LAK	Concurrent Education (Junior/Intermediate) with Arts - 5-year double degree
+LAP	Études journalistiques (4 ans)
+LAQ	Concurrent Education (Primary/Junior) with Outdoor Adventure Leadership - 5-year double degree
+LAS	Concurrent Education (Junior/Intermediate) with Outdoor Adventure Leadership - 5-year double degree
+LAT	Théâtre (4 ans)
+LAU	Archaeology (4 years)
+LAY	Anthropology (4 years)
+LBA	Actuarial Sciences (4 years)
+LBB	Biologie - biomédicale (4 ans)
+LBC	Biochemistry (4 years)
+LBE	Commerce and Administration (4 years)
+LBI	Biomedical Physics (4 years)
+LBO	Labour Studies (4 years)
+LBS	Communication Studies (4 years)
+LBT	Biochimie - biotechnologie (4 ans)
+LBW	Biology - Biomedical Biology (4 years)
+LCC	Arts (3 years)
+LCS	Computer Science (4 years)
+LCY	Chemistry (4 years)
+LDA	Architectural Studies (4 years)
+LDC	Indigenous Social Work (4 years)
+LDJ	Droit et justice (4 ans)
+LEA	Engineering - Chemical (4 years)
+LEE	Engineering - Mining (4 years)
+LEF	Études françaises (4 ans)
+LEG	Engineering - Mechanical (4 years)
+LEI	English Literature (4 years)
+LEJ	Business Administration – Entrepreneurship
+LEM	English Rhetoric and Media Studies (4 years)
+LEQ	Environmental Sciences (4 years)
+LES	Environmental Studies (4 years)
+LEV	Études de l'environnement (4 ans)
+LFA	French as a Second Language (4 years)
+LFH	Histoire (4 ans)
+LGC	Criminology (4 years)
+LGD	Administration des affaires (4 ans)
+LGE	Engineering - Civil (year 1 & 2 only)
+LGG	Business Administration – Operations Management
+LHE	Health Promotion (4 years)
+LHF	Arts – Général (3 ans) Étude des enjeux humains et sociaux; Gestion; Psychologie
+LHG	Concurrent Education (Primary/Junior) with Health Promotion - 5-year double degree
+LHK	Concurrent Education (Junior/Intermediate) with Health Promotion - 5-year double degree
+LHP	Promotion de la santé (4 ans)
+LHX	Arts – Étude des enjeux humains et sociaux (4 ans)
+LHZ	Arts – Psychologie (4 ans)
+LIO	Biology - Ecology (4 years)
+LIQ	Mathematics (4 years)
+LIS	Classical Studies (4 years)
+LKF	Kinésiologie (4 ans)
+LKT	Science économique (4 ans)
+LLF	Service social (4 ans)
+LLI	Modern Languages - Italian (4 years)
+LLK	Psychology BSc (4 years)
+LLS	Modern Languages - Spanish (4 years)
+LLW	Law and Justice (4 years)
+LLX	Langues modernes - Italiens (4 ans)
+LLY	Philosophy (4 years)
+LMC	Music (4 years)
+LMK	Concurrent Education (Primary/Junior) with Music - 5-year double degree
+LMM	Fine Arts - Music (4 years)
+LMO	Concurrent Education (Junior/Intermediate) with Music - 5-year double degree
+LMR	Langues modernes - Espagnol (4 ans)
+LMS	Economics (4 years)
+LMT	Mathématiques BSc (4 ans)
+LNE	Nursing (4 years)
+LNF	Sciences infirmières (4 ans)
+LNO	Behavioural Neuroscience (4 years)
+LOE	Sports Administration (4 years)
+LOI	Business Administration – Marketing
+LOK	Business Administration – Finance
+LOM	Business Administration – Accounting
+LOR	Administration des affaires (4 ans)
+LOS	Business Administration – Human Resources Management
+LOU	Business Administration – International Management
+LPS	Political Science (4 years)
+LPT	Philosophie (4 ans)
+LPV	Sociologie (4 ans)
+LPW	Physics (4 years)
+LPY	Psychology BA (4 years)
+LRA	Forensic Science (4 years)
+LRB	Orthophonie (4 ans)
+LRE	Science (3 years)
+LRI	Concurrent Education (Primary/Junior) with Science - 5-year double degree
+LRK	Concurrent Education (Junior/Intermediate) with Science - 5-year double degree
+LRR	Géographie (4 ans)
+LRS	Radiation Therapy (4 years)
+LSA	Sport and Physical Education
+LSE	Sport Psychology (4 years)
+LSF	Psychologie du sport (4 ans)
+LSG	Concurrent Education (Junior/Intermediate) with Sport and Physical Education - 5-year double degree
+LSK	Concurrent Education (Primary/Junior) with Sport and Physical Education - 5-year double degree
+LSM	Concurrent Education (Primary/Junior) with Sport Psychology - 5-year double degree
+LSO	Concurrent Education (Junior/Intermediate) with Sport Psychology - 5-year double degree
+LSP	Science politique (4 ans)
+LSR	Sciences religieuses (4 ans)
+LSS	Religious Studies (4 years)
+LSY	Sociology (4 years)
+LTA	Theatre Arts (4 years)
+LTG	Biology - Restoration Biology (4 years)
+LTS	Ancient Studies (4 years)
+LTY	History (4 years)
+LUU	Fine Arts - Motion Picture Arts (4 years)
+LVF	Sciences libérales (4 ans)
+LVG	Liberal Science (4 years)
+LVI	Earth Sciences (4 years)
+LVS	Indigenous Studies (4 years)
+LVY	Gerontology (4 years)
+LYF	Sage-femmes, Formation des (4 ans)
+LYP	Psychologie (4 ans)
+LYY	Midwifery
+LZC	Mathematics (4 years)
+LZF	Mathématiques BA (4 ans)
+LZL	Biologie - zoologie (4 ans)
+LZS	Geography (4 years)
+LZY	Biology - Zoology (4 years)
+MAT	Automotive & Vehicle Engineering Technology I (Bachelor of Technology)
+MB	Business I
+MBH	Integrated Business & Humanities
+MC	Computer Science I
+MCC	Computer Science Co-op I
+ME	Engineering I
+MEC	Engineering Co- op I
+MEE	Environmental and Earth Sciences I
+MEH	Integrated Biomedical Engineering & Health Sciences
+MEI	Integrated Biomedical Engineering & Health Sciences
+MH	Humanities I
+MHS	Studio Art I
+MIS	Honours Integrated Science I
+ML	Social Sciences I
+MLS	Life Sciences I
+MM	Music I
+MN	Nursing I (at McMaster)
+MNS	Health Sciences I
+MPS	Chemical & Physical Sciences I
+MPT	Automation Engineering Technology I (Bachelor of Technology)
+MRS	Medical Radiation Sciences I
+MTT	Biotechnology I (Bachelor of Technology)
+MV	Kinesiology I
+MX	Arts and Science I
+MY	Midwifery I
+MZ	Mathematics and Statistics I
+NAD	Disability Studies
+NAS	Interdisciplinary Arts and Science
+NAW	English
+NC	Business Administration
+NCR	Criminology
+ND	Acting
+NDS	Drama
+NE	General Engineering
+NEB	Civil Engineering
+NEH	Industrial Engineering
+NEJ	Mechanical Engineering
+NEK	Environmental Engineering
+NEN	Electrical Engineering
+NF	Visual Arts
+NFS	Forensic Science/ Forensics
+NH	Economics
+NJI	International Relations & Development Studies
+NJM	Digital Journalism
+NKA	French
+NKB	Greek and Roman Studies
+NKC	History
+NKD	Liberal Arts and Professional Studies
+NKE	Modern Languages
+NKF	Philosophy
+NKG	Political Science
+NKH	Psychology
+NKI	Sociology
+NKJ	Women's and Gender Studies
+NKM	Communications/ Media Studies
+NLS	Environmental Science/ Environmental Studies
+NM	Music
+NMH	Mathematics
+NN	Nursing
+NP	Human Kinetics
+NQA	Aeronautics Leadership – Flight
+NQR	Family and Social Relations
+NS	General Science
+NSB	Biological Sciences
+NSC	Chemistry
+NSE	Concurrent General BSc (General Science)/BEd
+NSM	Concurrent General BMath/ BEd
+NSP	Physics
+NSX	Behaviour, Cognition and Neuroscience
+NSY	Biochemistry
+NT	Computer Science
+NW	Social Work
+NX	Concurrent General BA (Drama)/BEd
+NXA	Concurrent General BA (English Language and Literature)/BEd
+NXB	Concurrent General BA (Psychology)/BEd/ Diploma in ECE
+NXC	Concurrent General BA (Visual Art)/BEd
+NXD	Concurrent General BA (French Studies)/BEd
+NXE	Concurrent General BA (History)/BEd
+NXM	Concurrent Honours BMus (Music Education)/BEd
+OAG	Honours Bachelor of Arts with Major (4 years)
+OAH	Baccalauréat ès arts spécialisé avec majeure (4 ans)
+OAL	Lettres françaises et éducation (Double grade – 5 ans)
+OAP	Éthique privée et publique (certificat, temps partiel seulement) (1 an)
+OAQ	Private and Public Ethics (Certificate, Part-time only) (1 year)
+OAS	Bachelor of Arts (4 years) (French immersion is available in some subjects)
+OAT	Baccalauréat ès arts (B.A.)
+OAU	Arts (3 years)
+OAV	Arts (3 ans)
+OAW	Conflict Studies (Honours Bachelor of Arts) (4 years)
+OAX	Baccalauréat ès arts (B.A.) (spécialisé)
+OAZ	Études de Conflits (Baccalauréat ès arts spécialisé) (4 ans)
+OBA	Civil Engineering and Computing Technology (5-year double degree)
+OBB	Génie civil et technologie de l'informatique – Double grade (5 ans)
+OBC	Mechanical Engineering and Computing Technology (5-year double degree)
+OBD	Génie informatique (4 ans)
+OBE	Computer Engineering (4 years) (French immersion available)
+OBO	Génie mécanique et technologie de l'informatique – Double grade (5 ans)
+OCA	Theology (Certificate, Part-time only) (1 year)
+OCM	Joint Honours in Arts (4 years) (French immersion is available in some programs)
+OCN	Public Administration (4 years) (French immersion is available)
+OCP	Arts (spécialisé bidisciplinaire 4 ans)
+OCQ	Philosophie et science politique (Bidisciplinaire - 4 ans)
+OCZ	Communications sociales (Baccalauréat ès arts spécialisé) (4 ans)
+ODA	Digital Journalism (Joint program with Algonquin College) (4.5 years)
+ODN	Journalisme numérique (4,5 ans)
+OEA	Chemical Engineering and Computing Technology (5-year double degree)
+OEB	Génie chimique et technologie de l'informatique – Double grade (5 ans)
+OEC	Biomedical Mechanical Engineering (4 years)
+OEE	Chemical Engineering (4 years)
+OEF	Génie chimique (4 ans)
+OEH	Génie mécanique biomédical (4 ans)
+OEP	Éthique publique (Baccalauréat ès arts spécialisé) (4 ans)
+OEY	Biomedical Mechanical Engineering and Computing Technology (5-year double degree)
+OEZ	Génie mécanique biomédical et technologie de l’informatique – Double grade (5 ans)
+OF	Physique (4 ans)
+OFA	Physique et mathématiques (Bidisciplinaire - 4 ans)
+OFB	Statistique (4 ans)
+OFC	Mathématiques et science économique (Bidisciplinaire - 4 ans)
+OFD	Activité physique – (B.S.A.P.) – Option sciences sociales
+OFE	Activité physique – (B.Sc.S.A.P.) – Option sciences biophysiques
+OFF	Études des femmes (4 ans – majeure)
+OFG	Administration publique (4 ans)
+OFH	Anthropologie (4 ans)
+OFI	Criminologie (4 ans)
+OFJ	Développement international et mondialisation (4 ans)
+OFK	Economie et politiques publiques (4 ans)
+OFL	Economie et politiques publiques de l'environnement (4 ans)
+OFM	Économie internationale et développement (4 ans)
+OFN	Études des conflits et droit humains (4 ans)
+OFO	Études internationales et langues modernes (4 ans)
+OFP	Psychologie (B.A.) (4 ans)
+OFQ	Psychologie (B.Sc.) (4 ans)
+OFR	Science économique (4 ans)
+OFS	Science politique (4 ans)
+OFT	Service social (4 years)
+OFU	Sociologie (4 ans)
+OFV	Administration publique et science politique (Bidisciplinaire – 4 ans)
+OFW	Anthropologie et sociologie (Bidisciplinaire – 4 ans)
+OFX	Communication et science politique (Bidisciplinaire – 4 ans)
+OFY	Communication et sociologie (Bidisciplinaire – 4 ans)
+OFZ	Criminologie et études des femmes (Bidisciplinaire – 4 ans)
+OGC	Commerce – Management Information Systems & Analytics
+OGD	Sciences commerciales - Système d'information de gestion et analytique d'affaires
+OGP	Physique et génie électrique (Double grade – 5 ans)
+OHC	Social communication (Certificate, Part-time only) (1 year)
+OHE	Civil Engineering (4 years)
+OHF	Génie civil (4 ans)
+OHS	Arts (Honours 4 years) (French immersion is available in some subjects)
+OHV	Communications sociales (certificat, temps partiel seulement) (1 an)
+OIC	Electrical Engineering and Computing Technology (5-year double degree)
+OID	Génie électrique et technologie de l'informatique – Double grade (5 ans)
+OIE	Electrical Engineering (4 years)
+OIF	Génie électrique (4 ans)
+OJA	Software Engineering (4 years) (French immersion available)
+OJB	Génie logiciel (4 ans)
+OJD	Commerce et Juris Doctor (Double grade – 5 ans)
+OJE	Mechanical Engineering (4 years)
+OJF	Génie mécanique (4 ans)
+OJM	Commerce et Juris Doctor (Double grade – 5 ans) (French immersion)
+OKA	Human Kinetics (BHK) (4 years) with emphasis on social sciences (French immersion available)
+OKB	Activité physique - Baccalauréat ès sciences spécialisé en sciences de l'activité physique (B.Sc.S.A.P.) - Option sciences biophysiques; Baccalauréat en sciences de l'activité physique (B.S.A.P.) - Option sciences sociales
+OKC	Health Sciences (4 years) (French immersion is available)
+OKD	Sciences de la santé (4 ans)
+OKN	Nutrition – Baccalauréat en sciences de la nutrition (B.Sc.Nut.)
+OKS	Nutrition Sciences (4 years)
+OLA	Social Sciences (Honours) (French immersion is available in some programs)
+OLC	Social Sciences (3 years)
+OLI	Social Sciences (French immersion is available) (Major 4 years)
+OLJ	Sciences sociales (spécialisé 4 ans)
+OLK	Joint Honours in Social Sciences (4 years) (French immersion is available in some programs)
+OLL	Juris Doctor et science politique (Double grade – 6 ans)
+OLN	Sciences sociales (3 ans)
+OLP	Sciences sociales (spécialisé bidisciplinaire 4 ans)
+OLV	Sciences sociales (majeure 4 ans)
+OME	Music (BMus) (4 years)
+OMF	Musique (B.Mus.) (4 ans)
+OMR	Musique/Sciences (programme intégré) (5 ans)
+OMS	Music/Science (integrated program) (5 years)
+ONA	Nursing (4 years) – Algonquin Woodroffe Campus
+ONE	Nursing (4 years) – Ottawa Campus (French immersion is available)
+ONF	Sciences infirmières – Programme collaboratif avec La Cité (4 ans)
+OO	Études des femmes et science politique (Bidisciplinaire – 4 ans)
+OOA	Études des femmes et sociologie (Bidisciplinaire – 4 ans)
+OOB	Histoire et science politique (Bidisciplinaire – 4 ans)
+OOC	Mathématiques et science économique (Bidisciplinaire - 4 ans)
+OOE	Science économique et science politique (Bidisciplinaire – 4 ans)
+OPA	Public Relations – Joint program with Algonquin College (4.5 years)
+OPE	Public Ethics (Honours Bachelor of Arts) (4 years)
+OPG	Human Relations and Spirituality (Honours Bachelor of Arts) (4 years)
+OPL	Relations humaines et spiritualité (Baccalauréat ès arts spécialisé) (4 ans)
+OPO	Conflict Resolution (Certificate, Part-time only) (1 year)
+OPQ	Bachelor of Arts with Major in Conflict Studies (Hounours) (BA) (4 years)
+OPR	Relations publiques et communication (4,5 ans)
+OPS	Social Communication (Honours Bachelor of Arts) (4 years)
+OPV	Résolution de conflits (certificat, temps partiel seulement) 1 an)
+OPX	Baccalauréat ès arts spécialisé avec majeure en études de conflits (spécialisation) (4 ans)
+OQB	Théologie (certificat, temps partiel seulement) (1 an)
+ORA	Computer Science and Mathematics (Joint Honours – 4 years)
+ORC	Computer Science (4 years) (French immersion available)
+ORE	Computer Science (4-year major) (French immersion available)
+ORF	Informatique (4 ans – Majeure)
+ORH	Informatique et mathématiques (Bidisciplinaire – 4 ans)
+ORJ	Informatique (4 ans)
+OSE	Physics and Electrical Engineering (Double degree – 5 years) (French immersion is available)
+OSO	Science – Honours (4 years)
+OSP	Sciences (4 ans – Spécialisé)
+OSS	Science – Honours (4 years)
+OST	Sciences (4 ans – Spécialisé)
+OSX	Biotechnologie (biochimie et génie chimique) (Double grade – 5 ans)
+OSY	Biotechnology (Biochemistry and Chemical Engineering) (5-year double degree)
+OTC	Accounting (4 years) (French immersion is available)
+OTF	Comptabilité (4 ans)
+OTJ	Sciences (spécialisé bidisciplinaire 4 ans)
+OTM	Science (Joint Honours) (4 years)
+OTO	Commerce – Finance (4 years) (French immersion is available)
+OTQ	Commerce – Human Resource Management (4 years) (French immersion is available)
+OTR	Sciences commerciales – Finance (4 ans)
+OTS	Commerce – International Management (4 years) (French immersion is available)
+OTT	Sciences commerciales – Gestion des ressources humaines (4 ans)
+OTU	Commerce – Management (4 years) (French immersion is available)
+OTV	Sciences commerciales – Gestion internationale (4 ans)
+OTW	Commerce – Marketing (4 years) (French immersion is available)
+OTX	Sciences commerciales – Management (4 ans)
+OTZ	Sciences commerciales – Marketing (4 ans)
+OU	History and Political Science (Joint Honours – 4 years) (French immersion is available)
+OUA	Philosophy and Political Science (Joint Honours - 4 years) (French immersion is available)
+OUB	Psychology and Linguistics (Joint Honours - 4 years)
+OUC	Music and Biochemistry (5-year double degree)
+OUD	Music and Biology (5-year double degree)
+OUE	Music and Chemistry (5-year double degree)
+OUF	Music and Computer Science (5-year double degree)
+OUG	Music and Geology (5-year double degree)
+OUH	Music and Mathematics (5-year double degree)
+OUI	Music and Physics (5-year double degree)
+OUJ	Music and Statistics (5-year double degree)
+OUK	Visual Arts (4-year major) (French immersion is available)
+OUL	Human Kinetics – Bachelor of Science (BScHK) (4 years) with emphasis on biophysical sciences (French immersion available)
+OUM	Biopharmaceutical Sciences (4 years) (French immersion is available)
+OUN	Biomedical Science (4 years)
+OUO	Environmental Science (4 years) (French immersion is available)
+OUP	Ophthalmic Medical Technology (4 years)
+OUQ	Biochemistry (4 years) (French immersion is available)
+OUR	Biology (4 years) (French immersion is available)
+OUS	Chemistry (4 years) (French immersion is available)
+OUT	Financial Mathematics and Economics (4 years) (French immersion is available)
+OUU	Geology (4 years) (French immersion is available)
+OUV	Geology-Physics (4 years) (French immersion is available)
+OUW	Mathematics (4 years) (French immersion is available)
+OUX	Physics (4 years) (French immersion is available)
+OUY	Physics and Mathematics (Joint Honours - 4 years) (French immersion is available)
+OUZ	Statistics (4 years) (French immersion is available)
+OV	Communication (4 years) (French immersion is available)
+OVA	English (4 years)
+OVB	Environmental Studies (4 years) (French immersion is available)
+OVC	Geography (4 years) (French immersion is available)
+OVD	Greek and Roman Studies (4 years) (French immersion is available)
+OVE	Visual Arts (BFA) (4 years)
+OVF	History (4 years) (French immersion is available)
+OVG	Linguistics (4 years)
+OVH	Music (4 years) (French immersion is available)
+OVI	Philosophy (4 years) (French immersion is available)
+OVJ	Religious Studies (4 years) (French immersion is available)
+OVK	Second Language Teaching (ESL) (4 years) (French immersion is available)
+OVL	Second Language Teaching (FLS) (4 years) (French immersion is available)
+OVM	Spanish (4 years)
+OVN	Theatre (4 years) (French immersion is available)
+OVO	Translation (French-English) (4 years)
+OVP	Aboriginal Studies (4-year major) (French immersion available)
+OVQ	Arabic Language and Culture (4-year major)
+OVR	French as a Second Language (4-year major)
+OVS	German Language and Culture (4-year major)
+OVT	Art History (4-year major) (French immersion available)
+OVU	Italian Language and Culture (4-year major)
+OVV	Medieval Renaissance Studies (4-year major) (French immersion available)
+OVW	Russian Language and Culture (4-year major)
+OVX	World Cinemas (Major 4 years)
+OVY	Communication and Political Science (Joint Honours – 4 years) (French immersion is available)
+OVZ	Communication and Sociology (Joint Honours – 4 years) (French immersion is available)
+OWC	Nursing (4 years) – Algonquin College (Pembroke Campus)
+OWH	Technologie médicale en ophtalmologie (4 ans)
+OX	Mathematics and Economics (Joint Honours - 4 years) (French immersion is available)
+OXA	Women’s Studies (4-year major) (French immersion is available)
+OXB	Anthropology (4 years) (French immersion is available)
+OXC	Conflict Studies and Human Rights (4 years) (French immersion is available)
+OXD	Criminology (4 years) (French immersion is available)
+OXE	Economics (4 years) (French immersion is available)
+OXF	Economics and Public Policy (4 years) (French immersion is available)
+OXG	Environmental Economics and Public Policy (4 years) (French immersion is available)
+OXI	International Development and Globalization (4 years) (French immersion is available)
+OXJ	International Economics and Development (4 years) (French immersion is available)
+OXK	International Studies and Modern Languages (4 years) (French immersion is available)
+OXL	Political Science (4 years) (French immersion is available)
+OXM	Psychology (BA) (4 years) (French immersion is available)
+OXN	Psychology (BSc) (4 years) (French immersion is available)
+OXP	Service social (4 years) (French immersion is available)
+OXQ	Sociology (4 years) (French immersion is available)
+OXR	Anthropology and Sociology (Joint Honours 4 years) (French immersion is available)
+OXS	Communication and Political Science (Joint Honours – 4 years) (French immersion is available)
+OXT	Communication and Sociology (Joint Honours – 4 years) (French immersion is available)
+OXU	Criminology and Women’s Studies (Joint Honours – 4 years) (French immersion is available)
+OXV	Economics and Political Science (Joint Honours – 4 years) (French immersion is available)
+OXW	History and Political Science (Joint Honours – 4 years) (French immersion is available)
+OXX	Mathematics and Economics (Joint Honours - 4 years)
+OXY	Philosophy and Political Science (Joint Honours - 4 years) (French immersion is available)
+OXZ	Public Administration and Political Science (Joint Honours – 4 years) (French immersion is available)
+OY	Women’s Studies and Political Science (Joint Honours – 4 years) (French immersion is available)
+OYA	Women’s Studies and Sociology (Joint Honours – 4 years) (French immersion is available)
+OYB	Antiquité grecque et romaine (4 ans)
+OYC	Communication (4 ans)
+OYD	Didactique des langues secondes (ESL) (4 ans)
+OYE	Didactique des langues secondes (FLS) (4 ans)
+OYG	Espagnol (4 ans)
+OYH	Études de l'environnement (4 ans)
+OYI	Géographie (4 ans)
+OYJ	Histoire (4 ans)
+OYK	Lettres françaises (4 ans)
+OYL	Linguistique (4 ans)
+OYM	Musique (4 ans)
+OYN	Philosophie (4 ans)
+OYO	Sciences des religions (4 ans)
+OYP	Théâtre (4 ans)
+OYQ	Traduction (anglais-français) (4 ans)
+OYR	Anglais langue seconde (4 ans – majeure)
+OYS	Cinémas du monde (4 ans – majeure)
+OYT	Études autochtones (4 ans – majeure)
+OYU	Études médiévales et de la renaissance (4 ans – majeure)
+OYV	Histoire de l'art (4 ans – majeure)
+OYW	Langue et culture allemandes (4 ans – majeure)
+OYX	Langue et culture arabes (4 ans – majeure)
+OYY	Langue et culture italiennes (4 ans – majeure)
+OYZ	Langue et culture russes (4 ans – majeure)
+OZ	Arts visuels (B.A.V.) (4 ans)
+OZA	Arts visuels (B.A.) (4 ans – majeure)
+OZB	Communication et lettres françaises (Bidisciplinaire – 4 ans)
+OZC	Communication et science politique (Bidisciplinaire – 4 ans)
+OZD	Communication et sociologie (Bidisciplinaire – 4 ans)
+OZE	Histoire et science politique (Bidisciplinaire – 4 ans)
+OZF	Philosophie et science politique (Bidisciplinaire - 4 ans)
+OZG	Psychologie et linguistique (Bidisciplinaire - 4 ans)
+OZH	Musique et biochimie (Double grade - 5 ans)
+OZI	Musique et biologie (Double grade - 5 ans)
+OZJ	Musique et chimie (Double grade - 5 ans)
+OZK	Musique et géologie (Double grade - 5 ans)
+OZL	Musique et informatique (Double grade - 5 ans)
+OZM	Musique et mathématiques (Double grade - 5 ans)
+OZN	Musique et physique (Double grade - 5 ans)
+OZO	Musique et statistique (Double grade - 5 ans)
+OZP	Sciences biomédicales (4 ans)
+OZQ	Sciences biopharmaceutiques (4 ans)
+OZR	Sciences environmentales (4 ans)
+OZT	Biochimie (4 ans)
+OZU	Biologie (4 ans)
+OZV	Chimie (4 ans)
+OZW	Géologie (4 ans)
+OZX	Géologie-physique (4 ans)
+OZY	Mathématiques (4 ans)
+OZZ	Mathématiques financières et économie (4 ans)
+PA	Bachelor of Arts
+PAB	Bachelor of Arts/ Bachelor of Commerce
+PAC	Bachelor of Arts in Social Welfare and Social Development/Social Service Worker diploma (joint program with Canadore College)
+PAJ	Bachelor of Arts in Criminal Justice
+PBA	Bachelor of Business Administration
+PE	Concurrent Bachelor of Arts/Bachelor of Education Primary/Junior
+PEA	Concurrent Bachelor of Arts/Bachelor of Education Junior/ Intermediate
+PEB	Concurrent Bachelor of Arts/Bachelor of Education Intermediate/ Senior
+PED	Concurrent Bachelor of Arts Criminal Justice/ Bachelor of Education Primary/Junior
+PEF	Concurrent Bachelor of Arts Criminal Justice/ Bachelor of Education Junior/Intermediate
+PEG	Concurrent Bachelor of Arts Criminal Justice/ Bachelor of Education Intermediate/Senior
+PEH	Concurrent Bachelor of Fine Arts/Bachelor of Education Primary/Junior
+PEI	Concurrent Bachelor of Fine Arts/Bachelor of Education Junior/ Intermediate
+PEK	Concurrent Bachelor of Fine Arts/Bachelor of Education Intermediate/ Senior
+PEL	Concurrent Bachelor of Business Administration/ Bachelor of Education Primary/Junior
+PEM	Concurrent Bachelor of Business Administration/ Bachelor of Education Junior/Intermediate
+PEN	Concurrent Bachelor of Business Administration/ Bachelor of Education Intermediate/Senior
+PEO	Concurrent Bachelor of Physical and Health Education/Bachelor of Education Primary/Junior
+PEQ	Concurrent Bachelor of Physical and Health Education/Bachelor of Education Junior/ Intermediate
+PER	Concurrent Bachelor of Physical and Health Education/Bachelor of Education Intermediate/ Senior
+PES	Concurrent Bachelor of Science/Bachelor of Education Primary/Junior
+PET	Concurrent Bachelor of Science/Bachelor of Education Junior/ Intermediate
+PEU	Concurrent Bachelor of Science/Bachelor of Education Intermediate/ Senior
+PFA	Bachelor of Fine Arts
+PPE	Bachelor of Physical and Health Education
+PS	Bachelor of Science
+PSN	Bachelor of Science in Nursing (Collaborative Program with Canadore College)
+PSS	Bachelor of Science/ Bachelor of Commerce
+PSW	Bachelor of Social Work
+QA	Arts
+QB	Arts/Education (Concurrent)
+QC	Commerce
+QD	Computing
+QE	Engineering and Applied Science
+QEC	Engineering and Applied Science – Direct Entry to Electrical and Computer Engineering
+QF	Science/ Education (Concurrent)
+QIA	Arts – Bader International Study Centre, Herstmonceux Castle (first- year program in England)
+QIB	Arts/Education (Concurrent) – Bader International Study Centre, Herstmonceux Castle (first- year program in England)
+QIS	Science – Bader International Study Centre, Herstmonceux Castle (first- year program in England)
+QK	Kinesiology
+QM	Music
+QMM	Music/ Education (Concurrent)
+QMT	Music Theatre
+QN	Nursing
+QS	Science
+QT	Fine Art (Visual Art)
+QTT	Fine Art (Visual Art)/Concurrent
+QXA	Arts – English Language Bridging Pathway (QBridge)
+QXE	Engineering and Applied Science – English- Language Bridging Pathway (QBridge)
+QXS	Science – English Language Bridging Pathway (QBridge)
+RAA	Anthropology (BA)
+RAB	Archaeology (BA)
+RAD	Business and Arts
+RAF	Archaeology (BSc)
+RAH	Sustainable Agriculture and Food Systems (BA)
+RAI	Indigenous Environmental Studies (BA)
+RAJ	Journalism (Joint Trent-Loyalist program)
+RAM	Media Studies
+RAN	Ancient Greek and Roman Studies
+RAS	Sustainable Agriculture and Food Systems (BSc)
+RAV	Environmental and Resource Studies (BA)
+RBI	Biology
+RBM	Biochemistry and Molecular Biology
+RBS	Biomedical Science
+RBY	Economics (BSc)
+RCA	Canadian Studies
+RCC	Business and Computing & Information Systems
+RCF	Information Systems (BA)
+RCH	Chemistry
+RCI	Indigenous Environmental Science (BSc)
+RCN	Nursing
+RCP	Psychology (BA)
+RCS	Cultural Studies
+RCU	Forensics and Arts
+RCX	Honours Arts
+RCY	Computing Systems and Physics
+RD	Bachelor of Business Administration (Honours)
+RDA	Bachelor of Business Administration – Accounting
+RDB	Bachelor of Business Administration – Entrepreneurship
+RDC	Bachelor of Business Administration – Ethics & Sustainability
+RDD	Bachelor of Business Administration – Human Resources Management
+RDE	Bachelor of Business Adminstration – Information Systems & E- Commerce
+RDF	Bachelor of Business Adminstration – Marketing & Consumer Culture
+RDG	Bachelor of Business Administration – Niigaaniiwin – The Art of Leading
+RDH	Bachelor of Business Administration – Finance
+RDO	Honours Business Administration
+REC	Economics (BA)
+REG	Environmental Geoscience
+REN	English Literature
+RES	Bachelor of Environmental Science/Studies (Honours)
+RF	Anthropology & Psychology
+RFA	Anthropology & Sociology
+RFB	Anthropology & Business Administration
+RFD	English Literature & History
+RFE	English Literature & Media Studies
+RFF	English Literature & Psychology
+RFG	English Literature & Sociology
+RFH	History & Media Studies
+RFI	History & Psychology
+RFJ	History & Sociology
+RFK	Media Studies & Psychology
+RFL	Media Studies & Sociology
+RFM	Psychology & Sociology
+RFR	French Studies
+RG	Foundations of Indigenous Learning
+RGG	Geography (BA)
+RGS	Geography (BSc)
+RHI	History
+RHY	Chemical Physics
+RID	International Development Studies
+RIN	Indigenous Studies
+RJ	Ancient Greek and Roman Studies and Business
+RJA	Canadian Studies and Business
+RJB	Economics and Business
+RJC	Cultural Studies and Business
+RJD	English and Business
+RJE	French and Business
+RJF	Gender and Women Studies and Business
+RJG	History and Business
+RJH	Indigenous Studies and Business
+RJI	Journalism and Business (Joint Trent-Loyalist Program)
+RJJ	Media Studies and Business
+RJK	Philosophy and Business
+RJL	Political Studies and Business
+RJM	Sociology and Business
+RJN	International Development and Business
+RJO	Computing Systems and Business
+RJP	Information Systems and Business
+RJQ	Forensics and Business
+RJR	Mathematics and Business
+RJS	Psychology and Business
+RJT	Environmental Resource Science and Business
+RJU	Environmental Resource Studies and Business
+RJV	Geography and Business
+RJW	Psychology (Science) and Business
+RJX	Anthropology & English Literature
+RJY	Anthropology & History
+RJZ	Anthropology & Media Studies
+RK	Kinesiology (Joint UOIT program) (Honours)
+RKA	Medical Professional Stream
+RLA	Bachelor of Business Administration – Human Resources Management
+RLB	Bachelor of Business Administration
+RLC	Bachelor of Business Administration – Accounting
+RLM	International Development – Legal Studies Option
+RLO	Business Administration – Legal Studies Option
+RLP	Political Studies – Legal Studies Option
+RLQ	Philosophy – Legal Studies Option
+RLR	Psychology – Legal Studies Option
+RLS	Anthropology – Legal Studies Option
+RLT	Bachelor of Business Administration – Legal Studies Option
+RLU	Child & Youth Studies – Legal Studies Option
+RLW	History – Legal Studies Option
+RLX	Media Studies – Legal Studies Option
+RLZ	Sociology – Legal Studies Option
+RM	Indigenous Environmental Studies (Dipl.)
+RMA	Mathematics
+RMC	Law (LL.B.) English Literature (B.A.): Trent/ Swansea Dual degree
+RMC	Law (LL.B.) English Literature (B.A.): Trent/ Swansea Dual degree
+RME	Mathematical Economics
+RMP	Mathematical Physics
+RNM	Law (LLB) Economics (BA): Trent/Swansea Dual Degree
+RNN	Law (LLB) English Literature (BA): Trent/ Swansea Dual Degree
+RNO	Law (LLB) History (BA): Trent/Swansea Dual degree
+RNP	Law (LLB) Philosophy (BA): Trent/Swansea Dual Degree
+RNQ	Law (LLB) Sociology (BA): Trent/Swansea Dual Degree
+RNR	Law (LLB) Canadian Studies (BA): Trent/Swansea Dual degree
+RNS	Law (LLB) English Literature (BA): Trent/Swansea Dual degree
+RNT	Law (LLB) Environmental & Resource Studies (BA): Trent/Swansea Dual Degree
+RNU	Law (LLB) Gender and Women’s Studies (BA): Trent/Swansea Dual degree
+RNV	Law (LLB) History (BA): Trent/Swansea Dual degree
+RNW	Law (LLB) International Development Studies (BA): Trent/Swansea Dual degree
+RNX	Law (LLB) Political Studies (BA): Trent/ Swansea Dual degree
+RNY	Law (LLB) Sociology (BA): Trent/Swansea Dual degree
+RNZ	Law (LLB) Philosophy (BA): Trent/Swansea Dual degree
+ROA	Anthropology (BA)
+ROB	Arts and Business
+ROC	Communications and Critical Thinking
+ROE	English Literature
+ROF	Philosophy (Durham) General Degree
+ROG	Psychology (BSc)
+ROH	History
+ROI	Child and Youth Studies & Psychology
+ROJ	Social Work (Honours)
+ROK	Child & Youth Studies & Sociology
+ROM	Media Studies
+RON	Anthropology (BSc)
+ROO	Science and Business
+ROP	Psychology (BA)
+ROQ	Teacher Education Stream – Arts (Honours)
+ROS	Sociology
+ROV	Child and Youth Studies
+ROX	Honours Science
+ROY	Honours Arts
+ROZ	Teacher Education Stream – Science (Honours)
+RPE	International Political Economy
+RPH	Philosophy
+RPO	Political Studies
+RPP	Political Studies – Public Policy
+RPS	Psychology (BSc)
+RPY	Physics
+RQ	Computing Systems and Media Studies
+RR	Trent ESL: English for University
+RSA	Anthropology (BSc)
+RSC	Computing Systems (BSc)
+RSD	Business and Science
+RSF	Information Systems (BSc)
+RSH	Health Studies Specialization – Sociology
+RSJ	Journalism – (Joint Trent- Loyalist Program)
+RSO	Sociology
+RSP	Sociology – Criminology & Socio-Legal Studies
+RSU	Forensics and Science
+RSV	Environmental and Resource Science (BSc)
+RSW	Social Work (Honours)
+RSX	Honours Science
+RTA	Teacher Education Stream – Arts (Honours)
+RTI	Indigenous Bachelor of Education (BEd)
+RTS	Teacher Education Stream – Science (Honours)
+RU	Forensic Science
+RUA	Psychology and Forensics (Arts)
+RUC	Psychology and Forensics (Science)
+RUD	Political Studies and Forensics
+RVC	Environmental Chemistry
+RWA	Water Sciences
+RWS	Gender and Women's Studies
+RX	English Literature and Business
+RXA	History and Business
+RXB	Media Studies and Business
+RXC	Psychology and Business
+RXD	Sociology and Business
+RXE	Psychology (Science) and Business
+RY	Philosophy and Economics
+RYA	Psychology and Economics
+RYB	Computing Systems and Economics
+RZD	Biology – Conservation Biology
+RZE	Biology – Health Sciences
+RZH	Computing & Information Systems – Software Engineering
+RZJ	Computing & Information Systems – Data Analytics
+RZP	Mathematics – Mathematical Finance
+SAA	Aerospace Engineering
+SAB	Computer Science (Honours)
+SAC	Geographic Analysis
+SAD	Architectural Science
+SAE	Computer Science (Honours) (part- time: first-year entry)
+SAH	History (Honours)
+SAS	Environment and Urban Sustainability (Honours)
+SBB	Business Technology Management
+SBE	Business Management
+SBI	Biomedical Engineering
+SBO	Accounting & Finance
+SBR	Retail Management (full-time)
+SBS	Biomedical Sciences (Honours)
+SBX	Biology (Honours)
+SCD	Creative Industries
+SCE	Computer Engineering
+SCF	Chemical Engineering (Co-op)
+SCG	Civil Engineering
+SCH	Chemistry (Honours)
+SCI	Criminology (Honours)
+SCS	Arts and Contemporary Studies (Honours)
+SCY	Child and Youth Care
+SDF	Public Administration and Governance (Honours) (part- time only)
+SDK	Performance: Acting
+SDL	Performance: Dance
+SDM	Performance: Production
+SEA	Mathematics and its Applications
+SEH	Early Childhood Studies
+SEJ	Electrical Engineering
+SEK	Occupational and Public Health – Public Health and Safety
+SEN	English (Honours)
+SEU	Engineering, Undeclared (First Semester Studies Only)
+SFL	Fashion Design
+SFM	Fashion Communication
+SFN	Nutrition and Food
+SFP	Ryerson ESL Foundation Program
+SGO	Graphic Communications Management
+SHP	Hospitality and Tourism Management (Honours)
+SIE	International Economics and Finance
+SIQ	Industrial Engineering
+SIR	Interior Design
+SJT	Journalism
+SLC	Language and Intercultural Relations (Honours)
+SMM	Professional Communication (Honours)
+SMP	Medical Physics (Honours)
+SMT	Financial Mathematics (Honours)
+SMW	Mechanical Engineering
+SNG	Nursing at George Brown College
+SNN	Nursing at Centennial College
+SNX	Nursing at Ryerson
+SOH	Occupational and Public Health – Occupational Health and Safety
+SPA	Image Arts: Film Studies
+SPB	RTA School of Media: New Media
+SPC	Image Arts: Photography Studies
+SPG	Politics and Governance (Honours)
+SPH	Philosophy (Honours)
+SPS	Psychology (Honours)
+SRD	RTA School of Media: Media Production
+SSE	Social Work
+SSO	Sociology (Honours)
+SSP	RTA School of Media: Sport Media
+STM	Business Technology Management (part-time)
+SUD	Undeclared Science (Honours) (first- year studies only)
+SUN	Undeclared Arts (Honours) (first- year studies only)
+SUP	Urban and Regional Planning
+SYF	Midwifery (full- time)
+SYY	Midwifery (part- time)
+TAC	Rotman Commerce
+TAD	Computer Science
+TAH	Humanities
+TAX	Social Sciences
+TB	Chemical Engineering
+TCS	Computer Engineering
+TD	Music Education
+TE	Electrical Engineering
+TEO	TrackOne, Undeclared Engineering
+TEV	Visual Studies
+TG	Mineral Engineering
+TI	Industrial Engineering
+TK	Engineering Science
+TLA	Architectural Studies
+TLB	Visual Studies
+TLG	Life Sciences (including Psychology)
+TM	Mechanical Engineering
+TMC	Communication, Culture, Information & Technology (Some joint programs with Sheridan College and U of T's Faculty of Information)
+TME	Commerce (including Accounting, Economics, Finance, Marketing)
+TMG	Management
+TMH	Humanities
+TMK	Forensic Science
+TML	Life Sciences
+TMP	Psychology
+TMS	Social Sciences
+TMT	Theatre and Drama (Joint program with Sheridan College)
+TMW	Chemical and Physical Sciences
+TMZ	Computer Science, Mathematics and Statistics
+TO	Music – Artist Diploma
+TPG	Physical and Mathematical Sciences
+TPK	Kinesiology and Physical Education
+TPS	Psychological & Health Sciences
+TSB	Co-op Physical & Environmental Sciences
+TSC	Co-op Computer Science, Mathematics & Statistics
+TSD	Co-op International Development Studies (BA or BSc)
+TSI	Paramedicine (Joint Program with Centennial College)
+TSJ	Journalism (Joint Program with Centennial College)
+TSL	Life Sciences
+TSM	Management (including Economics)
+TSN	Co-op Management (including Economics)
+TSP	Physical & Environmental Sciences
+TSQ	Co-op Psychological & Health Sciences
+TSU	Co-op Life Sciences
+TTM	Materials Engineering
+TUA	French
+TUB	Co-op French
+TUC	Visual & Performing Arts, Arts Management, and Media
+TUD	Social Sciences & Humanities
+TUG	International Foundation Program – Arts and Science
+TUH	International Foundation Program – Applied Science and Engineering
+TUI	International Foundation Program – Architecture, Landscape and Design
+TV	Civil Engineering
+TX	Music Performance
+TXA	Co-op Arts: Social Sciences & Humanities
+TXB	Management & International Business (Co-op only)
+TXC	Computer Science, Mathematics & Statistics
+TXQ	Double Degree: Management & Finance (BBA) and Statistics – Quantitative Finance (BSc)
+TXR	Double Degree: Co-op Management & Finance (BBA) and Statistics – Quantitative Finance (BSc)
+TZ	Music
+TZA	International Foundation Program – Music
+UAC	Computer Science (BA) (in combination)
+UAL	Public Health (BASc)
+UAM	Financial Mathematics (BA)
+UB	Business Administration (BBA)
+UBA	Biology (BA)
+UBF	Business Administration (BBA) and Financial Mathematics (BA) (double degree co-op program)
+UBI	Biochemistry/Biotechnology (BSc)
+UBM	Mathematics; Computer Science and Mathematics (BSc)
+UBT	Business Technology Management (BBTM)
+UCG	Christian Studies & Global Citizenship (BA)
+UCI	Criminology (BA)
+UCM	Community Music (BMus)
+UCP	Chemistry & Physics (BSc)
+UCS	Social & Environmental Justice (BA)
+UD	Economics (BA)
+UDS	Data Science (BSc)
+UE	Biology (BSc)
+UES	Environmental Science (BSc)
+UFA	Computer Science (BSc)
+UFT	Computer Science and Psychology (BSc)
+UGM	Game Design & Development (BFAA)
+UH	Arts, Honours (BA)
+UHB	Community Health (BA)
+UHC	Chemistry (BSc)
+UHG	Geography; Geography & Geomatics (BSc)
+UHP	Psychology (BA)
+UIS	Indigenous Studies (BA in combination)
+UKC	Chemistry and Mathematics (BSc)
+UKD	Biology and Mathematics (BSc)
+UKE	Mathematics (BA)
+UKL	Communication Studies (BA)
+UKP	Kinesiology (BKin)
+ULA	Law Degree (LLB at University of Sussex, UK) and Arts Degree (BA at Laurier)
+ULC	Law Degree (LLB at University of Sussex, UK) and Arts Degree (BA Criminology at Laurier)
+ULL	Law Degree (LLB at University of Sussex, UK) and Arts Degree (BA Human Rights & Human Diversity or Law & Society at Laurier)
+UM	Music (BMus)
+UMA	Bachelor of Arts & Master of Arts (BA & Masters)
+UPC	Policing (BA) (in combination)
+UPD	Policing (BA) (in combination)
+UPS	Psychology (BSc)
+USH	Health Sciences (BSc)
+USM	Financial Mathematics (BSc)
+USP	Physics (BSc)
+USW	Social Work (BSW)
+UUE	User Experience Design (BDes)
+UVD	Psychology (BA)
+UVH	Human Rights & Human Diversity (BA)
+UVN	English (BA)
+UVO	Health Administration (BA)
+UVQ	Digital Media & Journalism (BA)
+UVS	History (BA)
+UVT	Law & Society (BA)
+UWB	Business Administration (BBA, Laurier) and Computer Science (BCS, UW) Double Degree (Co-op only)
+UWE	Labour Studies & Career Development (BA)
+UWS	Applied Water Science (BSc)
+UWW	Business Administration (BBA, Laurier) and Mathematics (BMath, UW) (Double Degree Co-op program)
+UXA	Business Administration (BBA) and Computer Science (BSc) (double degree co-op program)
+UYS	Youth & Children's Studies (BA)
+WA	Honours Arts
+WAB	Honours Arts & Business (regular/ co-op)
+WBA	Business Administration (Laurier) and Mathematics (Waterloo) Double Degree (co-op only)
+WBC	Business Administration (Laurier) and Computer Science (Waterloo) Double Degree (co-op only)
+WBE	Biotechnology/Economics (co-op only)
+WBM	Biomedical Engineering (co-op only)
+WC	Chemical Engineering (co-op only)
+WCF	Computing and Financial Management (co-op only)
+WCS	Computer Science (regular/co-op)
+WD	Systems Design Engineering (co- op only)
+WE	Civil Engineering (co-op only)
+WEB	Environment and Business (co-op only)
+WEE	Environmental Engineering (co-op only)
+WEM	Management Engineering (co-op only)
+WER	Environment, Resources and Sustainability (regular/co-op)
+WEV	Geography and Aviation
+WF	Health Studies (regular/co-op)
+WG	Geography and Environmental Management (regular/co-op)
+WGB	Global Business and Digital Arts
+WGM	Geomatics (regular/co-op)
+WHE	Public Health (regular/co-op)
+WID	International Development
+WJA	St. Jerome's: Honours Arts (regular)
+WK	Kinesiology (regular/co-op)
+WKI	Knowledge Integration
+WLS	Life Sciences (regular/co-op)
+WM	Mathematics (regular/co-op)
+WMB	Mathematics/Business Administration (regular/co-op)
+WMF	Mathematics/Financial Analysis and Risk Management (regular/co- op)
+WMT	Mechatronics Engineering (co-op only)
+WN	Mathematics/Chartered Professional Accountancy (co-op only)
+WNT	Nanotechnology Engineering (co- op only)
+WP	Planning (co-op only)
+WPS	Physical Sciences (regular/co-op)
+WR	Architecture (co-op only)
+WRA	Honours Arts (Renison University College)
+WRS	Social Development Studies (Renison University College)
+WS	Honours Science
+WSA	Biotechnology/Chartered Professional Accountancy (co-op only)
+WSB	Science and Business (regular/co- op)
+WSE	Environmental Science (regular/ co-op)
+WSO	Software Engineering (co-op only)
+WSV	Science and Aviation
+WWF	Electrical Engineering (co-op only)
+WWG	Geological Engineering (co-op only)
+WWH	Mechanical Engineering (co-op only)
+WWJ	Computer Engineering (co-op only)
+WX	Recreation & Leisure Studies (regular/co-op)
+WXY	Accounting and Financial Management (co-op only)
+XAR	Arts
+XEN	Engineering
+XSC	Science
+YB	Dance (BFA)
+YBA	Business Administration (BBA)
+YBD	Culture & Expression (BA)
+YBE	Cultures & Regions (BA, iBA)
+YBF	English & Professional Writing (BA)
+YBG	Global Political Studies (BA)
+YBH	Business Economics (BA)
+YBI	International Business Administration (iBBA)
+YBJ	Cognitive Science (BA)
+YBK	Financial & Business Economics (BA)
+YBL	Geography & Urban Studies (BA)
+YBM	Multicultural & Indigenous Studies (BA)
+YBN	Sexuality Studies (BA, iBA)
+YBO	Jewish Studies (BA)
+YDD	Applied Mathematics (BSc)
+YDE	Applied Mathematics (BA)
+YEA	Film Production (BFA)
+YEB	Cinema & Media Studies (BA)
+YEE	Ecosystem Management (Joint BES/Advanced Diploma Program with Fleming College)
+YEF	Screenwriting (BFA)
+YEM	International Development (Joint BES/Post-Diploma Certificate program in International Development with Humber College)
+YER	Educational Studies
+YES	Environmental Studies (BES)
+YET	Concurrent Education: Environmental Studies (BEd)
+YEU	Urban Sustainability (Joint BES/Advanced Diploma program in Civil Engineering Technology with Seneca College)
+YEW	Concurrent Education: Educational Studies
+YEX	Environmental Management & Technology (BES/Advanced Diploma with Seneca College)
+YF	Design (BDes)
+YFA	Digital Media (BA) – School of the Arts, Media, Performance & Design
+YFB	Commerce
+YFD	Business & Society (BA)
+YFE	Economics (BA)
+YFF	Communication Studies (BA, iBA)
+YFK	Concurrent Education: Liberal Arts & Professional Studies (BEd)
+YFL	Human Resources Management (BHRM)
+YFM	Information Technology (BA)
+YFN	Languages & Linguistics (BA)
+YFP	Professional Writing (BA)
+YFS	Social Work (BSW, Direct Entry)
+YFT	Law & Society (BA)
+YFX	Children's Studies (BA)
+YFZ	Criminology (BA)
+YGD	Drama Studies
+YGE	Business Economics
+YGF	French Studies
+YGG	International BA (iBA Bilingual)
+YGI	International Studies
+YGJ	Concurrent Bachelor of Education (French)
+YGK	Economics
+YGM	Undecided Major (First year only)
+YGN	English Studies
+YGP	Spanish (Hispanic Studies)
+YGQ	Political Science
+YGW	Linguistics and Language Studies
+YGY	Psychology (BA)
+YH	Music (BA, BFA)
+YHA	Psychology (BA)
+YHB	Psychology (BSc)
+YHD	Kinesiology & Health Science (BA, BSc)
+YHE	Health Studies (BHS)
+YHF	Nursing (Collaborative BScN program with Georgian College)
+YHG	Nursing (Collaborative BScN program with Seneca College)
+YHR	Concurrent Education: Health (BEd)
+YHS	Global Health (BA)
+YHT	Global Health (BSc)
+YJ	Theatre (BA, BFA)
+YJD	Media Arts (BFA)
+YJE	Intermedia
+YLA	Concurrent Education: Lassonde (BEd)
+YM	Studio Art (BFA)
+YMS	Statistics (BSc)
+YN	Art History (BA)
+YPB	Environmental Biology (BSc)
+YPC	Concurrent Education: Science (BEd)
+YPD	Actuarial Science (BA)
+YPE	Mathematics for Education (BA)
+YPF	Computer Science (iBA)
+YPG	Public Administration (BPA)
+YPJ	Disaster & Emergency Management (BDEM)
+YPK	Computer Science (BA)
+YPN	Statistics (BA)
+YPO	Science & Technology Studies (BSc)
+YPQ	Mathematics for Education (BSc)
+YPR	Computer Security (BSc)
+YPT	Biophysics (BSc)
+YPU	Honours Integrated Science (BSc, first year only)
+YPX	Computer Security (BA)
+YQ	Concurrent Education: Arts, Media, Performance & Design (BEd)
+YRA	Digital Media (BA) – Lassonde School of Engineering
+YRB	Anthropology (BA, iBA)
+YRC	Classics & Classical Studies (BA)
+YRD	Human Rights & Equity Studies (BA)
+YRF	Gender & Women's Studies (BA)
+YRG	Health & Society (BA)
+YRH	Interdisciplinary Social Science (BA)
+YRI	International Development Studies (BA)
+YRK	Philosophy (BA)
+YRL	Religious Studies (BA)
+YRM	Work & Labour Studies (BA)
+YRN	Mathematical Biology (BSc)
+YS	Geography (BSc)
+YSA	Biotechnology (BSc)
+YSB	Biology (BSc, iBSc)
+YSC	Chemistry (BSc)
+YSE	Earth & Atmospheric Science (BSc)
+YSF	Biochemistry (BSc)
+YSG	Computer Science (BSc)
+YSM	Mathematics (BA, BSc)
+YSO	Science & Technology Studies (BA)
+YSP	Physics & Astronomy (BSc)
+YSQ	Computational Mathematics (BSc)
+YSU	Undecided Major (BSc, first year only)
+YSV	Environmental Science (BSc)
+YSW	Biomedical Science (BSc)
+YSY	Computer Science (iBSc)
+YT	Engineering (BEng)
+YUA	English (BA)
+YUB	Geography (BA, iBA)
+YUC	History (BA, iBA)
+YUD	Humanities (BA, iBA)
+YUE	Political Science (BA, iBA)
+YUF	Urban Studies (BA, iBA)
+YUG	Sociology (BA)
+YUM	Undeclared Major (BA, first year only)
+YYA	History
+YYC	Sociology
+YYF	Biology (BSc)
+YYG	International BSc (iBSc Bilingual: Psychology or Biology)
+YYH	Psychology (BSc)
+YYI	Concurrent Bachelor of Education (English)
+YYN	Gender & Women's Studies
+YYP	Mathematics
+YYQ	Philosophy
+YYR	Sexuality Studies
+YYS	Canadian Studies
+YYT	Communications
+YYU	International Studies & Business Administration (Dual Degree)
+
+
+Universities / Universités
+--------------------------
+
+ALG	Algoma University
+BRO	Brock University
+CAR	Carleton University
+GHU	University of Guelph-Humber
+GUE	University of Guelph
+LAU	Laurentian University
+LOR	Lakehead University - Orillia
+LTB	Lakehead University - Thunder Bay
+MCM	McMaster University
+NIP	Nipissing University
+OCA	OCAD University
+OIT	University of Ontario Institute of Technology (UOIT)
+OSP	University of Ottawa - Saint Paul University
+OTT	University of Ottawa
+QUE	Queen's University
+RMC	Royal Military College of Canada
+RYE	Ryerson University
+TDG	Trent University Durham-GTA
+TMI	University of Toronto - Mississauga
+TRE	Trent University
+TSC	University of Toronto - Scarborough
+TSG	University of Toronto - St. George Campus
+UDH	Université de Hearst - affiliée à l'Université Laurentienne
+WAT	University of Waterloo
+WBC	Western University - Brescia University College
+WES	Western University
+WHC	Western University - Huron University College
+WIN	University of Windsor
+WKC	Western University - King's University College
+WLB	Wilfrid Laurier University - Brantford Campus
+WLW	Wilfrid Laurier University - Waterloo Campus
+WRC	University of Waterloo - Renison University College
+WSJ	University of Waterloo - St. Jerome's University
+YGC	York University - Glendon Campus
+YOR	York University
+
+
+Source: Electronic Info
+
+The Ministry of Advanced Education and Skills Development has endeavored to keep the information provided up to date and correct, but makes no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the information for any purpose.

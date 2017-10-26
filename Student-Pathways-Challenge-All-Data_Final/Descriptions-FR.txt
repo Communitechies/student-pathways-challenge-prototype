@@ -1,0 +1,328 @@
+Entrée
+------
+
+De l’information sur le choix de cours pour être admis dans des programmes de premier cycle à l’université et des programmes très contingentés au collège
+
+Moyenne du secondaire, première année
+
+             Fichier:	Secondary-School-Avg-First-Year
+         Description:	Pourcentage des élèves de première année à temps plein, par moyenne secondaire, programme et établissement, basé sur les notes finales des cours pré-universitaires de grade 12.
+         Indicateurs:	Programme, Année, Université, Moyenne, Pourcentage
+    Source Originale:	Council University Data Ontario (CUDO)
+               Notes:	Voir notes à https://cudo.ouac.on.ca/page.php?id=7&table=9#univ=1,2,3,8,9,11,12,14,16,17,21,22,23,24,25,27,28,29,30,31,32,33,34,42&y=2016
+
+Préalables des cours secondaires
+
+             Fichier:	High-School-Prerequisites
+         Description:	Cours secondaires de grades 9 à 12 disponibles, incluant les codes et préalables.
+         Indicateurs:	Grade, Nom du cours, Code du cours, Préalable
+    Source Originale:	Ministère de l'Éducation à http://www.edu.gov.on.ca/eng/document/curricul/secondary/descript/descri9e.pdf
+               Notes:	Ces données n'ont pas de dictionnaire associé car les définitions (Anglais) sont présentes parmi les données.
+
+Préalables des cours collégiaux
+
+             Fichier:	College-Prerequisites
+         Description:	Préalables des programmes de première année très contingentés aux collèges de l'Ontario.
+         Indicateurs:	Collège, Code du programme, Groupe des préalables, Choix parmi ce groupe de préalables, Sujet du préalable, Niveau du préalable, Type du préalable, Moyenne requise du préalable, Préalable conseillé?
+    Source Originale:	Service d’Admission des Collèges de l’Ontario (OCAS)
+               Notes:	La dernière mise à jour des données était en 2015.
+
+Préalables des cours universitaires
+
+             Fichier:	University-Prerequisites
+         Description:	Préalables des programmes de première année aux universités de l'Ontario.
+         Indicateurs:	Université, Programme, Inscriptions max, Type de programme, Moyenne minimum, Conseillé, Groupe des préalables, Choix parmi ce groupe de préalables, Codes des préalables
+    Source Originale:	eINFO à https://www.electronicinfo.ca/assets/files/documents/programs.pdf
+               Notes:	La dernière mise à jour des données était le 19 septembre, 2017.
+
+
+Demande et inscription
+----------------------
+
+La demande et l’inscription selon les statistiques pour les établissements postsecondaires financés par les fonds publics de l’Ontario
+
+Demandes par programme universitaire
+
+             Fichier:	Applications-by-University-Program
+         Description:	Demandes aux universités de l'Ontario par programme et préférence.
+         Indicateurs:	Programme, Année, Confirmé, Choix, Total
+    Source Originale:	Centre de Demande d'Admission aux Universités de l'Ontario (OUAC)
+               Notes:	Les statistiques de demandes et de confirmations sont représentantes des valeurs réelles en septembre de chaque année académique.
+
+Demandes par établissement universitaire
+
+             Fichier:	Applications-by-University-Institution
+         Description:	Demandes aux universités de l'Ontario par université et préférence.
+         Indicateurs:	Établissement, Année, Confirmé, Choix, Total
+    Source Originale:	Centre de Demande d'Admission aux Universités de l'Ontario (OUAC)
+               Notes:	Les statistiques de demandes et de confirmations sont représentantes des valeurs réelles en septembre de chaque année académique.
+
+Inscriptions par groupe de programmes
+
+             Fichier:	Applicants-by-University-Program-Groups
+         Description:	Nombre d'applications et d'inscriptions de première année à temps plein aux universités de l'Ontario par programme.
+         Indicateurs:	Année, Université, Sujet, Indicateur, OSSD, Total
+    Source Originale:	Centre de Demande d'Admission aux Universités de l'Ontario (OUAC)
+
+Transferts par université
+
+             Fichier:	Transfers-by-University
+         Description:	Nombre d'élèves voulant venir d'une autre université.
+         Indicateurs:	Année, Université, Type, Total
+    Source Originale:	Centre de Demande d'Admission aux Universités de l'Ontario (OUAC), avec des données supplémentaires de quelques universités.
+               Notes:	Voir les notes à https://cudo.ouac.on.ca/page.php?id=7&table=10#univ=1,2,3,8,9,11,12,14,16,17,21,22,23,24,25,27,28,29,30,31,32,33,34,42&y=2016
+
+Inscriptions par programme universitaire
+
+             Fichier:	University-Program-Enrolment
+         Description:	Nombre d'élèves inscrits durant l'automne de chaque année, par sexe, incluant les élèves domestiques et internationales.
+         Indicateurs:	Sexe, Programme, Année, Université, Diplôme, Horaire, Total
+    Source Originale:	Centre de Demande d'Admission aux Universités de l'Ontario (OUAC)
+               Notes:	Voir les notes d'inscriptions pour les hommes (https://cudo.ouac.on.ca/page.php?id=7&table=2#univ=1,2,3,8,9,11,12,14,16,17,21,22,23,24,25,27,28,29,30,31,32,33,34,42&topic=A&table_hidden=5), les femmes (https://cudo.ouac.on.ca/page.php?id=7&table=6#univ=1,2,3,8,9,11,12,14,16,17,21,22,23,24,25,27,28,29,30,31,32,33,34,42), et au total (https://cudo.ouac.on.ca/page.php?id=7&table=7#univ=1,2,3,8,9,11,12,14,16,17,21,22,23,24,25,27,28,29,30,31,32,33,34,42).
+
+Inscriptions pour les collèges
+
+             Fichier:	College-Enrolment
+         Description:	Statistique d'inscription pour les collèges de l'Ontario qui reçoivent du financement du MESFP. Les indicateurs incluent l'inscription par campus, diplôme, niveau d'étude et autres informations démographiques.
+         Indicateurs:	Établissement, Année, Indicateur, Valeur, Total
+    Source Originale:	Ministère de l'Enseignement Supérieur et de la Formation Professionnelle (MESFP) à https://www.ontario.ca/data/college-enrolment
+               Notes:	Pour raisons de confidentialité, les chiffres sont supprimés (NA) où il existe moins que 10 élèves.
+
+Inscriptions pour les universités
+
+             Fichier:	University-Enrolment
+         Description:	Statistique d'inscription pour les universités de l'Ontario qui reçoivent du financement du MESFP. Les indicateurs incluent l'inscription par campus, diplôme, niveau d'étude et autres informations démographiques.
+         Indicateurs:	Établissement, Année, Indicateur, Valeur, Total
+    Source Originale:	Ministère de l'Enseignement Supérieur et de la Formation Professionnelle (MESFP) à https://www.ontario.ca/data/university-enrolment
+
+Rétention par université
+
+             Fichier:	Retention-by-University
+         Description:	Le pourcentage d'élèves de première année à temps plein qui sont retourné(e)s pour la prochaine année académique.
+         Indicateurs:	Année, Université, Rétention
+    Source Originale:	Council Ontario Data University (CUDO)
+               Notes:	Voir les notes à https://cudo.ouac.on.ca/page.php?id=7&table=23#univ=1,2,3,8,9,11,12,14,16,17,21,22,23,24,25,27,28,29,30,31,32,33,34,42&topic=K&table_hidden=5&y=2014
+
+
+Formation en apprentissage
+--------------------------
+
+Des statistiques spécifiquement liées aux professions et aux métiers qui font l’objet d’un apprentissage
+
+Postes vacants et payes en apprentissage en Ontario
+
+             Fichier:	Ontario-Apprenticeship-Wages-Vacancies
+         Description:	Taux de salaire horaire moyens et postes vacants aux professions en Ontario pour 2015 et 2016.
+         Indicateurs:	CNP, Année, Taux de salaire horaire moyens, Postes vacants
+    Source Originale:	Statistique Canada
+
+Sommaires des inscriptions en apprentissage en Ontario pour 2015-16
+
+            Fichiers:	Ontario-Apprenticeship-2015-2016-Registrations-By-Trade
+                     	Ontario-Apprenticeship-2015-2016-Registrations-Summaries
+         Description:	Ces fichiers contiennent des données sur l'apprentissage dans chacune des 26 commissions locales en Ontario pour l'année fiscale 2015/16.
+         Indicateurs:	Code du site financé, région, Nombre de certificats d'apprentissages (CA) remis, Âge moyen, Nouvelles inscriptions, Apprentissages actifs
+    Source Originale:	Ministère de l'Enseignement Supérieur et de la Formation Professionnelle (MESFP)
+               Notes:	Les deux fichiers dans ce groupe partagent un dictionnaire.
+
+Statistique d'apprentissage sur le marché du travail
+
+             Fichier:	Apprenticeship-Labour-Force-Statistics
+         Description:	Statistique du marché de travail pour les professions en apprentissage par groupe d'âge et par sexe, pour le Canada et les provinces.
+         Indicateurs:	Année, Groupe d'âge, Profession, Emploi, Sexe, Total 
+    Source Originale:	Statistique Canada
+               Notes:	Total est en milliers de personnes.
+
+Tableau d'apprentissage de l'Ordre des Métiers de l'Ontario
+
+             Fichier:	OCTAA-Chart
+         Description:	Ces données couvrent tous les métiers qualifiés en Ontario. La dernière mise à jour des données était en juin 2016.
+         Indicateurs:	Année, Université, Type, Total
+    Source Originale:	Ministère de l'Enseignement Supérieur et de la Formation Professionnelle (MESFP)
+
+Apprentissage totalisé
+
+             Fichier:	Apprenticeship-Aggregated
+         Description:	Données totalisées sur l'apprentissage en Ontario, basées sur les rapports provincials envoyés à Statistique Canada pour les sondages nationaux de 2011 à 2015.
+         Indicateurs:	Année, Statut, Code de métier, Type de métier, Sexe, Âge moyen, Âge écart-type, Nombre en cours, Nombre complété, Nombre abandonné, Nombre non disponible, Durée moyenne, Date d'inscription moyenne
+    Source Originale:	Statistique Canada
+
+Revenues par professions d'apprentissage
+
+             Fichier:	Earnings-by-Apprenticeable-Occupation
+         Description:	Données sur les taux de salaire moyens horaire et hebdomadaire en professions d'apprentissage, par groupe d'âge et sexe, pour le Canada et les provinces.
+         Indicateurs:	Année, Indicateur, Groupe d'âge, Profession, Valeur
+    Source Originale:	Statistique Canada
+
+Participants, commanditaires, et agences de formation par l’apprentissage (TDA), par programme
+
+             Fichier:	Ontario-Apprentice-Participants-Sponsors-TDAs
+         Description:	Données démographiques pour les participants à l'apprentissage représentant 158 métiers.
+         Indicateurs:	Code de métier, Secteur, Sceau rouge?, Participants total, Femmes, Hommes, Âgés moins de 20, Âgés 20-29, Âgés 30-44, Âgés 45-54, Âgés plus que 55, Sponsors, TDAs publiques, TDAs privés
+    Source Originale:	Ministère de l'Enseignement Supérieur et de la Formation Professionnelle (MESFP) 
+
+
+Revenus et salaires
+-------------------
+
+Des statistiques sur les revenus et les salaires selon différents programmes d’études, niveaux d’études et professions ou métiers
+
+Revenues de diplômés liés aux impôts
+
+             Fichier:	Tax-Linked-Graduate-Earnings
+         Description:	Données des impôts, avec plusieurs centiles de salaires annuels des diplômés collégiaux et universitaires, par programme d'étude, de 14 établissements de 4 provinces de 2005 à 2013.
+         Indicateurs:	Grade, Nombre d'années, Sexe, Diplôme, Champ, Indicateur, Valeur.
+    Source Originale:	Education Policy Research Initiative (EPRI)
+               Notes:	Voir détails à http://www.epri.ca/esdc-tax-linkage-project-interactive-results#div-data 
+
+Salaires des diplômés universitaires
+
+             Fichier:	University-Graduate-Salaries
+         Description:	Gammes de salaires des diplômés universitaires, regroupées 6 et 24 mois après la graduation, pour les élèves à temps plein et partiel, pour plusieurs programmes.
+         Indicateurs:	Programme, Année, Horaire, Période, Gamme de salaire, Total.
+    Source Originale:	Ministère de l'Enseignement Supérieur et de la Formation Professionnelle (MESFP)
+
+Payes par niveau de compétence
+
+             Fichier:	Wages-by-Skill-Level
+         Description:	Plusieurs taux de salaires, par niveau de compétence du CNP ou groupe professionnelle.
+         Indicateurs:	Profession, Taux, Année, Valeur
+    Source Originale:	Statistique Canada
+
+
+Emploi
+------
+
+De l’information sur l’emploi après l’obtention d’un diplôme postsecondaire
+
+CNP programmes universitaires
+
+             Fichier:	University-Program-NOC
+         Description:	Positions des diplômés universitaires par CNP.
+         Indicateurs:	Année, Programme, CNP, Employé, Autonome
+    Source Originale:	Ministère de l'Enseignement Supérieur et de la Formation Professionnelle (MESFP)
+               Notes:	Tous les répondants sont diplômés d'une université de l'Ontario en 2013, et peuvent avoir un emploi à temps plein ou partiel, ainsi que des études concomitantes. Ces données incluent seulement les diplômés qui sont employés, autonomes, ou qui ont une offre d'emploi future.
+
+Parenté des emplois des diplômés universitaires
+
+             Fichier:	University-Degree-Job-Relatedness
+         Description:	Résultats d'un sondage universitaire.
+         Indicateurs:	Programme, Année, Horaire, Période, Type de parenté, Niveau de parenté, Total
+    Source Originale:	Ministère de l'Enseignement Supérieur et de la Formation Professionnelle (MESFP)
+
+Taux d'emploi des diplômés universitaires
+
+             Fichier:	University-Employment-Rates
+         Description:	Taux d'emploi des diplômés universitaires après 6 et 24 mois, regroupés par emplois à temps plein et partiel.
+         Indicateurs:	Programme, Année, Horaire, Période, Université, Sondés, Employés total, Employés %
+    Source Originale:	Ministère de l'Enseignement Supérieur et de la Formation Professionnelle (MESFP)
+
+CNP éducation
+
+             Fichier:	NOC-Education
+         Description:	Emplois par profession (CNP) regroupés par discipline principale, études ou formation, et par accréditation de la classification des programmes d'enseignement (CPE) en 2011.
+         Indicateurs:	Profession, Accréditation, Groupe d'âge, Programme (CPE), Total 
+    Source Originale:	Statistique Canada à http://www5.statcan.gc.ca/olc-cel/olc.action?objId=99-012-X2011056&objType=46&lang=en&limit=0
+
+Risque d'automation
+
+             Fichier:	Automation-Risk
+         Description:	Démontre le risque d'automation pour plusieurs professions (CNP).
+         Indicateurs:	CNP, % Risque
+    Source Originale:	Brookfield Institute à http://brookfieldinstitute.ca/research-analysis/automation/
+
+
+Obtention du diplôme
+--------------------
+
+Des statistiques sur l’obtention du diplôme pour les établissements financés par les fonds publics de l’Ontario
+
+Diplômes accordés
+
+             Fichier:	University-Qualifications-Awarded
+         Description:	Diplômes et accréditations accordés par programme, année, établissement et type de diplôme.
+         Indicateurs:	Année, Université, Programme, Diplôme, Total 
+    Source Originale:	Council University Data Ontario (CUDO)
+               Notes:	Voir les notes à https://cudo.ouac.on.ca/page.php?id=7&table=5#univ=1,2,3,8,9,11,12,14,16,17,21,22,23,24,25,27,28,29,30,31,32,33,34,42&y=2014
+
+Emplois par type de diplôme des diplômés collégiaux
+
+             Fichier:	College-Graduate-Employment-by-Credential
+         Description:	Statistique des diplômés collégiaux par année, division professionnelle et type de diplôme.
+         Indicateurs:	Année d'obtention, Division, Diplôme, Total, % Sondés, % au marché du travail, % employé, % employés à temps plein, % employés à temps plein dans un domaine lié, Salaire moyen des employés à temps plein dans un domaine lié
+    Source Originale:	Ministère de l'Enseignement Supérieur et de la Formation Professionnelle (MESFP) 
+
+Obtention des diplômes universitaires
+
+             Fichier:	University-Degree-Completion
+         Description:	Pourcentage d'élèves qui obtiennent leur diplôme dans 7 ans de l'inscription, par programme, université et année.
+         Indicateurs:	Université, Année, Programme, Taux d'obtention
+    Source Originale:	Council University Data Ontario (CUDO)
+               Notes:	Voir les notes à https://cudo.ouac.on.ca/page.php?id=7&table=22#univ=1,2,3,8,9,11,12,14,16,17,21,22,23,24,25,27,28,29,30,31,32,33,34,42&y=2014
+
+Taux de graduation collégial
+
+             Fichier:	College-Graduation-Rate
+         Description:	Nombre d'inscriptions et de diplômés, par année, collège et code du Ministère de la Formation et des Collèges et Universités (MTCU)
+         Indicateurs:	Année, Collège, Code MTCU, Inscriptions, Diplômés
+    Source Originale:	Ministère de l'Enseignement Supérieur et de la Formation Professionnelle (MESFP)
+
+
+Marché du travail
+-----------------
+
+Des estimations et des projections sur la main-d’œuvre fondées sur le niveau d’études, la profession ou le métier et les compétences
+
+Marché du travail par éducation, âge, sexe et emploi
+
+             Fichier:	Labour-Force-by-Education-Age-Sex-Employment
+         Description:	Estimation du marché de travail par niveau d'éducation, group d'âge, et sexe, pour le Canada et les provinces.
+         Indicateurs:	Année, Éducation, Indicateur, Groupe d'âge, Sexe, Total
+    Source Originale:	Statistique Canada
+               Notes:	Total est en milliers de personnes.
+
+Marché du travail par niveaux de compétences
+
+             Fichier:	Labour-Force-by-Skill-Level
+         Description:	Données sur le marché du travail par niveau d'éducation, group d'âge, et sexe, pour l'Ontario.
+         Indicateurs:	Année, Profession, Indicateur, Valeur
+    Source Originale:	Statistique Canada
+
+Compétences clés
+
+            Fichiers:	Essential-Skills
+                      	Compétences-Clés
+         Description:	Ces données démontrent les tâches et compétences requis pour différentes professions. Chaque profession est associée avec plusieurs compétences qui sont classés sur 5 points dépendant de leurs complexités. Des tâches spécifiques sont énumérées pour chaque compétence.
+         Indicateurs:	Code de la tâche, CNP, Compétence, Niveau du compétence, Niveau de formation
+    Source Originale:	Ministère de l'Éducation
+               Notes:	Important: En raison de différences régionaux, les données anglais et français sont séparées et ne sont pas interchangeables. Soyez prudents si vous utilisez les deux séries.
+
+
+Expérience de l’étudiant
+------------------------
+
+De l’information sur la taille des classes, le corps professoral et la participation des étudiants à l’université
+
+Nombre d'élèves par cours universitaire
+
+             Fichier:	University-Class-Size-Students
+         Description:	Taille des cours universitaire de premier cycle, regroupés par les lectures et les non-lectures (laboratoires, discussion, etc.)
+         Indicateurs:	Année académique, Division, Université, Gamme, Année d'étude, Total, Pourcentage
+    Source Originale:	Council University Data Ontario (CUDO)
+               Notes:	Voir les notes des sections (https://cudo.ouac.on.ca/page.php?id=7&table=18#univ=1,2,3,8,9,11,12,14,16,17,21,22,23,24,25,27,28,29,30,31,32,33,34,42&y=2014) et des sous-sections (https://cudo.ouac.on.ca/page.php?id=7&table=35#univ=1,2,3,8,9,11,12,14,16,17,21,22,23,24,25,27,28,29,30,31,32,33,34,42&y=2014)
+
+Nombre de faculté par université
+
+             Fichier:	University-Instructional-Faculty
+         Description:	Faculté universitaire par sexe, éducation, année, université et horaire.
+         Indicateurs:	Année, Université, Indicateur, Horaire, Total
+    Source Originale:	Council University Data Ontario (CUDO)
+               Notes:	Voir les notes à https://cudo.ouac.on.ca/page.php?id=7&table=17#univ=1,2,3,8,9,11,12,14,16,17,21,22,23,24,25,27,28,29,30,31,32,33,34,42&y=2014&r=1345
+
+Engagement des élèves universitaires
+
+             Fichier:	University-Student-Engagement
+         Description:	Résultats de deux questions du sondage "National Survey of Student Engagement" (NSSE)
+         Indicateurs:	Année académique, Université, Question, Année d'étude, Réponse, Pourcentage
+    Source Originale:	Council University Data Ontario (CUDO)
+               Notes:	Voir Question 1 (https://cudo.ouac.on.ca/page.php?id=7&table=29#univ=1,2,3,8,9,11,12,14,16,17,21,22,23,24,25,27,28,29,30,31,32,33,34,42&y=2014) et Question 2 (https://cudo.ouac.on.ca/page.php?id=7&table=45#univ=1,2,3,8,9,11,12,14,16,17,21,22,23,24,25,27,28,29,30,31,32,33,34,42&y=2014)

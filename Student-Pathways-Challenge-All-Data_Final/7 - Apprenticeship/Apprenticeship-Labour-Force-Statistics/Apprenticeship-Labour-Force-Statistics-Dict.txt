@@ -1,0 +1,38 @@
+Employment / Emplois
+--------------------
+
+FT	Full-time employment     	Emplois à temps plein
+LF	Total labour force       	Population active totale
+PT	Part-time employment     	Emplois à temps partiel
+UN	Unemployment             	Chômage
+UR	Unemployment rate        	Taux de chômage
+
+
+Occupations
+-----------
+
+AS	Automotive service                                                                     	Entretien d'automobiles
+CA	Carpenters                                                                             	Charpentiers
+EL	Electricians                                                                           	Électriciens / électriciennes
+EI	Electronics and instrumentation                                                        	Électronique et instrumentation
+EF	Exterior finishing                                                                     	Finition extérieure
+FS	Food services                                                                          	Services alimentaires
+HE	Hairstylists and estheticians                                                          	Coiffeurs / coiffeuses et esthéticiens / esthéticiennes
+TD	Truck drivers                                                                          	Conducteurs / conductrices de camions
+HE	Heavy equipment and crane operators including drillers                                 	Conducteurs / conductrices d'équipement lourd et grutiers / grutières et foreurs / foreuses
+IF	Interior finishing                                                                     	Finition intérieure
+LH	Landscape and horticulture technicians and specialists                                 	Techniciens / techniciennes, spécialistes et manoeuvres de l'aménagement paysager et de l'horticulture
+MA	Machinists                                                                             	Machinistes
+SM	Sheet metal workers and metal forming, shaping and erecting trades                     	Tôliers / tôlières et personnel des métiers du formage, du profilage et du montage du métal
+MT	Machinery and transportation equipment mechanics (except motor vehicle)                	Mécaniciens / mécaniciennes de machinerie et d'équipement de transport (sauf véhicules automobiles)
+OG	Oil and gas well drillers, servicers, testers and related workers                      	Foreurs / foreuses et personnel de mise à l'essai et des autres services relatifs à l'extraction de pétrole et de gaz
+PP	Plumbers, pipefitters and steamfitters                                                 	Plombiers / plombières, tuyauteurs / tuyauteuses et monteurs / monteuses de conduites de vapeur
+TH	Trades helpers, construction and transportation labourers and related occupations      	Aides de soutien des métiers, manoeuvres en construction et de transport et personnel assimilé
+WE	Welders                                                                                	Soudeurs / soudeuses
+OT	Others                                                                                 	Autre
+UN	Unclassified                                                                           	Non classifié
+
+
+Source: Statistics Canada
+
+The Ministry of Advanced Education and Skills Development has endeavored to keep the information provided up to date and correct, but makes no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the information for any purpose.

@@ -1,0 +1,1394 @@
+Colleges / Collèges
+-------------------
+
+ALGO	Algonquin College of Applied Arts and Technology
+BORE	Collège Boréal
+CAMB	Cambrian College of Applied Arts and Technology
+CANA	Canadore College of Applied Arts and Technology
+CENT	Centennial College
+CONF	Confederation College of Applied Arts and Technology
+CONS	Conestoga College Institute of Technology and Advanced Learning
+DURH	Durham College of Applied Arts and Technology
+FANS	Fanshawe College of Applied Arts and Technology
+GEOR	Georgian College of Applied Arts and Technology
+GRBR	George Brown College of Applied Arts and Technology
+HUMB	Humber College Institute of Technology and Advanced Learning
+LACI	La Cité collégiale
+LAMB	Lambton College of Applied Arts and Technology
+LOYT	Loyalist College of Applied Arts and Technology
+MOHA	Mohawk College of Applied Arts and Technology
+NIAG	Niagara College of Applied Arts and Technology
+NORT	Northern College of Applied Arts and Technology
+SAUL	Sault College of Applied Arts and Technology
+SENE	Seneca College of Applied Arts and Technology
+SHER	Sheridan College Institute of Technology and Advanced Learning
+SLAW	St. Lawrence College of Applied Arts and Technology
+SSFL	Fleming College of Applied Arts and Technology
+STCL	St. Clair College of Applied Arts and Technology
+
+
+MTCU Titles / Titres
+--------------------
+
+40100	Accounting Techniques                                                                            	Pratique de la comptabilité
+40200	Administration Studies                                                                           	Études en administration
+40205	Pre-business                                                                                     	Cours préparatoire au programme d'administration
+40206	Management Skills                                                                                	Pratique en gestion
+40208	Business Fundamentals                                                                            	Principes fondamentaux en commerce
+40214	Business Foundations                                                                             	Connaissance fondamentale en commerce
+40217	Quality Management                                                                               	Gestion de la qualité
+40219	Municipal Administration                                                                         	Administration municipale
+40222	Health Office Operations                                                                         	Tenue de bureau médical
+40223	Human Resources Practices                                                                        	Pratiques en gestion des ressources humaines
+40231	Small Business                                                                                   	Petites entreprises
+40250	Ambulance Management                                                                             	Gestion des services ambulanciers
+40257	Native Education - Business And Tourism                                                          	Communautés autochtones - commerce et tourisme
+40259	Band Management                                                                                  	Gestion des bandes
+40261	Business Studies - Aviation                                                                      	Administration des affaires aéronautique
+40264	Independent Music Production                                                                     	Production musicale indépendante
+40272	E-business Assistant                                                                             	Adjoint(e) d'entreprise électronique
+40273	Small Business - Office Automation                                                               	Petites entreprises - bureautique
+40300	Geomatics Survey Techniques                                                                      	Pratique géomatique de levé de terrain
+40400	Drafting Techniques                                                                              	Aide en dessin industriel
+40500	Information Processing                                                                           	Traitement de l'information
+40505	Computer Foundations                                                                             	Connaissance fondamentale en informatique
+40508	Computer Applications Support                                                                    	Soutien en matière d'applications informatiques
+40509	Computer Repair And Maintenance                                                                  	Entretien et réparation d'ordinateurs
+40510	Computer Technical Support                                                                       	Soutien Techniques en informatique
+40511	Microcomputer Support Services                                                                   	Services de soutien des micro-ordinateurs
+40513	Internet Applications and Web Development Fundamentals                                           	Développement de sites Internet
+40515	Computer Certification                                                                           	Certification en informatique
+40520	Computer Network Security                                                                        	Sécurité des réseaux informatiques
+40701	Child and Adolescent Mental Health                                                               	Santé mentale de l'enfant et de l'adolescent
+40703	Community School Worker                                                                          	Travail école communautaire
+40704	Native Community Worker                                                                          	Travail communautaire auprès des autochtones
+40709	Aboriginal Social Justice                                                                        	Justice sociale autochtone
+40719	Human Services Foundation                                                                        	Sciences du comportement
+40723	Settlement Services                                                                              	Services d'aide à l'établissement
+40724	Human Services Management                                                                        	Gestion des services sociaux
+40735	Pre-interpreter                                                                                  	Pré-interprète
+40741	Aboriginal Languages                                                                             	Langues autochtones
+40742	Community And Cultural Interpretation Techniques                                                 	Interprétation communautaire et culturelle
+40743	Women's Studies                                                                                  	Études sur les femmes
+40745	Diversity and Intercultural Relations                                                            	Diversité et relations interculturelles
+40901	Native Alcoholism Worker                                                                         	Consultation en toxicomanie auprès des autochtones
+40904	Northern Women’s Empowerment, Support and Advocacy Education                                     	Programme de formation sur l'autonomie, le soutien et la défense des droits pour les femmes vivant dans le Nord
+41004	Maintenance Techniques - Small Communities                                                       	Entretien de petites collectivités
+41007	Mechanical Techniques                                                                            	Pratique en mécanique
+41010	Plumbing Techniques                                                                              	Techniques de plomberie
+41011	Instrumentation Engineering Techniques                                                           	Pratique en instruments de précision
+41021	Electro-mechanical Techniques                                                                    	Pratique en électromécanique
+41023	Underwater Skills                                                                                	Pratique en environnement sous-marin
+41201	Sensory Loss Techniques                                                                          	Pratique en perte sensorielle
+41204	Training For Literacy Instructors                                                                	Formation des intervenant(e)s en alphabétisation
+41205	Teachers Of Adults                                                                               	Enseignement aux adultes
+41211	Early Childhood Assistant                                                                        	Auxiliaire de garderie
+41220	School-age Child Care                                                                            	Garde d'enfants d'âge scolaire
+41224	Home Child Care                                                                                  	Garde d'enfants en milieu familial
+41228	Educational Assistant                                                                            	Aide en éducation
+41229	Teacher Assistant - Aboriginal                                                                   	Aide-enseignant(e) - premières nations
+41243	Flight Instructor Training                                                                       	Instructeur de vol
+41301	Laboratory Assistant                                                                             	Aide en laboratoire
+41397	Orientation To Nursing In Ontario For Practical Nurses                                           	Perfectionnement pour infirmier et infirmière auxilliaire autorisé dans des Sciences infirmières de l'Ontario
+41399	Bridging For Internationally Educated Nurses                                                     	Mise à niveau pour les infirmiers et infirmières formés internationalement
+41404	Health Studies and Communication Skills                                                          	Les études de santé et capacités de communication
+41405	Health Care Aide                                                                                 	Aide en soins de santé
+41407	Practical Nursing                                                                                	Soins infirmiers auxiliaires
+41409	Hospital Orderly                                                                                 	Aide hospitalière
+41412	Palliative Care for Personal Support Workers                                                     	Programme de formation sur les soins palliatifs à l'intention des préposés aux services de soutien à la personne
+41468	Personal Attendant                                                                               	Préposés aux soins personnels
+41469	Personal Support Worker                                                                          	Préposés aux services de soutiens personnels
+41501	Physiotherapist Assistant (p.t.a.)                                                               	Aide-physiothérapeute
+41502	Occupational Therapist Assistant/physiotherapist Assistant (ota/pta)                             	Aide-ergothérapeute/Aide-physiothérapeute
+41503	Occupational Therapist Assistant (o.t.a.)                                                        	Aide-ergothérapeute
+41504	Rehabilitation Assistant                                                                         	Aide en rééducation
+41505	Chiropractic Health Assistant                                                                    	Aide-chiropratique
+41598	Pre-Health Sciences Pathway to Certificates and Diplomas                                         	Présciences de la santé – voie vers les certificats et diplômes
+41599	Pre-Health Sciences Pathway to Advanced Diplomas and Degrees                                     	Présciences de la santé - voie vers les diplômes avancés et les baccalauréats
+41600	Pre-health Science                                                                               	Sciences de la santé - cours préparatoire
+41601	Preparatory Health Sciences                                                                      	Cours préparatoire en sciences de la santé
+41602	Animal Grooming                                                                                  	Pansage des animaux
+41603	Animal Care                                                                                      	Soins des animaux
+41605	Radiation Safety                                                                                 	Radioprotection
+41609	Medical Laboratory Assistant                                                                     	Assistant de laboratoire médical
+41610	Sterile Supply Processing                                                                        	Préparation et stérilisation des instruments et fournitures
+41612	Cardiovascular Technician                                                                        	Pratique en cardiovasculaire
+41616	Doula Studies                                                                                    	Études d’accompagnement à la naissance (doula)
+41621	Indigenous Community Diabetes Support                                                            	Soutien de diabète communautaire pour les peuples autochtones
+41622	Medical Device Reprocessing                                                                      	Préparation et stérilisation des instruments et fournitures
+41623	Pharmacy Assistant                                                                               	Aide pharmaceutique
+41624	Community Pharmacy Assistant                                                                     	Assistant en pharmacie communautaire
+41627	Dental Assistant                                                                                 	Soins dentaires
+41628	Dental Assistant (level Ii)                                                                      	Soins dentaires (niveau II)
+41629	Dental Assisting (levels I And Ii)                                                               	Soins dentaires (niveaux I et II)
+41634	911 And Emergency Response                                                                       	911 et interventions d'urgence
+41636	Emergency Telecommunications                                                                     	Télécommunications d'urgence
+41637	Paramedic                                                                                        	Soins ambulanciers paramédicaux
+41640	Firefighter Emergency Services And Rescue                                                        	Services d'urgence et de secours - Sapeurs-pompiers
+41641	Developmental Disabilities                                                                       	Besoins particuliers et soutien à l'intégration
+41643	Health Records Technician                                                                        	Commis aux dossiers de santé
+41645	Hearing Instrument Practitioner                                                                  	Consultation auprès des usagers d'audiophones
+41650	Support Care                                                                                     	Services de soutien
+41800	Art Fundamentals                                                                                 	Introduction à l'art
+41801	Art Fundamentals - Native                                                                        	Introduction à l'art - autochtone
+41802	Artist Blacksmith                                                                                	Ferronnerie d'art
+41803	Ceramics                                                                                         	La céramique
+41804	Textile Surface Design                                                                           	Dessin textile de surface
+41805	Glassblowing                                                                                     	Soufflage du verre
+41806	Jewellery Essentials                                                                             	Joaillerie-métiers d'arts
+41807	Jewellery Repairs                                                                                	Réparation de bijoux
+41808	Gemmology                                                                                        	Gemmologie
+41810	Sculpture - Figurative And Representational                                                      	Sculpture figurative et évocative
+41814	Digital Image Design                                                                             	Digital Image Design
+41816	Moving Image Design                                                                              	Conception d’images mobiles
+41820	Graphic Design Fundamentals                                                                      	Introduction à la conception graphique
+41823	Fashion Studies                                                                                  	Études en mode
+41831	Photographic Laboratory Operator                                                                 	Pratique en laboratoire photographique
+41838	Foundations of Interior Decorating                                                               	Principes fondamentaux de la décoration à l'intérieur
+41903	Media Fundamentals                                                                               	Médias - notions de base
+41904	Pre-media                                                                                        	Prémédias
+41905	Radio Foundations                                                                                	Radiophonie
+41907	Pre-music                                                                                        	Musique - cours préparatoire
+41909	Fashion Sales And Modelling                                                                      	Ventes de mode et mannequin
+41911	Pre - Theatre Arts                                                                               	Arts dramatiques - cours préparatoire
+41918	Commercial Dance Studies                                                                         	Études de danse commerciale
+41919	Dance Performance Preparation                                                                    	Préparation à la danse du spectacle
+42100	Advertising And Promotions For Retail                                                            	Publicité pour la vente au détail
+42201	Outdoor Adventure Skills                                                                         	Connaissances des aventures et des excursions en plein air
+42203	Rural Recreation                                                                                 	Loisirs en milieu rural
+42206	Recreation - Therapeutic Assistant                                                               	Adjoint-ludothéraphie
+42207	Coaching Techniques                                                                              	Introduction aux techniques d'entraînement sportif
+42209	Fundamentals of Fitness Leadership                                                               	Adjoint - Ludothérapie
+42213	Equine Studies - Horse Care And Equine Skills                                                    	Soins des chevaux
+42214	Horse Industry Operations                                                                        	Industrie des chevaux
+42221	Introduction To Natural Resources                                                                	Initiation aux richesses naturelles
+42222	Park Operation Skills                                                                            	Exploitation de parc naturel
+42223	Action Sports Parks Development                                                                  	Développement des parcs de sport extrême
+42225	Recreational Marine Operations - Boat Repair And Maintenance                                     	Exploitation d'une marina-entretien et réparation de bateau
+42304	Customer Service Fundamentals - Insurance                                                        	Principes fondamentaux du service à la clientèle-assurance
+42305	Court Reporting - Stenomask                                                                      	Soutien technique pour tribunal
+42306	Office Administration - Legal                                                                    	Administration de bureau - juridique
+42307	Insurance - Technical Services                                                                   	Assurance - Services Technique
+42308	Office Administration - Medical                                                                  	Administration de bureau - médical
+42309	Office Administration-animal Care Services                                                       	Administration de bureau- Commis en soins animaliers
+42313	Office Administration - General                                                                  	Pratiques en administration de bureau
+42316	Office Administration - Executive                                                                	Administration de bureau - adjoint administratif
+42317	Medical Transcriptionist - Health Records                                                        	Transcription médicale - dossiers de santé
+42319	Optometry Office Assistant                                                                       	Adjoint(e) de bureau en optométrie
+42320	Dental Office Administration                                                                     	Administration d'un cabinet de dentiste
+42323	Executive Receptionist                                                                           	Réceptionniste de direction
+42329	Office Administration - Word Processing                                                          	Administration de bureau - traitement de textes
+42400	Bookkeeping                                                                                      	Comptabilité
+42401	Accounting Clerk - Microcomputer                                                                 	Commis en comptabilité - micro-ordinateur
+42402	Records Operations                                                                               	Commis à l'exploitation des documents
+42509	Computer Operator                                                                                	Opération d'ordinateurs
+42700	Environmental Techniques                                                                         	Pratique environnementales
+42702	Pest Management Techniques                                                                       	Techniques de lutte contre les ravageurs
+42703	Ecosystem Surveys-field Skills                                                                   	Enquête écosystématique-apprentissage sur le terrain
+42711	Agriculture                                                                                      	Agriculture
+42712	Agricultural Practices                                                                           	Pratiques agricole
+42713	Nature Interpreters                                                                              	Interprétation de la nature
+42801	Investment Sales Assistant                                                                       	Aide en vente de valeurs mobilières
+42802	Financial Advisor                                                                                	Conseils financiers
+42903	Contact Centre Operations                                                                        	Exploitation d'un centre d'appels
+42905	Call Centre Operator                                                                             	Opération d'un standard téléphonique
+42906	Call Centre Operations                                                                           	Centre d'appels - opérations
+42909	Fashion Sales                                                                                    	Ventes de mode
+42916	Heavy Equipment Product Support                                                                  	Soutien des produits pour équipement lourd
+42917	Parts Management And Merchandising                                                               	Commis aux pièces
+42928	Sports Equipment Specialist                                                                      	Spécialiste de l'équipement sportif
+42929	Retailing                                                                                        	Vente de détail
+42930	Retail Operations                                                                                	Opérations de détail
+42936	Sales                                                                                            	Pratique en ventes
+42937	Cosmetic Sales                                                                                   	Ventes de produits de beauté
+43001	Protective Security                                                                              	Protection et sécurité
+43002	Security Alarm Techniques                                                                        	Pratique des systèmes de sécurité
+43003	Fire Service Career Preparation                                                                  	Cours préparatoire au Service des incendies
+43004	Pre-entry Firefighter                                                                            	Pré-pompiers
+43005	Fire And Emergency Services Ii                                                                   	Services d'urgence et d'incendie II
+43006	Pre-service Firefighter Education And Training                                                   	Pré-formation pour la protection contre les incendies
+43007	Law And Security - Basic                                                                         	Loi et sécurité - cours d'introduction
+43011	Fire Safety Systems                                                                              	Systèmes de sécurité incendie
+43012	Public Safety Fundamentals                                                                       	Principes de la sécurité publique
+43015	Emergency Services Fundamentals                                                                  	Principes fondamentaux en services d’urgence
+43018	Criminal Investigative Techniques                                                                	Techniques d'enquêtes criminelles
+43102	Culinary Fundamentals                                                                            	Pratiques culinaires
+43103	Hospitality Foundations                                                                          	Principes fondamentaux de l'accueil
+43106	Baking and Pastry Arts                                                                           	Cuisson au four et patisserie arts
+43107	Culinary Skills                                                                                  	Arts culinaires
+43108	Bartending                                                                                       	Service de bar
+43112	Sommelier - beer                                                                                 	Sommelier – bière
+43113	Hospitality Foundations                                                                          	Principes fondamentaux de l’accueil
+43200	Hospitality And Tourism                                                                          	Accueil et tourisme
+43201	Food And Beverage Service                                                                        	Service des aliments et des boissons
+43202	Hospitality/gaming Operations - Native                                                           	Accueil/Jeu - Autochtones
+43203	Food Service Worker                                                                              	Travailleur des services alimentaires
+43205	Travel Counsellor                                                                                	Aide en voyage et en tourisme
+43206	Travel Consulting                                                                                	Aide en voyage et en tourisme (consultant)
+43208	Travel Sales                                                                                     	Transaction de voyages
+43217	Ski Area Operations                                                                              	Pratique d'exploitation d'une station de ski
+43303	Funeral Pre-Planner                                                                              	Conseillère ou conseiller en préarrangements funéraires
+43304	Funeral Transfer Service Sales Representative                                                    	Représentante commerciale ou représentant commercial d’un Service de transfert
+43400	Hairstyling Techniques                                                                           	Techniques de coiffure
+43402	Spa Assistant                                                                                    	Adjoint thérapeute-station santé
+43601	Flight Services                                                                                  	Services aériens
+43702	Food Processing Safety Techniques                                                                	Techniques de salubrité dans l'industrie de la transformation des aliments
+43704	Food Processing Techniques                                                                       	Pratique de la transformation des aliments
+43901	Retail Florist                                                                                   	Fleuriste
+43905	Landscape And Horticultural Techniques                                                           	Aménagement paysagiste et horticulture
+43906	Urban Arboriculture                                                                              	Arboriculture urbaine
+44200	Hardwood Lumber Grader                                                                           	Classement pour sciage de feuillu
+44203	Forestry Worker                                                                                  	Travail forestier
+44206	Forest Operations - Equipment Operator                                                           	Production forestière-opérateur d'équipement
+44300	Manufacturing Techniques - Wood Products                                                         	Pratique de fabrication-travail du bois
+44307	Pulp And Paper Engineering Techniques                                                            	Pratique de l'industrie des pâtes et papier
+44403	Blasting Techniques                                                                              	Techniques de dynamitage
+44411	Mining And Mineral Processing                                                                    	Mines et traitement des minéraux
+44413	Mining Foundations                                                                               	Fondations minière
+44500	Workforce foundations                                                                            	Connaissance fondamentale de la main d'oeuvre
+44700	General Arts And Science - One-year                                                              	Cours collégial général - un an
+44701	General Vocational Preparation                                                                   	Cours préparatoire aux études collégiales
+44702	Pre-technology                                                                                   	Cours préparatoire en technologie
+44704	Technology Foundations                                                                           	Connaissance fondamentale en technologie
+44900	Welding Techniques                                                                               	Pratique de soudage
+45200	Electronics Servicing Techniques                                                                 	Pratique d'entretien électronique
+45207	Low Voltage Cabling Techniques                                                                   	Techniques de câblage basse tension
+45211	Aviation Techniques - Aircraft Maintenance                                                       	Techniques d'aviation - entretien des aéronefs
+45300	Machine Shop                                                                                     	Atelier d'usinage
+45500	Heating, Air Conditioning And Refrigeration Techniques                                           	Pratique de chauffage, de climatisation et de réfrigération
+45501	Gas Technician 2                                                                                 	Pratique en gaz
+45502	Gas And Oil Burner Technician 2                                                                  	Pratique en brûleur à gaz et à mazout
+45503	Energy Audit Techniques                                                                          	Programme de formation de technicien en systèmes énergétiques
+45504	Heating, Refrigeration And Air Conditioning Techniques                                           	Pratique de chauffage, de réfrigération et de climatisation
+45505	Gas Technician                                                                                   	Techniques de gaz
+45550	Renewable Energy Techniques                                                                      	Techniques de l'energie renouvelable
+45601	Major Appliance Service Technician                                                               	Techniques d'entretien des appareils électroménagers
+45613	Electrical Techniques                                                                            	Pratique en électricité
+45803	Furniture Products Techniques                                                                    	Pratique en fabrication de meubles
+45900	Apparel Techniques                                                                               	Pratique du vêtement
+46401	Auto Body Repair Techniques                                                                      	Pratique de carrosserie automobile
+46404	Recreational Vehicle Techniques                                                                  	Techniques de véhicules récréatifs
+46405	Motive Power Fundamentals                                                                        	Entretien des véhicules moteurs - équipement lourd
+46406	Transportation Trades Preparation for Women                                                      	Préparation pour les métiers du transport pour les femmes
+46420	Motive Power Techniques - Support                                                                	Entretien des véhicules automobiles - aide
+46600	Aircraft Structural Repair Technician                                                            	Pratique de réparation de structure d'aéronefs
+46601	Airframe Assembly                                                                                	Assemblé de la cellule
+46602	Aircraft Interior Techniques                                                                     	Techniques de l’intérieur des aéronefs
+46603	Aviation Fundamentals                                                                            	Principes de l’aviation
+46703	Heavy Equipment  Operator                                                                        	Conducteur de matériel lourd
+46704	Heavy Equipment Operator                                                                         	Conducteur de matériel lourd
+46705	Motive Power Techniques - Heavy Equipment                                                        	Spécialiste de machinerie lourde
+47000	Manufacturing Techniques                                                                         	Pratique de fabrication
+47013	Microelectronics Manufacturing Techniques - Surface Mount                                        	Fabrication de composants montés en surface - microélectronique
+47100	Motive Power Techniques - Small Powered Equipment                                                	Entretien des véhicules moteurs - petits moteurs
+47103	Marina Techniques                                                                                	Pratique de marinas
+47600	Carpentry and Renovation Techniques                                                              	Pratique de la charpenterie et de la rénovation
+47601	General Construction Carpentry Techniques                                                        	Rénovations résidentielles
+47610	Construction Craft Worker Foundations                                                            	Programme de formation de manoeuvre en construction
+47700	Masonry Techniques                                                                               	Maçonnerie
+47701	Masonry Techniques                                                                               	Pratique de la maçonnerie
+47800	Roofing Fundamentals                                                                             	Principes fondamentaux de toiture
+48200	Construction Techniques                                                                          	Pratique des métiers de la contruction
+48202	Construction & Hoisting Techniques                                                               	Practique des métiers de la construction et de levage
+48205	Sustainable Building Design And Construction                                                     	Conception et construction durable de bâtiments
+48206	Sustainable Renovations                                                                          	Rénovations durables
+48600	Marine Techniques                                                                                	Techniques maritime
+49005	Printing Techniques                                                                              	Pratique d'imprimerie
+49100	Stationary Engineering                                                                           	Pratique des machines fixes
+49403	New Media Design                                                                                 	La conception des nouveaux médias
+49625	College Vocational                                                                               	Cours collégial préparatoire à l'emploi
+49651	Building Bridges                                                                                 	Créer des liens
+49652	Transition To College For Students With Disabilities                                             	Transition au collège des étudiants avec des besoins spéciaux
+49653	Career Pathways                                                                                  	Cheminements de carrière
+49804	Occupational Health And Safety                                                                   	Santé et sécurité au travail
+50100	Business - Accounting                                                                            	Commerce - comptabilité
+50102	Professional Accounting                                                                          	Expert-comptable
+50104	Accounting And Payroll                                                                           	Comptabilisation et service de la paie
+50200	Business                                                                                         	Commerce
+50201	Business - Finance                                                                               	Commerce - finance
+50202	Business - International Business                                                                	Commerce - Commerce international
+50211	Human Services Administration                                                                    	Administration des services sociaux
+50217	Industrial Management                                                                            	Gestion industrielle
+50219	Municipal Administration And Assessment                                                          	Administration et évaluation municipale
+50220	Business Records And Health Information Management                                               	Gestion de dossiers professionnels et de l'information sur la santé
+50221	Business - Office Systems                                                                        	Commerce - bureautique
+50222	Health Office Administration                                                                     	Gestion de soins de santé
+50223	Business - Human Resources                                                                       	Commerce - ressources humaines
+50224	Packaging Technician                                                                             	Techniques d'emballage
+50227	Government Administration                                                                        	Administration publique
+50229	Retail Supermarket Management                                                                    	Gestion de supermarché - vente au détail
+50231	Small Business Management                                                                        	Gestion de petites entreprises
+50241	Assessment And Appraisal                                                                         	Évaluation immobilière
+50243	Public Relations                                                                                 	Relations publiques
+50244	Public Relations - Native                                                                        	Relations publiques - Autochtones
+50247	Industrial Relations                                                                             	Relations industrielles
+50251	Transportation And Distribution                                                                  	Techniques du transport et de la distribution
+50256	First Nations Land Management                                                                    	Gestion des terres des premières nations
+50257	Native Education - Business And Tourism                                                          	Commerce et tourisme - communautés autochtones
+50258	Ontario Band Social Services Administrator                                                       	Administrateur de services sociaux pour le Conseil de bande de l'Ontario
+50259	Band Management                                                                                  	Gestion des bandes
+50261	Air Carrier/airport Management                                                                   	Gestion des aéroports et des transports aériens
+50263	Cinema Management                                                                                	Gestion d'une salle de cinéma
+50265	Music Industry Arts                                                                              	Techniques de l'industrie de la musique
+50271	Enterprise Business                                                                              	Entreprise commerciale
+50272	Electronic Business                                                                              	Affaires électroniques
+50273	Microcomputer Management                                                                         	Gestion micro-informatique
+50300	Survey Technician                                                                                	Techniques des levés
+50303	Geographic Information Systems Technician                                                        	Techniques d'information géographique
+50310	Geomatics Technician                                                                             	Techniques en géomatique
+50400	Drafting Technician                                                                              	Techniques de dessin industriel
+50413	Design Arts - Industrial Design                                                                  	Arts du design - design industriel
+50500	Business - Information Systems                                                                   	Commerce - informatique
+50503	Computer Programmer                                                                              	Programmeur en informatique
+50504	Software Engineering Technician                                                                  	Techniques du génie logiciel
+50505	Computer Systems Technician                                                                      	Techniques des systèmes informatiques
+50508	Computer Applications Technician                                                                 	Technicien en applications informatiques
+50509	Computer Engineering Technician                                                                  	Techniques de génie informatique
+50511	Computer Networking And Technical Support                                                        	Réseautique et soutien technique
+50513	Internet Applications and Web Development                                                        	Développement de sites Internet
+50600	Architectural Technician                                                                         	Techniques d'architecture
+50700	Human Studies (core)                                                                             	Étude sur l'homme - essentiel
+50701	Child Care Worker                                                                                	Techniques d'éducation spécialisée
+50703	Community Worker                                                                                 	Travail communautaire
+50704	Native Community Worker                                                                          	Travail communautaire auprès des autochtones
+50705	Community And Justice Services                                                                   	Techniques de réadaptation et de justice pénale
+50707	Community Development Work                                                                       	Travaux de développement communautaire
+50708	Peace and Conflict Studies                                                                       	Études de la paix et les conflits
+50717	Social Science Research                                                                          	Recherche en sciences sociales
+50719	Behavioural Science Technician                                                                   	Techniques des sciences du comportement
+50721	Social Service Worker                                                                            	Techniques de travail social
+50722	Native Child And Family Services                                                                 	Services aux familles et enfants autochtones
+50725	Home Economics                                                                                   	L'économie domestique
+50726	Assistive Technologies Support Worker                                                            	Soutien en technologie d'aide
+50727	Rehabilitation Worker                                                                            	Techniques de réadaptation
+50728	Social Service Worker - Gerontology                                                              	Techniques de travail social - Gérontologie
+50729	Activation Co-ordinator/gerontology                                                              	Techniques de gérontologie - coordinateur(trice)
+50733	Mental Health Worker                                                                             	Travail auprès des déficients intellectuels
+50735	Sign Language Communicator                                                                       	Communication en langage gestuel
+50741	Anishnaabemowin Language Programming                                                             	Programme d'enseignement de la langue Anishnaabemowin
+50805	Library And Information Technician                                                               	Techniques de documentation et d'information
+50809	Archives Technician                                                                              	Techniques des archives
+50810	Aboriginal Cultural Interpreter                                                                  	Interprète culturel autochtone
+50811	Collections Conservation And Management                                                          	Conservation et gestion des collections d'art
+50901	Human Services Counsellor                                                                        	Consultation en services sociaux
+50904	Family Violence - Counsellor And Advocate                                                        	Violence familiale - consultation
+50913	Career And Work Counsellor                                                                       	Techniques d'orientation professionnelle
+51003	Civil Engineering Technician                                                                     	Techniques du génie civil
+51004	Maintenance Management - Small Communities                                                       	Gestion de l'entretien-petites communautés
+51005	Industrial Engineering Technician                                                                	Techniques du génie industriel
+51006	Quality Engineering Technician-non Destructive Evaluation                                        	Techniques de gestions de la qualité - évaluation non destructive
+51007	Mechanical Engineering Technician                                                                	Techniques du génie mécanique
+51009	Building Systems Engineering Technician                                                          	Techniques du génie en méchanique du bâtiment
+51010	Plumbing Technician                                                                              	Techniques de plomberie
+51011	Instrumentation and Control Engineering Technician                                               	Techniques des instruments de précision
+51020	Photonics Engineering Technician                                                                 	Techniques du génie de la photonique
+51021	Electro-mechanical Engineering Technician                                                        	Techniques de génie électromécanique
+51022	Wind Turbine Technician                                                                          	Techniques d'aérogénérateur
+51024	Electro-Mechanical Maintenance                                                                   	Entretien électromécanique
+51100	Automation Technician                                                                            	Techniques en automatisation
+51101	Automation Engineering Technician                                                                	Techniques du génie de l'automatisation
+51200	Intervenor For Deaf - Blind Persons                                                              	Intervention auprès des personnes sourdes-aveugles
+51205	Teachers Of Adults                                                                               	Techniques d'enseignement aux adultes
+51207	American Sign Language And Literacy Instructor                                                   	Langage des signes américains et alphabétiseur
+51211	Early Childhood Education                                                                        	Garde éducative à l'enfance
+51213	Audio-visual Technician                                                                          	Techniques audiovisuelles
+51228	Educational Support                                                                              	Techniques d'appui à l'enseignement – besoins particuliers
+51229	Teacher Aide                                                                                     	Techniques d'appui à l'enseignement
+51237	Educational Resources And Special Needs                                                          	Ressources pédagogiques et besoins particuliers
+51239	Canadian Nanny                                                                                   	Bonne d'enfants canadienne
+51301	Chemical Engineering Technician                                                                  	Techniques du génie chimique
+51302	Chemical Laboratory Technician                                                                   	Techniques chimiques
+51304	Biotechnology                                                                                    	Techniques de biotechnologie
+51407	Practical Nursing                                                                                	Soins infirmiers auxiliaires
+51470	Community Gerontology                                                                            	Gérontologie en milieu communautaire
+51501	Physiotherapist Assistant                                                                        	Aide-physiothérapeute
+51502	Occupational Therapist Assistant/physiotherapist Assistant (ota/pta)                             	Aide-ergothérapeute/Aide-physiothérapeute
+51503	Occupational Therapist Assistant                                                                 	Aide-ergothérapeute
+51603	Veterinary Technician                                                                            	Techniques des soins vétérinaires
+51605	Radiography                                                                                      	Techniques de radiodiagnostic
+51606	Medical Electroneurophysiology Technician                                                        	Technique d'életroneurophysiologie médicale
+51611	Opticianry                                                                                       	Fabrication et commerce d'instruments d'optique
+51612	Cardiovascular Technology                                                                        	Technologie cardio-vasculaire
+51623	Pharmacy Technician                                                                              	Techniques pharmaceutiques
+51625	Orthotic/prosthetic Technician                                                                   	Techniques d'orthotique et de prothétique
+51627	Dental Hygiene                                                                                   	Hygiène dentaire
+51628	Dental Hygiene                                                                                   	Hygiène dentaire
+51634	9-1-1 Emergency and Call Centre Communications                                                   	Service d'urgence 911 et centres d'appels
+51637	Paramedic                                                                                        	Soins ambulanciers paramédicaux
+51641	Developmental Services Worker                                                                    	Services de réadaptation
+51642	Applied Nuclear Science and Radiation Safety                                                     	Applied Science nucléaire et radioprotection
+51643	Health Information Management                                                                    	Technologie de l'information en santé
+51645	Hearing Instrument Specialist                                                                    	Audioprothésiste
+51646	Health Records Technician                                                                        	Techniques des dossiers de santé
+51800	Fine Arts And Crafts                                                                             	Beaux-arts et artisanat
+51802	Design And Visual Arts - General                                                                 	Design et arts visuels
+51803	Ceramics                                                                                         	Céramique
+51806	Jewellery Methods                                                                                	Techniques en joaillerie
+51807	Jewellery And Metals Technician                                                                  	Techniques de joaillerie
+51814	Visual And Digital Arts                                                                          	Arts visuels et numériques
+51817	Industrial Design Technician                                                                     	Techniques de design industriel
+51818	Product Innovation Technician                                                                    	Techniques en produits innovateurs
+51820	Graphic Design Production                                                                        	Techniques de graphisme
+51821	Experiential Design                                                                              	Design expérientiel
+51822	Graphic Sign Design And Production                                                               	Création et production graphique d'affiches
+51823	Fashion Technique And Design                                                                     	Techniques et création de mode
+51825	Fashion Arts - Modelling And Fashion                                                             	Mode - mannequin et mode
+51826	Graphic Arts Electronic Prepress                                                                 	Arts graphiques - prépresse électronique
+51827	Video Production                                                                                 	production vidéo
+51829	Film Production                                                                                  	Production cinématographique
+51830	Digital Photography And Imaging                                                                  	Photographie numérique et traitement de l'image
+51831	Photography                                                                                      	Photographie
+51832	Photojournalism                                                                                  	Reportage-photo
+51833	Interior Design                                                                                  	Design d'intérieur
+51835	Taxidermy                                                                                        	Taxidermie
+51837	Visual Merchandising Arts                                                                        	Arts visuels - présentation commerciale
+51838	Interior Decorating                                                                              	Décoration d'intérieur
+51900	Game Design And Development                                                                      	Conception et production de jeux électroniques
+51901	Animation                                                                                        	Animation
+51903	Broadcasting - Radio                                                                             	Radio
+51904	Broadcasting - Television                                                                        	Production télévisuelle
+51905	Broadcasting - Radio And Television                                                              	Radiotélédiffusion
+51906	Corporate Media Production                                                                       	Production corporative en multimédia
+51908	Digital Arts For Musicians                                                                       	Arts numériques pour musiciens
+51910	Acting For Film And Television                                                                   	Interprétation artistique au cinéma et à la télévision
+51911	Theatre Arts - Production                                                                        	Arts dramatiques - production
+51913	Stage Management Technician                                                                      	Techniques et gestion de scène
+51914	Entertainment Administration                                                                     	Administration des divertissements
+51919	Dance Performance Studies                                                                        	Études de danses de spectacle
+51921	Arts Administration                                                                              	Administration des arts
+51995	Journalism - Broadcast                                                                           	Journalisme - électronique
+52001	Professional Writing                                                                             	Art d'écrire
+52002	Comedy: Writing And Performance                                                                  	Comédie : écriture et spectacle
+52005	Journalism - Print                                                                               	Journalisme - écrit
+52006	Journalism                                                                                       	Journalisme
+52008	Native Journalism - Print                                                                        	Journalisme écrit-autochtones
+52009	Communications                                                                                   	Communications
+52100	Advertising and Marketing Communications                                                         	Publicité et communications marketing
+52102	Creative Advertising                                                                             	Création publicitaire
+52103	Business - Advertising                                                                           	Commerce - publicité
+52109	Sport Conditioning                                                                               	Conditionnement sportif
+52198	Outdoor and Adventure Education                                                                  	Gestion du récréotourisme
+52200	Sports Injury Management                                                                         	Soins des blessures sportives
+52201	Recreational Tourism Management                                                                  	Gestion du récréotourisme
+52202	Tourism                                                                                          	Tourisme
+52203	Recreation And Leisure Services                                                                  	Études en loisirs
+52204	Hospitality, Recreation And Tourism                                                              	Accueil, tourisme et loisirs
+52205	Special Events Planning                                                                          	Planification d'événements spéciaux
+52206	Recreation Therapy                                                                               	Loisir thérapeutique
+52207	Coaching Techniques                                                                              	Techniques d'entraînement sportif
+52209	Fitness And Health Promotion                                                                     	Conditionnement physique et santé
+52210	Sports And Leisure Management                                                                    	Gestion des sports et des loisirs
+52211	Sports Administration                                                                            	Techniques d'administration des activités sportives
+52212	Nutrition and Healthy Lifestyle Promotion                                                        	Nutrition et la promotion de saines habitudes de vie
+52213	Equine Studies                                                                                   	Hippotechnie
+52214	Horse Industry Management                                                                        	Gestion de l'industrie des chevaux
+52215	Recreational Marine Management                                                                   	Gestion des marinas
+52219	Recreation Facility Management                                                                   	Gestion de centre sportif
+52220	Golf & Recreational Club Management                                                              	Gestion de sites récréatifs et de terrains de golf
+52221	Recreation - Parks Operation And Services                                                        	Loisirs - exploitation de parcs et services
+52223	Golf And Ski Operations Management                                                               	Gestion des opérations pour le ski et le golf
+52225	Small Craft And Marina Technician                                                                	Techniques de marinas et de bateaux de plaisance
+52230	Coaching And Sport Development                                                                   	Perfectionnement pour entraîneur sportif
+52303	Dietetic Technician                                                                              	Techniques diététiques
+52305	Court Reporting - Machine Shorthand                                                              	Sténographie judiciaire
+52306	Office Administration - Legal                                                                    	Administration de bureau - juridique
+52307	Office Administration - Real Estate                                                              	Administration de bureau - immobilier
+52308	Office Administration - Health Services                                                          	Administration de bureau - médical
+52309	Office Administration - Veterinary (Online)                                                      	Administration de bureau - secteur vétérinaire (en ligne)
+52313	Office Administration                                                                            	Administration de bureau
+52316	Office Administration - Executive                                                                	Techniques en administration de bureau
+52318	Translation Support Techniques                                                                   	Communication et bureautique
+52329	Office Administration - Word Processing                                                          	Administration de bureau - traitement de textes
+52330	Office Administration - Office Systems                                                           	Administration de bureau - informatique
+52400	Accounting Business Systems                                                                      	Méthode de comptabilité commerciale
+52402	Records And Information Management                                                               	Gestion de documents
+52610	Court And Tribunal Administration                                                                	Tribunaux administratifs
+52611	Law Clerk                                                                                        	Adjoint juridique
+52612	Legal Technician - Civil                                                                         	Techniques juridiques - droit civil
+52613	Court And Tribunal Agent                                                                         	Agent juridique
+52700	Environmental Technician                                                                         	Techniques de l'environnement
+52701	Waste Facility Management                                                                        	Gestion des installations pour le traitement des déchets
+52702	Environmental Pest Management                                                                    	Lutte contre les parasites dans l'environnement
+52705	Water And Waste Water Technician                                                                 	Techniques sur les ressources en eau et sur les eaux usées
+52708	Aquaculture Technician                                                                           	Techniques d'aquaculture
+52709	Fish And Wildlife Technician                                                                     	Techniques de gestion de la pêche et de la faune
+52711	Artisan Agriculture                                                                              	Agriculture artisanale
+52712	Agricultural Techniques                                                                          	Techniques agricoles
+52713	Historical/natural Interpretive Services                                                         	Services de guide de nature et d'histoire
+52801	Financial Services                                                                               	Services financiers
+52803	Insurance                                                                                        	Assurance
+52805	Property Management                                                                              	Gestion immobilière
+52811	Risk Analyst                                                                                     	Analyste du risque
+52900	Business - Marketing                                                                             	Commerce - marketing
+52905	Business - Customer Service                                                                      	Commerce - service à la clientèle
+52907	Automotive Business                                                                              	Commerce - automobiles
+52909	Fashion Merchandising                                                                            	Marchandisage de la mode
+52925	Business - Purchasing                                                                            	Commerce - achats
+52928	Recreational Merchandising                                                                       	Commercialisation des loisirs
+52929	Business - Retailing                                                                             	Commerce - vente au détail
+52935	Photographic Merchandising                                                                       	Photographie de la marchandisage
+52936	Business - Sales                                                                                 	Commerce - ventes
+52937	Cosmetic Techniques                                                                              	Techniques de cosmétologie
+52940	Computer Sales And Marketing                                                                     	Ventes d'ordinateurs et marketing
+52941	Floor Covering Marketing                                                                         	Marchandisage des revêtements de sol
+52943	Hearing Aid Consultant                                                                           	Consultation auprès des usagers d'audiophones
+53001	Security Management                                                                              	Administration de la sécurité
+53002	Security And Alarms Systems Technician                                                           	Conception et installation de systèmes de sécurité
+53003	Fire Protection Technician                                                                       	Techniques de protection contre les incendies
+53007	Protection, Security and Investigation                                                           	Protection, sécurité et enquête
+53008	Police Foundations                                                                               	Techniques des services policiers
+53011	Fire and Life Safety Systems Technician                                                          	Technicien de systèmes de prévention des incendies et de sécurité des personnes
+53015	Safety, Security and Emergency Management                                                        	Administration de la sécurité et cas d'urgence
+53016	Investigation - Public And Private                                                               	Techniques d'enquêtes - publiques et privées
+53104	Baking And Pastry Arts Management                                                                	Gestion en boulangerie et pâtisserie
+53105	Institutional Cooking                                                                            	Restauration collective
+53106	Baking And Pastry Skills                                                                         	Cuisson au four et pâtisserie
+53107	Culinary Management                                                                              	Arts culinaires - gestion
+53200	Hospitality                                                                                      	Hôtellerie
+53201	Food And Beverage Management                                                                     	Gestion des aliments et boissons
+53202	Native Hotel Lodge Management                                                                    	Gestion autochtone de site de villégiatures
+53204	Nutrition and Food Service Management                                                            	Supervision des services alimentaires
+53205	Tourism                                                                                          	Tourisme
+53209	Hospitality And Tourism Management                                                               	Gestion de l'industrie de l'accueil et du tourisme
+53211	Hospitality Management - Catering                                                                	Gestion de l’industrie de l'accueil – restauration
+53217	Ski Resort Operations And Management                                                             	Exploitation d'une station de ski
+53303	Funeral Service Education                                                                        	Services funéraires
+53305	Funeral Director                                                                                 	Directrice ou directeur de funérailles
+53400	Hairstyling                                                                                      	Coiffure
+53401	Esthetician                                                                                      	Techniques d'esthétique
+53601	Flight Services - Operations and Cabin Management                                                	Services aériens – Les opérations et la gestion de la cabine
+53700	Bio-food Technician                                                                              	Techniques d'oenologie
+53701	Winery And Viticulture Technician                                                                	Techniques de vinerie et viticulture
+53703	Brewmaster and Brewery Operations Management                                                     	Maître-brasseur et gestion de brasserie
+53704	Food Processing Technician                                                                       	Techniques de la transformation des aliments
+53901	Retail Floriculture                                                                              	Floriculture - vente de détail
+53902	Greenhouse Technician                                                                            	Techniques de serriculture
+53905	Horticulture Technician                                                                          	Techniques d'horticulture
+53906	Urban Forestry Technician                                                                        	Pratique en sylviculture urbaine
+53907	Horticultural Industries                                                                         	Secteurs de l'horticulture
+54005	Farm Business Management                                                                         	Gestion d'entreprises agricoles
+54203	Forestry Technician                                                                              	Techniques forestières
+54204	Renewable Resource Technician                                                                    	Techniques des systèmes intégrés de gestion des ressources
+54205	Forest Recreation Technician                                                                     	Techniques des loisirs en forêt
+54300	Manufacturing Technician - Wood Products                                                         	Techniques de fabrication - travail du bois
+54305	Manufacturing Technician - Forest Products                                                       	Techniques de fabrication-produits forestiers
+54307	Pulp And Paper Engineering Technician                                                            	Techniques du génie des pâtes et papier
+54400	Geological Engineering - Common                                                                  	Génie géologique - générale
+54403	Resources Technician - Drilling                                                                  	Techniques des richesses naturelles - forage
+54407	Geological Engineering Technician                                                                	Techniques du génie géologique
+54409	Metallurgical Engineering Technician                                                             	Techniques de génie métallurgique
+54411	Mining Engineering Technician                                                                    	Techniques du génie minier
+54513	Food Industry Technician                                                                         	Techniques de l'industrie alimentaire
+54700	Military Arts And Science                                                                        	Programme militaire d'arts et science
+54701	General Arts And Science                                                                         	Cours collégial général
+54703	Cree Cultural Practitioner                                                                       	Praticien de la culture Cris
+54900	Welding Engineering Technician                                                                   	Techniques du génie du soudage
+54902	Welding and Fabrication Technician                                                               	Techniques du génie du soudage
+54910	Metal Fabrication Technician                                                                     	Pratique de fabrication des produits métalliques
+55200	Electronics Technician - General Servicing                                                       	Techniques du génie électronique - entretien général
+55202	Signals And Communications Technician                                                            	Techniques de signalisation et de communications
+55203	Electronics Engineering Technician                                                               	Techniques du génie électronique
+55211	Aviation Technician - Avionics Maintenance                                                       	Techniques de l'aviation - entretien avionique
+55300	Mechanical Technician                                                                            	Techniques mécaniques
+55413	Prospecting and Mining Exploration Techniques                                                    	Techniques en prospection et exploration minière
+55500	Heating, Refrigeration And Air Conditionning Technician                                          	Techniques de chauffage, de climatisation et de réfrigération
+55503	Energy Systems Engineering Technician                                                            	Techniques du génie des systèmes énergitiques
+55506	Geothermal Engineering Technician                                                                	Techniques de génie géothermique
+55507	Sustainable Energy Technician                                                                    	Techniques d'énergie durable
+55550	Integrated Energy Systems Technician                                                             	Techniques de systèmes énergètiques intégrés
+55610	Powerline Technician                                                                             	Techniques en ligne de transmission
+55613	Electrical Engineering Technician                                                                	Techniques du génie électrique
+55700	Wireless/Mobility Telecommunications Engineering Technician                                      	Techniques du génie des télécommunications sans fil et mobiles
+55803	Furniture Technician                                                                             	Techniques d'ameublement
+55900	Apparel Manufacturing Management                                                                 	Gestion de la confection de vêtements
+55901	Fashion Business Industry                                                                        	Industrie de la commercialisation de la mode
+56301	Plastics Engineering Technician                                                                  	Techniques de fabrication de moules
+56401	Auto Body Repair Technician                                                                      	Technicien- Réparation de carrosseries d'automobile
+56405	Motive Power Technician                                                                          	Techniques des véhicules moteurs
+56500	Community Planning                                                                               	Techniques d'urbanisme
+56600	Aviation Technician - Aircraft Maintenance                                                       	Techniques de l'aviation - entretien des appareils
+56702	Grain Elevator Technician                                                                        	Techniques de silo à grains
+56705	Heavy Equipment Technician                                                                       	Techniques de l'équipement lourd
+57000	Manufacturing Engineering Technician                                                             	Techniques du génie de la fabrication
+57001	Chemical Production And Power Engineering Technician                                             	Techniques du génie électrique et de fabrication de produits chimiques
+57011	Watch Technician                                                                                 	Techniques de l'horlogerie
+57019	Aviation Engineering Technician                                                                  	Techniques du génie de l'aviation
+57020	Aviation Technician - Simulator Technology                                                       	Techniques en aviation-technologie de simulateur
+57101	Combustion Technician                                                                            	Techniques de combustion
+57201	Piano Technician                                                                                 	Réparation de pianos
+57600	Carpentry and Renovation Technician                                                              	Charpenterie et travail du bois à l'ancienne
+57700	Masonry - Heritage And Traditional                                                               	Maçonnerie - techniques anciennes et traditionnelles
+57701	Masonry Techniques                                                                               	Techniques maçonnerie
+58100	Building Construction Technician                                                                 	Techniques de construction de bâtiment
+58101	Building Inspection Technician                                                                   	Techniques d'inspection de bâtiment
+58200	Construction Engineering Technician                                                              	Techniques du génie de la construction
+58205	Alternative (Sustainable) Energy Engineering Technician                                          	Techniques de biocarburants et bioprocédés
+58515	Meteorological Technician                                                                        	Techniques de météorologie
+58600	Marine Engineering Technician                                                                    	Technicien de genie maritime
+58900	Business - Supply Chain and Operations                                                           	Commerce - gestion de stocks
+58902	Business - Logistics                                                                             	Commerce - gestion de la distribution
+58905	Packaging Engineering Technician                                                                 	Technicien en génie d'emballage
+59000	Book And Magazine Publishing                                                                     	Édition de livres et de magazines
+59005	Printing Technician                                                                              	Techniques d'imprimerie
+59100	Stationary Engineering                                                                           	Techniques du génie des machines fixes
+59302	Telecommunications Technician                                                                    	Techniques des télécommunications
+59403	Interactive Media Design                                                                         	Techniques des médias
+59405	Independent Illustration                                                                         	Illustration indépendante
+59625	College Vocational                                                                               	Cours collégial préparatoire à l'emploi
+59650	Community Integration Through Co-operative Education                                             	Intégration communautaire par l'éducation coopérative
+59804	Occupational Health And Safety Technician                                                        	Technicien en santé et sécurité au travail
+59806	Healthcare Environmental Services Management                                                     	Gestion des services environnementaux en matière de santé
+60100	Business Administration - Accounting                                                             	Administration des affaires - comptabilité
+60106	Business Administration – Accounting and Financial Services                                      	Administration des affaires - comptabilité et services financiers
+60200	Business Administration                                                                          	Administration des affaires
+60201	Business Administration - Finance                                                                	Administration des affaires - finance
+60202	Business Administration - International Business                                                 	Administration des affaires - Commerce international
+60204	Business Administration - Professional Golf Management                                           	Administration des affaires - gestion du golf professionnel
+60209	Industrial Engineering Technology - Management                                                   	Technologie du génie industriel - gestion
+60217	Business Administration - Operations Management                                                  	Administration des affaires - gestion des activités
+60218	Business Administration - Environmental Waste Management                                         	Administration des affaires - traitement des déchets environnementaux
+60219	Business Administration - Municipal Management                                                   	Administration des affaires - Gestion municipale
+60223	Business Administration - Human Resources                                                        	Administration des affaires - gestion des ressources humaines
+60224	Packaging Management And Technology                                                              	Gestion et technologie de l'emballage
+60227	Public Institution Management And Administration                                                 	Administration et gestion d'établissements publiques
+60231	Business Administration - Small Business Management                                              	Administration des affaires - gestion de petites entreprises
+60243	Public Relations                                                                                 	Relations publiques
+60247	Industrial Relations                                                                             	Relations industrielles
+60251	Transportation And Distribution Administration                                                   	Administration des transports et de la distribution
+60258	Community Economic And Social Development Administration                                         	Administration en développement communautaire économique et social
+60259	Business Management - Aboriginal Organizations                                                   	Administration des affaires - organismes autochtones
+60261	Air Carrier/airport Management Technology                                                        	Administration des aéroports et des transports aériens
+60262	Aviation Safety                                                                                  	Aviation Safety
+60272	E-commerce Management                                                                            	Gestion du commerce électronique
+60273	Microcomputer Analyst                                                                            	Analyste en micro-informatique
+60300	Survey Technology                                                                                	Technologie des levés
+60303	Geographic Information Systems Technology                                                        	Technologie des systèmes d'information géographique
+60404	Product Design and Development                                                                   	Conception et production de produits industriels
+60413	Design Arts - Industrial                                                                         	Arts du design - design industriel
+60500	Business Administration - Information Systems                                                    	Administration des affaires - informatique
+60503	Computer Programmer Analyst                                                                      	Informatique - programmation et analyse
+60504	Software Engineering Technology                                                                  	Technologie du génie logiciel
+60505	Computer Systems Technology                                                                      	Technologie des systèmes informatiques
+60507	Business Administration - Accountant/programmer Analyst                                          	Administration des affaires - comptabilité/programmation et analyse
+60509	Computer Engineering Technology                                                                  	Technologie du génie informatique
+60510	Business Technology - Information/communication Systems                                          	Technologie de l'administration des affaires - informatique et communication
+60511	Network Professional                                                                             	Expert en réseau
+60513	Internet Applications and Web Development Advanced                                               	Technologie de projet Internet
+60518	IT Innovation and Design                                                                         	Innovation et conception - technologie de l'information
+60600	Architectural Technology                                                                         	Technologie de l'architecture
+60701	Child and Youth Care                                                                             	Techniques d'éducation spécialisée
+60717	Social Science Research - Advanced                                                               	Recherche en sciences sociales - avancée
+60719	Behavioural Science Technology                                                                   	Technologie des sciences du comportement
+60722	Native Child And Family Worker                                                                   	Consultation auprès des enfants et des familles autochtones
+60735	American Sign Language - English Interpreter                                                     	Interprétation en langage gestuel
+60807	Museum Technology                                                                                	Technologie des musées
+60811	Art Conservation Techniques                                                                      	Techniques de conservation d'objets d'arts
+60913	Employment Counsellor                                                                            	Consultation en planification de carrière
+61000	Engineering Technology (core)                                                                    	Technologie du génie - générale
+61003	Civil Engineering Technology                                                                     	Technologie du génie civil
+61005	Industrial Engineering Technology                                                                	Technologie du génie industriel
+61007	Mechanical Engineering Technology                                                                	Technologie du génie mécanique
+61011	Instrumentation and Control Engineering Technology                                               	Technologie du génie des instruments de précision
+61020	Photonics Engineering Technology                                                                 	Technologie du génie de la photonique
+61021	Electromechanical Engineering Technology                                                         	Technologie du génie électromécanique
+61100	Automation Technology                                                                            	Technologie en automatisation
+61101	Automation Engineering Technology                                                                	Technologie du génie de l'automatisation
+61301	Chemical Engineering Technology                                                                  	Technologie du génie chimique
+61302	Chemical Laboratory Technology                                                                   	Technologie chimique
+61303	Biomedical Engineering Technology                                                                	Technologie du génie biomédical
+61304	Biotechnology - Advanced                                                                         	Biotechnologie - Niveau avancé
+61400	Nursing                                                                                          	Sciences infirmières
+61401	Nursing                                                                                          	Sciences infirmières
+61501	Physiotherapy                                                                                    	Physiothérapie
+61503	Occupational Therapy                                                                             	Ergothérapie
+61603	Veterinary Technology                                                                            	Technologie des soins vétérinaires
+61605	Medical Imaging Technology - Radiography                                                         	Radiographie
+61607	Dental Technology                                                                                	Technologie des soins dentaires
+61608	Bridging Program For Medical Laboratory Technology                                               	Programme de mise à niveau pour technologue de laboratoire médical
+61609	Medical Laboratory Technology                                                                    	Technologie du laboratoire médical
+61610	Medical Imaging Technology - Ultrasonography                                                     	Technologie d'imagerie médicale - ultrasonographie
+61613	Environmental Health                                                                             	Santé environnementale
+61614	Chiropody                                                                                        	Podologie
+61615	Respiratory Therapy                                                                              	Thérapie respiratoire
+61618	Massage Therapy                                                                                  	Massothérapie
+61626	Denturism                                                                                        	Denturothérapie
+61628	Dental Hygiene                                                                                   	Hygiène dentaire
+61630	Acupuncture                                                                                      	Acuponcture
+61632	Traditional Chinese Medicine Practitioner                                                        	Praticien en médecine traditionnelle chinoise
+61633	Homeopathy                                                                                       	Homéopathie
+61643	Health Informatics Technology                                                                    	Technologie de l'information en santé
+61644	Health Care Administration                                                                       	Administration des soins de santé – 3 ans
+61645	Hearing Instrument Specialist                                                                    	Audioprothésiste
+61800	Fine Arts And Crafts - Advanced                                                                  	Beaux-arts - avancés
+61803	Ceramics - Advanced                                                                              	Céramique - avancée
+61806	Jewellery Arts                                                                                   	Les arts de la joaillerie
+61807	Jewellery Arts                                                                                   	Bijouterie
+61817	Industrial Design                                                                                	Design industriel
+61820	Graphic Design                                                                                   	Design graphique
+61823	Fashion Arts                                                                                     	Mode
+61826	Graphic Arts Reproduction - Production Co-ordinator                                              	Reproduction d'arts graphiques - coordination de la production
+61829	Film Production                                                                                  	Production cinématographique
+61831	Photography - Advanced                                                                           	Photographie - avancée
+61833	Interior Design                                                                                  	Design d'intérieur - avancé
+61850	Game Programming                                                                                 	Programmation de jeux multimédia
+61900	Game Development                                                                                 	Conception de jeux multimédia
+61901	Animation                                                                                        	Animation
+61903	Broadcasting                                                                                     	Production radio et télévision
+61907	Music                                                                                            	Musique
+61911	Theatre Arts                                                                                     	Arts dramatiques
+61912	Music Theatre - Performance                                                                      	Théâtre musical - interprétation
+61913	Theatrical Production Arts                                                                       	Arts liés à la production théâtrale
+61914	Music Business Management                                                                        	Administration de l'industrie musicale
+61916	Mobile Applications Development                                                                  	Conception de jeux multimédia
+61919	Dance Arts                                                                                       	Les arts de la danse
+61920	Entertainment Technology                                                                         	Technologie du spectacle
+61922	Theatre Arts and Performance                                                                     	Arts dramatiques
+62005	Journalism - Print                                                                               	Journalisme - écrit
+62006	Journalism                                                                                       	Journalisme
+62007	Technical Writer                                                                                 	Rédaction technique
+62100	Advertising and Marketing Communications Management                                              	Publicité et gestion des communications marketing
+62200	Sports Injury                                                                                    	Soins des blessures sportives
+62201	Nature-based Adventure Tourism Management                                                        	Gestion en tourisme d'aventure
+62203	Sports And Entertainment Administration                                                          	Administration des loisirs
+62209	Fitness Management                                                                               	Gestion de l'activité physique
+62211	Sport Management                                                                                 	Gestion des activités sportives
+62225	Marina Technology                                                                                	Technologie des marinas
+62305	Court Reporting - Machine Shorthand                                                              	Sténotypie assistée par ordinateur
+62306	Office Administration - Legal                                                                    	Administration de bureau - juridique
+62330	Office Systems Administration                                                                    	Administration des systèmes de bureau
+62402	Records And Information Technology Management                                                    	Gestion des technologies de l'information et de la documentation
+62611	Law Clerk Advanced                                                                               	Administration juridique
+62700	Environmental Technology                                                                         	Technologie de l'environnement
+62703	Resources Engineering Technology - Environmental                                                 	Technologie du génie de l'environnement
+62704	Aki Kwaamdandaa: Aboriginal Environmental Protection                                             	Technologie en sciences environnementales - Premières Nations
+62709	Fish And Wildlife Technology                                                                     	Technologie de la pêche et de la faune
+62801	Financial Planning Management                                                                    	Gestion de la planification financière
+62803	Insurance Administration                                                                         	Administration de l'assurance
+62804	Banking And Wealth Management                                                                    	Gestion bancaire et de patrimoine
+62805	Property Management                                                                              	Gestion des biens immobiliers
+62900	Business Administration - Marketing                                                              	Administration des affaires - marketing
+62907	Business Administration - Automotive Marketing                                                   	Administration des affaires - marketing automobile
+62909	Fashion Merchandising                                                                            	Marchandisage de la mode
+62939	Technical Sales Representative                                                                   	Agent technico-commercial
+63002	Information Security Technology                                                                  	Technologie de la sécurité de l'information
+63003	Fire Protection Technology                                                                       	Technologie de la protection contre les incendies
+63012	Fire Inspection and Fire Safety Education                                                        	Prévention des incendies
+63107	Culinary Administration                                                                          	Arts culinaires - administration
+63111	Culinary Innovation and Food Technology                                                          	Innovation de la cuisine et la technologie de l'alimentation
+63200	Hospitality Administration                                                                       	Administration de l'accueil
+63201	Hospitality And Tourism Administration                                                           	Administration de l'accueil et du tourisme
+63204	Food And Nutrition Administration                                                                	Nourriture et alimentation - administration
+63205	Tourism Management                                                                               	Gestion touristique
+63401	Esthetics and Spa Therapies                                                                      	Thérapies d'esthétique et de spa
+63700	Bio-food Technology                                                                              	Technologie d'oenolgie
+63702	Food Safety                                                                                      	Salubrité des aliments
+63905	Design - Landscape                                                                               	Architecture paysagiste
+64203	Forestry Technology                                                                              	Technologie en environnement forestier
+64204	Forest Management Technology                                                                     	Technologie de la gestion des forêts
+64205	Parks And Forest Recreation Technology                                                           	Technologie des loisirs en forêt
+64300	Manufacturing Technology - Wood Products                                                         	Technologie de la fabrication - produit du bois
+64307	Pulp And Paper Engineering Technology                                                            	Technologie de l'industrie des pâtes et papier
+64407	Geological Engineering Technology                                                                	Technologie du génie géologique
+64409	Metallurgical Engineering Technology                                                             	Technologie du génie métallurgique
+64411	Mining Engineering Technology                                                                    	Technologie du génie minier
+64513	Food Engineering Technology - Processing                                                         	Technologie de l'industrie alimentaire
+64600	Textile Technology Management                                                                    	Gestion de la production des textiles
+64701	General Arts And Science - Advanced                                                              	Cours collégial général - avancé
+64900	Welding Engineering Technology                                                                   	Technologie du génie du soudage
+65203	Electronics Engineering Technology                                                               	Technologie du génie électronique
+65300	Mechanical Engineering Technology - Tool And Machine Design                                      	Technologie du génie mécanique - conception d'outils et d'appareils d'usine
+65500	Heating, Air Conditioning And Refrigeration Technology                                           	Technologie de chauffage, de climatisation et de réfrigération
+65503	Energy Systems Engineering Technology                                                            	Technologie du génie des systèmes énergitiques
+65613	Electrical Engineering Technology                                                                	Technologie du génie électrique
+65700	Electronics Engineering Technology - Communications                                              	Technologie du génie électronique-communications
+65701	Broadcast Engineering Technology                                                                 	Technologie en génie de diffusion générale
+65900	Apparel Design And Technology                                                                    	Gestion de la fabrication de vêtements
+66301	Plastics Engineering Technology                                                                  	Technologie du génie chimique - matières synthétiques
+66405	Motive Power Technician                                                                          	Techniques des véhicules automobiles
+66500	Design - Urban                                                                                   	Urbanisme
+66600	Aviation Technology – Aircraft Maintenance                                                       	Technologie de l'aviation- entretien d’aéronefs
+67000	Manufacturing Engineering Technology                                                             	Technologie du génie de la fabrication
+67001	Chemical Production Engineering Technology                                                       	Technologie du génie des procédés opérationnels
+67003	Bio-Industrial Engineering Technology                                                            	Technologie du génie bio industriel
+67009	Automotive Manufacturing Technology                                                              	Technologie du marketing automobile
+67011	Watchmaking                                                                                      	Horlogerie
+67019	Aviation Engineering Technology                                                                  	Technologie du génie de l'aviation
+67600	Building Renovation Technology                                                                   	Technologie de rénovation de bâtiment
+68200	Construction Engineering Technology                                                              	Technologie du génie de la construction
+68205	Alternative (sustainable) Energy Engineering Technology                                          	Technologie du génie énergitique alternatif et durable
+68401	Aviation Flight Technology                                                                       	Aviation
+68403	Civil Aviation - Air Traffic Services                                                            	Aviation civile - services de contrôle aérien
+68500	Marine Technology - Navigation                                                                   	Technologie maritime - navigation
+68515	Meteorological Technology                                                                        	Météorologie
+68600	Marine Engineering Technology                                                                    	Technologie du génie maritime
+68900	Business Administration - Supply Chain and Operations Management                                 	Gestion de stocks
+68902	Logistics Administration                                                                         	Administration des opérations et de la production
+68905	Packaging Design                                                                                 	Conception d'emballages
+69000	Book And Magazine Publishing                                                                     	Édition de livres et de revues
+69005	Printing Technology                                                                              	Technologie de l'imprimerie
+69100	Stationary Engineering Technology                                                                	Technologie du génie des machines fixes
+69101	Power Engineering Technology - Chemical                                                          	Technologie du génie électrique - chimique
+69302	Telecommunications Technology                                                                    	Technologies des télécommunications
+69403	Interactive Media Development                                                                    	Production cinématographique et télévision
+69405	Illustration                                                                                     	Illustration
+69625	College Vocational                                                                               	Cours collégial préparatoire à l'emploi
+69805	Safety Engineering Technology                                                                    	Technologie de la sécurité au travail
+70100	Professional Accounting Practice                                                                 	Méthodes d'expertise comptable
+70101	Forensic Accounting                                                                              	Juricomptabilité
+70102	Financial Services Compliance Administration                                                     	Administration de la conformité des services financiers
+70103	Accounting And Information Technology                                                            	Comptabilité et technologie de l'information
+70104	Payroll Management                                                                               	Gestion de la masse salariale
+70105	Accounting in Canada for Internationally Trained Accountants                                     	Comptabilité canadienne pour les comptables formé à l'étranger
+70106	Advanced Accounting and Finance                                                                  	Comptabilité et finance avancée
+70200	Business Management                                                                              	Gestion entrepreneuriale
+70201	Business Development                                                                             	Les affaires en développement
+70202	International Business Management                                                                	Gestion du commerce international
+70203	International Development                                                                        	Gestion de projets internationaux
+70204	Business Process Management                                                                      	Gestion des processus administratifs
+70205	Exposition, Convention And Trade Show Management                                                 	Gestion des conventions, des expositions et des salons commerciaux
+70206	Project Management                                                                               	Gestion de projets
+70207	Project Management                                                                               	Gestion de projets
+70208	Global Business Management                                                                       	Gestion mondiale des affaires
+70209	Organizational Quality Management                                                                	Gestion de la qualité de l'organisation
+70210	Fund Development                                                                                 	Mise sur pied d'une fondation
+70211	Fundraising And Resource Development                                                             	Levée de fonds et développement des ressources
+70212	Wine Business Management                                                                         	Gestion d'entreprise en viniculture
+70213	Business Degree Bridge                                                                           	Programme de mise à niveau(préparatoire) pour un grade dans le domaine des affaires
+70214	Canadian Workplace Culture                                                                       	Réalités canadiennes du marché du travail
+70215	Research Commercialization and Innovation                                                        	Commercialisation de la recherche et innovation
+70216	Green Business Management                                                                        	Gestion d'entreprise verte
+70217	Engineering Technology Management                                                                	Gestion en technogénie
+70222	Health Office Administration                                                                     	Administration d'un bureau des soins de santé
+70223	Human Resources Management                                                                       	Gestion des ressources humaines
+70224	Packaging, Graphics and Business Management                                                      	Emballage, graphiques et gestion des entreprises
+70225	Global Business Management                                                                       	Gestion mondiale des affaires - P.D. de 1 an
+70226	Total Benefits Management                                                                        	Gestion intégrale des avantages sociaux
+70227	Public Administration                                                                            	Administration publique
+70228	Performance Coaching                                                                             	Entraînement de performance
+70229	Indigenous Governance & Public Administration                                                    	La gouvernance autochtone et l'administration publique
+70230	Public Service                                                                                   	Service public
+70231	Small Business Administration                                                                    	Administration de petites entreprises
+70232	Entrepreneurial Studies - Techniques For Entrepreneurs                                           	Études en entrepreneuriat-pratiques pour les entrepreneurs
+70233	Business Management                                                                              	Gestion des affaires
+70234	Inclusive Leadership                                                                             	Leadership inclusif
+70235	Volunteer Administration                                                                         	Administration des bénévolats
+70236	Fundraising And Volunteer Management                                                             	Gestion de collectes de fond et des bénévoles
+70237	Nonprofit Sector Management                                                                      	Gestion du secteur des organismes sans but lucratif
+70238	Fundraising and Development                                                                      	Gestion de collectes de fond et des bénévoles
+70239	Aircraft Maintenance Management                                                                  	Gestion d’entretien d’aéronefs
+70240	Mortgage Broker                                                                                  	Courtier en hypothèque
+70242	Business Analysis                                                                                	Gestion des processus administratifs
+70243	Public Relations                                                                                 	Relations publiques
+70245	Online Writing And Information Design                                                            	Concepteur en texte et en télématique
+70246	Public Relations and Event Management                                                            	Relations publiques et gestion des événements
+70248	Mobile and Social Media Management                                                               	Gestion des téléphones cellulaires et des médias sociaux
+70249	Consulting                                                                                       	Expertise-conseil
+70251	International Traffic And Customs Management                                                     	Gestion du transport international
+70258	Community Economic Development                                                                   	Développement économique communautaire
+70260	International Support Worker                                                                     	Travailleur de soutien international
+70264	Music Business                                                                                   	Gestion Industrie musicale
+70265	Recording Industry - Digital Applications                                                        	Industrie du disque - application numériques
+70266	Music Technology                                                                                 	Musique-avancée
+70267	Music Applied to Stage, Screen and Interactive Visual Environments (MASSIVE)                     	Musique appliquée au théâtre, à l’écran et aux environnements visuels interactifs (MATEEVI)
+70268	Music Composition                                                                                	Composition de musique
+70272	Electronic Commerce                                                                              	Commerce électronique
+70273	Microcomputer Systems                                                                            	Applications sur micro-ordinateur
+70274	Systems Support                                                                                  	Soutien des systèmes
+70301	Geographic Information System                                                                    	Systèmes d'information géographique
+70303	Geographic Information Systems                                                                   	Systèmes d'information géographique
+70305	Geographic Information Systems - Cartographic Specialist                                         	Systèmes d'information géographiques - Spécialiste cartographique
+70400	Process Piping Design                                                                            	Conception de procédés de tuyauterie
+70402	Introduction To Computer Aided Drafting And Design                                               	Introduction au dessin et à la conception assistés par ordinateur
+70403	Advanced Cad Applications                                                                        	Dessin assisté par ordinateur - avancé
+70404	Solid Modelling                                                                                  	Modélisation des solides
+70501	Computer Applications Development                                                                	Développement d’applications informatiques
+70502	Information Systems Business Analyst                                                             	Analyste de systéme d'information d'entreprise
+70503	Systems Analyst                                                                                  	Analyste de systèmes
+70505	Enterprise Database Management                                                                   	Gestion de base de données en entreprise
+70506	Lan Administrator                                                                                	Administrateur de réseau local
+70507	Software and Information Systems Testing                                                         	Tests système
+70508	Computers - Advanced Software Applications                                                       	Ordinateurs-logiciel d'application avancé
+70509	Local Area Network Design And Administration                                                     	Réseau local - conception et administration
+70510	Data Administration                                                                              	Administration des données
+70511	Network Specialist                                                                               	Spécialiste des réseaux
+70512	Website Management                                                                               	Gestion de site Web
+70513	Internet Management                                                                              	Gestion Internet
+70514	Web Site Administration                                                                          	Administration de site Web
+70516	Web Development                                                                                  	Développement Web
+70517	Information Technology Solutions                                                                 	Solutions de technologie de l'information
+70519	Business Intelligence Systems Infrastructure                                                     	Infrastructure des systèmes de veille stratégique
+70522	Information Technology Infrastructure                                                            	infrastructure informatique
+70523	Big Data Analytics                                                                               	Mégadonnées
+70524	Analytics                                                                                        	Analytique
+70600	Architectural Conservation                                                                       	Conservation de l'architecture
+70701	Child And Youth - Trauma Treatment                                                               	Enfance et jeunesse-traitement des traumatismes
+70703	Community Safety And Violence Prevention                                                         	Mesures communautaires de sécurité et de prévention de la violence
+70705	Youth Corrections And Interventions                                                              	Services correctionnels et d'intervention à la jeunesse
+70706	Managing Complex Behaviour                                                                       	Gestion des comportements difficiles
+70708	Mediation                                                                                        	Médiation
+70711	Autism And Behavioural Science                                                                   	Autisme et sciences du comportement
+70712	Concepts In Bereavement Support                                                                  	Acquisition de concepts pour le soutien dans le deuil
+70713	Protection Support Worker                                                                        	Travailleur de soutien de protection
+70714	Bereavement Education                                                                            	Formation sur la deuil
+70715	Bereavement Counselling                                                                          	Conseil sur la deuil
+70716	Child And Family Treatment                                                                       	Traitement de l'enfant et de la famille
+70717	Research Analyst                                                                                 	Recherchiste en sciences sociales appliquées
+70718	Applied Counselling                                                                              	Conseil appliqué
+70719	Applied Behaviour Management                                                                     	Gestion de comportements appliquée
+70720	Social Service Administration                                                                    	Service social - administration
+70721	Human Services - Family Work                                                                     	Services communautaires-aide familiale
+70722	Access And Equity Advocate                                                                       	Expert-conseil en services d'équité et d'accessibilité
+70723	Cross Cultural Human Services                                                                    	Services humanitaires ethnoculturels
+70724	Human Services Management                                                                        	Gestion de services à la personne
+70725	Case Management For Health Care                                                                  	Programme de réadaptation dans le domaine des soins de santé
+70726	Issues In Human Services                                                                         	Enjeux dans les services humanitaires
+70727	Community and Social Services Management                                                         	Gestion des services sociaux et communautaires
+70730	Acquired Brain Injury Facilitator                                                                	Facilitateur pour personnes avec des lésions cérébrales acquises
+70731	Acquired Brain Injury Support Services                                                           	Soutien pour personnes avec des lésions cérébrales acquises
+70732	Expressive Arts                                                                                  	Expression et créativité
+70733	Community Mental Health - Multidiscipline                                                        	Santé mentale communautaire - multidisciplinaire
+70734	Mental Health - Multidiscipline                                                                  	Les déficients intellectuels - multidisciplinaire
+70736	Learning Disability Specialist                                                                   	Spécialiste en troubles d'apprentissage
+70737	Assistive/adaptive Technologies                                                                  	Support dans le domaine de la santé mentale
+70738	Forensic Practice                                                                                	Pratique légale
+70739	Victimology                                                                                      	Victimologie
+70740	Fetal Alcohol Spectrum Disorder                                                                  	Trouble du spectre de l'alcoolisation fœtale
+70742	Accessible Media Production                                                                      	Production de médias accessible
+70744	Accessibility Coordination                                                                       	Coordination d'accessibilité
+70809	Cultural Resources Management                                                                    	Gestion des ressources culturelles
+70810	Museum Management                                                                                	Gestion de musée
+70811	Cultural Heritage Conservation and Management                                                    	Conservation et gestion du patrimoine culturel
+70901	Chemical Dependency Counselling                                                                  	Alcoolisme et toxicomanie - consultation et intervention
+70902	Addictions: Treatment And Prevention                                                             	Dépendance à l'alcool et aux drogues : traitement et prévention
+70903	Mental Health and Substance Abuse - At-Risk Populations                                          	Santé mentale et la toxicomanie—populations les plus exposées
+70905	Infant and Early Child Mental Health                                                             	Santé mentale des nourrissons et des jeunes enfants
+70913	Career Development Practitioner                                                                  	Orientation en matière de perfectionnement professionnel
+70914	Corporate Training And Development                                                               	Formation et perfectionnement en entreprise
+70919	Human Sexuality - Counselling And Teaching                                                       	Sexualité humaine – Orientation et formation
+71001	Applied Measurement Sciences                                                                     	Sciences appliquées des mesures
+71003	Structural Detailing                                                                             	Détaillant de structure d'acier
+71005	Quality Assurance - Manufacturing And Management                                                 	Contrôle de la qualité - fabrication et gestion
+71007	Mechanical Technician - Numerical Control Machining                                              	Mécanique-usinage à commande numérique
+71011	Computer Process Control                                                                         	Gestion informatique du traitement des données
+71018	Practical Elements of Mechanical Engineering                                                     	Éléments de base du génie méchanique
+71019	Advanced Lasers                                                                                  	Lasers de niveau avancé (photonique)
+71021	Electro Mechanical Design                                                                        	Conception de systèmes automatisés
+71022	Wind Turbine Technician Studies                                                                  	Technicien d'éoliennes
+71101	Building Automation System Operations                                                            	Opération des systèmes de contrôle automatisé des bâtiments
+71102	Industrial Automation                                                                            	Automation industrielle
+71112	Artisanal Culinary Arts                                                                          	arts culinaires artisanale
+71113	Advanced Butchery and Charcuterie                                                                	Boucherie et charcuterie avancé
+71200	Instructor For The Blind And Visually Impaired                                                   	Travail auprès des personnes aveugles ou malvoyantes
+71205	Training And Adult Education                                                                     	Formation et éducation des adultes
+71206	Teachers Of English As A Second/foreign Language                                                 	Enseignement de l'anglais - langue seconde
+71212	Early Childhood Administration                                                                   	Administration des services de garde à l'enfance
+71214	Early Childhood Education - Resource Consulting                                                  	Éducation des petits - éducateur (trice) ressource
+71215	Montessori Early Childhood Teacher Education                                                     	Formation à l'éducation de la petite enfance - Montessori
+71216	Early Childhood Education Administration                                                         	Administration des services de garde à l'enfance
+71220	School Age Care Programming                                                                      	Programmation pour les enfants d'âge scolaire
+71224	Infant And Toddler Care                                                                          	Soins aux jeunes enfants
+71225	Early Childhood Education - Special Needs                                                        	Éducation des petits - besoins particuliers
+71228	Educational Assistant                                                                            	Aide en éducation
+71232	Community Resource Consultant                                                                    	Conseiller en services et ressources communautaires
+71234	Advanced Teaching - E-Learning and Instructional Design                                          	Enseignement supérieur - Apprentissage en ligne et conception pédagogique
+71235	Teaching And Learning With Technology                                                            	Enseignement et apprentissage par la technologie
+71236	Courseware Design And Production                                                                 	Conception et production de didacticiels
+71237	Computer Applications For Exceptionalities                                                       	Applications sur ordinateur pour les cas exceptionnels
+71301	Advanced Chemical Engineering Technologies - Paper Processing And Recycling                      	Génie chimique-technologiste en traitement et recyclage du papier
+71303	Medical Robotics & Automation                                                                    	Medical Robotics & Automation
+71304	Bioinformatics                                                                                   	Bio-informatique
+71305	Regulatory Affairs                                                                               	Affaires réglementaires
+71306	Clinical Research                                                                                	Recherche clinique
+71307	Cosmetic Science                                                                                 	Sciences esthétiques
+71396	Bridge to Practical Nursing for Internationally Educated Health Professionals                    	Mise à niveau au infirmier et infirmière auxiliaire autorisé dans des Sciences infirmières de l'Ontario pour les professionnelles de la santé formés internationalement
+71397	Orientation To Nursing In Ontario For Nurses                                                     	Perfectionnement pour infirmier et infirmière dans le domaine des sciences infirmières de l'Ontario.
+71398	Clinically Intensive Orientation To Nursing In Ontario                                           	Perfectionnement intensif clinique dans le domaine des sciences infirmères pour l'Ontario
+71400	Bridging To University Nursing                                                                   	Mise à niveau des études universitaires en sciences infirmières
+71401	Registered Nurse - Psychiatric Nursing                                                           	Infirmière et infirmier autorisé-soins psychiatriques
+71402	Non-registered Nurse - Upgrading                                                                 	Infirmiers non autorisés - perfectionnement
+71406	Registered Nurse - Long Term Care                                                                	Infirmiers autorisés - soins à long terme
+71410	Registered Nurse - Refresher                                                                     	Infirmiers autorisés - cours de recyclage
+71411	Registered Nurse - Intravenous Therapy (part-time Only)                                          	Infirmiers autorisés - thérapie intraveineuse (à temps partiel)
+71412	Registered Nurse - Obstetrics And Paediatrics Refresher                                          	Infirmier et infirmière autorisée-mise à niveau en obstétrique et en pédiatrie
+71413	Registered Nurse - Operating Room                                                                	Perfectionnement en salle d'opération pour infirmiers autorisés
+71414	Registered Nurse - Oncology Nursing                                                              	Infirmière autorisée/Infirmier autorisé - soins oncologiques
+71415	Registered Nurse - Coronary Care Nursing                                                         	Infirmière et infirmier autorisé-soins coronariens
+71416	Registered Nurse - Geriatrics                                                                    	Infirmier et infirmière autorisée-gériatrie
+71417	Registered Nurse - Course In Rehabilitation Nursing                                              	Infirmier et infirmière autorisée-cours de soins infirmiers en réhabilitation
+71418	Registered Nurse - Rehabilitation Nursing                                                        	Infirmière autorisée/Infirmier autorisé - Réadaption
+71419	Registered Nurse - Obstetric Nursing                                                             	Infirmier et infirmière autorisée-soins infirmiers en obstétrique
+71420	Registered Nurse - Management Skills                                                             	Infirmier et infirmière autorisée-compétence en gestion
+71421	International Health Service                                                                     	Services de santé à l'étranger
+71422	Registered Nurse - Community Nursing                                                             	Infirmiers autorisés - soins communautaires
+71423	Registered Nurse - Critical Care Nursing                                                         	Infirmiers autorisés - soins intensifs
+71424	Registered Nurse - Community And Mental Health Refresher                                         	Infirmier et infirmière autorisée-mise à niveau en santé communautaire et en santé mentale
+71425	Registered Nurse - Emergency Nursing                                                             	Infirmiers autorisés - soins infirmiers d'urgence
+71426	Registered Nurse - Medical-surgical Refresher                                                    	Infirmière autorisée/Infirmier autorisé - Recyclage en médecine et chirurgie
+71427	Registered Nurse - Care Co-ordinator                                                             	Infirmière autorisée/Infirmier autorisé - coordinateur/coordinatrice de soins
+71428	Registered Nurse - High Acuity Nursing                                                           	Infirmier et infirmière autorisée-soins infirmiers de rigueurs
+71429	Registered Nurse - Neuroscience Nursing                                                          	Infirmiers autorisés - neurologie
+71431	Registered Nurse - Perinatal Nursing                                                             	Infirmiers autorisés - soins périnataux
+71432	Registered Practical Nurse - Maternal Newborn Nursing                                            	Infirmière et infirmier auxiliaire-soins néonatals
+71433	Registered Nurse - Perinatal Nursing                                                             	Infirmiers autorisés - soins périnataux
+71434	Registered Nurse –Perinatal Nursing                                                              	Infirmiers autorisés - soins périnataux
+71439	Registered Nurse - Occupational Health Nursing                                                   	Infirmière autorisée/Infirmier autorisé - soins infirmiers en santé au travail
+71441	Registered Nurse - Respiratory Nursing                                                           	Infirmier et infirmière autorisée-soins infirmiers respiratoires
+71442	Registered Nurse - Nephrology Nursing                                                            	Infirmière et infirmier autorisé-soins en néphrologie
+71443	Registered Nurse - Orthopaedic Nursing                                                           	Infirmiers autorisés - orthopédie
+71444	Registered Nurse - Perinatal Nursing                                                             	Infirmiers autorisés - soins périnataux
+71445	Rural and Remote Nursing                                                                         	Soins infirmiers en région éloignée et rurale
+71455	Registered Practical Nurse - Refresher                                                           	Infirmières et infirmiers auxiliaires autorisés-mise à niveau
+71456	Registered Practical Nurse - Refresher                                                           	Infirmiers auxiliaires autorisés - cours de recyclage
+71457	Registered Practical Nurse - Intravenous Therapy (part-time Only)                                	Infirmier et infirmière auxiliaire auxiliaire autorisée-thérapie par transfusion sanguine
+71458	Registered Practical Nurse - Community Nursing                                                   	Soins infirmiers auxiliaire - soins communautaires
+71459	Registered Practical Nurse - Psychiatric Nursing                                                 	Auxiliaire en soins infirmiers - soins infirmiers psychiatriques
+71460	Registered Practical Nurse - Administration Of Medications                                       	Infirmiers auxiliaires autorisés - administration des médicaments
+71461	Registered Practical Nurse - Operating Room                                                      	Soins infirmiers auxiliaires - salle d'opération
+71462	Registered Practical Nursing - Upgrading                                                         	Infirmier et infirmière auxilaire autorisée-perfectionnement
+71470	Gerontology - Multidiscipline                                                                    	Gérontologie - multidisciplinaire
+71471	Palliative Care - Multidiscipline                                                                	Soins palliatifs - multidisciplinaire
+71472	Life Threatening Illness, Dying And Bereavement - Multidiscipline                                	Affection mettant en danger la vie d'un malade, mourant et endeuillement-multidisciplinaire
+71473	Rehabilitation - Multidiscipline                                                                 	Réadaptation - multidisciplinaire
+71474	Vocational Rehabilitation Counsellor                                                             	Conseiller en réadaptation professionnelle
+71475	Ambulatory Care Multidiscipline                                                                  	Soins ambulanciers multidisciplinaires
+71476	 Family Practice Nursing                                                                         	Pratique de soins infirmier de la famille
+71477	Interprofessional Acute Care Paediatric Cardiology                                               	Cardiologie pédiatrique interprofessionelle
+71490	Activation Techniques In Gerontology                                                             	Animation en gérontologie
+71491	Working With The Aged - Multidiscipline                                                          	Le troisième âge et la relation d'aide - multidisciplinaire
+71492	Working With The Terminally Ill - Multidiscipline                                                	Le mourant et la relation d'aide - multidisciplinaire
+71493	Working With Dementia Clients - Multidiscipline                                                  	Soins multidisciplinaires pour les patients souffrant de démence
+71494	Dementia Studies - Multidiscipline                                                               	Études sur la démence-multidisciplinaire
+71495	Dementia Studies                                                                                 	Études de démence
+71496	Activation Coordination in Gerontology                                                           	Animation en gérontologie
+71498	Patient Navigator                                                                                	Infirmier-pivot
+71499	Community and Health Services Navigation                                                         	Navigation des services communautaires et des services de santé
+71506	Communicative Disorders Assistant                                                                	Aide auprès des personnes atteintes de troubles de communication
+71507	Advanced Ergonomic Studies                                                                       	Études supérieures d’ergonomie
+71603	Companion Animal Physical Rehabilitation                                                         	Réadaptation physique des animaux de compagnie
+71604	Magnetic Resonance Imaging                                                                       	Imagerie par résonance magnétique
+71605	Radiation Protection                                                                             	Radioprotection
+71606	Mammography                                                                                      	Mammographie
+71609	Medical Diagnostic - Ultrasonography                                                             	Diagnostic médical - ultrasonographie
+71610	Diagnostic Cardiac Sonography                                                                    	Échographie cardiaque diagnostique
+71616	Childbirth Educators - Multidiscipline                                                           	Personnel éducateur en accouchement-multidisciplinaire
+71617	Diabetes Education                                                                               	Education au diabète
+71618	Diabetes Education (Online)                                                                      	Education au diabète
+71619	Anesthesia Assistant                                                                             	Assistant en anesthésie-réanimation
+71620	Complementary Care                                                                               	Soins complémentaires
+71621	Indigenous Community Health Approaches (enionkwatakariteke)                                      	Approches en santé communautaire pour les peuples autochtones
+71625	Clinical Methods In Orthotics/prosthetics                                                        	Méthodes cliniques en orthétique et prothétique
+71627	Dental Hygiene - Expanded Duties                                                                 	Hygiène dentaire - spécialisation
+71630	Diagnostic Medical Ultrasonography                                                               	Diagnostic médical - ultrasonographie
+71631	Large Animal Health and Production                                                               	Santé et production des  grands animaux
+71636	Emergency Response Communicator                                                                  	Agent d’interventions d’urgence
+71637	Advanced Care Paramedic                                                                          	Interventions médicales d'urgence avancées
+71638	Aeromedical Care - Multidiscipline                                                               	Soins sanitaires aériens-multidisciplinaire
+71639	Building Healthy Communities - Multidiscipline                                                   	Promotion d'une communauté en santé-multidisciplinaire
+71641	Developmental Disabilities Worker                                                                	Travail auprès des personnes atteintes de troubles du développement
+71642	Health Promotion                                                                                 	Promotion de la santé
+71643	Health Records Technician - Advanced                                                             	Classement de dossiers médicaux-avancé
+71644	Health Care Administration                                                                       	Administration des soins de santé
+71645	Hearing Instrument Specialist                                                                    	Spécialiste auprès des usages d'audiophones
+71647	Introduction To Health Promotion                                                                 	Introduction à la promotion de santé
+71648	Wellness Entrepreneurship                                                                        	Santé et entrepreneuriat
+71649	Developmental Services Leadership                                                                	Leadership en services de soutien à l'intégration
+71650	Attendant Care Worker                                                                            	Garde de salle
+71651	Health Informatics                                                                               	Santé et informatique
+71652	Digital Health                                                                                   	Santé numérique
+71807	Goldsmithing And Silversmithing                                                                  	Orfèvrerie
+71809	Studio Process Advancement                                                                       	Avancement du processus en studio
+71815	Comic Design & Scripting                                                                         	Conception graphique et de scénario bandes dessinées
+71820	Graphic Design And Illustration                                                                  	Conception graphique et illustration
+71821	Design Management                                                                                	Principes de gestion en design
+71823	Fashion Management And Computer Design Techniques                                                	Gestion de la mode et techniques de conception assistée par ordinateur
+71829	Independent Documentary Production                                                               	Production indépendante de documentaires
+71830	Digital Video                                                                                    	Vidéo numérique
+71831	Photography                                                                                      	Photographie
+71833	Kitchen and Bath Design                                                                          	La conception de la cuisine et la salle de bain
+71834	Design For An Aging Population                                                                   	Planification pour une population âgée
+71836	Interior Design Degree Bridge                                                                    	Diplôme de transition en décoration intérieure
+71900	Game Design And Development                                                                      	Conception et production de jeux électroniques
+71901	Computer Animation                                                                               	Animatique
+71902	Computer Graphics                                                                                	Infographie
+71903	Broadcasting - Radio And Television                                                              	Radiotélédiffusion
+71905	Broadcast - New Media                                                                            	Diffusion générale-nouveaux médias
+71906	Media Engineering Design Integration                                                             	Intégration et conception de techniques d'information
+71907	Community Musician                                                                               	Organisation d'événements musicaux
+71910	Acting For Film And Television - Intensive                                                       	Jeu d'acteur au cinéma et à la télévision-cours intensif
+71911	Theatre Arts - Advanced                                                                          	Théâtre-niveau supérieur
+71912	Advanced Special Effects Makeup, Prosthetics and Props                                           	Création de maquillages, de prothèses et d'accessoires de trucage évolués
+71913	Costume Studies                                                                                  	Études dans la création de costumes
+71916	Mobile Applications Development                                                                  	Développement d’applications mobiles
+71917	The Art and Business of Animation                                                                	L’art et les affaires de l’animation
+71921	Arts Administration                                                                              	Administration des arts
+71923	Arts Education and Community Engagement                                                          	Éducation artistique et l’engagement communautaire
+71996	Sports Journalism                                                                                	Journalisme sportif
+72000	Children's Entertainment: Writing, Production and Management                                     	Divertissement pour enfants: écriture, production et gestion
+72001	Dramatic Scriptwriting                                                                           	Rédaction de scénarios
+72002	Comedy: Writing And Performance                                                                  	Comédie - création et présentation
+72003	Creative Writing                                                                                 	Création littéraire
+72004	Video Journalism And Documentary Production                                                      	Journalisme vidéo et production de documentaires
+72005	Journalism - New Media                                                                           	Journalisme - nouveaux médias
+72006	Canadian Journalism For Internationally Trained Writers                                          	Journalisme canadien et rédaction au niveau international
+72007	Technical Writer                                                                                 	Rédaction technique
+72008	Journalism - Arts and Entertainment                                                              	Journalisme - Arts et divertissement
+72010	3D Video Production                                                                              	Production de vidéos - tridimensionelle
+72011	Environmental Visual Communication                                                               	Communication visuelle de l'environnement
+72012	Communications – Professional Writing                                                            	Communications- rédaction professionnelle
+72100	Advertising – Account Management                                                                 	Publicité-ventes et marketing médias
+72104	Advertising - Media Management                                                                   	Publicité-gestion des comptes
+72105	Advertising - Copywriting                                                                        	Rédaction publicitaire
+72106	Interactive Marketing Communications                                                             	Communications interactives en marketing
+72107	Advertising- Creative and Digital Strategy                                                       	Stratégie numérique, créative et publicitaire
+72201	Event Planning Techniques                                                                        	Techniques de planification d'événements
+72203	Recreation Resources Management                                                                  	Gestion des loisirs
+72204	Sports Marketing                                                                                 	Marchandisage des sports
+72205	Event Management                                                                                 	Gestion de festivals et d'événements communautaires
+72206	Recreation For Special Populations                                                               	Loisirs - concentration troisième âge
+72208	Wellness And Lifestyle Management                                                                	Bien-être et style de vie
+72209	Exercise Science And Lifestyle Management                                                        	Science des exercices et gestion du style de vie
+72210	Youth Recreation Leadership                                                                      	Leadership et loisir chez la jeunesse
+72211	Sports Management                                                                                	Gestion des activités sportives
+72212	Fitness Leadership                                                                               	Activité physique et leadership
+72219	Arena Management                                                                                 	Gestion d'un centre sportif
+72220	Golf and Club Management                                                                         	Gestion de terrains de golf et de clubs
+72231	Sport Business Management                                                                        	Gestion d'entreprises sportives
+72232	Recreation For Older Adults                                                                      	Loisir pour personnes âgées
+72303	Dietary Administration                                                                           	Administration des normes alimentaires
+72305	Court Reporting - Machine Shorthand                                                              	Sténotypie assistée par ordinateur
+72318	Services paralangagiers                                                                          	Services paralangagiers
+72330	Integrated Office Systems                                                                        	Bureautique
+72402	Enterprise Content Management                                                                    	Gestion de contenu pour entreprise
+72611	Regulatory Law Administration                                                                    	Administration de la loi et des règlements
+72612	Workers' Compensation Claims Management                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   	Gestion des réclamations soumises à la commission des accidents du travail
+72613	Building Construction Regulations Administration	Administration de la réglementation relative à l'industrie du bâtiment
+72614	Court And Administrative Tribunal Agent                                                          	Agent de cour et de tribunal administratif
+72615	Legal And Corporate Administration                                                               	Administration légale et corporative
+72616	Legal Research and Information Management                                                        	Recherche juridique et gestion de l'information
+72700	Environmental Control                                                                            	Contrôle environnemental
+72701	Sustainable Waste Management                                                                     	Gestion durable des déchets
+72702	Environmental Building Sciences                                                                  	Sciences du bâtiment bioclimatique
+72703	Environmental Studies                                                                            	Études environnementales
+72705	Advanced Water and Wastewater Treatment                                                          	Traitement des eaux et des eaux usées avancé
+72706	Environmental Management                                                                         	Gestion environnemental
+72708	Aquaculture                                                                                      	Aquaculture
+72709	Wildlife Management                                                                              	Aménagement de la faune
+72710	Environmental Management and Assessment                                                          	Contrôle environnemental
+72711	Sustainable Agriculture                                                                          	Agriculture durable
+72714	Commerical Beekeeping                                                                            	Apiculture
+72715	Agri-Business Management                                                                         	Agro-industrie
+72800	Business Intelligence                                                                            	Veille économique en entreprise
+72801	Personal Financial Services                                                                      	Services de finances personnelles
+72805	Condominium Management                                                                           	Gestion de copropriétés
+72806	Facility Management                                                                              	Gestion des installations
+72807	Long Term Care Management                                                                        	Gestion en soins de longue durée
+72808	Retirement Communities Management                                                                	Gestion des communités de la retraite
+72809	Retirement Residence Management                                                                  	Gestion des communités de la retraite
+72811	Risk Management                                                                                  	Gestion des risques
+72890	Brand Management                                                                                 	Gestion de marque
+72891	Food Media                                                                                       	Médias de nourriture
+72900	Marketing Management                                                                             	Gestion du marketing
+72901	Strategic Relationship Marketing                                                                 	Relations stratégiques en marketing
+72902	Interactive Marketing                                                                            	Marketing interactif
+72903	Social Media Marketing                                                                           	Commercialisation des medias sociaux
+72904	Database Marketing                                                                               	Mercatique (marketing) de données
+72905	Direct Marketing                                                                                 	Mercatique (marketing) directe
+72906	Customer Contact Centre Management                                                               	Gestion des centres d'appels
+72907	Motive Power Service Management                                                                  	Gestion de service - automobile
+72909	International Fashion Development And Management                                                 	Gestion de la production de vêtement au niveau international
+72925	Business - Purchasing/materials Management                                                       	Gestion des achats et des matières
+72929	Retail Operations Management                                                                     	Gestion de la production des détaillants
+72936	Sales Management                                                                                 	Gestion des ventes
+72939	Technical Sales Specialist                                                                       	Technico-commercial
+72940	Technology Marketing                                                                             	Marketing prospectif
+73002	Information Systems Security                                                                     	Sécurité des systèmes informatiques
+73007	Justice And Public Safety Management                                                             	Gestion de la justice et de la sécurité publique
+73008	Police Recruit Education And Preparation                                                         	Formation et préparation des recrues des services policiers
+73009	Emergency Management                                                                             	Gestion des situations d'urgence
+73010	Transformative Community Justice                                                                 	Justice communautaire transformatrice
+73016	Advanced Security Management                                                                     	Gestion avancée en sécurité
+73017	Contemporary Law Enforcement and Justice                                                         	Gestion avancée en sécurité
+73102	Executive Chef                                                                                   	Premier chef
+73106	Advanced Baking And Pastry Arts                                                                  	Arts de la cuisson des aliments et des pâtisseries-niveau avancé
+73107	Culinary Arts - Italian                                                                          	Arts culinaires - cuisine italienne
+73108	International Cuisine                                                                            	Cuisine internationale
+73109	Culinary Arts - French                                                                           	Cuisine française d'établissement
+73110	Culinary Tourism Management                                                                      	Gestion en tourisme gastronomique
+73114	Advanced French Patisserie                                                                       	Pâtisserie française (avancée)
+73199	Hotel, Resort and Restaurant Management                                                          	Gestion de villégiatures et de restaurants
+73200	Resort And Restaurant Management                                                                 	Gestion de villégiatures et de restaurants
+73201	Hospitality Management                                                                           	Gestion de l'industrie hôtelière
+73202	Casino Management                                                                                	Gestion de casino
+73203	Concierge Services - Guest Relations Specialist                                                  	Services de conciergerie-relations avec la clientèle
+73204	Food and Nutrition Management                                                                    	Supervision des services alimentaires
+73205	Ecotourism Management                                                                            	Gestion de l'écotourisme
+73207	International Tourism And Eco-adventure                                                          	Tourisme international et d'aventure
+73208	Outdoor Adventure Training, Education And Management                                             	Gestion, éducation et formation en milieu d'aventure et de plein air
+73210	Food Concept Management                                                                          	Gestion des notions alimentaires
+73211	Operations Leadership in Food Manufacturing                                                      	Diriger des opérations— fabrication de produits alimentaires
+73212	Culture and Heritage Site Management                                                             	Gestion des sites culturelle et historique
+73217	Ski Area Management                                                                              	Gestion d'une station de ski
+73402	Spa Management                                                                                   	Gestion de station santé
+73403	Medical Skin Care Therapies                                                                      	Thérapies de soins de la peau médical
+73702	Food Safety and Quality Assurance – Food processing                                              	Salubrité des aliments et l’assurance de la qualité- Transformation des aliments
+73705	Artisan Distilling                                                                               	Distillation artisanale
+73902	Landscape And Horticultural Management                                                           	Gestion en architecture paysagiste et en horticulture
+73903	Commercial Cannabis Production                                                                   	Production de Cannabis commercial
+73905	Landscape Design                                                                                 	Architecture paysagiste – P.D.
+74200	Natural Resources - Law Enforcement                                                              	Richesses naturelle-application de la loi
+74300	Woodworking Manufacturing Management                                                             	Gestion de la fabrication des produits du bois
+74407	Geological Engineering Technology                                                                	Génie géologique-technologiste
+74412	Mining - Ground Control                                                                          	Mines - contrôle au sol
+74900	Welding Design - International Certificate                                                       	Structure et soudage - certificat international
+74901	Pressure Systems Welding                                                                         	Soudage de la pression des systèmes
+75203	Electronic Data Communications                                                                   	Transmission électronique de données
+75204	Electronics Engineering - Biomedical                                                             	Génie électronique - biomédical
+75205	Dialysis Technology                                                                              	Dialyse
+75206	Embedded Systems Development                                                                     	Développement des systèmes embarqués
+75209	Microelectronics Manufacturing                                                                   	Fabrication en micro-électronique
+75300	Tool And Machine Design                                                                          	Conception des outils et appareils d'usinage
+75503	Sustainable Systems                                                                              	Systèmes durables
+75700	Wireless Telecommunications                                                                      	Télécommunications sans fil
+75702	Wireless Information Networking                                                                  	Réseautage informatique sans fil
+75900	Sustainable Fashion Production                                                                   	Production de mode durable
+76500	Interdisciplinary Design Strategy                                                                	Stratégie de conception interdisciplinaire
+76501	Social Entrepreneurship                                                                          	Entrepreneuriat social
+76502	Applied Planning - Environmental                                                                 	Planification - environnement
+76705	Heavy Equipment Specialist                                                                       	Spécialiste du matériel lourd
+76901	Technical Sales - Process Controls                                                               	Ventes d'appareils techniques - contrôle de processus
+77000	Automated Manufacturing                                                                          	Fabrication automatisée
+77002	Manufacturing Management                                                                         	Gestion de la fabrication
+77600	Heritage Building Restoration                                                                    	Restauration des édifices du patrimoine
+78101	Home Inspection                                                                                  	Évaluation des constructions
+78200	Residential Construction Management                                                              	Gestion de la construction résidentielle
+78203	Drywall Systems Estimating                                                                       	Estimation des systèmes de plaque de plâtre
+78205	Green Architecture                                                                               	Architecture écologique
+78206	Adaptive Reuse of Buildings                                                                      	Réutilisation des bâtiments
+78222	Construction Management                                                                          	Gestion de la construction
+78223	Construction Project Management                                                                  	Gestion de projets de construction
+78401	Airline Pilot Flight Operations                                                                  	Opérations aériennes de pilote de ligne aérienne
+78407	Aviation Pilot - Rotary Wing                                                                     	Pilote d'hélicoptère
+78600	Marine Engineering Management                                                                    	Gestion du genie maritime
+78900	Operations Management                                                                            	Gestion des opérations
+78902	Supply Chain Management                                                                          	Logistique
+78905	Package Design                                                                                   	Conception de l'emballage
+79000	Book And Magazine Publishing                                                                     	Édition de livres et de magazines
+79001	Creative Book Publishing                                                                         	Innovation dans les domaines de la publication et de l'édition
+79302	Telecommunications Management                                                                    	Gestion des télécommunications
+79401	Post-production                                                                                  	Postproduction audiovisuelle
+79402	Advanced Television And Film                                                                     	Production télévisuelle et cinématographique avancée
+79403	Interactive Media Management                                                                     	Arts des médias - multimédia interactif
+79404	Multimedia Techniques - Advanced                                                                 	Multimédia-avancé
+79405	Digital Design - Game Design                                                                     	Conception numérique-création de jeux électroniques
+79406	VFX and Digital Cinema                                                                           	VFX et le cinéma numérique
+79407	User Experience Design                                                                           	Conception centrée sur l'utilisateur
+79408	Advanced Television and Film – Script to Screen                                                  	Production télévisuelle et cinématographique avancée
+79409	Television and Film – Business                                                                   	Production télévisuelle et cinématographique avancée
+79410	Interactive Digital Media                                                                        	Média numériques interactifs
+79415	Postproduction Television (S002)                                                                 	Postproduction Télévisuelle (S002)
+79800	Special Needs Communication                                                                      	Communication auprès des personnes ayant des besoins spéciaux
+79801	Intercultural Communication                                                                      	Communication interculturelle
+79804	Occupational Health and Safety Management                                                        	Gestion de la santé et sécurité au travail
+79806	Health, Safety and Environmental Compliance                                                      	Santé, securité et conformité environnementale
+80100	Bachelor of Commerce (Accounting)                                                                	Bachelor of Commerce (Accounting)
+80103	Bachelor of Applied Business (Integrated Accounting And Information Technology Management)       	Baccalauréats en affaires appliquées-comptabilité intégrée et gestion de la TI
+80104	Bachelor of Applied Business (International Accounting And Finance)                              	Baccalauréats en affaires appliquées - finance et comptabilité internationale
+80199	Bachelor of Commerce (Finance)                                                                   	Baccalauréat en commerce - finances
+80200	Bachelor of Commerce (Business Management)                                                       	Baccalauréat en commerce (Gestion d’entreprise)
+80201	Bachelor Of Applied Business (financial Services)                                                	Baccalauréats en affaires appliquées-services financiers
+80202	Bachelor of Applied Business (International Business Management)                                 	Baccalauréats en affaires appliquées - gestion du commerce international
+80203	Bachelor Of Applied Business (international Commerce And Global Development)                     	Baccalauréat en affaires appliqués-commerce international et développment global
+80217	Bachelor Of Applied Technology (industrial Management)                                           	Baccalauréat en technologie appliquée-gestion industrielle
+80219	Bachelor Of Applied Business (municipal And Corporate Administration)                            	Baccalauréats en affaires appliquées - affaires générale et municipales
+80223	Bachelor Of Applied Business (human Resources Strategy And Technology                            	Baccalauréats en affaires appliquées-technologie et stratégie en ressources humaines
+80243	 Bachelor of Applied Arts (Public Relations)                                                     	Baccalauréat en arts appliqués - relations publique
+80259	Bachelor Of Applied Human Services (indigenous Leadership And Community Development)             	Baccalauréat en services à la personne appliqués-leadership autochtone et développement communautaire
+80272	Bachelor Of Applied Business (electronic Business)                                               	Baccalauréat en affaires appliquées-commerce électronique
+80274	Honours Bachelor of Commerce (Business Technology Management)                                    	Baccalauréat spécialisé en commerce (Gestion des technologies d'entreprise)
+80504	Bachelor Of Applied Technology (software Development)                                            	Baccalauréat en technologie appliquée-élaboration de logiciels
+80505	Bachelor Of Applied Information Sciences (software Systems - Design, Development And Management) 	Baccalauréats en sciences de l'information appliquées - suivi logiciel en conception, élaboration et gestion
+80509	Bachelor of Applied Information Sciences (Information Systems Security)                          	Baccalauréat en sciences de l’information appliquées-sécurité des systèmes d’information
+80511	Bachelor Of Applied Information Sciences (computer And Communication Networking)                 	Baccalauréat en sciences de l’information appliquées-réseautage informatique et de communications
+80513	Bachelor Of Applied Technology (internet Systems)                                                	Baccalauréat en technologie appliquée-systèmes Internet
+80516	Bachelor of Applied Computer Science (Mobile Computing)                                          	Baccalauréat en informatique appliquée (information mobile)
+80521	Bachelor Of Applied Technology (informatics And Security)                                        	Baccalauréats en technologie appliquée - science de l'information et sécurité
+80701	Bachelor of Applied Arts (Child Development)                                                     	Baccalauréat en arts appliqués - développement de l'enfant
+80705	Bachelor of Applied Arts (Criminal Justice)                                                      	Baccalauréat en arts appliqués - justice pénale
+80719	Bachelor of Applied Arts (Behavioural Psychology)                                                	Baccalauréat en arts appliqués-psychologie comportementale
+80720	Bachelor of Behavioural Science                                                                  	Baccalauréat en sciences du comportement
+80724	Bachelor Of Applied Arts (human Services Management)                                             	Baccalauréat en arts appliqués-gestion des services à la personne
+80733	Bachelor of Community Mental Health                                                              	Baccalauréat en santé mentale communautaire
+80735	Bachelor of Interpretation (ASL-English)                                                         	Baccalauréat en interprétation (ASL - Anglais)
+81006	Bachelor Of Applied Technology (technology Management)                                           	Baccalauréat en technologie appliquée-gestion des technologies
+81009	Bachelor of Engineering - Building Systems Engineering                                           	Baccalauréat en génie— systèmes d'ingénierie du bâtiment
+81011	Bachelor Of Applied Technology (instrumentation And Control)                                     	Baccalauréat en technologie appliquée-instrumentation et contrôle
+81020	Bachelor Of Applied Technology (photonics)                                                       	Baccalauréat en technologie appliquée-photonique
+81208	Bachelor Of Applied Technology (science And Technological Education)                             	Baccalauréat de technologie appliquée-science et éducation technologique
+81211	Bachelor of Early Childhood Leadership                                                           	Bachelor of Early Childhood Leadership
+81217	Bachelor of Early Learning Program Development                                                   	Baccalauréat en élaboration des programmes d'apprentissage des jeunes enfants
+81304	Bachelor of Applied Technology (Biotechnology)                                                   	Baccalauréat en technologie appliqué (Biotechnologie)
+81400	Collaborative Nursing                                                                            	Programme conjoint en sciences infirmières
+81643	Bachelor Of Applied Health Sciences (health Informatics Management)                              	Baccalauréats en sciences de la santé appliquées - gestion de l'informatique de la santé
+81644	Bachelor of Commerce (Healthcare Management)                                                     	Baccalauréat en commerce (Gestion des soins de santé)
+81646	Honours Bachelor of Health Care Technology Management                                            	Baccalauréat spécialisé en gestion de la technologie des soins de santé
+81800	Bachelor of Craft and Design                                                                     	Baccalauréat en cinématographie et télévision
+81817	Bachelor of Industrial Design                                                                    	Baccalauréat en conception industrielle
+81820	Sheridan - York Bachelor Of Design                                                               	Baccalauréat de design (Sheridan - York)
+81823	Bachelor Of Applied Business(fashion Management)                                                 	BAA - gestion de la mode
+81824	Bachelor of Design                                                                               	Baccalauréat de design
+81829	Bachelor of Applied Arts (Film and Media Production)                                             	Baccalauréat en arts appliqués - réalisation de filme et médias
+81831	Bachelor of Applied Arts (Photography)                                                           	Bachelor of Applied Arts (Photography)
+81833	Bachelor Of Applied Arts (interior Design)                                                       	Baccalauréats en arts appliqués - design intérieur
+81900	Bachelor of Applied Arts (Game Design)                                                           	Baccalauréat en arts appliqués (conception de jeux)
+81901	Bachelor Of Applied Arts (animation)                                                             	Baccalauréat en arts appliqués-animation
+81907	Bachelor Of Applied Music (contemporary Music)                                                   	Baccalauréats en musique appliquée - musique contemporaine
+81912	Bachelor of Applied Arts (Music Theatre Performance)                                             	Bachelor of Applied Arts (Music Theatre Performance)
+82003	Bachelor of Creative Writing and Publishing                                                      	baccalauréat spécialisé en création littéraire et d’édition
+82006	Bachelor of Journalism                                                                           	Baccalauréat en journalisme
+82012	Bachelor of Digital Communications                                                               	Baccalauréat en communications numériques
+82102	Bachelor Of Applied Arts (creative Advertising)                                                  	Baccalauréat en arts appliqués-publicité créative
+82198	Bachelor of Health Sciences (Workplace Health and Wellness)                                      	Baccalauréat en sciences de la santé appliquées - la santé et le bien-être au travail
+82199	Bachelor of Applied Health Sciences (Exercise Sciences and Health Promotion)                     	Baccalauréat en sciences de la santé appliquées - science d'exercise et la promouvoir de la santé
+82200	Bachelor Of Applied Health Sciences (athletic Therapy)                                           	Baccalauréat en sciences de la santé appliquées-thérapie sportive
+82206	Bachelor of Applied Arts (Therapeutic Recreation)                                                	Baccalauréat en arts appliqués - loisirs thérapeutiques
+82220	Bachelor Of Applied Business (Golf Management)                                                   	Baccalauréat en affaires appliquées-gestion du golf
+82611	Bachelor Of Applied Arts (paralegal Studies)                                                     	Baccalauréat en arts appliqués-études parajuridiques
+82613	Bachelor Of Applied Technology (construction And Environment - Regulations And Compliance)       	Baccalauréat en technologie appliquée-Construction et droit environnemental
+82700	Bachelor Of Applied Technology (environmental Assessment And Management)                         	Baccalauréat en technologie appliquée-gestion et évaluation environnementale
+82703	Bachelor Of Applied Technology (integrated Environmental Site Remediation)                       	Baccalauréat en technologie appliquée-assainissement environnemental intégré des sites
+82801	Bachelor Of Applied Business (financial Services Management)                                     	Baccalauréat en affaires appliquées-gestion de services financiers
+82900	Bachelor of Commerce (Marketing)                                                                 	Baccalauréat en commerce - commercialisation
+82907	Bachelor Of Applied Business (automotive Management)                                             	Baccalauréat en affaires appliquées-gestion automobile
+83007	Bachelor of Applied Human Services (Community and Criminal Justice)                              	Baccalauréat en services à la personne appliqués - justice pénale et communautaire
+83008	Bachelor Of Applied Human Services (police Studies)                                              	Baccalauréat en services à la personne appliqués-études policières
+83107	Bachelor of Commerce (Culinary Management)                                                       	Baccalauréat en commerce - gestion culinaire
+83200	Bachelor Of Applied Business (hospitality Operations Management)                                 	Baccalauréat en affaires appliquées-Gestion des activités d'hébergement
+83205	Bachelor Of Applied Business (tourism Management)                                                	Baccalauréats en affaires appliquées - gestion touristique
+83209	Bachelor of Hospitality and Tourism Management                                                   	Baccalauréat en l'hospitalité et la gestion de tourisme
+83905	Bachelor Of Applied Arts (integrated Land Planning Technologies)                                 	Baccalauréat en affaires appliquées-technologies intégrées en gestion des terres
+84300	Bachelor Of Applied Technology (advanced Manufacturing Technologies - Wood And Composite Product)	Baccalauréat en technologie appliquée-technologies de fabrication avancées-produits ligneux et composites
+84701	Bachelor of Interdisciplinary Studies                                                            	Baccalauréat en études interdisciplinaires
+85209	Bachelor Of Applied Technology (microelectronics)                                                	Baccalauréat en technologie appliquée-microélectronique
+85408	Bachelor Of Applied Technology ( Control Systems Technology)                                     	Baccalauréats en technologie appliquées - Technologie des systemes de régulation
+85613	Bachelor Of Applied Technology (process Automation)                                              	Baccalauréat en technologie appliquée-automatisation des processus
+86500	Bachelor of Community Development                                                                	Baccalauréat en développement communautaire
+87000	Bachelor Of Applied Technology (integrated Advanced Manufacturing Technologies)                  	Baccalauréat en technologie appliquée-technologies de fabrication avancées intégrées
+88200	Bachelor Of Applied Technology (architecture - Project And Facility Management)                  	Baccalauréat en technologie appliquée-architecture - gestion de projets et d’installations
+88201	Bachelor of Technology (Construction Management)                                                 	Baccalauréat en Technologie appliquée (Gestion de la construction)
+88203	Bachelor of Building Science                                                                     	Baccalauréat en science du bâtiment
+88401	Bachelor Of Applied Technology (flight Program)                                                  	Baccalauréat en technologie appliquée-programme de vol
+88900	Bachelor Of Applied Business (manufacturing Management)                                          	Baccalauréat en affaires appliquées-gestion de la fabrication
+88902	Bachelor Of Applied Business (e-business Supply Chain Management)                                	Baccalauréat en affaires appliquées-gestion de chaîne d’approvisionnement pour le commerce électronique
+89302	Bachelor Of Applied Technology (integrated Telecommunication And Computer Technologies)          	Baccalauréat en technologie appliquée-technologies informatiques et des télécommunications
+89405	Bachelor Of Applied Arts (illustration)                                                          	Baccalauréat en arts appliqués-illustration
+89407	Bachelor of Applied Arts (Interaction Design)                                                    	Baccalauréat en arts appliqués (conception interactive)
+89411	Bachelor of Film and Television                                                                  	Baccalauréat en artisant et désign
+89805	Bachelor of Environmental Public Health                                                          	Baccalauréat en études de santé publique environnementale
+99998	Nutrition, Dietetics and Food Science                                                            	Nutrition, dietetique et sciences des aliments
+99999	Agricultural Technology                                                                          	Technologie Agricole
+
+
+
+Source: Ministry of Advanced Education and Skills Development (MAESD)
+
+The Ministry of Advanced Education and Skills Development has endeavored to keep the information provided up to date and correct, but makes no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the information for any purpose.

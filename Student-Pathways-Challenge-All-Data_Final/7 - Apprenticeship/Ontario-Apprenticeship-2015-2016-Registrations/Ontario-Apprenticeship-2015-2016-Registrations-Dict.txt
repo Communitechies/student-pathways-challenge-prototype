@@ -1,0 +1,43 @@
+Regions / Régions
+-----------------
+
+C	Central     	Central
+E	Eastern     	De l'est
+N	Northern    	Du nord
+W	Western     	De l'ouest
+
+
+SDS (Service Delivery Sites / Sites Financés)
+---------------------------------------------
+
+3019C	Workforce Windsor-Essex
+3045A	North Superior Workforce Planning Board
+3052A	Workforce Planning Board of York Region & Bradford West Gwillmbury
+3060A	Workforce Planning Hamilton
+3165B	Workforce Planning for Sudbury & Manitoulin
+3273A	Workforce Planning Board of Waterloo Wellington Dufferin
+3314A	Peel-Halton Workforce Development Group
+3714C	Ottawa Integrated Local Labour Market Planning
+3714G	The Labour Market Group of Renfrew & Lanark
+4431B	Far Northeast Training Board
+4464A	Niagara Workforce Planning Board
+4542A	Sarnia Lambton Workforce Development Board
+4757A	Elgin Middlesex Oxford Workforce Planning & Development Board
+4823A	Four County Labour Market Planning Board
+4826A	1000 Islands Region Workforce Development Board
+4827A	Workforce Planning Board of Grand Erie
+4828A	The Labour Market Group - Nipissing, Parry Sound
+4829A	Northwest Training and Adjustment Board
+4831A	East Central Ontario Training Board
+4832A	Eastern Ontario Training Board
+4833A	Workforce Development Board - Peterborough, Kawartha Lakes, Northumberland, Haliburton
+4949A	Toronto Workforce Innovation Group
+4952A	Chatham-Kent Workforce Planning Board
+4954A	Simcoe Muskoka Workforce Development Board
+4956A	Durham Workforce Authority
+4958C	Algoma Workforce Investment Corporation
+
+
+Source: Ministry of Advanced Education and Skills Development (MAESD) 
+
+The Ministry of Advanced Education and Skills Development has endeavored to keep the information provided up to date and correct, but makes no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the information for any purpose.

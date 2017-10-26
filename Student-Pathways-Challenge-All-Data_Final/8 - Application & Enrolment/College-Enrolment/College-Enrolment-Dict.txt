@@ -1,0 +1,1992 @@
+Campuses / Campus
+-----------------
+
+ACUM	Acumen
+AEMU	AEI - Muncey
+ALFR	Alfred
+ASCA	Ashtonbee Campus
+AVCA	Aviation Campus
+BACA	Barrie Campus
+BANC	Bancroft
+BRAC	Brantford Campus
+BRAN	Brantford
+BROC	Brockville Campus
+CALO	Casa Loma
+CAMB	Cambridge 
+CCCA	Commerce Court Campus
+CCCO	Centre for Creative Communications
+CDCA	College Drive Campus
+CDTO	Campus de Toronto
+CNHA	Contact North Haileybury
+CNKL	Contact North Kirkland Lake
+COBO	Cobourg
+COCA	Cornwall Campus
+CONO	Contact North
+CSTC	Centennial Science and Technology Centre
+CTAR	Centre for the Arts
+DACA	Davis Campus
+DIED	Distance Education
+DOON	Doon 
+DRYD	Dryden
+ESCA	Espanola Campus
+FNTI	First Nations Technical Institute
+FOFR	Fort Francis
+FROS	Frost
+GUEL	Guelph 
+HACA	Haileybury Campus
+HALI	Haliburton
+HBCA	Hanson - Brampton Campus
+HEAR	Hearst
+HIPC	Heritage Institute - Perth Campus
+HMCA	Hazel McCallion Campus
+HTCE	Hospitality and Tourism Centre
+HVCA	Hanson – Vancouver Campus
+HYCA	Hanson - York Campus
+INGE	Ingersoll
+JACA	Jane Campus
+JBEC	James Bay Education Centre Campus
+JNAC	James N. Allan Campus
+KAPU	Kapuskasing
+KICA	King Campus
+KLCA	Kirkland Lake Campus
+KTEI	Kenjgewin Ted Education Institute
+LAWO	Lake of Woods
+LCTR	Lakeshore Campus and the Robert A. Gordon Learning Centre
+LITO	Lambton in Toronto
+LOND	London
+MACA	Main Campus
+MCFC	Main Campus - Fennell Campus
+MCOC	Main Campus - Oshawa Campus
+MCSJ	Main Campus - St. James
+MCSU	Main Campus - Sutherland
+MCTR	Main Campus - Trafalgar Road Campus
+MEDI	Mediaplex
+MICA	Midland Campus 
+MKCA	Markham Campus
+MMIA	Mohawk-McMaster Institute for Applied Health Sciences (IAHS)
+MNCA	Manitoulin Campus
+MTMC	Maid of the Mist Campus - Tourism Industry Development Centre
+MUCA	Muskoka Campus 
+NECA	Newnham Campus
+NELI	New Liskeard
+NIPI	Nipissing
+NLAL	New Liskeard - Alfred
+NOCA	North Campus
+NOTL	Niagara-on-the-Lake Campus
+OCCA	Oxford County Campus 
+ODCA	Odeon Campus 
+OGCA	Orangeville Campus
+OLCA	Orillia Campus
+OLPD	On-line program Delivery
+OPLE	Open Learning
+OSCA	Owen Sound Campus
+OVPC	Ottawa Valley - Pembroke Campus 
+PECA	Peterborough Campus
+PLSI	Pickering Learning Site
+POSI	Porcupine Site
+PRCA	Progress Campus
+PSCA	Parry Sound Campus
+RRDC	Rainy River District Campus
+RYER	Ryerson University 
+SGBC	South Georgian Bay Campus
+SHMI	Sheridan/Mississauga
+SOCA	South Campus
+STAN	Stanford
+STAR	Skills Trades and Apprenticeship Research, Resources and Training (STARRT) Institute 
+STCE	Skills Training Centre
+STEC	St. Thomas / Elgin Campus 
+SUDB	Sudbury
+SYCA	Seneca @ York Campus
+THBA	Thunder Bay
+THCA	Thames Campus
+TIMM	Timmins
+TORO	Toronto
+WACA	Waterfront Campus
+WATE	Waterloo 
+WECA	Welland Campus
+WHCA	Whitby Campus
+WOCA	Woodroffe Campus
+YCTP	Young Centre for the Performing Arts 
+YOCA	Yorkgate Campus
+
+
+CIP / CPE
+---------
+
+01.0000	Agriculture, general                                                                              	Agriculture (général)
+01.0301	Agricultural production operations, general                                                       	Gestion et exploitation d'entreprise agricole (général)
+01.0399	Agricultural production operations, other                                                         	Gestion et exploitation d'entreprise agricole (autres)
+01.0504	Dog/pet/animal grooming                                                                           	Toilettage des chiens, animaux d’agrément et autres animaux
+01.0601	Applied horticulture/horticulture operations, general                                             	Exploitation et gestion de services d’horticulture (général)
+01.0604	Greenhouse operations and management                                                              	Exploitation et gestion de serres
+01.0605	Landscaping and groundskeeping                                                                    	Aménagement paysager et entretien des terrains
+01.0608	Floriculture/floristry operations and management                                                  	Floriculture/exploitation et gestion de cultures florales
+03.0103	Environmental studies                                                                             	Études de l'environnement
+03.0199	Natural resources conservation and research, other                                                	Conservation et recherche des ressources naturelles (autres)
+03.0201	Natural resources management and policy, general                                                  	Gestion et politique des ressources naturelles (général)
+03.0206	Land use planning and management/development                                                      	Planification et gestion de l’utilisation des terres/mise en valeur des terres
+03.0207	Natural resource recreation and tourism                                                           	Loisirs et tourisme en milieu naturel
+03.0299	Natural resources management and policy, other                                                    	Gestion et politique des ressources naturelles (autres)
+03.0508	Urban forestry                                                                                    	Foresterie urbaine
+03.0511	Forest technology/technician                                                                      	Techniques forestières/technicien en sylviculture
+03.0601	Wildlife, fish and wildlands science and management                                               	Science et gestion de la faune sauvage, aquatique, et des terres en friche
+04.0301	City/urban, community and regional planning                                                       	Planification urbaine, communautaire et régionale
+04.0401	Environmental design/architecture                                                                 	Design de l’environnement/architecture
+04.0901	Architectural technology/technician                                                               	Technologie de l'architecture/technicien en architecture
+05.0202	Aboriginal studies                                                                                	Études sur les Autochtones
+09.0102	Mass communication/media studies                                                                  	Étude des communications de masse/études des médias de masse
+09.0199	Communication and media studies, other                                                            	Étude de la communication et des médias (autres)
+09.0401	Journalism, general                                                                               	Journalisme (général)
+09.0402	Broadcast journalism                                                                              	Journalisme de radiotélévision
+09.0404	Photojournalism                                                                                   	Photojournalisme
+09.0499	Journalism, other                                                                                 	Journalisme (autres)
+09.0701	Radio and television                                                                              	Radio et télévision
+09.0702	Digital communication and media/multimedia                                                        	Communication numérique et multimédia
+09.0902	Public relations/image management                                                                 	Relations publiques/gestion de l’image
+09.0903	Advertising                                                                                       	Publicité
+09.0999	Public relations, advertising and applied communication, other                                    	Relations publiques, publicité et communication appliquée (autres)
+09.1001	Publishing                                                                                        	Édition
+10.0202	Radio and television broadcasting technology/technician                                           	Radiodiffusion et télédiffusion  -  technologue/technicien
+10.0203	Recording arts technology/technician                                                              	Enregistrement  -  technologue/technicien
+10.0301	Graphic communications, general                                                                   	Communications graphiques (général)
+10.0304	Animation, interactive technology, video graphics and special effects                             	Animation, technologie interactive, vidéographie et effets spéciaux
+11.0103	Information technology                                                                            	Technologie de l’information
+11.0199	Computer and information sciences and support services, general, other                            	Informatique, sciences de l'information et services de soutien connexes (général) (autres)
+11.0201	Computer programming/programmer, general                                                          	Programmation informatique/programmeur (général)
+11.0202	Computer programming, specific applications                                                       	Programmation informatique  -  applications spécifiques
+11.0203	Computer programming, vendor/product certification                                                	Programmation informatique  -  homologation de fournisseurs ou de produits
+11.0501	Computer systems analysis/analyst                                                                 	Analyse de systèmes informatiques/analyste de systèmes informatiques
+11.0701	Computer science                                                                                  	Informatique
+11.0801	Web page, digital/multimedia and information resources design                                     	Conception de pages web, de ressources numériques/multimédias et de ressources d’information
+11.0802	Data modelling/warehousing and database administration                                            	Modélisation de données, entreposage de données et administration de bases de données
+11.0901	Computer systems networking and telecommunications                                                	Réseautage de systèmes informatiques et télécommunications
+11.1001	Network and system administration/administrator                                                   	Administration/administrateur de réseau et de système
+11.1003	Computer and information systems security/information assurance                                   	Sécurité des systèmes informatiques et des systèmes d’information/assurance de l'information
+11.1004	Web/multimedia management and webmaster                                                           	Gestion de sites web/multimédia/webmestre
+11.9999	Computer and information sciences and support services, other                                     	Informatique, sciences de l’information et services de soutien connexes (autres)
+12.0301	Funeral service and mortuary science, general                                                     	Services de pompes funèbres et science mortuaire (général)
+12.0407	Hair styling/stylist and hair design                                                              	Coiffure/coiffeur et coiffeur styliste
+12.0409	Aesthetician/esthetician and skin care specialist                                                 	Esthéticien et spécialiste des soins de la peau
+12.0412	Salon/beauty salon management/manager                                                             	Gérant/gestion d’un salon de coiffure/de beauté
+12.0500	Cooking and related culinary arts, general                                                        	Cuisine et arts culinaires (général)
+12.0501	Baking and pastry arts/baker/pastry chef                                                          	Boulanger/pâtissier
+12.0502	Bartending/bartender                                                                              	Barman/service dans les bars
+12.0503	Culinary arts/chef training                                                                       	Arts culinaires/formation de chef
+12.0504	Restaurant, culinary and catering management/manager                                              	Gestion/gérant de restaurant, d’entreprise de services culinaires ou de services de traiteur
+12.0507	Food service, waiter/waitress and dining room management/manager                                  	Service des aliments, serveur et gestion de salle à manger
+12.0508	Institutional food workers                                                                        	Service de restauration collective
+12.0599	Culinary arts and related services, other                                                         	Arts culinaires et services connexes (autres)
+13.1001	Special education and teaching, general                                                           	Éducation spécialisée et enseignement spécial (général)
+13.1009	Education/teaching of individuals with vision impairments including blindness                     	Enseignement aux personnes ayant une déficience visuelle, y compris la cécité
+13.1015	Education/teaching of individuals in early childhood special education programs                   	Enseignement  -  programmes d’éducation préscolaire spécialisée
+13.1210	Early childhood education and teaching                                                            	Éducation et enseignement de la petite enfance
+13.1299	Teacher education and professional development, specific levels and methods, other                	Formation et perfectionnement professionnel des enseignants, niveaux spécifiques et méthodes spécifiques (autres)
+13.1401	Teaching English as a second or foreign language/ESL language instructor                          	Enseignement de l’anglais comme langue seconde ou langue étrangère/professeur d’anglais, langue seconde
+13.1501	Teaching assistants/aides, general                                                                	Aides - enseignants/adjoints à l’enseignement (général)
+14.3301	Construction engineering                                                                          	Génie de la construction
+14.9999	Engineering, other                                                                                	Génie (autres)
+15.0000	Engineering technology, general                                                                   	Techniques/technologie du génie (général)
+15.0101	Architectural engineering technology/technician                                                   	Génie architectural  -  technologue/technicien
+15.0201	Civil engineering technology/technician                                                           	Génie civil  -  technologue/technicien
+15.0303	Electrical, electronic and communications engineering technology/technician                       	Génie électrique, génie électronique et génie des télécommunications  -  technologue/technicien
+15.0304	Laser and optical technology/technician                                                           	Laser et optique  -  technologue/technicien
+15.0305	Telecommunications technology/technician                                                          	Télécommunications  -  technologue/technicien
+15.0399	Electrical and electronic engineering technologies/technicians, other                             	Génie électrique et génie électronique  -  technologue/technicien (autres)
+15.0401	Biomedical technology/technician                                                                  	Génie biomédical  -  technologue/technicien
+15.0403	Electromechanical technology/electromechanical engineering technology                             	Génie électromécanique/électromécanique  -  technologue/technicien
+15.0404	Instrumentation technology/technician                                                             	Instrumentation  -  technologue/technicien
+15.0405	Robotics technology/technician                                                                    	Robotique  -  technologue/technicien
+15.0503	Energy management and systems technology/technician                                               	Gestion de l’énergie et systèmes énergétiques  -  technologue/technicien
+15.0506	Water quality and wastewater treatment management and recycling technology/technician             	Contrôle de la qualité de l’eau, traitement des eaux usées et recyclage de l’eau  -  technologue/technicien
+15.0507	Environmental engineering technology/environmental technology                                     	Génie de l’environnement  -  technologue/technicien
+15.0612	Industrial technology/technician                                                                  	Technologie industrielle  -  technologue/technicien
+15.0613	Manufacturing engineering technology/technician                                                   	Technologie du génie manufacturier  -  technologue/technicien
+15.0614	Welding engineering technology/technician                                                         	Génie de la soudure  -  technologue/technicien
+15.0699	Industrial production technologies/technicians, other                                             	Production industrielle  -  technologue/technicien (autres)
+15.0701	Occupational safety and health technology/technician                                              	Santé et sécurité au travail  -  technologue/technicien
+15.0702	Quality control technology/technician                                                             	Contrôle de la qualité  -  technologue/technicien
+15.0799	Quality control and safety technologies/technicians, other                                        	Contrôle de la qualité et sécurité  -  technologue/technicien (autres)
+15.0801	Aeronautical/aerospace engineering technology/technician                                          	Génie aérospatial/génie aéronautique  -  technologue/technicien
+15.0803	Automotive engineering technology/technician                                                      	Génie automobile  -  technologue/technicien
+15.0805	Mechanical engineering/mechanical technology/technician                                           	Génie mécanique/mécanique  -  technologue/technicien
+15.0899	Mechanical engineering related technologies/technicians, other                                    	Technologie et techniques liées au génie mécanique (autres)
+15.0901	Mining technology/technician                                                                      	Exploitation minière  -  technologue/technicien
+15.0903	Petroleum technology/technician                                                                   	Exploitation pétrolière  -  technologue/technicien
+15.1001	Construction engineering technology/technician                                                    	Génie construction  -  technologue/technicien
+15.1102	Surveying technology/surveying                                                                    	Arpentage  -  technologue/technicien
+15.1201	Computer engineering technology/technician, general                                               	Génie informatique  -  technologue/technicien (général)
+15.1202	Computer technology/computer systems technology                                                   	Technologie des ordinateurs/systèmes informatiques
+15.1204	Computer software technology/technician                                                           	Logiciel informatique  -  technologue/technicien
+15.1301	Drafting and design technology/technician, general                                                	Conception et dessin technique  -  technologue/technicien (général)
+15.1303	Architectural drafting and architectural CAD/CADD                                                 	Dessin architectural et conception et dessin assistés par ordinateur en architecture
+15.1306	Mechanical drafting and mechanical drafting CAD/CADD                                              	Dessin de constructions mécaniques et conception et dessin assistés par ordinateur en mécanique
+15.9999	Engineering technologies and engineering-related fields, other                                    	Techniques/technologies du génie et domaines liés au génie (autres)
+16.1001	Aboriginal languages, literatures and linguistics                                                 	Linguistique et langues et littératures autochtones
+16.1601	American Sign Language (ASL)/Langue des signes québécoise (LSQ)                                   	American Sign Language (ASL)/Langue des signes québécoise (LSQ)
+16.1603	Sign language interpretation and translation                                                      	Interprétation/interprète en langage gestuel
+16.1701	English as a second language CAN                                                                  	Apprentissage de l'anglais, langue secondeCAN
+19.0505	Foodservice systems administration/management                                                     	Administration/gestion de services alimentaires
+19.0605	Home furnishings and equipment installers                                                         	Décoration résidentielle
+19.0701	Human development and family studies, general                                                     	Études du développement humain et de la famille (général)
+19.0702	Adult development and aging                                                                       	Développement des adultes et vieillissement
+19.0706	Child development                                                                                 	Développement de l’enfant
+19.0707	Family and community services                                                                     	Services familiaux et communautaires
+19.0709	Child care provider/assistant                                                                     	Gardien d'enfants/assistant
+19.0799	Human development, family studies and related services, other                                     	Études du développement humain et de la famille et services connexes (autres)
+19.0905	Apparel and textile marketing management                                                          	Gestion de la commercialisation des vêtements et des produits textiles
+21.0101	Pre-technology education/pre-industrial arts programs CAN                                         	Programmes préparatoires aux études en technologie/arts industrielsCAN
+22.0000	Legal studies, general                                                                            	Études du droit (général)
+22.0301	Legal administrative assistant/secretary                                                          	Adjoint/secrétaire administratif juridique
+22.0302	Legal assistant/paralegal                                                                         	Assistant juridique/parajuridique
+22.0399	Legal support services, other                                                                     	Services de soutien juridique (autres)
+22.9999	Legal professions and studies, other                                                              	Droit, professions connexes et études du droit (autres)
+23.0101	English language and literature, general                                                          	Langue et littérature anglaises (général)
+23.0501	English Creative Writing                                                                          	English Creative Writing
+23.1101	English Technical and Business Writing                                                            	English Technical and Business Writing
+24.0101	Liberal arts and sciences/liberal studies                                                         	Arts libéraux et sciences  -  formation générale
+24.0102	General studies                                                                                   	Études générales
+25.0301	Library and archives assisting                                                                    	Assistance dans les bibliothèques et les services d'archives
+26.1103	Bioinformatics                                                                                    	Bioinformatique
+26.1201	Biotechnology                                                                                     	Biotechnologie
+26.1301	Ecology                                                                                           	Écologie
+30.0501	Peace studies and conflict resolution                                                             	Études de la paix et résolution de conflits
+30.1101	Gerontology                                                                                       	Gérontologie
+30.1202	Cultural resource management and policy analysis                                                  	Analyse des politiques et gestion des ressources culturelles
+30.1401	Museology/museum studies                                                                          	Muséologie/techniques de muséologie
+30.1701	Behavioural sciences                                                                              	Sciences du comportement
+30.2001	International/global studies                                                                      	Études internationales/mondiales
+30.9999	Multidisciplinary/interdisciplinary studies, other                                                	Multidisciplinary/interdisciplinary studies, other
+31.0101	Parks, recreation and leisure studies                                                             	Parks, recreation and leisure studies
+31.0501	Health and physical education/fitness, general                                                    	Santé et éducation physique/conditionnement physique (général)
+31.0504	Sport and fitness administration/management                                                       	Sports et conditionnement physique  -  administration/gestion
+32.0101	Basic skills, general (not for credit)                                                            	Compétences de base (général) (sans crédit)
+32.0107	Career exploration/awareness skills (not for credit)                                              	Prospection de carrières (sans crédit)
+34.0104	Addiction prevention and treatment (not for credit)                                               	Addiction prevention and treatment (not for credit)
+41.0101	Biology technician/biotechnology laboratory technician                                            	Technicien en biologie/technicien de laboratoire en biotechnologie
+41.0301	Chemical technology/technician                                                                    	Technologue/technicien en chimie
+41.0399	Physical science technologies/technicians, other                                                  	Technologue/technicien en science physique (autres)
+43.0102	Corrections                                                                                       	Services correctionnels
+43.0103	Criminal justice/law enforcement administration                                                   	Technologie de processus chimiques
+43.0104	Criminal justice/safety studies                                                                   	Études de la justice pénale/sécurité
+43.0106	Forensic science and technology                                                                   	Science et technologie judiciaires
+43.0107	Criminal justice/police science                                                                   	Justice pénale/sciences policières
+43.0109	Security and loss prevention services                                                             	Services de sécurité et de prévention des pertes
+43.0110	Juvenile corrections                                                                              	Services correctionnels pour mineurs
+43.0112	Securities services administration/management                                                     	Administration/gestion de services de sécurité
+43.0199	Criminal justice and corrections, other                                                           	Justice pénale et services correctionnels (autres)
+43.0201	Fire prevention and safety technology/technician                                                  	Prévention et sécurité contre les incendies  -  technologue/technicien
+43.0203	Fire science/firefighting                                                                         	Science du feu et lutte contre les incendies
+43.9999	Security and protective services, other                                                           	Security and protective services, other
+44.0000	Human services, general                                                                           	Services humains (général)
+44.0401	Public administration                                                                             	Administration publique
+44.0701	Social work, general                                                                              	Travail social (général)
+44.0702	Youth services/administration                                                                     	Youth services/administration
+44.0799	Social work, other                                                                                	Travail social (autres)
+45.0101	Social sciences, general                                                                          	Sciences sociales (général)
+45.0604	Development economics and international development                                               	Développement économique et international
+45.0702	Geographic information science and cartography                                                    	Science de l'information géographique et cartographie
+46.0000	Construction trades, general                                                                      	Métiers de la construction (général)
+46.0101	Masonry/mason                                                                                     	Maçonnerie/maçon
+46.0201	Carpentry/carpenter                                                                               	Charpenterie/charpentier
+46.0302	Electrician                                                                                       	Électricien
+46.0303	Lineworker                                                                                        	Monteur de ligne
+46.0401	Building/property maintenance                                                                     	Entretien d’immeubles/de propriétés
+46.0403	Building/home/construction inspection/inspector                                                   	Inspection/inspecteur en bâtiment/construction
+46.0503	Plumbing technology/plumber                                                                       	Plumbing technology/plumber
+46.0505	Blasting/blaster                                                                                  	Dynamitage/dynamiteur
+46.9999	Construction trades, other                                                                        	Métiers de la construction (autres)
+47.0000	Mechanics and repairers, general                                                                  	Mécaniciens et réparateurs (général)
+47.0104	Computer installation and repair technology/technician                                            	Installation et réparation d’ordinateurs
+47.0105	Industrial electronics technology/technician                                                      	Électronique industrielle
+47.0201	Heating, air conditioning, ventilation and refrigeration maintenance technology/technician        	Heating, air conditioning, ventilation and refrigeration maintenance technology/technician
+47.0302	Heavy equipment maintenance technology/technician                                                 	Entretien et réparation d’équipement lourd  -  technologue/technicien
+47.0303	Industrial mechanics and maintenance technology                                                   	Entretien et réparation en mécanique industrielle  -  technologue/technicien
+47.0501	Stationary energy sources installer and operator CAN                                              	Stationary energy sources installer and operator CAN
+47.0603	Autobody/collision and repair technology/technician                                               	Réparation de carrosseries d’automobile  -  technologue/technicien
+47.0604	Automobile/automotive mechanics technology/technician                                             	Entretien et réparation de véhicules automobiles  -  technologue/technicien
+47.0605	Diesel mechanics technology/technician                                                            	Entretien et réparation de moteurs diesel  -  technologue/technicien
+47.0606	Small engine mechanics and repair technology/technician                                           	Small engine mechanics and repair technology/technician
+47.0607	Airframe mechanics and aircraft maintenance technology/technician                                 	Entretien et réparation d’aéronefs  -  technologue/technicien
+47.0609	Avionics maintenance technology/technician                                                        	Entretien et réparation de matériel électronique de bord  -  technologue/technicien
+47.0611	Motorcycle maintenance and repair technology/technician                                           	Entretien et réparation de motocyclettes  -  technologue/technicien
+47.0613	Medium/heavy vehicle and truck technology/technician                                              	Entretien et réparation de camions et de véhicules de moyen ou fort tonnage  -  technologue/technicien
+47.0616	Marine maintenance/fitter and ship repair technology/technician                                   	Marine maintenance/fitter and ship repair technology/technician
+48.0501	Machine tool technology/machinist                                                                 	Opérateur de machine - outil/techniques d'usinage
+48.0506	Sheet metal technology/sheetworking                                                               	Tôlier de construction
+48.0507	Tool and die technology/technician                                                                	Outilleur - ajusteur
+48.0508	Welding technology/welder                                                                         	Welding technology/welder
+48.0511	Metal fabricator                                                                                  	Monteur - ajusteur de charpentes métalliques
+48.0599	Precision metal working, other                                                                    	Travail de précision des métaux (autres)
+48.0701	Woodworking, general                                                                              	Travail du bois (général)
+48.0703	Cabinetmaking and millwork                                                                        	Ébénisterie
+49.0102	Airline/commercial/professional pilot and flight crew                                             	Pilote d’avion commercial/pilote de ligne et équipage de bord (professionnel)
+49.0104	Aviation/airway management and operations                                                         	Aviation/voies aériennes  -  gestion
+49.0106	Airline flight attendant                                                                          	Agent de bord
+49.0202	Construction/heavy equipment/earthmoving equipment operation                                      	Conduite d’engins de chantier/d’équipement lourd/de machines de terrassement
+49.0206	Mobile crane operation/operator                                                                   	Conduite/conducteur de grues mobiles
+49.0304	Diver, professional and instructor                                                                	Plongeur professionnel et instructeur de plongée
+49.0309	Nautical science/merchant marine officer                                                          	Nautical science/merchant marine officer
+50.0101	Visual and performing arts, general                                                               	Arts visuels et arts d’interprétation (général)
+50.0102	Digital arts, general                                                                             	Arts numériques (général)
+50.0301	Dance, general                                                                                    	Danse (général)
+50.0401	Design and visual communications, general                                                         	Design et communications visuelles (général)
+50.0402	Commercial and advertising art                                                                    	Art commercial et publicitaire
+50.0404	Industrial and product design                                                                     	Design industriel et des produits
+50.0406	Commercial photography                                                                            	Photographie commerciale
+50.0407	Fashion/apparel design                                                                            	Création de mode/design de mode
+50.0408	Interior design                                                                                   	Interior design
+50.0409	Graphic design                                                                                    	Graphic design
+50.0410	Illustration                                                                                      	Illustration
+50.0411	Game and interactive media design                                                                 	Conception de jeux et de médias interactifs
+50.0499	Design and applied arts, other                                                                    	Design et arts appliqués (autres)
+50.0501	Drama and dramatics/theatre arts, general                                                         	Art dramatique/arts de la scène/théâtre (général)
+50.0502	Technical theatre/theatre design and technology                                                   	Décors de théâtre/techniques de la scène
+50.0504	Playwriting and screenwriting                                                                     	Dramaturgie et scénarisation
+50.0506	Acting                                                                                            	Jeu d’acteur
+50.0507	Directing and theatrical production                                                               	Mise en scène et production théâtrale
+50.0601	Film/cinema/video studies                                                                         	Études cinématographiques/cinéma/vidéo
+50.0602	Cinematography and film/video production                                                          	Cinématographie et réalisation de films/de vidéos
+50.0605	Photography                                                                                       	Photography
+50.0701	Art/art studies, general                                                                          	Arts/études des arts (général)
+50.0702	Fine/studio arts, general                                                                         	Fine/studio arts, general
+50.0706	Intermedia/multimedia                                                                             	Intermédia/multimédia
+50.0711	Ceramic arts and ceramics                                                                         	Arts céramiques et céramique
+50.0713	Metal and jewellery arts                                                                          	Metal and jewellery arts
+50.0901	Music, general                                                                                    	Musique (général)
+50.0903	Music performance, general                                                                        	Représentation musicale (général)
+50.0907	Keyboard instruments                                                                              	Instruments à clavier
+50.0908	Voice and opera                                                                                   	Opéra et art vocal
+50.0909	Music Management and Merchandising                                                                	Music Management and Merchandising
+50.0910	Jazz/jazz studies                                                                                 	Jazz/études en jazz
+50.0911	Stringed instruments                                                                              	Instruments à cordes
+50.0999	Music, other                                                                                      	Musique (autres)
+50.9999	Visual and performing arts, other                                                                 	Arts visuels et arts d’interprétation (autres)
+51.0000	Health services/allied health/health sciences, general                                            	Services de santé/services paramédicaux/sciences de la santé (général)
+51.0001	Health and wellness, general                                                                      	Health and wellness, general
+51.0202	Audiology/audiologist                                                                             	Audiologie/audiologiste
+51.0299	Communication disorders sciences and services, other                                              	Troubles de la communication  -  sciences et services (autres)
+51.0601	Dental assisting/assistant                                                                        	Dental assisting/assistant
+51.0602	Dental hygiene/hygienist                                                                          	Hygiène/hygiéniste dentaire
+51.0603	Dental laboratory technology/technician                                                           	Technicien/technologue de laboratoire dentaire
+51.0705	Medical office management/administration                                                          	Medical office management/administration
+51.0706	Health information/medical records administration/administrator                                   	Archives médicales  -  administration
+51.0712	Medical reception/receptionist                                                                    	Préposé à l’accueil/réceptionniste médical
+51.0799	Health and medical administrative services, other                                                 	Services d’administration/de gestion sanitaire et médicale (autres)
+51.0803	Occupational therapist assistant                                                                  	Auxiliaire en ergothérapie
+51.0805	Pharmacy technician/assistant                                                                     	Technicien en pharmacie/aide - pharmacien
+51.0806	Physical therapy technician/assistant                                                             	Technicien/assistant en physiothérapie
+51.0808	Veterinary/animal health technology/technician and veterinary assistant                           	Veterinary/animal health technology/technician and veterinary assistant
+51.0899	Allied health and medical assisting services, other                                               	Services médicaux ou sanitaires de soutien (autres)
+51.0901	Cardiovascular technology/technologist                                                            	Technologue en soins cardiovasculaires
+51.0904	Emergency medical technology/technician (EMT paramedic)                                           	Technologue/technicien en soins médicaux d’urgence (TMU  -  services paramédicaux)
+51.0907	Medical radiologic technology/science – radiation therapist                                       	Technologue en radiologie médicale/radiothérapeute
+51.0908	Respiratory care therapy/therapist                                                                	Inhalothérapie/inhalothérapeute
+51.0910	Diagnostic medical sonography/sonographer and ultrasound technician                               	Échographie/échographiste/technicien en ultrasonographie
+51.0911	Radiologic technology/science – radiographer                                                      	Radiologie/radiographe/technologue en radiographie
+51.0913	Athletic training/trainer                                                                         	Entraînement/entraîneur d’athlètes
+51.0916	Radiation protection/health physics technician                                                    	Technicien en radioprotection
+51.0920	Magnetic resonance imaging (MRI) technology/technician                                            	Technologue/technicien en imagerie par résonance magnétique (IRM)
+51.0999	Allied health diagnostic, intervention and treatment professions, other                           	Services de diagnostic, d’intervention et de traitement connexes au domaine de la santé (autres)
+51.1004	Clinical/medical laboratory technician                                                            	Technicien de laboratoire médical/clinique
+51.1005	Clinical laboratory science/medical technology/technologist                                       	Technologue médical/technologue de laboratoire clinique
+51.1099	Clinical/medical laboratory science and allied professions, other                                 	Sciences de laboratoire médical/clinique et professions connexes (autres)
+51.1105	Pre-nursing studies                                                                               	Programme préparatoire aux études en soins infirmiers
+51.1199	Health/medical preparatory programs, other                                                        	Programmes préparatoires aux études en médecine ou en sciences de la santé (autres)
+51.1501	Substance abuse/addiction counselling                                                             	Toxicomanie/counseling en toxicomanie
+51.1508	Mental health counselling/counsellor                                                              	Counseling en santé mentale
+51.1601	Nursing/Registered Nurse (RN, ASN, BScN, MScN)                                                    	Nursing/Registered Nurse (RN, ASN, BScN, MScN)
+51.1611	Public Health/Community Nurse/Nursing                                                             	Public Health/Community Nurse/Nursing
+51.1612	Perioperative/Operating Room and Surgical Nurse/Nursing                                           	Perioperative/Operating Room and Surgical Nurse/Nursing
+51.1613	Licensed Practical/Vocational Nurse Training (LPN, LVN, Cert., Dipl., AAS)                        	Licensed Practical/Vocational Nurse Training (LPN, LVN, Cert., Dipl., AAS)
+51.1617	Critical Care Nursing                                                                             	Critical Care Nursing
+51.1801	Opticianry/ophthalmic dispensing optician                                                         	Optique/opticien d’ordonnance
+51.2002	Pharmacy administration and pharmacy policy and regulatory affairs (MS, MSc, PhD)                 	Pharmacie  -  administration, politique et réglementation (M.S., M.Sc., Ph.D.)
+51.2006	Clinical and industrial drug development (MS, MSc, PhD)                                           	Développement des médicaments à l’échelle clinique et industrielle (M.S., M.Sc., Ph.D.)
+51.2206	Occupational health and industrial hygiene                                                        	Santé au travail et hygiène industrielle
+51.2207	Public health education and promotion                                                             	Éducation et promotion en matière de santé publique
+51.2307	Orthotist/prosthetist                                                                             	Orthésiste/prothésiste
+51.2309	Therapeutic recreation/recreational therapy                                                       	Therapeutic recreation/recreational therapy
+51.2601	Health aide                                                                                       	Health aide
+51.2602	Home health aide/home attendant                                                                   	Aide en hygiène familiale
+51.2706	Medical informatics                                                                               	Informatique médicale
+51.3103	Dietetic technician (DTR)                                                                         	Technicien en diététique (T.D.P.)
+51.3499	Alternative and complementary medical support services, other                                     	Services de soutien dans le domaine des médecines alternatives et douces (autres)
+51.3501	Massage therapy/therapeutic massage                                                               	Massage therapy/therapeutic massage
+51.3801	Registered nursing/registered nurse (RN, ASN, BSN, BScN, MSN, MScN)                               	Sciences infirmières/infirmier autorisé (I.A., A.Sc.Inf., B.S.Inf., B.Sc.Inf., M.S.Inf., M.Sc.Inf.)
+51.3901	Licensed practical/vocational nurse training (LPN, LVN, RPN, Cert., Dipl., AAS)                   	Infirmier auxiliaire autorisé (Inf. Aux. Aut., I.S.A., Cert., Dipl., A.S.A.)
+51.9999	Health professions and related clinical sciences, other                                           	Professions dans le domaine de la santé et sciences cliniques connexes (autres)
+52.0101	Business/commerce, general                                                                        	Commerce (général)
+52.0201	Business administration and management, general                                                   	Business administration and management, general
+52.0202	Purchasing, procurement/acquisitions and contracts management                                     	Achat/approvisionnement/acquisition et gestion des contrats
+52.0203	Logistics, materials, and supply chain management                                                 	Gestion logistique, des matériaux, et de la chaîne d'approvisionnement
+52.0205	Operations management and supervision                                                             	Gestion des opérations et supervision
+52.0206	Non-profit/public/organizational management                                                       	Non - profit/public/organizational management
+52.0207	Customer service management                                                                       	Gestion du service à la clientèle
+52.0208	E-commerce/electronic commerce                                                                    	Commerce électronique
+52.0209	Transportation/mobility management                                                                	Gestion du transport/de la mobilité
+52.0210	Research and development management                                                               	Gestion de la recherche et du développement
+52.0211	Project management                                                                                	Gestion de projet
+52.0299	Business administration, management and operations, other                                         	Administration/gestion commerciale (autres)
+52.0301	Accounting                                                                                        	Comptabilité
+52.0302	Accounting technology/technician and bookkeeping                                                  	Technicien en comptabilité et aide - comptable
+52.0303	Auditing                                                                                          	Vérification
+52.0304	Accounting and finance                                                                            	Comptabilité et finance
+52.0305	Accounting and business/management                                                                	Comptabilité et gestion des affaires
+52.0401	Administrative assistant and secretarial science, general                                         	Adjoint administratif et secrétariat (général)
+52.0402	Executive assistant/executive secretary                                                           	Executive assistant/executive secretary
+52.0407	Business/office automation/technology/data entry                                                  	Bureautique
+52.0408	General office occupations and clerical services                                                  	Travail de bureau général
+52.0410	Traffic, customs and transportation clerk/technician                                              	Commis au trafic, commis des douanes et commis au transport
+52.0501	Business/corporate communications                                                                 	Communications d’entreprise
+52.0701	Entrepreneurship/entrepreneurial studies                                                          	Entrepreneurship/entrepreneurial studies
+52.0703	Small business administration/management                                                          	Administration/gestion de petites et moyennes entreprises
+52.0799	Entrepreneurial and small business operations, other                                              	Entrepreneurial and small business operations, other
+52.0801	Finance, general                                                                                  	Finance (général)
+52.0804	Financial planning and services                                                                   	Planification financière et services de planification financière
+52.0807	Investments and securities                                                                        	Investissements et valeurs mobilières
+52.0901	Hospitality administration/management, general                                                    	Gestion touristique (général)
+52.0903	Tourism and travel services management                                                            	Tourism and travel services management
+52.0904	Hotel/motel administration/management                                                             	Gestion d’établissements d’hébergement touristique (hôtels/motels)
+52.0905	Restaurant/food services management                                                               	Gestion de restaurants et de services d’alimentation
+52.0906	Resort management                                                                                 	Resort management
+52.0999	Hospitality administration/management, other                                                      	Gestion touristique (autres)
+52.1001	Human resources management/personnel administration, general                                      	Human resources management/personnel administration, general
+52.1003	Organizational behaviour studies                                                                  	Comportement organisationnel
+52.1005	Human resources development                                                                       	Perfectionnement des ressources humaines
+52.1101	International business/trade/commerce                                                             	International business/trade/commerce
+52.1206	Information resources management                                                                  	Gestion des ressources d'information
+52.1401	Marketing/marketing management, general                                                           	Marketing/marketing management, general
+52.1402	Marketing research                                                                                	Recherche en marketing
+52.1501	Real estate                                                                                       	Immobilier
+52.1701	Insurance                                                                                         	Assurance
+52.1801	Sales, distribution and marketing operations, general                                             	Vente, distribution et activités de marketing connexes (général)
+52.1804	Selling skills and sales operations                                                               	Techniques de vente et activités liées à la vente
+52.1902	Fashion merchandising                                                                             	Marchandisage de la mode
+52.1905	Tourism and travel services marketing operations                                                  	Tourism and travel services marketing operations
+52.1908	Business and personal/financial services marketing operations                                     	Marketing en services commerciaux/financiers/personnels
+52.1909	Special products marketing operations                                                             	Marketing en produits spéciaux
+52.1910	Hospitality and recreation marketing operations                                                   	Marketing en loisirs et tourisme d’accueil
+52.2001	Construction management                                                                           	Gestion de construction
+52.9999	Business, management, marketing and related support services, other                               	Commerce, gestion, marketing et services de soutien connexes (autres)
+89.9992	Instructional program not reported                                                                	Programme d'enseignement non déclaré
+NC	Not Codeable                                                                                          	Pas de code
+
+
+Countries / Pays
+----------------
+
+AFG	Afghanistan                           	Afghanistan
+ALB	Albania                               	Albanie
+ARG	Argentina                             	Argentine
+BAH	Bahamas                               	Bahamas
+BAN	Bangladesh                            	Bangladesh
+BAR	Barbados                              	Barbade
+BEL	Belarus                               	Bélarus
+BER	Bermuda                               	Bermudes
+BRA	Brazil                                	Brésil
+BUR	Burundi                               	Burundi
+CAM	Cameroon                              	Cameroun
+CAN	Canada                                	Canada
+CDI	Côte D'Ivoire                         	Côte D'Ivoire
+CDR	Congo, Democratic Republic Of The     	République démocratique du Congo
+CHI	China                                 	Chine
+CMB	Cambodia                              	Cambodge
+COL	Colombia                              	Colombie
+CUB	Cuba                                  	Cuba
+DRE	Dominican Republic                    	République Dominicaine
+ECU	Ecuador                               	Équateur
+EGY	Egypt                                 	Égypte
+ERI	Eritrea                               	Erythrée
+ESA	El Salvador                           	El Salvador
+ETH	Ethiopia                              	Éthiopie
+FRA	France                                	France
+GER	Germany                               	Allemagne
+GHA	Ghana                                 	Ghana
+GRE	Grenada                               	Grenade
+GUI	Guinea                                	Guinée
+GUY	Guyana                                	Guyana
+HAI	Haiti                                 	Haïti
+HKO	Hong Kong                             	Hong Kong
+IDO	Indonesia                             	Indonésie
+IND	India                                 	Inde
+IRN	Iran                                  	Iran
+IRQ	Iraq                                  	Iraq
+ISR	Israel                                	Israël
+ITA	Italy                                 	Italie
+JAM	Jamaica                               	Jamaïque
+JAP	Japan                                 	Japon
+JOR	Jordan                                	Jordanie
+KAZ	Kazakhstan                            	Kazakhstan
+KEN	Kenya                                 	Kenya
+KSO	Korea South                           	Corée du Sud
+LEB	Lebanon                               	Liban
+LIB	Libya                                 	Libye
+MAL	Malaysia                              	Malaisie
+MAU	Mauritius                             	Maurice
+MEX	Mexico                                	Mexique
+MON	Mongolia                              	Mongolie
+MRO	Moldova, Republic Of                  	Moldavie
+NAP	Not Applicable                        	Non applicable
+NEP	Nepal                                 	Népal
+NET	Netherlands                           	Pays-Bas
+NIG	Nigeria                               	Nigéria
+NRE	Not Reported                          	Non reporté
+PAK	Pakistan                              	Pakistan
+PAN	Panama                                	Panama
+PAR	Paraguay                              	Paraguay
+PER	Peru                                  	Pérou
+PHI	Philippines                           	Philippines
+POL	Poland                                	Pologne
+POR	Portugal                              	Portugal
+PTO	Palestinian Territory Occupied        	Territoires palestiniens occupés
+RFE	Russian Federation                    	Fédération de Russie
+ROM	Romania                               	Roumanie
+RUS	Russia (Old U.S.S.R.)                 	Russie (Vieux U.R.S.S)
+RWA	Rwanda                                	Rwanda
+SAR	Saudi Arabia                          	Arabie Saoudite
+SLA	Sri Lanka                             	Sri Lanka
+SLU	St Lucia                              	Sainte-Lucie
+SOM	Somalia                               	Somalie
+SPA	Spain                                 	Espagne
+SVA	St Vincent And The Grenadines         	Saint-Vincent-et-les-Grenadines
+SYR	Syria                                 	Syrie
+TAI	Taiwan                                	Taiwan
+TAT	Trinidad And Tobago                   	Trinité et Tobago
+THA	Thailand                              	Thaïlande
+TOG	Togo                                  	Togo
+TRK	Turkey                                	Turquie
+TUR	Tanzania United Republic Of           	République unie de Tanzanie
+UGA	Uganda                                	Ouganda
+UKI	United Kingdom                        	Royaume-Uni
+UKR	Ukraine                               	Ukraine
+UST	United States                         	États-Unis
+VEN	Venezuela                             	Vénézuela
+VNA	Viet Nam                              	Viêt Nam
+YEM	Yemen                                 	Yémen
+ZAM	Zambia                                	Zambie
+ZIM	Zimbabwe                              	Zimbabwe
+
+
+Credentials / Qualifications
+----------------------------
+
+ADE	Applied Degree          	Diplôme appliqué
+ADI	Advanced Diploma        	Diplôme d'études supérieures
+CER	Certificate             	Certificat
+DIP	Diploma                 	Displôme
+GCE	Graduate Certificate    	Certificat d'études supérieures
+NAP	Not Applicable          	Non applicable
+
+
+Genders / Sexes
+---------------
+
+F	Female                             	Femme
+M	Male                               	Homme
+N	Not Available or Not Applicable    	Not déclaré
+U	Unknown                            	Inconnu
+
+
+Programs / Programmes
+---------------------
+
+0001	Part-Time Emergency Management
+0002	Advanced Care Paramedic
+0003	Advertising
+0004	Aircraft Maintenance Technician
+0005	Animation
+0006	Applied Museum Studies
+0007	Architectural Technician
+0008	Architectural Technology
+0009	Autism And Behavioural Science
+0010	Aviation Techniques - Aircraft Maintenance
+0011	Bachelor Of Applied Arts (interior Design)
+0012	Bachelor Of Applied Business (e-business Supply Chain Management)
+0013	Bachelor of Building Science
+0014	Bachelor of Commerce (e-Supply Chain Management)
+0015	Bachelor of Hospitality and Tourism Management
+0016	Bachelor of Interior Design
+0017	Baking And Pastry Arts
+0018	Bartending
+0019	Biotechnology Technologist
+0020	Brand Management
+0021	Broadcasting - Radio
+0022	Broadcasting - Television
+0023	Building Construction Technician
+0024	Business
+0025	Business - Accounting
+0026	Business - Management and Entrepreneurship
+0027	Business - Marketing
+0028	Business Administration
+0029	Business Administration - Accounting
+0030	Business Administration - Financial Services
+0031	Business Administration - Human Resources
+0032	Business Administration - International Business
+0033	Business Administration - Marketing
+0034	Business Administration - Materials And Operations Management
+0035	Business Administration (core)
+0036	Business Intelligence Systems Infrastructure
+0037	Cabinetmaking And Furniture Technician
+0038	Carpentry And Joinery - Heritage
+0039	Child And Youth Worker
+0040	Civil Engineering Technology
+0041	Community And Justice Services
+0042	Computer Engineering Technology - Computing Science
+0043	Computer Programmer
+0044	Computer Systems Technician
+0045	Computer Systems Technology - Security
+0046	Construction Carpentry - Advanced Housing
+0047	Construction Engineering Technician
+0048	Construction Techniques
+0049	Court Support Services
+0050	Culinary Management
+0051	Culinary Skills - Chef Training
+0052	Dental Assisting - Levels I And Ii
+0053	Dental Hygiene
+0054	Developmental Services Worker
+0055	Diagnostic Medical Sonography
+0056	Diagnostic Medical Ultrasonography
+0057	Early Childhood Education
+0058	Electrical Engineering Technician
+0059	Electrical Engineering Technology
+0060	Electro-mechanical Engineering Technician - Robotics
+0061	Entrepreneurship Acceleration
+0062	Environmental Management and Assessment
+0063	Environmental Technician
+0064	Esthetician
+0065	Event Management
+0066	Fitness And Health Promotion
+0067	Food And Nutrition Management
+0068	Forensic Accounting And Fraud Investigations
+0069	Forestry Technician
+0070	Game Development
+0071	General Arts And Science
+0072	General Arts and Science - English for Academic Purposes
+0073	General Arts And Science - One-year
+0074	General Arts And Science - One-year - Aboriginal
+0075	Geographic Information Systems
+0076	Graphic Design
+0077	Green Architecture
+0078	Hair Stylist
+0079	Heating, Refrigeration And Air Conditioning Technician
+0080	Horticultural Industries
+0081	Horticulture Technician
+0082	Hospitality Management - Hotel And Restaurant
+0083	Human Resources Management
+0084	Illustration and Concept Art
+0085	Interactive Multimedia
+0086	Interactive Multimedia Developer
+0087	Interior Decorating
+0088	International Business Management
+0089	Internet Application Programmer
+0090	Journalism - Print
+0091	Kitchen and Bath Design
+0092	Law Clerk
+0093	Library And Information Technician
+0094	Manufacturing Engineering Technician
+0095	Marketing and Business Intelligence Research
+0096	Marketing Management
+0097	Marketing Research and Business Intelligence
+0098	Masonry - Heritage And Traditional
+0099	Massage Therapy
+0100	Mechanical Engineering Technology
+0101	Mechanical Technician - Toolmaking
+0102	Medical Device Reprocessing
+0103	Medical Radiation Technology
+0104	Mobile and Social Media Management
+0105	Mobile Application Design and Development
+0106	Motive Power Technician
+0107	Music Industry Arts
+0108	Occupational Therapist Assistant / Physiotherapy Assistant
+0109	Office Administration - Executive
+0110	Office Administration - General
+0111	Office Administration - Legal
+0112	Office Administration - Medical
+0113	Organizational Quality Management
+0114	Orientation To Nursing In Ontario For Nurses
+0115	Outdoor Adventure
+0116	Outdoor Adventure Naturalist
+0117	Paralegal
+0118	Paramedic
+0119	Performance Coaching
+0120	Performing Arts
+0121	Personal Support Worker
+0122	Photography
+0123	Police Foundations
+0124	Powerline Technician
+0125	Practical Nursing
+0126	Pre-service Firefighter Education And Training
+0127	Professional Accounting
+0128	Professional Writing
+0129	Project Management
+0130	Public Relations
+0131	Radiation Safety
+0132	Recreation And Leisure Services
+0133	Respiratory Therapy
+0134	Scriptwriting
+0135	Small and Medium Enterprise Management
+0136	Social Service Worker
+0137	Sport Business Management
+0138	Teachers Of English As A Second/foreign Language
+0139	Technical Writer
+0140	Theatre Arts
+0141	Tourism And Travel
+0142	Veterinary Assistant
+0143	Veterinary Technician
+0144	Victimology
+0145	Water And Waste Water Technician
+0146	Welding and Fabrication Techniques
+0147	Wireless/Mobility Telecommunications Engineering Technician
+0148	Animation numérique
+0149	Arts culinaires - cuisinier
+0150	Assistant En Ergothérapie/assistant En Physiothérapie
+0151	Chemical Laboratory Technician - Environmental
+0152	Coiffure
+0153	Collaborative Nursing
+0154	Correctional Worker
+0155	Échographie Diagnostique
+0156	Electrical Techniques
+0157	Fish And Wildlife Technician
+0158	Fish And Wildlife Technology
+0159	Funeral Service Education
+0160	General Arts And Sciences - One-year
+0161	Hygiène dentaire
+0162	Introduction aux arts
+0163	Maintenance Trades Helper
+0164	Mécanique de la machinerie lourde
+0165	Mechanical Engineering Technician - Industrial Maintenance
+0166	Message Therapy
+0167	Pharmacy Technician
+0168	Pratique de la construction - Charpenterie
+0169	Pratique de soudage
+0170	Pre-health Sciences
+0171	Préposés Aux Services De Soutiens Personnels
+0172	Soins Ambulanciers Paramédicaux
+0173	Soutien technique en gestion de scène
+0174	Soutien Technique En Informatique
+0175	Technicien En Réparation De Machinerie Lourde
+0176	Techniques D'éducation Spécialisée
+0177	Techniques Des Services Policiers
+0178	Techniques Du Génie De Construction - Civil Et Minier
+0179	Techniques Du Génie Informatique
+0180	Techniques en réparation de machinerie lourde
+0181	Technologie Agricole
+0182	Technologie Du Génie De Construction - Civil Et Minier
+0183	Technologie Du Génie Électronique - Industriel
+0184	Welding Engineering Technician - Inspection
+0185	Art and Design Fundamentals
+0186	Business Fundamentals
+0187	Carpentry Renovation Techniques
+0188	Chemical Engineering Technology
+0189	Civil Engineering Technician
+0190	Computer Programmer Analyst
+0191	Computer Systems Technology
+0192	Corporate Safety and Security
+0193	Dental Assisting (levels I And Ii)
+0194	Design and Visual Arts
+0195	Early Childhood Education - Binoojiinyag Kinoomaadwin
+0196	Electrical Engineering Technology - Industrial
+0197	Energy Systems Technology
+0198	Environmental Field Techniques
+0199	Environmental Monitoring and Impact Assessment
+0200	General Arts and Science -English for Academic Purposes
+0201	Heating, Ventilation And Air Conditioning Techniques
+0202	Heavy Equipment Technician
+0203	Hotel And Restaurant Management
+0204	Independent Music Production
+0205	Instrumentation Engineering Technician - Industrial
+0206	Instrumentation Engineering Technology - Industrial
+0207	Journalism
+0208	Law And Security Administration
+0209	Magnetic Resonance Imaging
+0210	Mechanical Techniques
+0211	Medical Laboratory Technology
+0212	Mining Engineering Technician
+0213	Mining Engineering Technology
+0214	Mining Foundations
+0215	Motive Power Technician - Service And Management
+0216	Motive Power Technician - Truck and Coach
+0217	Motive Power Techniques - Heavy Equipment
+0218	Music - Performance
+0219	Network Technician
+0220	Organization Management
+0221	Physical Fitness Management
+0222	Power Engineering Technician
+0223	Power Engineering Techniques
+0224	Power Engineering Technology
+0225	Pre-trades/technology
+0226	Theatre Arts - Technical Production
+0227	Visual And Creative Arts - Graphic Design
+0228	Welding And Fabrication Technician
+0229	Advertising - Creative Media
+0230	Aircraft Structural Repair Technician
+0231	Aviation Technician - Aircraft Maintenance
+0232	Aviation Technician - Avionics Maintenance
+0233	Aviation Technology - Aircraft Maintenance and Avionics
+0234	Aviation Technology - Aircraft Maintenance and Structural Repair
+0235	Biotechnology Technician
+0236	Broadcasting - Television And Video Production
+0237	Business Management
+0238	Culinary Administration
+0239	Digital Cinematography
+0240	Ecotourism
+0241	Environmental Management
+0242	Environmental Technician - Protection And Compliance
+0243	Financial Services
+0244	Hotel, Resort And Restaurant Administration
+0245	Indigenous Community Diabetes Support
+0246	Indigenous Preparatory Studies
+0247	Indigenous Wellness And Addictions Prevention
+0248	Journalism - Print And Broadcast
+0249	Mechanical Technician - Machinist
+0250	Mechanical Technician - Welder-fitter
+0251	Mechanical Techniques - Plumbing
+0252	Mental Health And Addiction Worker
+0253	Mental Health And Addition Worker
+0254	Mobile Application Development
+0255	Occupational Therapist Assistant and Physiotherapist Assistant
+0256	Office Administration
+0257	Pre-Health Sciences
+0258	Preparatory Health Sciences
+0259	Recreation Therapy
+0260	Strength and Sport Conditioning
+0261	Accounting Clerk - Microcomputer
+0262	Advanced Television and Film - Script to Screen
+0263	Advertising - Account Management
+0264	Advertising - Creative
+0265	Advertising - Media Management
+0266	Art And Design Foundation Studies
+0267	Arts Management
+0268	Auto Body Repair Techniques
+0269	Bachelor Of Applied Information Sciences (computer And Communication Networking)
+0270	Bachelor Of Applied Information Sciences (software Systems - Design, Development And Management)
+0271	Bachelor of Public Relations Management
+0272	Baking - Commercial Bakeries
+0273	Baking - Pastry Arts Management
+0274	Biomedical Engineering Technology
+0275	Biotechnology Technician - Industrial Microbiology
+0276	Biotechnology Technologist - Industrial Microbiology
+0277	Book And Magazine Publishing
+0278	Bridging To University Nursing
+0279	Broadcasting And Film
+0280	Business - Finance
+0281	Business - International Business
+0282	Business - Operations
+0283	Business Administration - Business Operations Management
+0284	Business Administration - Entrepreneurship
+0285	Business Administration - Leadership and Management
+0286	Business Foundations
+0287	Children’s Media
+0288	Children's Entertainment: Writing, Production and Management
+0289	Communications - Professional Writing
+0290	Communications and Media Foundations
+0291	Community Development Work
+0292	Community Services and Child Studies Foundations
+0293	Computer Engineering Technician - Embedded Networks
+0294	Computer Engineering Technology - Embedded Networks
+0295	Computer Repair And Maintenance
+0296	Computer Systems Technician - Networking
+0297	Computer Systems Technology - Networking
+0298	Construction Management
+0299	Contact Centre Operations
+0300	Corporate Communications
+0301	Court Reporting Services
+0302	Culinary Management - International
+0303	Culture and Heritage Site Management
+0304	Dance Performance
+0305	Digital Animation
+0306	Digital Visual Effects
+0307	Early Childhood Assistant
+0308	Electro-mechanical Engineering Technician - Automation And Robotics
+0309	Electro-mechanical Engineering Technology - Automation And Robotics
+0310	Electronics Engineering Technician
+0311	Electronics Engineering Technology
+0312	Energy Systems Engineering Technician
+0313	Energy Systems Engineering Technology
+0314	Environmental Protection Technician
+0315	Environmental Protection Technology
+0316	Event Management - Festival and Conference
+0317	Fashion Business and Management
+0318	Financial and Client Services
+0319	Financial Planning
+0320	Fine Arts Studio
+0321	Fitness and Health Promotion
+0322	Food Science Technology
+0323	Food Service Worker
+0324	Game Art and Design
+0325	General Arts and Science
+0326	Global Business Management
+0327	Graphic Design - Media
+0328	Health Foundations
+0329	Health Informatics Technology
+0330	Healthcare Environmental Services Management
+0331	Heating, Refrigeration and Air Conditioning Technician
+0332	Hospitality And Tourism Administration
+0333	Hospitality Foundations
+0334	Hospitality Management - Hotel And Resort
+0335	Hospitality Management - Restaurant and Catering
+0336	Hospitality Services
+0337	Hotel, Resort and Restaurant Management
+0338	Interactive Digital Media
+0339	International Development
+0340	Liberal Arts
+0341	Logistics Management
+0342	Long Term Care Management
+0343	Marketing - Research and Analytics
+0344	Marketing - Sales and Account Management
+0345	Mechanical Engineering Technician - Design
+0346	Medical Laboratory Technician
+0347	Motive Power - Heavy Duty Equipment Technician
+0348	Motive Power - Truck and Coach Technician
+0349	Motive Power Technician - Administration
+0350	Motive Power Technician - Technical
+0351	Motorcycle And Powersports Products Repair Techniques
+0352	Music Industry Arts and Performance
+0353	Occupational Therapist Assistant And Physiotherapist Assistant (ota/pta)
+0354	Payroll Management
+0355	Pre-business
+0356	Pre-health
+0357	Pre-Service Firefighter Education and Training
+0358	Publishing - Book, Magazine and Electronic
+0359	Software Engineering Technician
+0360	Software Engineering Technology
+0361	Software Engineering Technology-interactive Gaming
+0362	Sports Jounalism
+0363	Strategic Management
+0364	Strategic Management - Accounting Specialization
+0365	Technology Foundations
+0366	Television and Film - Business
+0367	Tourism - Travel Services Management
+0368	Tourism Management - Cultural and Heritage Tourism
+0369	Workplace Wellness And Health Promotion
+0370	Aboriginal Community Advocacy
+0371	Aboriginal Financial And Economic Planning
+0372	Aerospace Manufacturing Engineering Technician
+0373	Aerospace Manufacturing Engineering Technology
+0374	Aviation - Flight Management
+0375	Broadcasting - Television Production
+0376	Business - Human Resources
+0377	College Access
+0378	Community Integration Through Co-operative Education
+0379	Concurrent Disorders
+0380	Educational Assistant
+0381	Electrical Engineering Technology - Computer Control
+0382	Electronics Engineering Technician - Computers
+0383	Film Production
+0384	Instrumentation Engineering Technician - Process Automation and Control
+0385	International Business And Trade
+0386	Library and Information Technician
+0387	Mechanical Engineering Technician
+0388	Mechanical Techniques - Multiskilling
+0389	Media Arts - Multimedia Production
+0390	Medical Laboratory Assistant
+0391	Mining Techniques
+0392	Motive Power Techniques - Equipment Systems
+0393	Native Child And Family Services
+0394	Pre-technology
+0395	Tourism And Travel - Adventure And Eco-tourism
+0396	Welding Techniques
+0397	Advanced Police Studies
+0398	Applied Health Informatics
+0399	Bachelor Of Applied Health Sciences (health Informatics Management)
+0400	Bachelor of Applied Technology (Architecture - Project and Facility Management)
+0401	Bachelor Of Applied Technology (architecture - Project And Facility Management)
+0402	Bachelor Of Applied Technology (integrated Telecommunication And Computer Technologies)
+0403	Bachelor of Business Administration (Accounting, Audit and Information Technology
+0404	Bachelor of Business Administration (International Business Management)
+0405	Bachelor of Community and Criminal Justice
+0406	Bachelor of Design
+0407	Bachelor of Early Learning Program Development
+0408	Bachelor of Engineering (Electronic Systems Engineering)
+0409	Bachelor of Engineering (Mechanical Systems Engineering)
+0410	Bachelor of Public Relations
+0411	Bookkeeping
+0412	Brick and Stone Fundamentals
+0413	Bridge to Practical Nursing for Internationally Educated Health Professionals
+0414	Business - Insurance
+0415	Business - Purchasing
+0416	Business Administration - Financial Planning
+0417	Business Administration - Supply Chain and Operations Management
+0418	Career Development Practitioner
+0419	Civil Engineering Technology - Environmental
+0420	Community and Justice Services
+0421	Community and Social Service Management
+0422	Computer Applications Development
+0423	Computer Engineering Technology
+0424	Construction Engineering Technology - Architecture
+0425	Construction Project Management
+0426	Design Foundations
+0427	Dietetic Technician
+0428	Educational Support
+0429	Electrical Engineering Technician - Industrial
+0430	Electro-Mechanical Maintenance
+0431	Electronics Engineering Technology - Telecommunications Systems
+0432	Embedded Systems Development
+0433	Environmental Engineering Applications
+0434	Financial Planning Services
+0435	Food Processing Technician
+0436	Food Safety and Quality Assurance - Food processing
+0437	Green Management
+0438	Health Office Administration
+0439	Hearing Instrument Specialist
+0440	Heavy Equipment Operator
+0441	Heavy Equipment Techniques
+0442	Hospitality And Tourism Management
+0443	Hospitality Management - Hotel and Restaurant
+0444	Human Services Foundation
+0445	Information Technology Support Services
+0446	Insurance - Property and Casualty
+0447	Integrated Marketing Communications
+0448	IT Innovation and Design
+0449	Journalism - Broadcast
+0450	Manufacturing Engineering Technology - Welding And Robotics
+0451	Mechanical Engineering Technician - Automated Manufacturing
+0452	Mechanical Engineering Technology - Automated Manufacturing
+0453	Mechanical Engineering Technology - Design And Analysis
+0454	Mechanical Engineering Technology - Robotics And Automation
+0455	Mechanical Technician-general Machinist
+0456	Mechanical Technician-tool And Die/tool Maker
+0457	Mechanical Techniques-millwright
+0458	Media Foundations
+0459	Medical Office Practices
+0460	Mobile Solutions Development
+0461	Motive Power Fundamentals
+0462	Motive Power Fundamentals - Automotive Service
+0463	Motive Power Fundamentals - Motorcycle and Power Sport Vehicles
+0464	Motive Power Fundamentals - Truck And Coach
+0465	Motive Power Technician - Automotive Service
+0466	Motive Power Technician - Heavy Duty Equipment
+0467	Motive Power Technician - Motorcycle and Power Sport Vehicles
+0468	Occupational Therapist Assistant/physiotherapist Assistant
+0469	Process Quality Engineering
+0470	Professional Accounting Practice
+0471	Public Administration - Municipal Services
+0472	Public Service
+0473	Renewable Energy Techniques
+0474	Renovation Technician
+0475	Small Business Ventures
+0476	Teaching English As A Second Language
+0477	Visual Merchandising Arts
+0478	Welding Engineering Technician
+0479	Welding Engineering Technology - Inspection
+0480	Woodworking Technician
+0481	Woodworking Technology
+0482	Woodworking Technology - Architectural Millwork
+0483	9-1-1 Emergency and Call Communications
+0484	Accounting and Payroll
+0485	Activation Coordination in Gerontology
+0486	Addictions and Mental Health
+0487	Advanced Baking and Pastry Arts
+0488	Advanced Law Enforcement And Investigations
+0489	Advertising and Marketing Communications
+0490	Animation - Digital
+0491	Animation - Digital Arts
+0492	Animation - Digital Production
+0493	Broadcasting - Radio and Contemporary Media
+0494	Broadcasting for Contemporary Media
+0495	Business - Entrepreneurship and Small Business
+0496	Business Administration - Operations Management
+0497	Business Administration - Professional Golf Management
+0498	Business Administration- Materials and Operations Management
+0499	Chemical Laboratory Technician
+0500	Communicative Disorders Assistant
+0501	Construction and Hoisting Techniques
+0502	Construction Carpentry - Sustainable
+0503	Contemporary Media Production
+0504	Contemporary Web Design
+0505	Culinary Skills
+0506	Dental Reception And Administration
+0507	Digital Photography
+0508	Digital Video Production
+0509	Electro-mechanical Engineering Technology - Industrial Automation And Robotics - Mechtronics
+0510	Emergency Services Fundamentals
+0511	Energy Management and Sustainable Building Technology
+0512	Environmental Technology
+0513	Fine Arts - Advanced
+0514	Fire and Life Safety Systems Technician
+0515	Food and Farming
+0516	Foundations In Art And Design
+0517	Gas Technician 2
+0518	Golf Facility Operations Management
+0519	Heating Ventilation And Air Conditioning Techniques
+0520	Hospitality - Hotel and Restaurant Operations Management
+0521	Hospitality Management - Hotel, Restaurant and Tourism
+0522	Human Resource Management
+0523	Information Systems Security - Computers and Networking
+0524	Interactive Media Design
+0525	Journalism - Broadcast and Electronic Media
+0526	Legal Administration
+0527	Legal Research and Information Management
+0528	Mechanical Engineering Technician (non Destructive Evaluation)
+0529	Mechanical Technician - Mechanical Maintenance And Control
+0530	Media Fundamentals
+0531	Mediation/Alternative Dispute Resolution
+0532	Multimedia Design
+0533	Music Business Administration
+0534	Music Business Management
+0535	Occupational Therapist Assistant/physiotherapist Assistant (OTA/PTA)
+0536	Pharmaceutical And Food Science Technology
+0537	Pre-media
+0538	Recreation and Leisure Services
+0539	Registered Nurse - Critical Care Nursing
+0540	Renewable Energy Technician
+0541	Special Events Planning
+0542	Sport Administration
+0543	Sport Management
+0544	Sports Administration
+0545	Trades Fundamentals
+0546	VFX and Digital Cinema
+0547	Water Quality Technician
+0548	Web Development
+0549	Youth Corrections And Interventions
+0550	Youth Justice and Interventions
+0551	3D Animation and Character Design
+0552	Advanced Filmmaking
+0553	Adventure Expeditions and Interpretive Leadership
+0554	Artisanal Culinary Arts
+0555	Audio Post-production
+0556	Bachelor Of Applied Arts (integrated Land Planning Technologies)
+0557	Bachelor Of Applied Technology - Biotechnology
+0558	Bachelor of Applied Technology (Biotechnology)
+0559	Bachelor of Commerce (Accounting)
+0560	Bachelor of Commerce (Digital Marketing)
+0561	Bachelor of Commerce (Human Resources Management)
+0562	Bachelor of Early Childhood Leadership
+0563	Broadcasting Journalism - Television News
+0564	Business - Entrepreneurship and Management
+0565	Business - Logistics and Supply Chain Management
+0566	Business - Payroll and Bookkeeping
+0567	Chemical Laboratory Technology - Science Laboratory
+0568	Concierge Services - Guest Relations Specialist
+0569	Construction Carpentry Techniques
+0570	Construction Engineering Technician - Supervisor
+0571	Construction Engineering Technology - Management
+0572	Corporate Communication And Public Relations
+0573	Electromechanical Engineering Technician
+0574	Electronics Engineering Technician - Industrial Controls
+0575	Emergency Telecommunications
+0576	Entrepreneurship
+0577	Fashion Design
+0578	Fashion Merchandising
+0579	Fine Art
+0580	Fine Art Foundation
+0581	Food and Nutrition Management
+0582	Game Development - Advanced Programming
+0583	Geographic Information Systems (gis)
+0584	Gis And Urban Planning
+0585	Golf and Recreational Club Management
+0586	Hospitality Management - Food And Beverage
+0587	Hospitality Management - Hotel
+0588	Information Security Management
+0589	Interactive Media Design and Production
+0590	Interactive Media Design and Production 
+0591	Interactive Media Specialist
+0592	Interior Design
+0593	Internet Applications and Web Development
+0594	Landscape Design
+0595	Law And Security Administration - Private Security
+0596	Logistics and Supply Chain Management
+0597	Mechanical Technician Cnc/cam
+0598	Mechanical Techniques-cnc
+0599	Mechanical, Heating And Cooling Technician
+0600	Medical Resonance Imaging
+0601	Motive Power Technician - Automotive
+0602	Motive Power Technician - Diesel
+0603	Multimedia Design And Production
+0604	Practical Elements of Mechanical Engineering
+0605	Pre-health Science
+0606	Professional Financial Services
+0607	Renewable Energies Technician
+0608	Retirement Residence Management
+0609	Science Laboratory Technology
+0610	Technical Costume Studies
+0611	Theatre Arts - Performance
+0612	Video Game Design and Development
+0613	Visual Effects and Editing for Contemporary Media
+0614	Addictions: Treatment And Prevention
+0615	Anishnaabemowin Language Programming
+0616	Art And Design Fundamentals
+0617	Automotive Business
+0618	Aviation Management
+0619	Bachelor of Business (Automotive Management)
+0620	Bachelor of Business (Golf Management)
+0621	Bachelor of Business Administration (Golf Management)
+0622	Bachelor of Human Services (Police Studies)
+0623	Business - Entrepreneurship
+0624	Business Administration - Automotive Marketing
+0625	Cabinetmaking Techniques
+0626	Carpentry Techniques
+0627	Civil Engineering Technician - Construction
+0628	Computer And Network Systems Security
+0629	Digital Photography And Imaging
+0630	Electrical Engineering Technician - Power
+0631	Electrical Engineering Technology - Automated Systems - Co-op
+0632	Entrepreneurship and Small Business Management
+0633	Fine Arts
+0634	Fundraising And Resource Development
+0635	Gas Technician
+0636	General Arts And Science - One Year
+0637	Goldsmithing And Silversmithing
+0638	Golf Facilities Operation Management
+0639	Graphic Design Production
+0640	Hairstyling
+0641	Heating, Refrigeration, and Air Conditioning Technician
+0642	Hospitality Administration - Hotel And Resort
+0643	Information Systems Security
+0644	Interactive Media Design - Web
+0645	Interactive Web Design and Development
+0646	Interior Design Degree Bridge
+0647	Jewellery And Metals
+0648	Marine Engineering Technician
+0649	Marine Engineering Technology
+0650	Marine Technology - Navigation
+0651	Mechanical Engineering Technology - Automotive Manufacturing - Co-op
+0652	Mechanical Engineering Technology - Automotive Products Design
+0653	Mechanical Technician - Precision Skills
+0654	Mechanical Techniques - Marine Engine Mechanic
+0655	Mechanical Techniques - Small Engine Mechanic
+0656	Medical Skin Care Therapies
+0657	Museum and Gallery Studies
+0658	Native Education - Community And Social Development
+0659	Occupational Health and Safety Management
+0660	Occupational Therapy Assistant / Physiotherapy Assistant
+0661	Opticianry
+0662	Plumbing Techniques
+0663	Research Analyst
+0664	Snow Resort Operations
+0665	Therapeutic Recreation
+0666	Tourism Management
+0667	Web Animation and Design
+0668	Activation Co-ordinator/gerontology
+0669	Advanced French Patisserie
+0670	Advanced Wine and Beverage Business Management
+0671	American Sign Language And Deaf Studies
+0672	American Sign Language/english Interpreter
+0673	Analytics for Business Decision Making
+0674	Art And Design Foundation
+0675	Assaulted Women's And Children's - Counsellor/advocate
+0676	Bachelor Of Applied Business (financial Services)
+0677	Bachelor Of Applied Business (hospitality Operations Management)
+0678	Bachelor of Business Administration (Hospitality)
+0679	Bachelor of Technology (Construction Management)
+0680	Baking And Pastry Arts Management
+0681	Behavioural Science Technology
+0682	Building Information Modeling Management
+0683	Building Renovation Technician
+0684	Building Renovation Technology
+0685	Business Administration - Finance
+0686	Business Administration - Project Management
+0687	Business Administration - Retail
+0688	Business Administration - Supply Chain
+0689	Career And Work Counsellor
+0690	Clinical Methods In Orthotics/prosthetics
+0691	College Teachers Training For Internationally Educated Professionals
+0692	College Vocational
+0693	Commercial Dance Studies
+0694	Community Worker
+0695	Construction Engineering Technology
+0696	Construction Trades Techniques
+0697	Culinary Arts - Italian
+0698	Culinary Management - Nutrition
+0699	Dance Performance Preparation
+0700	Dance Performance Studies
+0701	Dental Office Administration
+0702	Dental Technology
+0703	Denturism
+0704	Design Management
+0705	Digital Design - Advanced Digital Design
+0706	Digital Design - Game Design
+0707	Digital Media Marketing
+0708	Electro-mechanical Engineering Technician
+0709	Electromechanical Engineering Technology - Building Automation
+0710	Fashion Business Industry
+0711	Fashion Management
+0712	Fashion Techniques And Design
+0713	Fitness And Lifestyle Management
+0714	Food And Beverage Management
+0715	Game Programming
+0716	Gemmology
+0717	Health Informatics
+0718	Health Information Management
+0719	Heating, Refrigeration and Air Conditioning Technology
+0720	Hospitality, Tourism And Leisure
+0721	Hotel Management
+0722	Information Systems Business Analysis
+0723	Information Systems Business Analyst
+0724	Interaction Design and Development
+0725	Interdisciplinary Design Strategy
+0726	Interior Design Technology
+0727	International Fashion Development And Management
+0728	International Fashion Development And ManagementInternational Fashion Management
+0729	Interprofessional Acute Care Paediatric Cardiology
+0730	Intervenor For Deaf-blind Persons
+0731	Jewellery Arts
+0732	Jewellery Essentials
+0733	Jewellery Methods
+0734	Marketing Management - Financial Services
+0735	Mechanical Engineering Technology - Design
+0736	Mechanical Technician - Tool And Die
+0737	Network and System Security Analysis
+0738	Orthotic/prosthetic Technician
+0739	Pre-community Services
+0740	Registered Nurse - Operating Room Perioperative Nursing
+0741	Registered Nurse - Perinatal Intensive Care Nursing
+0742	Residential Construction Management
+0743	Restorative Dental Hygiene
+0744	RPN Bridge to BScN
+0745	Small Business Entrepreneurship
+0746	Special Event Management
+0747	Sport And Event Marketing
+0748	Strategic Relationship Marketing
+0749	Tourism and Hospitality Management
+0750	Wireless Networking
+0751	3D Animation Art and Design
+0752	Acting For Film And Television
+0753	Advertising And Graphic Design
+0754	Advertising Copywriting
+0755	Alternative Dispute Resolution
+0756	Art Foundation
+0757	Arts Administration - Cultural Management
+0758	Bachelor Of Applied Arts (creative Advertising)
+0759	Bachelor of Applied Arts (Criminal Justice)
+0760	Bachelor of Applied Arts (Film and Media Production)
+0761	Bachelor Of Applied Arts (paralegal Studies)
+0762	Bachelor Of Applied Music (contemporary Music)
+0763	Bachelor Of Applied Technology (industrial Design)
+0764	Bachelor of Child and Youth Care
+0765	Bachelor of Commerce (Digital Business Management)
+0766	Bachelor of Commerce (e-Business Marketing)
+0767	Bachelor of Commerce (Fashion Management)
+0768	Bachelor of Commerce (Finance)
+0769	Bachelor of Commerce (Hospitality and Tourism Management)
+0770	Bachelor of Commerce (International Business)
+0771	Bachelor of Commerce (Management Studies)
+0772	Bachelor of Commerce (Marketing)
+0773	Bachelor of Commerce (Supply Chain Management)
+0774	Bachelor of Creative Advertising
+0775	Bachelor of Digital Communications
+0776	Bachelor of Industrial Design
+0777	Bachelor of International Development
+0778	Bachelor of Journalism
+0779	Bachelor of Music
+0780	Baking and Pastry Arts Management
+0781	Biotechnology
+0782	Broadcast Television/Videography
+0783	Clinical Research
+0784	Comedy: Writing And Performance
+0785	Computer And Network Support Technician
+0786	Cosmetic Management
+0787	Creative Photography
+0788	Creative Writing
+0789	Design Foundation
+0790	Early Childhood Education - Special Needs
+0791	Electrical Engineering Technician - Control Systems
+0792	Electrical Engineering Technology - Control Systems
+0793	Electro-mechanical Engineering Technology
+0794	Enterprise Software Development
+0795	Environmental Systems Engineering Technology - Energy Management
+0796	Esthetician-spa Management
+0797	Exercise Science And Lifestyle Management
+0798	Fashion Arts - Modelling And Fashion Studies
+0799	Fashion Management and Promotions
+0800	Film And Television Production
+0801	Food And Beverage Service
+0802	Fundraising And Volunteer Management
+0803	Funeral Director Class 1 (Embalming)
+0804	Funeral Pre-Planner
+0805	Home Renovation Technician
+0806	Hospitality And Tourism Operations Management
+0807	Hospitality- Hotel And Restaurant Operations Management
+0808	Industrial Woodworking Technician
+0809	Information Technology Solutions
+0810	International Marketing
+0811	Introduction To Commercial/jazz Music
+0812	Landscape Technician
+0813	Mechanical Techniques - Millwright
+0814	Media Communications
+0815	Media Foundation
+0816	Multimedia Design and Development
+0817	Multimedia Design And Production Technician
+0818	Nutrition and Healthy Lifestyle Promotion
+0819	Package And Graphic Design
+0820	Post-production
+0821	Professional Writing and Communications
+0822	Protection, Security and Investigation
+0823	Public Administration
+0824	Regulatory Affairs
+0825	Supply Chain Management
+0826	Sustainable Energy And Building Technology
+0827	Television Writing And Producing
+0828	Tourism And Hospitality Administration
+0829	Tourism And Hospitality Management - Business Applications
+0830	Tourism Management - Travel Industry Services
+0831	Visual And Digital Arts
+0832	Web Design and Interactive Media
+0833	Wireless Telecommunications
+0834	ACCES CARRIERES ETUDES
+0835	Animation - 3d
+0836	Animation 3D - avancé
+0837	Arts Culinaires
+0838	Autisme Et Sciences Du Comportement
+0839	Baccalauréat en Biotechnologie
+0840	Child Care Worker
+0841	Civil Engineering Technology - Construction
+0842	Communication 911
+0843	Computer Operator
+0844	Computer Technology - Computing Science
+0845	Conception Graphique
+0846	Décoration intérieure
+0847	Design De Coiffure
+0848	Design graphique
+0849	Électroneurodiagnostic
+0850	Environmental Science Technician
+0851	Gestion de la nutrition et des services alimentaires
+0852	Gestion d'événements - festivals et congrès
+0853	Heating, Air Conditioning And Refrigeration Technician
+0854	Intégration communautaire par l’éducation coopérative
+0855	Interior Design - Advanced
+0856	Legal Assistant
+0857	Office Administration - Administrative Support
+0858	Parajuriste
+0859	Pratique De L'électricité
+0860	Pratiques en administration des affaires
+0861	Protection et sécurité aéroportuaire
+0862	Protective Security
+0863	Recreation Leadership
+0864	Rénovation résidentielle
+0865	Santé mentale et toxicomanie
+0866	Science Technician - Photographic
+0867	Security Management
+0868	Services D'incendie-programme Préparatoire
+0869	Social Worker - Gerontology
+0870	Soins paramédicaux avancés
+0871	Sommelier - Bière
+0872	Techniques agricoles- production animale
+0873	Techniques de la construction et du bâtiment
+0874	Techniques de plomberie
+0875	Techniques D'électroneurophysiologie Médicale
+0876	Techniques Des Véhicules Automobiles
+0877	Techniques D'esthétique
+0878	Techniques Du Génie Électrique
+0879	Techniques maçonnerie
+0880	Technologie de l’information - sécurité informatique
+0881	Technologie De La Sécurité De L'information
+0882	Technologie de l'environment
+0883	Technologie de l'information - réseaux informatiques
+0884	Technologie de l'information - sécurité informatique
+0885	Technologie en environnement forestier et faunique
+0886	Tourisme Et Voyage
+0887	Travail en chantier résidentiel
+0888	Vente et représentation
+0889	Alternative (sustainable) Energy Engineering Technology
+0890	Business Management - Finance and Banking
+0891	Business Management - Human Resources
+0892	Business Management - International Business
+0893	Business Management - Marketing
+0894	Chemical Production And Power Engineering Technician
+0895	Chemical Production And Power Engineering Tecnology
+0896	Contemporary Law Enforcement and Justice
+0897	Fashion Business
+0898	Fire Science Technology
+0899	Internet Programming and Database Management
+0900	Liberal Studies
+0901	Mechanical Technician - Industrial Maintenance
+0902	Power Engineering Technician - Chemical
+0903	Power Engineering Technology - Chemical
+0904	Renovation Construction Technician
+0905	Retail Pharmacy Assistant
+0906	Sports And Recreation Administration
+0907	Sports and Recreation Management
+0908	Part-Time Paramedic
+0909	Art and Design Foundations
+0910	Broadcast Engineering Technology
+0911	Business Sales And Marketing
+0912	Chemical Engineering Technician
+0913	Construction and Renovation Technician
+0914	Esthetics and Spa Management
+0915	Journalism - Online, Print and Broadcast
+0916	Law And Security Administration - Corporate And Commercial Security
+0917	Law And Security Administration - Customs Border Services
+0918	Media Arts - New Media Production And Animation
+0919	Photojournalism
+0920	Residential Drafting And Design Techniques
+0921	Sports and Entertainment Sales and Marketing
+0922	Sports Journalism
+0923	Survey Engineering Technician
+0924	Television And New Media Production
+0925	Welding and Fabrication Technician
+0926	Aboriginal Small Business Management
+0927	Advanced Security Management
+0928	Applied Music
+0929	Applied Music Preparatory
+0930	Aviation Technician - Aircraft Structures
+0931	Broadcasting - Television And Communications Media
+0932	Business Analysis
+0933	Business-financial Services
+0934	Cardiovascular Technology
+0935	Career Pathways
+0936	Chemical Engineering Technology - Environmental
+0937	Computer Science Technology - Software Engineering
+0938	Computer Systems Technician - Network Systems
+0939	Computer Systems Technician - Software Support
+0940	Computer Systems Technology - Network Engineering And Security Analyst
+0941	Construction Engineering Technician - Building Renovation
+0942	Creative Photography- Still and Motion
+0943	Diagnostic Cardiac Sonography
+0944	Electrical Engineering Technology - Control
+0945	Energy Systems Engineering Technology - Clean and Renewable Energy
+0946	Event Management - Convention And Meeting
+0947	Gas And Oil Burner Technician 2
+0948	Graphic Design Production - Creative Studio
+0949	Graphic Design Production - Digital Media
+0950	Graphic Design Production - Integrated Media Arts
+0951	Health, Wellness and Fitness
+0952	Heating, Refrigeration And Air Conditioning Techniques
+0953	Insurance
+0954	Manufacturing Engineering Technician - Automation
+0955	Mechanical Techniques - Cad/cam Automated Machining
+0956	Motivwe Power Technician
+0957	Occupational Therapist Assistant And Physiotherapist Assistant
+0958	Pre-Justice
+0959	Pre-media And Entertainment
+0960	Quality Engineering Technician - Non Destructive Evaluation
+0961	Small Business And Entrepreneurship
+0962	Transportation Engineering Technology
+0963	Urban And Regional Planning Technician - Gis
+0964	Utilities System Operator
+0965	Advanced Lasers
+0966	Advanced Law Enforcement and Investigations
+0967	Art and Design Foundation
+0968	Autism and Behavioural Science
+0969	Bachelor Of Applied Business (international Commerce And Global Development)
+0970	Bachelor of Business Administration (International Commerce and Global Development)
+0971	Baking and Pastry Arts
+0972	Brewmaster and Brewery Operations Management
+0973	Broadcasting - Radio, Television And Film
+0974	Business - Sales And Marketing
+0975	Business Administration - Common
+0976	Community Mental Health - Multidiscipline
+0977	Computer Engineering Technician
+0978	Culinary Innovation and Food Technology
+0979	Dental Assisting (level I And Ii)
+0980	Early Childhood Education - Native Concentration
+0981	Ecosystem Restoration
+0982	Educational Assistant - Special Needs Support
+0983	Environmental Management And Assessment
+0984	Environmental Technician - Field And Laboratory
+0985	Exercise Science for Health and Performance
+0986	Geograpic Information Systems - Geospacial Management
+0987	Greenhouse Technician
+0988	Hairstyling Techniques
+0989	Horticultural Technician
+0990	Landscape Horticulture Techniques
+0991	Motive Power Techniques
+0992	New Media Web Design
+0993	Palliative Care - Multidiscipline
+0994	Photonics Engineering Technician
+0995	Photonics Engineering Technology
+0996	Renovation Technician-Construction
+0997	Tourism Management - Business Development
+0998	Welding Technician
+0999	Wine Business Management
+1000	Winery And Viticulture Technician
+1001	Animal Grooming
+1002	Building Inspection Technician
+1003	Business Administration - Information Systems
+1004	Child and Adolescent Mental Health
+1005	Community Economic And Social Development Administration
+1006	Community Economic And Social Development Worker
+1007	Companion Animal Physical Rehabilitation
+1008	Computer Technology - Science
+1009	Construction Engineering Technician - Building Management
+1010	Environmental Technician - Water and Waste Water Systems Operations
+1011	Management
+1012	Mechanical Technician - Industrial Millwright
+1013	Mechanical Technician - Welding Fitter
+1014	Mechanical Techniques-industrial Millwright
+1015	Motive Power Technician - Heavy Equipment
+1016	Natural Resource Technician
+1017	Not Available or Not Applicable
+1018	Pre-Technology
+1019	Veterinary Technology - Wildlife Rehabilitation
+1020	Welding Engineering Technology
+1021	Adventure Recreation And Parks Technician
+1022	Aviation Technology - Flight
+1023	Digital Film Production
+1024	Digital Photography and Imaging
+1025	Electrical Engineering Technician - Power Generation
+1026	Electrical Engineering Technician - Process Automation
+1027	Electrical Engineering Technician-process Automation And Trades
+1028	Electrical Engineering Technology - Process Automation
+1029	Fish And Wildlife Conservation Technician
+1030	Forest Conservation Technician
+1031	Geographic Information Systems - Applications Specialist
+1032	Home Inspection Technician
+1033	Mechanical Engineering Technician - Manufacturing
+1034	Metal Fabrication
+1035	Motive Power Fundamentals - Automotive Repair
+1036	Motive Power Fundamentals - Heavy Equipment and Truck Repair
+1037	Motive Power Fundamentals – Marine and Small Engine Repair
+1038	Motive Power Technician - Advanced Repair
+1039	Natural Environment Technician - Conservation and Management
+1040	Natural Environment Technologist - Conservation Management
+1041	Natural Resources / Environmental Law - Inspection and Enforcement
+1042	Peace and Conflict Studies
+1043	Pre-trades And Technology
+1044	Public Relations and Event Management
+1045	Renewable Energy and Green Construction Techniques
+1046	Residential Construction Technician - Home Inspection
+1047	Residential Construction Technician – Home Inspection
+1048	Social Service Worker - Native
+1049	Video Game Art
+1050	3d Animation
+1051	911 And Emergency Services Communications
+1052	Accounting
+1053	Accounting And Finance
+1054	Accounting And Payroll
+1055	Accounting Techniques
+1056	Acting for Camera and Voice
+1057	Advanced Investigations And Enforcement
+1058	Applied Science and Technology Fundamentals
+1059	Art Fundamentals
+1060	Arts and Science - University Transfer
+1061	Aviation Operations
+1062	Bachelor of Aviation Technology
+1063	Bachelor of Child Development
+1064	Bachelor of Commerce (Business Management)
+1065	Bachelor of Commerce (Financial Services Management)
+1066	Bachelor of Commerce (Human Resources Strategy and Technology)
+1067	Bachelor of Commerce (International Accounting and Finance)
+1068	Bachelor of Commerce (International Business Management)
+1069	Bachelor of Interdisciplinary Studies
+1070	Bachelor of Technology (Informatics and Security)
+1071	Bachelor of Technology (Software Development)
+1072	Bachelor of Therapeutic Recreation
+1073	Behavioural Sciences
+1074	Bioinformatics
+1075	Building Systems Engineering Technician
+1076	Business Administration - Entrepreneurship and Small Business
+1077	Business Administration - Management
+1078	Business Administration - Purchasing and Supply Management
+1079	Business Administration - Retail Management
+1080	Business Administration - Accounting and Financial Planning
+1081	Chemical Laboratory Technology - Pharmaceutical
+1082	Child and Youth Worker
+1083	College Opportunities
+1084	Computer Networking And Technical Support
+1085	Corporate Communication
+1086	Cosmetic Techniques And Management
+1087	Court And Tribunal Administration
+1088	Creative Advertising
+1089	Database Application Developer
+1090	Digital Media Arts
+1091	Documentary and Non-Fiction Media Production
+1092	Electronics Engineering Technician - Broadband Cable
+1093	Electronics Engineering Technician - Communications
+1094	Electronics Engineering Technology - Communications
+1095	Electronics Engineering Technology - Control Systems
+1096	Energy Management - Built Environment
+1097	Environmental Landscape Management
+1098	Environmental Technician - Sampling and Monitoring
+1099	Esthetics and Spa Therapies
+1100	Event and Media Production
+1101	Event Management - Event And Exhibit Design
+1102	Event Marketing - Sports, Entertainment, Arts
+1103	Fashion Arts
+1104	Fashion Studies
+1105	Financial Services - Client Services
+1106	Financial Services Compliance Administration
+1107	Financial Services Practitioner
+1108	Fire Protection Engineering Technician
+1109	Fire Protection Engineering Technology
+1110	Flight Services
+1111	Floral Design
+1112	Fraud Examination And Forensic Accounting
+1113	Game Art and Animation
+1114	General Arts
+1115	General Arts - English for Academic Purposes
+1116	Global Logistics And Supply Chain Management
+1117	Government Relations
+1118	Green Business Management
+1119	Independent Digital Photography
+1120	Independent Illustration
+1121	Independent Songwriting and Performance
+1122	International Business
+1123	International Business Administration
+1124	International Transportation And Customs
+1125	Mechanical Engineering Technician - Tool Design
+1126	Mechanical Engineering Technology - Building Sciences
+1127	Mechanical Engineering Technology - Industrial Design
+1128	Mechanical Techniques - Cnc Programming
+1129	Nonprofit Leadership and Management
+1130	Pharmaceutical Regulatory Affairs And Quality Operations
+1131	Pre-Business
+1132	Pre-media (media And Communications Fundamentals)
+1133	Project Management - Environmental
+1134	Project Management - Information Technology
+1135	Public Administration - Municipal
+1136	Real Property Administration
+1137	Retail Management - Fashion Merchandising
+1138	Social Media
+1139	Social Service Worker - Gerontology
+1140	Social Service Worker - Immigration And Refugees
+1141	Technical Communication
+1142	Tourism - Tavel Operations
+1143	Underwater Skills
+1144	Urban Land Regeneration
+1145	Visual Effects For Film And Tv
+1146	Advanced Film And Television
+1147	Advanced Special Effects Makeup, Prosthetics and Props
+1148	Advanced Television and Film
+1149	Advertising Management
+1150	Animal Care
+1151	Art And Art History
+1152	Bachelor of Animation
+1153	Bachelor Of Applied Arts (animation)
+1154	Bachelor of Applied Arts (Game Design)
+1155	Bachelor Of Applied Arts (illustration)
+1156	Bachelor of Applied Arts (Interaction Design)
+1157	Bachelor of Applied Arts (Interior Design)
+1158	Bachelor of Applied Arts (Music Theatre Performance)
+1159	Bachelor of Applied Arts (Photography)
+1160	Bachelor of Applied Business (Global Business Management)
+1161	Bachelor of Applied Computer Science (Mobile Computing)
+1162	Bachelor of Applied Health Sciences (Athletic Therapy)
+1163	Bachelor Of Applied Health Sciences (athletic Therapy)
+1164	Bachelor of Applied Health Sciences (Exercise Sciences and Health Promotion)
+1165	Bachelor Of Applied Information Sciences (information Systems Security)
+1166	Bachelor of Applied Information Sciences (Information Systems Security)
+1167	Bachelor of Business Administration (Accounting)
+1168	Bachelor of Business Administration (Finance)
+1169	Bachelor of Business Administration (Global Business Management)
+1170	Bachelor of Business Administration (Human Resources Management)
+1171	Bachelor of Business Administration (Marketing)
+1172	Bachelor of Business Administration (Supply Chain Management)
+1173	Bachelor of Craft and Design
+1174	Bachelor of Film and Television
+1175	Bachelor of Game Design
+1176	Bachelor of Health Sciences (Kinesiology and Health Promotion)
+1177	Bachelor of Illustration
+1178	Bachelor of Interaction Design
+1179	Bachelor of interior Design
+1180	Bachelor of Music Theatre Performance
+1181	Bachelor of Photography
+1182	Banking And Wealth Management
+1183	Business Process Management
+1184	Community Worker - Outreach And Development
+1185	Computer Animation
+1186	Computer Animation - Digital Character Animation
+1187	Computer Animation - Digital Visual Effects
+1188	Computer Systems Technology - Systems Analyst
+1189	Computer Systems Technology - Software Development And Network Engineering
+1190	Crafts And Design - Ceramics
+1191	Crafts And Design - Fabrics
+1192	Crafts And Design - Furniture
+1193	Crafts And Design - Glass
+1194	Crafts and Design - Textiles
+1195	Digital Creature Animation - Technical Direction
+1196	Electrician-pr Trade
+1197	Electromechanical Engineering Technology
+1198	Emergency Management
+1199	Enterprise Database Management
+1200	Environmental Control
+1201	Fundamentals of Fitness Leadership
+1202	Game Development Advanced Programming
+1203	Game Level Design
+1204	Help Desk Technician
+1205	Information Technologies Support Services
+1206	Internet Communications Technology
+1207	Investigation - Public And Private
+1208	Journalism - New Media
+1209	Manufacturing Management
+1210	Mechanical Engineering Technician - Drafting
+1211	Mechanical Engineering Technology - Design And Drafting
+1212	Mechanical Technician - Tool Making
+1213	Mechanical Techniques-tool And Die Maker
+1214	Media Arts
+1215	Music Theatre - Performance
+1216	Performing Arts - Preparation
+1217	Quality Assurance - Manufacturing And Management
+1218	Sheridan - York Bachelor Of Design
+1219	Technical Production for Theatre and Live Events
+1220	Technology Fundamentals
+1221	Tourism -  Global Travel
+1222	Visual And Creative Arts
+1223	Visual And Creative Arts - Advanced
+1224	Visual Effects
+1225	Web Design
+1226	Advertising - Integrated Marketing Communications
+1227	Bachelor Of Applied Arts (behavioural Psychology)
+1228	Community Integration Through Co-Operative Education
+1229	Control Engineering Technician
+1230	Control Engineering Technology
+1231	Game Development Technician
+1232	General Construction Carpentry Techniques
+1233	Health Care Administration
+1234	Interactive Marketing Communications
+1235	Mechanical Engineering Technician - Machining
+1236	Medical Laboratory Assistant /Technician
+1237	Medical Laboratory Science
+1238	Music and Digital Media
+1239	Veterinary Technology
+1240	Visual And Creative Arts - Fine Arts
+1241	Wind Turbine Technician
+1242	Advanced Water Systems Operations and Management
+1243	Applied and Community-Based Research
+1244	Aquaculture
+1245	Arboriculture
+1246	Artist Blacksmith
+1247	Biotechnology Technologist - Forensics
+1248	Blasting Techniques
+1249	Business Administration - Human Resources Management
+1250	Carpentry Technician
+1251	Ceramics
+1252	Collections Conservation And Management
+1253	Computer Security And Investigations
+1254	Conservation and Environmental Law Enforcement
+1255	Construction Skills
+1256	Cultural Heritage Conservation and Management
+1257	Digital Image Design
+1258	Drawing and Painting
+1259	Drug And Alcohol Counsellor
+1260	Earth Resources Technician
+1261	Ecological Restoration Technician
+1262	Ecosystem Management Technician
+1263	Ecosystem Management Technology
+1264	Electrical Power Generation Technician
+1265	Environmental Visual Communication
+1266	Expressive Arts
+1267	Fibre Arts
+1268	Fire Systems Engineering Technician
+1269	Fitness and Health Promotiom
+1270	Geographic Information Systems - Cartographic Specialist
+1271	Geomatics Technician
+1272	Glassblowing
+1273	Health, Safety and Environmental Compliance
+1274	Hotel and Restaurant Management
+1275	Human Service Foundations
+1276	Instrumentation and Control Engineering Technician
+1277	Integrated Design
+1278	International Trade
+1279	Law And Security Administration - Security And Risk Management
+1280	Mechanical Techniques – Plumbing
+1281	Museum Management And Curatorship
+1282	Outdoor Adventure Skills
+1283	Outdoor and Adventure Education
+1284	Pest Management Techniques
+1285	Photo Arts
+1286	Powered Lift Technician
+1287	Preparatory Health Science
+1288	Resources Drilling And Blasting
+1289	Sculpture
+1290	Sporting Goods Business
+1291	Studio Process Advancement
+1292	Sustainable Agriculture
+1293	Sustainable Building Design And Construction
+1294	Trade Fundamentals
+1295	Urban Forestry
+1296	Urban Forestry Technician
+1297	Visual Arts Fundamentals - Drawing And Painting
+1298	Wireless Information Networking
+1299	Animation - Tradigital
+1300	Binoojiingyag Kinoomaadwin Native Early Childhood Education
+1301	Biomedical Engineering Technology - Equipment and Devices
+1302	Border Services
+1303	Chemical Laboratory Technology
+1304	Construction Engineering Technician - Civil
+1305	Dental Assisting (levelsi And Ii)
+1306	Design - Interior
+1307	Electromechanical Engineering Technician - Robotics
+1308	Electronics Engineering Technology - Industrial Automation
+1309	Energy Systems Design Technology
+1310	Entertainment Technology
+1311	Fashion Design Technician
+1312	Fitness and Health Training
+1313	Food Services Management
+1314	GENERAL MACHINIST
+1315	Heating, Refrigeration And Airconditioning Technician
+1316	Horticulture Technician - Landscape
+1317	International Trade Management
+1318	Journalism - Print And New Media
+1319	Mechanical Engineering Technician - Industrial
+1320	Mechanical Engineering Technology - Automotive Product Design
+1321	Mechanical Technician - Cad/cam
+1322	Media Convergence
+1323	Mobile Applications Development
+1324	Motive Power Fundamentals - Truck and Coach Repair Techniques
+1325	Native Community Worker - Traditional Aboriginal Healing Methods
+1326	Social Services Worker - Gerontology
+1327	Sport and Recreation Management
+1328	Sustainable Energy Technician
+1329	Web Communications Development
+
+
+Schools / Écoles
+----------------
+
+ALG	Algonquin
+BOR	Boreal
+CAM	Cambrian
+CAN	Canadore
+CEN	Centennial
+CFD	Confederation
+CST	Conestoga
+DUR	Durham
+FAN	Fanshawe
+GBR	George Brown
+GEO	Georgian
+HUM	Humber
+LAC	Lacite
+LAM	Lambton
+LOY	Loyalist
+MOH	Mohawk
+NIA	Niagara
+NOR	Northern
+SAU	Sault
+SCL	St. Clair
+SEN	Seneca
+SHE	Sheridan
+SLA	St. Lawrence
+SSF	Sir Sandford Fleming
+
+
+Statuses / Status
+-----------------
+
+AAN	Aboriginal ancestry (where self-identified)                                                                                                            	Descendance autochtone (si auto-identifié)
+AAO	Attending an off-shore school                                                                                                                          	Fréquentation d’un établissement outremer
+CCI	Canadian citizen                                                                                                                                       	Citoyen canadien
+CRE	Convention refugee (protected person)                                                                                                                  	Réfugié au sens de la Convention (Personne protégée)
+ICO	In Canada on authority of another visa (including students who are in Canada on diplomatic, trade or other missions)                                   	Au Canada sous l’autorité d’un autre visa (y compris les étudiants qui sont au Canada en missions diplomatiques, commerciales ou autres) 
+OTH	Other                                                                                                                                                  	Autre
+PRE	Permanent resident (formerly called landed immigrant)                                                                                                  	Résident permanent (anciennement « immigrant reçu »)
+RST	Refugee status                                                                                                                                         	Statut de réfugié
+SPV	Student permit or visa: a permit obtained by a student to enter Canada for the sole purpose of attending an educational postsecondary institution      	Permis d’études/visa d’étudiant visa : permis obtenu par un étudiant pour entrer au Canada aux seules fins de fréquenter un établissement d’enseignement postsecondaire
+UNK	Unknown                                                                                                                                                	Inconnu
+
+
+Tongues / Langues
+-----------------
+
+AR	Arabic              	Arabe
+CR	Creole              	Créole
+DU	Dutch               	Néerlandais
+EF	English & French    	Anglais et français
+EN	English             	Anglais
+FR	French              	Français
+GE	German              	Allemand
+IT	Italian             	Italien
+OT	Other               	Autre
+PO	Portuguese          	Portugais
+RO	Romanian            	Roumain
+RU	Russian             	Russe
+SC	Serbo-Croatian      	Serbo-Croate
+SP	Spanish             	Espagnol
+SW	Swahili             	Swahili
+UN	Unknown             	Inconnu
+VI	Vietnamese          	Vietnamien
+
+
+Source: Ministry of Advanced Education and Skills Development (MAESD)
+
+The Ministry of Advanced Education and Skills Development has endeavored to keep the information provided up to date and correct, but makes no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the information for any purpose.

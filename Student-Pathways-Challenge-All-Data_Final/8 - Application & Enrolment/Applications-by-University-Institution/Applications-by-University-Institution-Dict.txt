@@ -1,0 +1,28 @@
+﻿Universities / Universités
+--------------------------
+
+ALG 	Algoma
+BRO 	Brock
+CAR 	Carleton
+GUE 	Guelph
+LAK 	Lakehead
+LAU 	Laurentian
+MCM 	McMaster
+NIP 	Nipissing
+OCA 	OCAD
+OTT 	Ottawa
+QUE 	Queen's
+RYE 	Ryerson
+TOR 	Toronto
+TRE 	Trent
+UOI 	UOIT
+WAT 	Waterloo
+WIN 	Windsor
+WLA 	Wilfrid Laurier
+WON 	Western Ontario
+YOR 	York
+
+
+Source: Ontario University Application Centre (OUAC)
+
+The Ministry of Advanced Education and Skills Development has endeavored to keep the information provided up to date and correct, but makes no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the information for any purpose.

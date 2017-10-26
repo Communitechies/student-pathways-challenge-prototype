@@ -1,0 +1,60 @@
+Programs / Programmes
+---------------------
+
+ABS	Agricultural & Bio. Sciences          	Sciences agricoles et biologiques
+ALA	Architecture & Landscape Arch.        	Architecture et architecture paysagère
+BCO	Business & Commerce                   	Affaires et commerce
+CSC	Computer Science                      	Sciences informatiques
+DEN	Dentistry                             	Médecine dentaire
+EDU	Education                             	Éducation (formation des enseignants)
+ENG	Engineering                           	Ingénierie
+FAA	Fine & Applied Arts                   	Beaux-arts et arts appliqués
+FOR	Forestry                              	Foresterie
+FSN	Food Science & Nutrition              	Sciences alimentaires et nutrition
+HPR	Health Professions                    	Autres professions de la santé
+HUM	Humanities                            	Sciences humaines
+JOU	Journalism                            	Journalisme
+KRP	Kinesiology/Recreation/Phys-Ed        	Kinésiologie, récréologie et éducation physique
+LAW	Law                                   	Droit
+MAT	Mathematics                           	Mathématiques
+MED	Medicine                              	Médecine 
+NUR	Nursing                               	Sciences infirmières
+OAS	Other Arts & Science                  	Autres programmes en arts et en sciences
+OPT	Optometry                             	Optométrie
+PHA	Pharmacy                              	Pharmacie
+PSC	Physical Sciences                     	Sciences physiques
+SSC	Social Sciences                       	Sciences sociales
+THE	Theology                              	Théologie
+TRE	Therapy & Rehabilitation              	Thérapie et réadaptation
+VME	Veterinary Medicine                   	Médecine vétérinaire
+
+
+Universities / Universités
+--------------------------
+
+ALG	Algoma
+BRO	Brock
+CAR	Carleton
+GUE	Guelph
+HEA	Hearst
+LAK	Lakehead
+LAU	Laurentian
+MCM	McMaster
+NIP	Nipissing
+OCA	OCADU
+OTT	Ottawa
+QUE	Queens
+RYE	Ryerson
+TOR	Toronto
+TRE	Trent
+UOI	UOIT
+WAT	Waterloo
+WES	Western
+WIN	Windsor
+WLA	Wilfrid Laurier
+YOR	York
+
+
+Source: Ministry of Advanced Education and Skills Development (MAESD)
+
+The Ministry of Advanced Education and Skills Development has endeavored to keep the information provided up to date and correct, but makes no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the information for any purpose.

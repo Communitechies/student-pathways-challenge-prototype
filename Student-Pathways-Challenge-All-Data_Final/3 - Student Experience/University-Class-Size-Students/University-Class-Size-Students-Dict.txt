@@ -1,0 +1,42 @@
+Divisions
+---------
+
+S	Section: Lecture-based class components                                           	Section: Éléments de cours basées sur les conférences
+SS	Subsection: Non-lecture based class components (laboratory, discussion, etc.)     	Sous-section: Éléments de cours non-basées sur les conférences (laboratoires, discussion, etc.)
+
+
+Universities / Universités
+--------------------------
+
+ALG	Algoma
+BRO	Brock University
+CAR	Carleton University
+GUE	University of Guelph
+LAK	Lakehead University
+LAU	Laurentian University
+MCM	McMaster University
+NIP	Nipissing University
+OCA	OCAD University
+OSP	Ottawa » Saint Paul University
+OTT	University of Ottawa
+QUE	Queen's University
+RYE	Ryerson University
+TAC	Toronto » All Campuses / Tous les campus
+TMI	Toronto » Mississauga
+TRE	Trent University
+TSC	Toronto » Scarborough
+TSG	Toronto » St George
+UOI	UOIT
+WAT	University of Waterloo
+WBC	Western » Brescia University College
+WHC	Western » Huron University College
+WIN	University of Windsor
+WKC	Western » King's University College
+WLA	Wilfrid Laurier University
+WMC	Western » Main Campus / Campus principal
+YOR	York University
+
+
+Source: Council University Data Ontario (CUDO)
+
+The Ministry of Advanced Education and Skills Development has endeavored to keep the information provided up to date and correct, but makes no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the information for any purpose.

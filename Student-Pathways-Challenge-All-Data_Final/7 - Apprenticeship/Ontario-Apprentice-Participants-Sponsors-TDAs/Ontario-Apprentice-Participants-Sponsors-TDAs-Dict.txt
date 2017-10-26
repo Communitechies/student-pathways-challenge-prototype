@@ -1,0 +1,175 @@
+Sectors / Secteurs
+------------------
+
+A	Automotive       	Automobile
+C	Construction     	Construction
+I	Industry         	Industrie
+S	Service          	Service
+
+
+Trades / Métiers
+----------------
+
+200G	Precision Metal Fabricator                                                 	Tôlier(ière) de précision
+207S	Light Rail Overhead Contact Systems Lineperson                             	Monteur(se) de systèmes de lignes aériennes de contact pour le transport léger sur rail
+211W	Wooden Boat Rebuilder                                                      	Reconstructeur(trice)-réparateur(trice) de bateaux de bois
+219C	Saddlery                                                                   	Sellerie
+219D	Horse Harness Maker                                                        	Sellier(ère)-harnacheur(se)
+225A	Optics Technician (Lens and Prism Maker)                                   	Fabricant(e) de prismes et de lentilles de précision
+225F	Thin Film Technician                                                       	Opticien(ne) de pellicules minces
+237S	Pool, Hot Tub and Spa - Service Technician                                 	Technicien(ne) d'entretien de piscines et de bains à remous
+237T	Pool, Hot Tub and Spa - Installer                                          	Installateur(trice) de piscines et de bains à remous
+239b	Tool and Gauge Inspector                                                   	Inspecteur(trice) d'outils et d'appareils de contrôle
+240P	Parts Technician                                                           	Préposé(e) aux pièces
+241A	Terrazzo, Tile and Marble Setter                                           	Poseur(euse) de carrelage
+244G	Cement (Concrete ) Finisher                                                	Finisseur(euse) de ciment (béton)
+244H	Restoration Mason                                                          	Ma&ccedil;on(ne) en restauration
+244K	Precast Concrete Erector                                                   	Monteur(trice) de béton préfabriqué
+244L	Precast Concrete Finisher                                                  	Finisseur(euse) de béton préfabriqué
+245R	Retail Meat Cutter                                                         	Découpeur(se) de viande au détail
+246F	Process Operator: Refinery, Chemical and Liquid Processes                  	Opérateur(trice) de procédés industriels: raffinerie, chimique et liquide
+246R	Process Operator - Power                                                   	Opérateur(trice) de procédés industriels – Secteur de l'énergie
+246T	Process Operator - Food Manufacturing                                      	Opérateur(trice) de procédés industriels – Secteur de la transformation des aliments
+253A	Heat and Frost Insulator                                                   	Poseur(euse) de matériaux isolants
+253H	Hazardous Materials Worker                                                 	Travailleur(euse) en décontamination
+255B	Facilities Technician                                                      	Technicien(ne) en systèmes de bâtiment
+255W	Facilities Mechanic                                                        	Mécanicien(ne) d'entretien de bâtiment
+259L	Locksmith                                                                  	Serrurier(ière)
+263F	Pump Systems Installer                                                     	Installateur(trice)/mécanicien(ne) de systèmes de pompage
+267G	Composite Structures Technician                                            	Technicien(ne) en structures composites
+268A	Carperson (Railway)                                                        	Technicien(ne) en voitures et wagons de chemin de fer (ancien titre : préposé(e) aux voitures et wagons de chemin de fer)
+268R	Railway Car Technician                                                     	Technicien(ne) en voitures et wagons de chemin de fer (ancien titre : préposé(e) aux voitures et wagons de chemin de fer)
+269E	Entertainment Industry Power Technician                                    	Technicien(ne) en électricité pour l'industrie du spectacle
+274L	Automotive Glass Technician                                                	Technicien(ne) vitrier(ière) d'automobile
+277Z	Hydraulic/Pneumatic Mechanic                                               	Mécanicien(ne) en hydraulique/pneumatique
+278B	Surface Blaster                                                            	Dynamiteur(se) – exploitation à ciel ouvert
+282E	Powered Lift Truck Technician                                              	Technicien(ne) de chariot élévateur
+288R	Relay and Instrumentation Technician                                       	Technicien(ne) relais et instruments
+289F	Electrician (Signal Maintenance)                                           	Électricien(ne) en entretien des signaux
+295A	Tire Wheel and Rim Mechanic                                                	Mécanicien(ne) – pneus, roues et jantes
+296A	Native Residential Construction Worker                                     	Ouvrier(ière) de construction résidentielle autochtone
+296B	Native Clothing and Crafts Artisan                                         	Artisan(e) autochtone
+297A	Ski Lift Mechanic                                                          	Mécanicien(ne) de remontées mécaniques
+297B	Special Events Coordinator                                                 	Coordonnateur(trice) d'événements spéciaux
+297C	Bicycle Mechanic                                                           	Mécanicien de vélo
+306A	Plumber                                                                    	Plombier(ière)
+307A	Steamfitter                                                                	Monteur(euse) de tuyaux de vapeurs
+308A	Sheet Metal Worker                                                         	Tôlier(ière)
+308R	Residential (Low-Rise) Sheet Metal Installer                               	Poseur(euse) de tôles pour systèmes résidentiels (petits immeubles)
+309A	Electrician - Construction and Maintenance                                 	Électricien(ne) bâtiment/entretien
+309C	Electrician - Domestic and Rural                                           	Électricien(ne) domestique/rural
+310B	Auto Body and Collision Damage Repairer                                    	Réparateur(trice) de carrosseries et de dommages résultant d'une collision, cat. 1
+310D	Transmission Technician                                                    	Technicien(ne) de boîtes de vitesses
+310E	Alignment and Brakes Technician                                            	Technicien(ne)-régleur(euse) d'avant-train et réparateur(trice) de freins
+310G	Motorcycle Technician                                                      	Technicien(ne) de motocyclettes
+310J	Truck-Trailer Service Technician                                           	Technicien(ne) d'entretien de remorques de camions
+310K	Automotive Electronic Accessory Technician                                 	Technicien(ne) en accessoires électroniques d'automobile
+310Q	Auto Body Repairer                                                         	Réparateur(trice) de carrosseries automobiles, cat. 2
+310S	Automotive Service Technician                                              	Technicien(ne) d'entretien automobile
+310T	Truck and Coach Technician                                                 	Technicien(ne) de camion et d'autobus
+313A	Refrigeration and Air Conditioning Systems Mechanic                        	Mécanicien(ne) en systèmes de réfrigération et en climatisation
+313D	Residential Air Conditioning Systems Mechanic                              	Mécanicien(ne) en systèmes de climatisation résidentielle
+332A	Hairstylist                                                                	Coiffeur(se)
+339A	Hoisting Engineer - Mobile Crane Operator 1                                	Conducteur(trice) d'engins de levage : conducteur(trice) de grues mobiles, cat. 1
+339B	Hoisting Engineer - Tower Crane Operator                                   	Conducteur(trice) d'engins de levage : conducteur(trice) de grues à tour
+339C	Hoisting Engineer - Mobile Crane Operator 2                                	Conducteur(trice) d'engins de levage : conducteur(trice) de grues mobiles, cat. 2
+401A	Brick and Stone Mason                                                      	Briqueteur(euse) et ma&ccedil;on(ne)
+403A	General Carpenter                                                          	Charpentier(ière)/menuisier(ière)
+404C	Painter and Decorator - Commercial and Residential                         	Peintre-décorateur(trice) – commercial et résidentiel
+404D	Painter and Decorator - Industrial                                         	Peintre-décorateur(trice) – industriel
+410K	Motive Power Machinist                                                     	Usineur(euse) de pièces – force motrice
+410N	Automotive Painter                                                         	Peintre de carrosserie automobile
+415A	Cook                                                                       	Cuisinier(ère)
+415B	Assistant Cook                                                             	Aide cuisinier(ère)
+415C	Chef                                                                       	Chef
+415D	Institutional Cook                                                         	Cuisinier d'institution
+416E	Electronic Service Technician                                              	Technicien(ne) d'appareils électroniques
+419A	Cement Mason                                                               	Cimentier(ière)
+420A	Ironworker - Structural and Ornamental                                     	Monteur(euse) de charpentes métalliques (structurales et ornementales)
+420B	Ironworker - Generalist                                                    	Monteur(euse) de charpentes métalliques (généraliste) cat. 1
+421A	Heavy Duty Equipment Technician                                            	Technicien(ne) d'équipement lourd
+421C	Turf Equipment Technician                                                  	Technicien(ne) d'équipement de gazon
+423A	Baker                                                                      	Boulanger(ère)
+423C	Baker-Patissier                                                            	Boulanger(ère) - pâtissier(ère) (Boulanger(ère))
+424A	Architectural Glass and Metal Technician                                   	Technicien(ne) du verre et du métal architecturaux
+425A	Agricultural Equipment Technician                                          	Technicien(ne) de machines agricoles
+426A	Construction Millwright                                                    	Mécanicien(ne)-monteur(euse) de construction
+427A	Sprinkler and Fire Protection Installer                                    	Installateur(trice) de systèmes de protection contre les incendies
+428A	Construction Boilermaker                                                   	Chaudronnier(ière) de construction
+429A	General Machinist                                                          	Régleur-conducteur (régleuse-conductrice) de machines-outils
+430A	Tool and Die Maker                                                         	Outilleur-ajusteur/outilleuse-ajusteuse
+430M	Machine Tool Builder and Integrator                                        	Constructeur(trice) et intégrateur(trice) de machines-outils
+431A	Mould Maker                                                                	Confectionneur(euse) de moules
+433A	Industrial Mechanic Millwright                                             	Mécanicien-monteur industriel/mécanicienne-monteuse industrielle
+434A	Powerline Technician                                                       	Technicien(ne) de lignes électriques
+435A	Small Engine Technician                                                    	Mécanicien(ne) de petits moteurs
+435B	Marine Engine Technician                                                   	Mécanicien(ne) de moteurs marins
+437A	Metal Fabricator (Fitter)                                                  	Monteur-ajusteur/monteuse-ajusteuse de charpentes métalliques 
+438A	Cabinetmaker                                                               	Ébéniste
+441C	Horticultural Technician                                                   	Technicien(ne) en horticulture (Horticulteur(trice) de l'aménagement paysager)
+442A	Industrial Electrician                                                     	Électricien industriel/électricienne industrielle
+443A	Pattern Maker                                                              	Modeleur(euse)
+444A	Arborist                                                                   	Arboriste
+444B	Utility Arborist                                                           	Arboriste des service publiques
+445A	Appliance Service Technician                                               	Technicien(ne) d'entretien d'appareils ménagers
+446A	Electric Motor System Technician                                           	Électromécanicien(ne)
+447A	Instrumentation and Control Technician                                     	Technicien(ne) en instrumentation et contrôle
+448A	Floor Covering Installer                                                   	Installateur(trice) de revêtement de sol
+449A	Roofer                                                                     	Couvreur(euse)
+450A	Construction Craft Worker                                                  	Manoeuvre en construction
+451A	Drywall, Acoustic and Lathing Applicator                                   	Poseur(euse) de panneaux muraux secs, de carreaux acoustiques et de lattes
+452A	Reinforcing Rodworker                                                      	Monteur(euse) de barres d'armature
+453A	Drywall Finisher and Plasterer                                             	Jointoyeur(euse) et plâtrier(ière)
+455A	Exterior Insulated Finish Systems Mechanic                                 	Mécanicien(ne), systèmes de finition extérieur isolés 
+456A	Welder                                                                     	Soudeur/soudeuse
+456P	Pressure Systems Welder                                                    	Soudeur(euse) sur appareils sous pression
+600H	Horse Groom                                                                	Palefrenier(ère)
+600P	Blacksmith                                                                 	Forgeron(ne)
+602C	Tool and Cutter Grinder                                                    	Affûteur(euse) d'outils
+602H	Roll Grinder/Turner                                                        	Affûteur(euse)-tourneur(euse) de cylindres
+605B	Water Well Driller                                                         	Foreur(euse) de puits d'eaux
+606G	Gemsetter/Goldsmith                                                        	Sertisseur(se)/orfèvre
+606W	Hardware, Lumber and Building Materials Retailer                           	Vendeur(se) au détail de quincaillerie, de bois-d'œuvre et de matériaux de construction
+609C	Packaging Machine Mechanic                                                 	Mécanicien(ne) de machines à emballer
+610C	Aircraft Maintenance Engineer                                              	Mécanicien(ne) d'entretien d'aéronefs
+611B	Saw Filer/Fitter                                                           	Affûteur(euse)-ajusteur(euse) de scies
+614A	Draftperson - Mechanical                                                   	Dessinateur(trice) – conception mécanique
+614B	Draftperson - Plastic Mould Design                                         	Dessinateur(trice) – conception de moules en plastique
+614C	Draftperson - Tool and Die Design                                          	Dessinateur(trice) – conception d'outils et de matrices
+615A	Bearings Mechanic                                                          	Mécanicien(ne) de roulements
+617A	Electrical Control (Machine) Builder                                       	Préparateur(trice) de commandes électriques (machines)
+620A	Child and Youth Worker                                                     	Travailleur(se) auprès des enfants et des jeunes
+620B	Aboriginal Child Care Practitioner                                         	Practicien(ne) du développement de l'enfant autochtone
+620C	Child Development Practitioner                                             	Éducateur(trice) de la petite enfance (Praticien(ne) du développement de l'enfant)
+620D	Developmental Services Worker                                              	Intervenant(e) en services à l’intégration
+620E	Educational Assistant                                                      	Aide-enseignant(e) 
+620G	Child Development Practitioner - Inclusion Practices                       	Praticien(ne) en développement de l'enfant - Coutume d'inclusion
+630A	Micro Electronics Manufacturer                                             	Fabricant(e) en micro-électronique
+630B	Surface Mount Assembler                                                    	Assembleur(euse) d'éléments de surface
+630T	Tool/Tooling Maker                                                         	Confectionneur(euse) d'outillage
+631A	Network Cabling Specialist                                                 	Spécialiste de câblage de réseaux
+634A	Information Technology - Contact Centre Technical Support Agent            	Technicien(ne) en technologie de l'information – agent de centre d'appels – soutien technique
+634B	Information Technology - Hardware Technician                               	Technicien(ne) en technologie de l'information – matériel
+634C	Information Technology - Network Technician                                	Technicien(ne) en technologie de l'information – réseau
+634D	Information Technology - Contact Centre Sales Agent                        	Technicien(ne) en technologie de l'information – agent de centre d'appels – ventes internes
+634E	Information Technology - Contact Centre Customer Service Agent             	Technicien(ne) en technologie de l'information – agent de centre d'appels – service à la clientèle
+636A	Heavy Equipment Operator - Tractor Loader Backhoe                          	Conducteur(trice) d'équipement lourd – tracto-pelle rétrocaveuse
+636B	Heavy Equipment Operator - Excavator                                       	Conducteur(trice) d'équipement lourd – excavateur
+636C	Heavy Equipment Operator - Dozer                                           	Conducteur(trice) d'équipement lourd – bouteur
+636E	Elevating Devices Mechanic                                                 	Mécanicien(ne) d'appareils de levage
+636G	Gas Technician                                                             	Technicien(ne) de gaz
+637C	Concrete Pump Operator                                                     	Opérateur(trice) de pompe à béton
+638A	Tractor-Trailer Commercial Driver                                          	Conducteur(trice) de semi-remorques commerciales
+640D	Agricultural - Dairy Herdsperson                                           	Agriculture – soigneur(se) de troupeaux laitiers
+640F	Agricultural - Fruit Grower                                                	Agriculture – fructiculteur(trice)
+640S	Agricultural - Swine Herdsperson                                           	Agriculture – porcher(ère)
+661H	Fitter-Assembler (Motor Assembly)                                          	Ajusteur(euse)-assembleur(euse) (ensemble des gros moteurs)
+670C	Computer Numerical Control (CNC) Programmer                                	Programmeur(euse) en commande numérique
+670D	Die Designer                                                               	Concepteur(trice) de matrices
+690H	Recreation Vehicle Technician                                              	Mécanicien(ne) de véhicules récréatifs
+800A	Water Meter Installer                                                      	Installateur(trice) de compteur d'eau
+
+
+Source: Ministry of Advanced Education and Skills Development (MAESD) 
+
+The Ministry of Advanced Education and Skills Development has endeavored to keep the information provided up to date and correct, but makes no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the information for any purpose.

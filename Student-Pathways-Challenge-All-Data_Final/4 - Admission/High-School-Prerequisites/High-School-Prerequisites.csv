@@ -1,0 +1,405 @@
+"Grade","CourseCode","Course","Prerequisite"
+"9","ATC1O","Dance",
+"10","ATC2O","Dance",
+"11","ATC3M","Dance","ATC1O"
+"11","ATC3M","Dance","ATC2O"
+"11","ATC3O","Dance",
+"12","ATC4M","Dance","ATC3M"
+"12","ATC4M","Dance","ATC3O"
+"12","ATC4E","Dance","ATC3M"
+"12","ATC4E","Dance","ATC3O"
+"9","ADA1O","Drama",
+"10","ADA2O","Drama",
+"11","ADA3M","Drama","ADA1O"
+"11","ADA3M","Drama","ADA2O"
+"11","ADA3O","Drama",
+"12","ADA4M","Drama","ADA3M"
+"12","ADA4M","Drama","ADA3O"
+"12","ADA4E","Drama","ADA3O"
+"12","ADA4E","Drama","ADA3M"
+"9,10","ALC1O/2O","Integrated Arts",
+"11,12","AEA3O/4O","Exploring and Creating in the Arts",
+"10","ASM2O","Media Arts",
+"11","ASM3M","Media Arts","ASM2O"
+"11","ASM3O","Media Arts",
+"12","ASM4M","Media Arts","ASM3M"
+"12","ASM4M","Media Arts","ASM3O"
+"12","ASM4E","Media Arts","ASM3M"
+"12","ASM4E","Media Arts","ASM3O"
+"9","AMU1O","Music",
+"10","AMU2O","Music",
+"11","AMU3M","Music","AMU1O"
+"11","AMU3M","Music","AMU2O"
+"11","AMU3O","Music",
+"12","AMU4M","Music","AMU3M"
+"12","AMU4M","Music","AMU3O"
+"12","AMU4E","Music","AMU3M"
+"12","AMU4E","Music","AMU3O"
+"9","AVI1O","Visual Arts",
+"10","AVI2O","Visual Arts",
+"11","AVI3M","Visual Arts","AVI1O"
+"11","AVI3M","Visual Arts","AVI2O"
+"11","AVI3O","Visual Arts",
+"12","AVI4M","Visual Arts","AVI3M"
+"12","AVI4M","Visual Arts","AVI3O"
+"12","AVI4E","Visual Arts","AVI3M"
+"12","AVI4E","Visual Arts","AVI3O"
+"9","BTT1O","Information and Communication Technology in Business",
+"9","BBI1O","Introduction to Business",
+"10","BTT2O","Information and Communication Technology in Business",
+"10","BBI2O","Introduction to Business",
+"11","BAF3M","Financial Accounting Fundamentals",
+"11","BAI3E","Accounting Essentials",
+"12","BAT4M","Financial Accounting Principles","BAF3M"
+"12","BAN4E","Accounting for a Small Business","BAI3E"
+"11","BDI3C","Entrepreneurship: The Venture",
+"11","BDP3O","Entrepreneurship: The Enterprising Person",
+"12","BDV4C","Entrepreneurship: Venture Planning in an Electronic Age",
+"11","BTA3O","Information and Communication Technology : The Digital Environment",
+"12","BTX4C","Information and Communication Technology: Multimedia Solutions","BTA3O"
+"12","BTX4E","Information and Communication Technology in the Workplace","BTX4E"
+"12","BBB4M","International Business Fundamentals",
+"12","BBB4E","International Business Essentials",
+"11","BMI3C","Marketing: Goods, Servics, Events",
+"11","BMX3E","Marketing: Retail and Service",
+"12","BOH4M","Business Leadership: Management Fundamentals",
+"12","BOG4E","Business Leadership: Becoming a Manager",
+"10","CHV2O","Civics",
+"11","CIE3M","The Individual and the Economy","CHC2D"
+"11","CIE3M","The Individual and the Economy","CHC2P"
+"11","CIC3E","Making Economic Choices","CHC2D"
+"11","CIC3E","Making Economic Choices","CHC2P"
+"12","CIA4U","Analysing Current Economic Issues",
+"9","CGC1D","Geography of Canada",
+"9","CGC1P","Geography of Canada",
+"11","CGD3M","The Americas: Geographic Patters and Issues","CGC1D"
+"11","CGD3M","The Americas: Geographic Patters and Issues","CGC1P"
+"11","CGF3M","Physical Geography: Patterns, Processes, and Interactions","CGC1D"
+"11","CGF3M","Physical Geography: Patterns, Processes, and Interactions","CGC1P"
+"11","CGT3E","Geographics: The Geographer's Toolkit","CGC1D"
+"11","CGT3E","Geographics: The Geographer's Toolkit","CGC1P"
+"11","CGG3O","Travel and Tourism: A Regional Geographic Perspective","CGC1D"
+"11","CGG3O","Travel and Tourism: A Regional Geographic Perspective","CGC1P"
+"12","CGW4U","Canadian and World Issues: A Geographic Analysis","Any Canada/World Studies 4U/C"
+"12","CGW4U","Canadian and World Issues: A Geographic Analysis","Any English 4U/C"
+"12","CGW4U","Canadian and World Issues: A Geographic Analysis","Any Social Sciences/Humanities 4U/C"
+"12","CGU4U","World Geography: Human Patterns and Interactions","Any Canada/World Studies 4U/C"
+"12","CGU4U","World Geography: Human Patterns and Interactions","Any English 4U/C"
+"12","CGU4U","World Geography: Human Patterns and Interactions","Any Social Sciences/Humanities 4U/C"
+"12","CGR4M","The Environment and Resource Management","Any Canada/World Studies 4U/C"
+"12","CGR4M","The Environment and Resource Management","Any English 4U/C"
+"12","CGR4M","The Environment and Resource Management","Any Social Sciences/Humanities 4U/C"
+"12","CGO4M","Geomatics: Geotechnologies in Action","Any Canada/World Studies 4U/C"
+"12","CGO4M","Geomatics: Geotechnologies in Action","Any English 4U/C"
+"12","CGO4M","Geomatics: Geotechnologies in Action","Any Social Sciences/Humanities 4U/C"
+"12","CGU4C","World Geography: Urban Patterns and Interactions","Any Canada/World Studies 4U/C"
+"12","CGU4C","World Geography: Urban Patterns and Interactions","Any English 4U/C"
+"12","CGU4C","World Geography: Urban Patterns and Interactions","Any Social Sciences/Humanities 4U/C"
+"12","CGrR4E","The Environment and Resource Management","CGC1D"
+"12","CGrR4E","The Environment and Resource Management","CGC1P"
+"10","CHC2D","Canadian History Since World War I",
+"10","CHC2P","Canadian History Since World War I",
+"11","CHA3U","American History","CHC2D"
+"11","CHA3U","American History","CHC2P"
+"11","CHW3M","World History to the Sixteenth Century","CHC2D"
+"11","CHW3M","World History to the Sixteenth Century","CHC2P"
+"11","CHH3E","Canadian History and Politics Since 1945","CHC2D"
+"11","CHH3E","Canadian History and Politics Since 1945","CHC2P"
+"11","CHT3O","World History Since 1900: Global and Regional Perspectives","CHC2D"
+"11","CHT3O","World History Since 1900: Global and Regional Perspectives","CHC2P"
+"12","CHI4U","Canadian History, Identity, and Culture","Any Canada/World Studies 4U/C"
+"12","CHI4U","Canadian History, Identity, and Culture","Any English 4U/C"
+"12","CHI4U","Canadian History, Identity, and Culture","Any Social Sciences/Humanities 4U/C"
+"12","CHY4U","World History: The West and the World","Any Canada/World Studies 4U/C"
+"12","CHY4U","World History: The West and the World","Any English 4U/C"
+"12","CHY4U","World History: The West and the World","Any Social Sciences/Humanities 4U/C"
+"12","CHY4C","World History: The West and the World","Any Canada/World Studies 4U/C"
+"12","CHY4C","World History: The West and the World","Any English 4U/C"
+"12","CHY4C","World History: The West and the World","Any Social Sciences/Humanities 4U/C"
+"12","CHM4E","Adventures in World History","CHC2D"
+"12","CHM4E","Adventures in World History","CHC2P"
+"11","CLU3M","Understanding Canadian Law","CHC2D"
+"11","CLU3M","Understanding Canadian Law","CHC2P"
+"11","CLU3E","Understanding Canadian Law","CHC2D"
+"11","CLU3E","Understanding Canadian Law","CHC2P"
+"12","CLN4U","Canadian and International Law","Any Canada/World Studies 4U/C"
+"12","CLN4U","Canadian and International Law","Any English 4U/C"
+"12","CLN4U","Canadian and International Law","Any Social Sciences/Humanities 4U/C"
+"11","CPC3O","Canadian Politics and Citizenship","CHC2D"
+"11","CPC3O","Canadian Politics and Citizenship","CHC2P"
+"12","CPW4U","Canadian and World Politics","Any Canada/World Studies 4U/C"
+"12","CPW4U","Canadian and World Politics","Any English 4U/C"
+"12","CPW4U","Canadian and World Politics","Any Social Sciences/Humanities 4U/C"
+"Level 1","LVGAD","Ancient Greek",
+"Level 1","LVLAD","Latin",
+"Level 2","LVGBU","Ancient Greek","LVGAD"
+"Level 2","LVGBU","Ancient Greek","LVLAD"
+"Level 2","LVLBU","Latin","LVGAD"
+"Level 2","LVLBU","Latin","LVLAD"
+"Level 3","LVGCU","Ancient Greek","LVGBU"
+"Level 3","LVGCU","Ancient Greek","LVLBU"
+"Level 3","LVLCU","Latin","LVGBU"
+"Level 3","LVLCU","Latin","LVLBU"
+"12","LVV4U","Classical Civilization","ENG2D"
+"12","LVV4U","Classical Civilization","ENG2P"
+"Level 1","LBAAD - LYXAD","International Languages",
+"Level 1","LBAAO - LYXAO","International Languages",
+"Level 2","LBABD - LYXBD","International Languages",
+"Level 2","LBABO - LYXBO","International Languages",
+"Level 3","LBACU - LYXCU","International Languages","LBABD-LYXBD"
+"Level 3","LBACO - LYXCO","International Languages","LBADBD-LYXBD"
+"Level 3","LBACO - LYXCO","International Languages","LBAO-LYXBO"
+"Level 4","LBADU - LYXDU","International Languages","LBACU-LYXCU"
+"Level 4","LBADO - LYXDO","International Languages","LBACU-LYXCU"
+"Level 4","LBADO - LYXDO","International Languages","LBACO-LYXCO"
+"10","ICS2O","Introduction to Computer Studies",
+"11","ICS3U","Introduction to Computer Science",
+"11","ICS3C","Introduction to Computer Programming",
+"12","ICS4U","Computer Science","ICS3U"
+"12","ICS4C","Computer Programming","ICS3C"
+"9","ENG1D","English",
+"9","ENG1P","English",
+"10","ENG2D","English","ENG1D"
+"10","ENG2D","English","ENG1P"
+"10","ENG2P","English","ENG1D"
+"10","ENG2P","English","ENG1P"
+"10","ELS2O","Literacy Skills: Reading and Writing","ENG1D"
+"10","ELS2O","Literacy Skills: Reading and Writing","ENG1P"
+"11","ENG3U","English","ENG2D"
+"11","ENG3C","English","ENG2P"
+"11","ENG3E","English","ENG2P"
+"11","ETC3M","Canadian Literature","ENG2D"
+"11","ETC3M","Canadian Literature","ENG2P"
+"11","EMS3O","Media Studies","ENG2D"
+"11","EMS3O","Media Studies","ENG2P"
+"11","EPS3O","Presentation and Speaking Skills","ENG2D"
+"11","EPS3O","Presentation and Speaking Skills","ENG2P"
+"12","ENG4U","English","ENG3U"
+"12","ENG4C","English","ENG3C"
+"12","ENG4E","English","ENG3E"
+"12","ETS4U","Studies in Literature","ENG3U"
+"12","EWC4U","The Writer's Craft","ENG3U"
+"12","EBT4O","Business and Technological Communication","ENG3U"
+"12","EBT4O","Business and Technological Communication","ENG3C"
+"12","EBT4O","Business and Technological Communication","ENG3E"
+"11,12","OLC3O/OLC4O","Ontario Secondary School Literacy Course","OSSLT"
+"Level 1","ESLAO","ESL Level 1",
+"Level 2","ESLBO","ESL Level 2","ESLAO"
+"Level 3","ESLCO","ESL Level 3","ESLBO"
+"Level 4","ESLDO","ESL Level 4","ESLCO"
+"Level 5","ESLEO","ESL Level 5","ESLDO"
+"Level 1","ELDAO","ELD Level 1",
+"Level 2","ELDBO","ELD Level 2","ELDAO"
+"Level 3","ELDCO","ELD Level 3","ELDBO"
+"Level 4","ELDDO","ELD Level 4","ELDCO"
+"Level 5","ELDEO","ELD Level 5","ELDDO"
+"9","FSF1D","Core French","Any English (600h)"
+"9","FSF1P","Core French","Any English (600h)"
+"9","FEF1D","Extended French","Any English (126h)"
+"9","FIF1D","French Immersion","Any English (380h)"
+"10","FSF2D","Core French","FSF1D"
+"10","FSF2D","Core French","FSF1P"
+"10","FSF2P","Core French","FSF1D"
+"10","FSF2P","Core French","FSF1P"
+"10","FEF2D","Extended French","FEF1D"
+"10","FEF2D","Extended French","FIF1D"
+"10","FIF2D","French Immersion","FIF1D"
+"11","FSF3U","Core French","FSF2D"
+"11","FSF3O","Core French","FSF2D"
+"11","FSF3O","Core French","FSF2P"
+"11","FEF3U","Extended French","FEF2D"
+"11","FIF3U","French Immersion","FIF2D"
+"12","FSF4U","Core French","FSF3U"
+"12","FSF4O","Core French","FSF3U"
+"12","FSF4O","Core French","FSF3O"
+"12","FEF4U","Extended French","FEF3U"
+"12","FIF4U","French Immersion","FIF3U"
+"9","GLS1O","Learning Strategies 1: Skills for Success in Secondary School",
+"9","GLE1O","Learning Strategies 1: Skills for Success in Secondary School","Prin. Recommendation"
+"10","GLC20","Career Studies",
+"10","GLE2O","Learning Strategies 1: Skills for Success in Secondary School","Prin. Recommendation"
+"10","GLD2O","Discovering the Workplace",
+"11","GWL3O","Designing Your Future",
+"11","GPP3O","Leadership and Peer Support",
+"11","GLE3O","Advanced Learning Strategies: Skills for Success After Secondary School","Prin. Recommendation"
+"12","GLS4O","Advanced Learning Strategies: Skills for Success After Secondary School",
+"12","GLE4O","Advanced Learning Strategies: Skills for Success After Secondary School","Prin. Recommendation"
+"12","GLN4O","Navigating the Workplace",
+"9","PPL1O","Healthy Active Living Education",
+"10","PPL2O","Healthy Active Living Education",
+"11","PPL3O","Healthy Active Living Education",
+"11","PPZ3O","Health for Life",
+"12","PPL4O","Health Active Living Education",
+"12","PSE4U","Exercise Science","Any Science 3U/C"
+"12","PSE4U","Exercise Science","Any Health/PhysEd 3/4U/C"
+"12","PLF4C","Recreation and Fitness Leadership","Any Health/PhysEd 3/4U/C"
+"11","IDC3O","Interdisciplinary Studies",
+"11","IDP3O","Interdisciplinary Studies",
+"12","IDC4U","Interdisciplinary Studies","Any U/C Prep"
+"12","IDP4U","Interdisciplinary Studies",
+"12","IPC4O","Interdisciplinary Studies",
+"12","IDP4O","Interdisciplinary Studies",
+"9","MPM1D","Principles of Mathematics",
+"9","MFM1P","Foundations of Mathematics",
+"9","MPM1H","Mathematics Transfer","MFM1P"
+"10","MPM2D","Principles of Mathematics","MPM1D"
+"10","MPM2D","Principles of Mathematics","MFM1P"
+"10","MFM2P","Foundations of Mathematics","MPM1D"
+"10","MFM2P","Foundations of Mathematics","MFM1P"
+"11","MCR3U","Functions","MPM2D"
+"11","MCF3M","Functions and Applications","MPM2D"
+"11","MCF3M","Functions and Applications","MFM2P"
+"11","MBF3C","Foundations for College Mathematics","MFM2P"
+"11","MEL3E","Mathematics for Work and Everyday Life","MPM1D"
+"11","MEL3E","Mathematics for Work and Everyday Life","MFM1P"
+"12","MHF4U","Advanced Functions","MCR3U"
+"12","MHF4U","Advanced Functions","MCT4C"
+"12","MCV4U","Calculus and Vectors","MHF4U"
+"12","MCV4U","Calculus and Vectors","MCV4U"
+"12","MDM4U","Mathematics of Data Management","MCR3U"
+"12","MDM4U","Mathematics of Data Management","MCF3M"
+"12","MCT4C","Mathematics for College Technology","MCF3M"
+"12","MCT4C","Mathematics for College Technology","MCR3U"
+"12","MAP4C","Foundations for College Mathematics","MBF3C"
+"12","MAP4C","Foundations for College Mathematics","MCF3M"
+"12","MEL4E","Mathematics for Work and Everyday Life","MEL3E"
+"Level 1","LNAAO - LNOAO","Native Languages, Level 1 (NL1)",
+"Level 2","LNABO - LNOBO","Native Languages, Level 2 (NL2)",
+"Level 3","LNACO - LNOCO","Native Languages, Level 3 (NL3)","LNABO-LNOBO"
+"Level 4","LNADO - LNODO","Native Languages, Level 4 (NL4)","LNACO-LNOCO"
+"Level 5","LNAEO - LNOEO","Native Languages, Level 5 (NL5)","LNADO-LNODO"
+"9","NAC1O","Expressing Aboriginal Cultures",
+"10","NAC2O","Aboriginal Peoples in Canada",
+"11","NBE3U","English: Contemporary Aboriginal Voices","ENG2D"
+"11","NDA3M","Current Aboriginal Issues in Canada","NAC2O"
+"11","NDA3M","Current Aboriginal Issues in Canada","CHC2D"
+"11","NDA3M","Current Aboriginal Issues in Canada","CHC2P"
+"11","NBV3C","Aboriginal Beliefs, Values, and Aspirations in Contemporary Society","NAC2O"
+"11","NBV3C","Aboriginal Beliefs, Values, and Aspirations in Contemporary Society","CHC2D"
+"11","NBV3C","Aboriginal Beliefs, Values, and Aspirations in Contemporary Society","CHC2P"
+"11","NBE3C","English: Contemporary Aboriginal Voices","ENG2D"
+"11","NBE3C","English: Contemporary Aboriginal Voices","ENG2P"
+"11","NBV3E","Aboriginal Beliefs, Values, and Aspirations in Contemporary Society","NAC2O"
+"11","NBV3E","Aboriginal Beliefs, Values, and Aspirations in Contemporary Society","CHC2D"
+"11","NBV3E","Aboriginal Beliefs, Values, and Aspirations in Contemporary Society","CHC2P"
+"11","NBE3E","English: Contemporary Aboriginal Voices","ENG2D"
+"11","NBE3E","English: Contemporary Aboriginal Voices","ENG2P"
+"12","NDG4M","Aboriginal Governance: Emerging Directions","NBE3U"
+"12","NDG4M","Aboriginal Governance: Emerging Directions","NDA3M"
+"12","NDG4M","Aboriginal Governance: Emerging Directions","NBV3C"
+"12","NDG4M","Aboriginal Governance: Emerging Directions","NBE3C"
+"12","NDG4M","Aboriginal Governance: Emerging Directions","NBV3E"
+"12","NDG4M","Aboriginal Governance: Emerging Directions","NBE3E"
+"12","NDW4M","Issues of Indigenous Peoples in a Global Context","NBE3U"
+"12","NDW4M","Issues of Indigenous Peoples in a Global Context","NDA3M"
+"12","NDW4M","Issues of Indigenous Peoples in a Global Context","NBV3C"
+"12","NDW4M","Issues of Indigenous Peoples in a Global Context","NBE3C"
+"12","NDW4M","Issues of Indigenous Peoples in a Global Context","NBV3E"
+"12","NDW4M","Issues of Indigenous Peoples in a Global Context","NBE3E"
+"9","SNC1D","Science",
+"9","SNC1P","Science",
+"10","SNC2D","Science","SNC1D"
+"10","SNC2D","Science","SNC1P"
+"10","SNC2P","Science","SNC1D"
+"10","SNC2P","Science","SNC1P"
+"12","SNC4M","Science","Any Science 3U/C"
+"12","SNC4E","Science","SNC2P"
+"11","SBI3U","Biology","SNC2D"
+"11","SBI3C","Biology","SNC2D"
+"11","SBI3C","Biology","SNC2P"
+"12","SBI4U","Biology","SBI3U"
+"11","SCH3U","Chemistry","SNC2D"
+"12","SCH4U","Chemistry","SCH3U"
+"12","SCH4C","Chemistry","SNC2D"
+"12","SCH4C","Chemistry","SNC2P"
+"12","SES4U","Earth and Space Science","SNC2D"
+"11","SVN3M","Environmental Science","SNC2D"
+"11","SVN3M","Environmental Science","SNC2P"
+"11","SVN3E","Environmental Science","SNC1D"
+"11","SVN3E","Environmental Science","SNC1P"
+"11","SPH3U","Physics","SNC2D"
+"12","SPH4U","Physics","SPH3U"
+"12","SPH4C","Physics","SNC2D"
+"12","SPH4C","Physics","SNC2P"
+"9","HFN1O","Food and Nutrition",
+"9","HIF1O","Individual and Family Living",
+"10","HFN2O","Food and Nutrition",
+"10","HIF2O","Individual and Family Living",
+"11","HPW3C","Living and Working with Children",
+"11","HIR3C","Managing Personal and Family Resources",
+"11","HIP3E","Managing Personal Resources",
+"11","HNC3O","Fashion and Creative Expression",
+"11","HLS3O","Living Spaces and Shelter",
+"11","HPC3O","Parenting",
+"12","HFA4M","Food and Nutrition","Any Canada/World Studies 4U/C"
+"12","HFA4M","Food and Nutrition","Any English 4U/C"
+"12","HFA4M","Food and Nutrition","Any Social Sciences/Humanities 4U/C"
+"12","HHS4M","Individuals and Families in a Diverse Society","Any Canada/World Studies 4U/C"
+"12","HHS4M","Individuals and Families in a Diverse Society","Any English 4U/C"
+"12","HHS4M","Individuals and Families in a Diverse Society","Any Social Sciences/Humanities 4U/C"
+"12","HHG4M","Issues in Human Growth and Development","Any Canada/World Studies 4U/C"
+"12","HHG4M","Issues in Human Growth and Development","Any English 4U/C"
+"12","HHG4M","Issues in Human Growth and Development","Any Social Sciences/Humanities 4U/C"
+"12","HPD4E","Parenting and Human Development",
+"12","HNB4O","The Fashion Industry",
+"11","HSP3M","Introduction to Anthropology, Psychology, and Sociology",
+"12","HSB4M","Challenge and Change in Society","Any Canada/World Studies 4U/C"
+"12","HSB4M","Challenge and Change in Society","Any English 4U/C"
+"12","HSB4M","Challenge and Change in Society","Any Social Sciences/Humanities 4U/C"
+"11","HZB3O","Philosophy: The Big Questions",
+"12","HZT4U","Philosophy: Questions and Theories","Any Canada/World Studies 4U/C"
+"12","HZT4U","Philosophy: Questions and Theories","Any English 4U/C"
+"12","HZT4U","Philosophy: Questions and Theories","Any Social Sciences/Humanities 4U/C"
+"11","HRT3M","World Religions: Beliefs, Issues, and Religious Traditions",
+"11","HRF3O","World Religions: Beliefs and Daily Life",
+"9","TIJ1O","Exploring Technologies",
+"10","TGJ2O","Communications Technology",
+"11","TGJ3M","Communications Technology",
+"11","TGJ3O","Communications Technology: Broadcast and Print Productions",
+"12","TGJ4M","Communications Technology","TGJ3M"
+"10","TEJ2O","Computer Technology",
+"11","TEJ3M","Computer Engineering Technology",
+"11","TEJ3E","Computer Technology",
+"12","TEJ4M","Computer Engineering Technology","TEJ3M"
+"12","TEJ4E","Computer Technology","TEJ3E"
+"10","TCJ2O","Construction Technology",
+"11","TCJ3C","Construction Engineering Technology",
+"11","TCJ3E","Construction Technology",
+"11","TWJ3E","Construction Woodworking",
+"12","TCJ4C","Construction Engineering Technology","TCJ3C"
+"12","TCJ4E","Construction Technology","TCJ3E"
+"12","TWJ4E","Custom Woodworking","TWJ3E"
+"10","THJ2O","Green Industries",
+"11","THJ3M","Green Industries",
+"11","THJ3E","Green Industries",
+"12","THJ4M","Green Industries","THJ3M"
+"12","THJ4E","Green Industries","THJ3E"
+"10","TPJ2O","Health Care",
+"11","TPJ3M","Health Care",
+"11","TPJ3C","Health Care",
+"12","TPJ4M","Health Care","TPJ3M"
+"12","TPJ4C","Health Care","TPJ3C"
+"12","TOJ4C","Child Development and Gerontology",
+"12","TPJ4E","Health Care: Support Services",
+"10","TFJ2O","Hospitality and Tourism Technology",
+"11","TFJ3C","Hospitality and Tourism",
+"11","TFJ3E","Hospitality and Tourism",
+"12","TFJ4C","Hospitality and Tourism","TFJ3C"
+"12","TFJ4E","Hospitality and Tourism","TFJ3E"
+"10","TMJ2O","Manufacturing Technology",
+"11","TMJ3M","Manufacturing Engineering Technology",
+"11","TMJ3C","Manufacturing Technology",
+"11","TMJ3E","Manufacturing Technology",
+"12","TMJ4M","Manufacturing Engineering Technology","TMJ3M"
+"12","TMJ4C","Manufacturing Technology","TMJ3C"
+"12","TMJ4E","Manufacturing Technology","TMJ3E"
+"10","TDJ2O","Technological Design",
+"11","TDJ3M","Technological Design",
+"11","TDJ3O","Technological Design and the Environment",
+"12","TDJ4M","Technological Design","TDJ3M"
+"12","TDJ4O","Technological Design in the Twenty-first Century",
+"10","TTJ2O","Transportation Technology",
+"11","TTJ3C","Transportation Technology",
+"11","TTJ3O","Transportation Technology: Vehicle Ownership",
+"12","TTJ4C","Transportation Technology","TTJ3C"
+"12","TTJ4E","Transportation Technology: Vehicle Maintenance",

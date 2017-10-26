@@ -1,0 +1,67 @@
+Programs / Programmes
+---------------------
+
+ABS	Agriculture & Biological Science         	Sciences agricoles et biologiques
+ARC	Architecture                             	Architecture et architecture paysagère
+BCO	Business & Commerce                      	Affaires et commerce
+CSC	Computer Science                         	Sciences informatiques
+DEN	Dentistry                                	Médecine dentaire
+EDU	Education                                	Éducation (formation des enseignants)
+ENG	Engineering                              	Ingénierie
+FAA	Fine & Applied Arts                      	Beaux-arts et arts appliqués
+FOR	Forestry                                 	Foresterie
+FSN	Food Science & Nutrition                 	Sciences alimentaires et nutrition
+HUM	Humanities                               	Sciences humaines
+JOU	Journalism                               	Journalisme
+KRP	Kinesiology Recreation & Phys Ed         	Kinésiologie, récréologie et éducation physique
+LAW	Law                                      	Droit
+MAT	Mathematics                              	Mathématiques
+MED	Medicine                                 	Médecine 
+NRE	Not Reported                             	Non reporté
+NUR	Nursing                                  	Sciences infirmières
+OAS	Other Arts & Science                     	Autres programmes en arts et en sciences
+OHP	Other Health Professions                 	Autres professions de la santé
+OPT	Optometry                                	Optométrie
+PHA	Pharmacy                                 	Pharmacie
+PSC	Physical Science                         	Sciences physiques
+SSC	Social Science                           	Sciences sociales
+TDE	Total Domestic Enrolment                 	Inscription domestique totale
+TEN	Total Enrolment                          	Inscription totale
+THE	Theology                                 	Théologie
+TIE	Total International Enrolment            	Inscription international totale
+TRE	Therapy & Rehabilitation                 	Thérapie et réadaptation
+VME	Veterinary Medicine                      	Médecine vétérinaire
+
+
+Universities / Universités
+--------------------------
+
+ALG	Algoma
+BRO	Brock University
+CAR	Carleton University
+GUE	University of Guelph
+LAK	Lakehead University
+LAU	Laurentian University
+MCM	McMaster University
+NIP	Nipissing University
+OCA	OCAD University
+OSP	Ottawa » Saint Paul University
+OTT	University of Ottawa
+QUE	Queen's University
+RYE	Ryerson University
+TAC	Toronto » All Campuses / Tous les campus
+TRE	Trent University
+UOI	UOIT
+WAT	University of Waterloo
+WBC	Western » Brescia University College
+WHC	Western » Huron University College
+WIN	University of Windsor
+WKC	Western » King's University College
+WLA	Wilfrid Laurier University
+WMC	Western » Main Campus / Campus Principal
+YOR	York University
+
+
+Source: Ontario University Application Centre (OUAC)
+
+The Ministry of Advanced Education and Skills Development has endeavored to keep the information provided up to date and correct, but makes no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the information for any purpose.

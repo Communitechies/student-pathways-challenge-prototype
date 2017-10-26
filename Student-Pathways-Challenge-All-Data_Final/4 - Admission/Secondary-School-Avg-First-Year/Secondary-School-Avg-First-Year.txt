@@ -1,0 +1,59 @@
+Programs / Programmes
+---------------------
+
+AGR	Agriculture                     Sciences agricoles
+ARC	Architecture                    Architecture
+ART	Arts                            Arts
+BCO	Business & Commerce             Affaires et commerce
+EDU	Education                       Éducation
+ENG	Engineering                     Ingénierie
+EST	Environmental Studies           Études de l'environnement
+FAR	Fine Arts                       Beaux-arts
+FOR	Forestry                        Foresterie
+HSC	Household Science               Sciences de ménagerie
+JOU	Journalism                      Journalisme
+LAR	Landscape Architecture          Architecture paysagère
+MAT	Mathematics                     Mathématiques
+MUS	Music                           Musique
+NUR	Nursing                         Profession d'infirmière
+OAD	Other Administration            Autre administration
+ODE	Other Degrees                   Autres diplômes
+OVE	Overall                         Global
+PED	Physical Education              Éducation physique
+RME	Rehabilitation Medicine         Médecine de réadaptation
+SCI	Science                         Sciences
+SWO	Social Work                     Travail social
+
+
+Universities / Universités
+--------------------------
+
+ALG	Algoma
+BRO	Brock University
+CAR	Carleton University
+GUE	University of Guelph
+LAK	Lakehead University
+LAU	Laurentian University
+MCM	McMaster University
+NIP	Nipissing University
+OCA	OCAD University
+OSP	Ottawa » Saint Paul University
+OTT	University of Ottawa
+QUE	Queen's University
+RYE	Ryerson University
+TAC	Toronto » All Campuses / Tous les campus
+TRE	Trent University
+UOI	UOIT
+WAT	University of Waterloo
+WBC	Western » Brescia University College
+WHC	Western » Huron University College
+WIN	University of Windsor
+WKC	Western » King's University College
+WLA	Wilfrid Laurier University
+WMC	Western » Main Campus / Campus principal
+YOR	York University
+
+
+Source: Council University Data Ontario (CUDO)
+
+The Ministry of Advanced Education and Skills Development has endeavored to keep the information provided up to date and correct, but makes no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the information for any purpose.

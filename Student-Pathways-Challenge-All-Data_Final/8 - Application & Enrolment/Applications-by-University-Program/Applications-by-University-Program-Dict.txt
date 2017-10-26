@@ -1,0 +1,34 @@
+﻿Programs / Programmes
+---------------------
+
+AGR	Agriculture                       	Agriculture
+ARC	Architecture                      	Architecture
+ART	Arts                              	Arts
+BAD	Business Administration           	Administration des affaires
+DPR	Diploma Program                   	Formation diplômante
+EDU	Education                         	Éducation
+ENG	Engineering                       	Ingénierie
+EST	Environmental Studies             	Études environnementales
+FAA	Fine And Applied Arts             	Beaux-arts et arts appliqués
+FCS	Family & Consumer Study           	Études de familles et du grand public
+FOR	Forestry                          	Foresterie
+IPR	Invalid Program                   	Programme invalide
+JOU	Journalism                        	Journalisme
+LAR	Landscape Architecture            	Architecture paysagère
+MAT	Mathematics                       	Mathématiques
+MUS	Music                             	Musique
+NUR	Nursing                           	Sciences infirmières
+OAD	Other Administration              	Autre administration
+ODE	Other Degrees                     	Autres diplômes
+OPT	Optometry                         	Optométrie
+PHE	Physical & Health Education       	Éducation physique et de la santé
+PYP	Preliminary Year Program          	Année préliminaire
+RME	Rehabilitation Medicine           	Médecine de réhabilitation
+SCI	Science                           	Science
+SWO	Social Work                       	Travail social
+VME	Veterinary Medicine               	Médecine vétérinaire
+
+
+Source: Ontario University Application Centre (OUAC)
+
+The Ministry of Advanced Education and Skills Development has endeavored to keep the information provided up to date and correct, but makes no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the information for any purpose.

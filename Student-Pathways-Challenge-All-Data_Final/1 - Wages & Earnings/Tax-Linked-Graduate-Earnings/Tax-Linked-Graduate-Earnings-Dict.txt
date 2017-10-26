@@ -1,0 +1,18 @@
+Programs / Programmes
+---------------------
+
+AED	Arts & Education						Arts & Éducation
+BUS	Business							Commerce
+ENG	Engineering							Génie
+FAR	Fine Arts							Beaux-arts
+HEA	Health								Santé
+HUM	Humanities							Sciences humaines
+MAC	Math And Computer Science					Mathématiques, informatique et sciences de l’information
+PSE	Personal, Protective, & Transportation (PPT) Services		Personnel, de protection, & transport services
+SAG	Science & Agriculture						Sciences & Agriculture
+SSC	Social Science							Sciences sociales
+
+
+Source: Education Policy Research Initiative (EPRI)
+
+The Ministry of Advanced Education and Skills Development has endeavored to keep the information provided up to date and correct, but makes no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the information for any purpose.

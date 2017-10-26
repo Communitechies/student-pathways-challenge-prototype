@@ -1,0 +1,23 @@
+Metrics / Indicateurs
+---------------------
+
+EM	Employed              	Employé
+LF	Labour force          	Population active
+UN	Unemployed            	Sans-emploi
+UR	Unemployment rate     	Taux de chômage
+
+
+Occupations
+-----------
+
+MAN	Management                                                                                            	Gestion
+NSB	NOC skill level B: occupations usually require college education or apprenticeship training           	Niveau de compétence B de la CNP : professions qui exigent habituellement une formation collégiale ou un programme d'apprentissage
+NSC	NOC skill level C: occupations usually require secondary school and/or occupation-specific training   	Niveau de compétence C de la CNP : professions qui exigent habituellement une formation de niveau secondaire ou une formation spécifique à la profession
+NSD	NOC skill level D: on-the-job training is usually provided for these occupations                      	Niveau de compétence D de la CNP : professions pour lesquelles une formation en cours d'emploi est habituellement donnée
+PRO	Professional: occupations usually require university education                                        	Personnel professionnel : professions qui exigent habituellement une formation universitaire
+UNC	Unclassified                                                                                          	Inclassifié
+
+
+Source: Statistics Canada
+
+The Ministry of Advanced Education and Skills Development has endeavored to keep the information provided up to date and correct, but makes no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the information for any purpose.

@@ -1,0 +1,85 @@
+Programs / Programmes
+---------------------
+
+ABS	Agriculture & Biological Science           Sciences agricoles et biologiques
+ARC	Architecture                               Architecture
+BCO	Business & Commerce                        Affaires et commerce
+CSC	Computer Science                           Sciences informatiques
+DEN	Dentistry                                  Médecine dentaire
+EDU	Education                                  Éducation (formation des enseignants)
+ENG	Engineering                                Ingénierie
+FAA	Fine & Applied Arts                        Beaux-arts et arts appliqués
+FSN	Food Science & Nutrition                   Sciences alimentaires et nutrition
+FOR	Forestry                                   Foresterie
+HUM	Humanities                                 Sciences humaines
+JOU	Journalism                                 Journalisme
+KRP	Kinesiology, Recreation & Phys. Educ.      Kinésiologie, récréologie et éducation physique
+LAW	Law                                        Droit
+MAT	Mathematics                                Mathématiques
+MED	Medicine                                   Médecine 
+NUR	Nursing                                    Sciences infirmières
+OPT	Optometry                                  Optométrie
+OAS	Other Arts & Science                       Autres programmes en arts et en sciences
+OHP	Other Health Professions                   Autres professions de la santé
+PHA	Pharmacy                                   Pharmacie
+PSC	Physical Science                           Sciences physiques
+SSC	Social Science                             Sciences sociales
+THE	Theology                                   Théologie
+TRE	Therapy & Rehabilitation                   Thérapie et réadaptation
+VME	Veterinary Medicine                        Médecine vétérinaire
+NRE	Not Reported                               Non reporté
+
+
+Qualifications / Diplômes
+-------------------------
+
+B1P	Bachelor's and 1st Professional Degree     Baccalauréat et premier diplôme professionnel
+MDE	Master's Degree                            Maîtrise
+DDE	Doctoral Degree                            Doctorat
+UCE	Undergraduate Certificate                  Certificat de premier cycle
+UDI	Undergraduate Diploma                      Diplôme de premier cycle
+BDE	Bachelor's Degree                          Baccalauréat
+1PD	1st Professional Degree                    Premier diplôme professionnel
+GCE	Graduate Certificate                       Certificat de deuxième cycle
+GDI	Graduate Diploma                           Diplôme de deuxième cycle
+
+
+Universities / Universités
+--------------------------
+
+ABR	Algoma (Brampton)
+ALG	Algoma
+BRO	Brock
+CAR	Carleton
+GUE	Guelph
+LAK	Lakehead
+LAU	Laurentian
+MCM	McMaster
+NIP	Nipissing
+OCA	OCAD
+OSP	Ottawa (Saint Paul)
+OTT	Ottawa
+QUE	Queens
+RYE	Ryerson
+SPO	Saint Paul University (Ottawa)
+TAC	University of Toronto (All Campuses / Tous les campus)
+TMI	University of Toronto (Mississauga)
+TOR	University of Toronto
+TRE	Trent
+TSC	University of Toronto (Scarborough)
+TSG	University of Toronto (St George)
+UOI	UOIT
+WAT	Waterloo
+WBC	Western (Brescia University College)
+WES	Western
+WHC	Western (Huron University College)
+WIN	Windsor
+WKC	Western (King's University College)
+WLA	Wilfrid Laurier
+WMC	Western (Main Campus / Campus principal)
+YOR	York
+
+
+Source: Council University Data Ontario (CUDO)
+
+The Ministry of Advanced Education and Skills Development has endeavored to keep the information provided up to date and correct, but makes no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the information for any purpose.

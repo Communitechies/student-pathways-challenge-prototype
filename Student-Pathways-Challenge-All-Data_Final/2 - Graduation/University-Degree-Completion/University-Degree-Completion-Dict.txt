@@ -1,0 +1,69 @@
+﻿Programs / Programmes
+---------------------
+
+ABS	Agriculture & Biological Science        Sciences agricoles et biologiques
+ARC	Architecture                            Architecture
+BCO	Business & Commerce                     Affaires et commerce
+CSC	Computer Science                        Sciences informatiques
+DEN	Dentistry                               Médecine dentaire
+EDU	Education                               Éducation (formation des enseignants)
+ENG	Engineering                             Ingénierie
+FAA	Fine & Applied Arts                     Beaux-arts et arts appliqués
+FOR	Forestry                                Foresterie
+FSN	Food Science & Nutrition                Sciences alimentaires et nutrition
+HUM	Humanities                              Sciences humaines
+JOU	Journalism                              Journalisme
+KRP	Kinesiology, Recreation & Phys. Educ.   Kinésiologie, récréologie et éducation physique
+LAW	Law                                     Droit
+MAT	Mathematics                             Mathématiques
+MRP	Medicine and Related Programs           Médecine 
+NUR	Nursing                                 Sciences infirmières
+OAS	Other Arts & Science                    Autres programmes en arts et en sciences
+OAV	Overall Average                         Moyenne globale
+OHP	Other Health Professions                Autres professions de la santé
+OPT	Optometry                               Optométrie
+PHA	Pharmacy                                Pharmacie
+PSC	Physical Science                        Sciences physiques
+SSC	Social Science                          Sciences sociales
+THE	Theology                                Théologie
+TRE	Therapy & Rehabilitation                Thérapie et réadaptation
+VME	Veterinary Medicine                     Médecine vétérinaire
+
+
+Universities / Universités
+--------------------------
+
+ALG	Algoma
+BRO	Brock
+CAR	Carleton
+GUE	Guelph
+LAK	Lakehead
+LAU	Laurentian
+MCM	McMaster
+NIP	Nipissing
+OCA	OCAD
+OSP	Ottawa (St Paul)
+OTT	Ottawa
+QUE	Queens
+RYE	Ryerson
+TAC	Toronto (All Campuses / Tous les campus)
+TMI	Toronto (Mississauga)
+TOR	Toronto
+TRE	Trent
+TSC	Toronto (Scarborough)
+TSG	Toronto (St George)
+UOI	UOIT
+WAT	Waterloo
+WBR	Western (Brescia)
+WES	Western
+WHC	Western (Huron College)
+WIN	Windsor
+WKI	Western (King's)
+WLA	Wilfrid Laurier
+WMC	Western (Main Campus / Campus principal)
+YOR	York
+
+
+Source: Council University Data Ontario (CUDO)
+
+The Ministry of Advanced Education and Skills Development has endeavored to keep the information provided up to date and correct, but makes no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the information for any purpose.
