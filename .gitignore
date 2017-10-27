@@ -5,5 +5,5 @@
 *.ipr
 
 ### Python ###
-DataFrames/__pycache__
+DataFrames/__pycache__/
 *.pyc
