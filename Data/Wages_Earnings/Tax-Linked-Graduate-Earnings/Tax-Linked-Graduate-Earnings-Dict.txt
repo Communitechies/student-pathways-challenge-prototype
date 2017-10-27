@@ -1,13 +1,13 @@
 Programs / Programmes
 ---------------------
 
-AED	Arts & Education						Arts & Éducation
+AED	Arts & Education						Arts & ?ducation
 BUS	Business							Commerce
-ENG	Engineering							Génie
+ENG	Engineering							G?nie
 FAR	Fine Arts							Beaux-arts
-HEA	Health								Santé
+HEA	Health								Sant?
 HUM	Humanities							Sciences humaines
-MAC	Math And Computer Science					Mathématiques, informatique et sciences de l’information
+MAC	Math And Computer Science					Math?matiques, informatique et sciences de l?information
 PSE	Personal, Protective, & Transportation (PPT) Services		Personnel, de protection, & transport services
 SAG	Science & Agriculture						Sciences & Agriculture
 SSC	Social Science							Sciences sociales
