@@ -6,3 +6,4 @@
 
 ### Python ###
 DataFrames/__pycache__
+*.pyc
