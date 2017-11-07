@@ -1,6 +1,10 @@
 import DataFrames.WageFrame as wageFrame
+import DataFrames.ExperienceFrame as experienceFrame
 
-taxesFrame = wageFrame.WageFrame()
+wageFrame = wageFrame.WageFrame()
+experienceFrame = experienceFrame.ExperienceFrame()
 
-print(taxesFrame.getSalaryAgricultural())
+
+print(wageFrame.getSalaryAgricultural())
+print(experienceFrame.classSize)
 
