@@ -4,8 +4,12 @@
   "private": true,
   "scripts": {
     "start": "node ./app",
-    "build": "babel -d ./build/server ./server",
-    "start:dev": "babel-watch ./server/app"
+    "build": "babel -d ./build/server ./server && react-scripts build",
+    "build:server": "babel -d ./build/server ./server",
+    "start:dev": "babel-watch ./server/app",
+    "start:web": "react-scripts start",
+    "build:web": "react-scripts build",
+    "eject": "react-scripts eject"
   },
   "dependencies": {
     "babel": "^6.23.0",
@@ -20,9 +24,14 @@
     "eslint-config-airbnb-base": "^12.1.0",
     "eslint-plugin-import": "^2.8.0",
     "express": "~4.15.5",
-    "jade": "~1.11.0",
+    "fetch": "^1.1.0",
     "mongoose": "^4.13.2",
     "morgan": "~1.9.0",
+    "node-fetch": "^1.7.3",
+    "react": "^16.1.1",
+    "react-dom": "^16.1.1",
+    "react-scripts": "1.0.17",
     "serve-favicon": "~2.4.5"
-  }
+  },
+  "proxy": "http://localhost:9000"
 }
