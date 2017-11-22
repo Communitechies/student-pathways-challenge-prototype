@@ -2,8 +2,11 @@ const express = require('express');
 const logger = require('morgan');
 const cookieParser = require('cookie-parser');
 const bodyParser = require('body-parser');
+const passport = require('passport');
+
 
 require('./models/db');
+require('./api/services/passport');
 const routes = require('./api/routes');
 
 const app = express();
@@ -12,6 +15,7 @@ app.use(logger('dev'));
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(cookieParser());
+app.use(passport.initialize());
 
 app.use('/api', routes);
 

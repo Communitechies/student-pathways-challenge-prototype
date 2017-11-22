@@ -1,5 +1,9 @@
 const express = require('express');
+
 const router = express.Router();
+
+// Import Controllers
+import LoginController from './controllers/LoginController';
 
 /* GET home page. */
 router.get('/v1/test', (req, res) => {
@@ -13,5 +17,8 @@ router.get('/v1/test', (req, res) => {
   }]);
 });
 
+// Registration routes
+router.post('/v1/register', LoginController.register);
+router.post('/v1/login', LoginController.login);
 
 module.exports = router;
