@@ -29,9 +29,9 @@ LoginController.register = (req, res) => {
     // If a user is found
     if (user) {
       const token = user.generateJwt();
-      res.status(201).json({ token });
+      return res.status(201).json({ token, studentID });
     } else {
-      res.status(400).json(info);
+      return res.status(400).json(info);
     }
   })(req, res);
 };
@@ -54,26 +54,17 @@ LoginController.login = (req, res) => {
     return res.status(400).json({ message: 'Missing credentials' });
   }
 
-  passport.authenticate('local-login', function(err, user, info){
-    var token;
-
-    // If Passport throws/catches an error
+  passport.authenticate('local-login', (err, user, info) => {
     if (err) {
-      res.status(404).json(err);
-      return;
+      return res.status(404).json(err);
     }
 
     // If a user is found
     if (user) {
-      token = user.generateJwt();
-      res.status(200);
-      res.json({
-        "token" : token
-      });
-    } else {
-      // If user is not found
-      res.status(401).json(info);
+      const token = user.generateJwt();
+      return res.status(200).json({ token });
     }
+    return res.status(401).json(info);
   })(req, res);
 };
 

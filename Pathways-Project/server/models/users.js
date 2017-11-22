@@ -1,12 +1,18 @@
-const mongoose = require('mongoose');
+import mongoose from 'mongoose';
+import jwt from 'jsonwebtoken';
 
 const userSchema = new mongoose.Schema({
+  _id: {
+    type: String,
+    unique: true,
+    required: false,
+  },
   name: {
     type: String,
     unique: false,
     required: true,
   },
-  studentNumber: {
+  studentID: {
     type: Number,
     unique: true,
     required: true,
@@ -19,15 +25,14 @@ const userSchema = new mongoose.Schema({
 });
 
 userSchema.methods.generateJwt = function () {
-  var expiry = new Date();
+  const expiry = new Date();
   expiry.setDate(expiry.getDate() + 7);
 
-  // TODO: Move SECRET to an external file
   return jwt.sign({
-    _id: this._id,
-    username: this.local.username,
-    exp: parseInt(expiry.getTime() / 1000)
-  }, "SECRET");
+    id: this._id,
+    studentID: this.studentID,
+    exp: parseInt(expiry.getTime() / 1000, 10),
+  }, 'SECRET');
 };
 
 module.exports = mongoose.model('User', userSchema);

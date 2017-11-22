@@ -1,9 +1,9 @@
-const express = require('express');
-
-const router = express.Router();
+import express from 'express';
 
 // Import Controllers
 import LoginController from './controllers/LoginController';
+
+const router = express.Router();
 
 /* GET home page. */
 router.get('/v1/test', (req, res) => {
