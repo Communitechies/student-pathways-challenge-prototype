@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-const dbURI = 'mongodb://localhost/pathways';
+const dbURI = 'mongodb://communitech:LMkwBuaJt4Kk9cdo@spcmean.cleverhost.ca/communitech';
 
 mongoose.connect(dbURI);
 
