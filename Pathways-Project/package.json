@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "start": "node ./app",
-    "build": "babel -d ./build/server ./server && react-scripts build",
+    "build": "react-scripts build && babel -d ./build/server ./server",
     "build:server": "babel -d ./build/server ./server",
     "start:dev": "babel-watch ./server/app",
     "start:web": "react-scripts start",
