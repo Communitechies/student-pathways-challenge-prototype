@@ -2,23 +2,18 @@ import express from 'express';
 
 // Import Controllers
 import LoginController from './controllers/LoginController';
+import UserController from './controllers/UserController';
 
 const router = express.Router();
 
 /* GET home page. */
-router.get('/v1/test', (req, res) => {
-  // Temp values
-  res.json([{
-    id: 1,
-    username: 'samsepi0l',
-  }, {
-    id: 2,
-    username: 'D0loresH4ze',
-  }]);
-});
+router.get('/v1/test', (req, res) => res.json({ message: 'pong' }));
 
-// Registration routes
+// Registration Routes
 router.post('/v1/register', LoginController.register);
 router.post('/v1/login', LoginController.login);
+
+// User Routes
+router.get('/v1/user/:studentID', UserController.getUser);
 
 module.exports = router;
