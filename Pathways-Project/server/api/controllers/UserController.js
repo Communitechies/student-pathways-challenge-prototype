@@ -7,7 +7,7 @@ const UserController = {};
  * The route responsible for getting a specific user
  *
  * Used by route:
- * GET /api/v1/user/:studenID
+ * GET /api/v1/user/:studentID
  *
  * Request Params:
  *   StudentID - The student ID of the user
