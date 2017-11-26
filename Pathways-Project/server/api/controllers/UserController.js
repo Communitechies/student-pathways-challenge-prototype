@@ -1,4 +1,5 @@
 import UserService from '../services/UserService';
+import PathwayService from '../services/PathwayService';
 import UserPresentation from './presentations/UserPresentation';
 
 const UserController = {};
@@ -69,6 +70,16 @@ UserController.editPathway = (req, res, next) => {
 
 };
 
+
+/*
+ * The route responsible for adding a favourite pathway to a user
+ *
+ * Used by route:
+ * POST /api/v1/user/favourite/:key
+ *
+ * Request Params:
+ *   key - The key of the favourite you are adding
+ */
 UserController.addFavourite = (req, res, next) => {
   const { key } = req.params;
 
@@ -85,6 +96,21 @@ UserController.addFavourite = (req, res, next) => {
 
       return next(err);
     });
+};
+
+/*
+ * The route responsible for getting all the pathways and if they've been favourited or not
+ *
+ * Used by route:
+ * GET /api/v1/user/pathway
+ *
+ */
+UserController.getUserPathways = (req, res, next) => {
+  const pathways = PathwayService.getPathways();
+
+  return UserService.getUserPathways(req.context.user.studentID, pathways)
+    .then(favPathways => res.status(200).json(favPathways))
+    .catch(next);
 };
 
 export default UserController;

@@ -10,12 +10,7 @@ const PathwayController = {};
  *
  */
 PathwayController.getAvailablePathways = (req, res) => {
-  const pathways = [
-    {
-      pathway: 'Airline Pilot',
-      key: 0,
-    },
-  ];
+  const pathways = PathwayService.getPathways();
 
   return res.status(200).json({ pathways });
 };

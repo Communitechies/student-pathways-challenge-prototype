@@ -65,4 +65,24 @@ UserService.addFavourite = (studentID, key) => {
   });
 };
 
+
+UserService.getUserPathways = (studentID, pathways) => {
+  return User.findOne({ studentID }, (err, user) => {
+    if (err) {
+      throw new Error(err);
+    }
+
+    if (!user) {
+      throw new Error('User not found');
+    }
+
+    const { favourites } = user;
+
+    return pathways.map(pathway => ({
+      ...pathway,
+      favourite: favourites.indexOf(pathway.key) !== -1,
+    }));
+  });
+};
+
 export default UserService;

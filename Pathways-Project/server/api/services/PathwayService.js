@@ -19,4 +19,13 @@ PathwayService.getPathway = (key) => {
   return BPromise.resolve(pathway);
 };
 
+PathwayService.getPathways = () => {
+  return [
+    {
+      pathway: 'Airline Pilot',
+      key: 0,
+    },
+  ];
+};
+
 export default PathwayService;

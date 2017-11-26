@@ -20,6 +20,7 @@ router.post('/v1/login', LoginController.login);
 
 // User Routes
 router.get('/v1/user/:studentID', UserController.getUser);
+router.get('/v1/user/pathway', [isAuth], UserController.getUserPathways);
 router.post('/v1/user/pathway', [isAuth], UserController.editPathway);
 router.post('/v1/user/favourite/:key', [isAuth], UserController.addFavourite);
 
