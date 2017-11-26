@@ -22,6 +22,11 @@ const userSchema = new mongoose.Schema({
     unique: false,
     required: true,
   },
+  pathway: {
+    type: mongoose.Schema.Types.Mixed,
+    unique: false,
+    required: true,
+  },
 });
 
 userSchema.methods.generateJwt = function () {

@@ -14,4 +14,22 @@ UserService.getUser = (studentID) => {
     });
 };
 
+UserService.editPathway = (studentID, pathway) => {
+  return User.findOne({ studentID }, (err, user) => {
+    if (err) {
+      throw new Error(err);
+    }
+
+    const curPathway = user.pathway;
+
+    user.pathway = Object.assign(pathway, curPathway);
+
+    user.save((err) => {
+      if (err) {
+        throw new Error(err);
+      }
+    });
+  });
+};
+
 export default UserService;

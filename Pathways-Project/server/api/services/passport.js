@@ -5,6 +5,8 @@ import mongoose from 'mongoose';
 
 const User = mongoose.model('User');
 const LocalStrategy = require('passport-local').Strategy;
+const JwtStrategy = require('passport-jwt').Strategy;
+const ExtractJwt = require('passport-jwt').ExtractJwt;
 
 passport.use('local-signup', new LocalStrategy(
   {
@@ -28,6 +30,11 @@ passport.use('local-signup', new LocalStrategy(
       newUser.studentID = studentID;
       newUser.name = req.body.name;
       newUser.password = bcrypt.hashSync(password, bcrypt.genSaltSync(8), null);
+      newUser.pathway = {
+        9: {},
+        10: {},
+        11: {},
+      };
 
       // save the user
       newUser.save((err) => {
@@ -37,9 +44,10 @@ passport.use('local-signup', new LocalStrategy(
         return done(null, newUser);
       });
     });
-}));
+ }));
 
-passport.use('local-login',
+passport.use(
+  'local-login',
   new LocalStrategy({
     usernameField: 'studentID',
     passReqToCallback: false,
@@ -63,4 +71,23 @@ passport.use('local-login',
         message: "Password isn't correct",
       });
     });
-  }));
+  }),
+);
+
+const opts = {};
+opts.jwtFromRequest = ExtractJwt.fromAuthHeaderAsBearerToken();
+opts.secretOrKey = 'SECRET';
+
+passport.use(new JwtStrategy(opts, (payload, done) => {
+  User.findOne({ studentID: payload.studentID }, (err, user) => {
+    if (err) {
+      return done(err, false);
+    }
+
+    if (user) {
+      return done(null, user);
+    }
+
+    return done(null, false);
+  });
+}));

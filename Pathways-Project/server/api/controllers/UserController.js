@@ -30,4 +30,43 @@ UserController.getUser = (req, res, next) => {
     });
 };
 
+/*
+ * The route responsible for adding a pathway node to a user
+ *
+ * Used by route:
+ * POST /api/v1/user/:studentID
+ *
+ * Request Body:
+ *   pathway -
+ *     {
+ *       9: {}
+ *       10: {}
+ *       11: {}
+ *       12: {}
+ *     }
+ *     each sub object has a grade and course field
+ */
+UserController.editPathway = (req, res, next) => {
+  const { pathway } = req.body;
+  const keys = {
+    9: true,
+    10: true,
+    11: true,
+    12: true,
+  };
+
+  if (!pathway) {
+    return res.status(400).json({ message: 'No pathway provided' });
+  }
+
+  if (!Object.keys(pathway).every(key => keys[key])) {
+    return res.status(400).json({ message: 'Pathway had invalid fields' });
+  }
+
+  return UserService.editPathway(req.context.user.studentID)
+    .then(() => res.status(200).json({ message: 'Added node successfully' }))
+    .catch(next);
+
+};
+
 export default UserController;

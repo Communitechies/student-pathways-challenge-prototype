@@ -30,9 +30,9 @@ LoginController.register = (req, res) => {
     if (user) {
       const token = user.generateJwt();
       return res.status(201).json({ token, studentID });
-    } else {
-      return res.status(400).json(info);
     }
+
+    return res.status(400).json(info);
   })(req, res);
 };
 
@@ -64,6 +64,7 @@ LoginController.login = (req, res) => {
       const token = user.generateJwt();
       return res.status(200).json({ token });
     }
+
     return res.status(401).json(info);
   })(req, res);
 };
