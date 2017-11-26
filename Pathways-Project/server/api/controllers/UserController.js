@@ -69,4 +69,22 @@ UserController.editPathway = (req, res, next) => {
 
 };
 
+UserController.addFavourite = (req, res, next) => {
+  const { key } = req.params;
+
+  if (!key) {
+    return res.status(400).json({ message: 'No favourite was provided' })
+  }
+
+  return UserService.addFavourite(req.context.user.studentID, key)
+    .then(() => res.status(200).json({ message: 'Added favourite successfully' }))
+    .catch((err) => {
+      if (err.message === 'Key is already favourited') {
+        return res.status(400).json({ message: err.message });
+      }
+
+      return next(err);
+    });
+};
+
 export default UserController;

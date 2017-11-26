@@ -28,6 +28,7 @@ const userSchema = new mongoose.Schema({
     11: [mongoose.Schema.Types.Mixed],
     12: [mongoose.Schema.Types.Mixed],
   },
+  favourites: [Number],
 });
 
 userSchema.methods.generateJwt = function () {

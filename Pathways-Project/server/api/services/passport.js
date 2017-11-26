@@ -36,6 +36,7 @@ passport.use('local-signup', new LocalStrategy(
         11: [],
         12: [],
       };
+      newUser.favourites = [];
 
       // save the user
       newUser.save((err) => {
