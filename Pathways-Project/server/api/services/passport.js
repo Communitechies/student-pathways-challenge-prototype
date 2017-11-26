@@ -31,9 +31,10 @@ passport.use('local-signup', new LocalStrategy(
       newUser.name = req.body.name;
       newUser.password = bcrypt.hashSync(password, bcrypt.genSaltSync(8), null);
       newUser.pathway = {
-        9: {},
-        10: {},
-        11: {},
+        9: [],
+        10: [],
+        11: [],
+        12: [],
       };
 
       // save the user

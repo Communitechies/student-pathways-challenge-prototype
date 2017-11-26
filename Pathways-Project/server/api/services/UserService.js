@@ -20,9 +20,14 @@ UserService.editPathway = (studentID, pathway) => {
       throw new Error(err);
     }
 
-    const curPathway = user.pathway;
+    const curPathway = user.pathway || {
+      9: [],
+      10: [],
+      11: [],
+      12: [],
+    };
 
-    user.pathway = Object.assign(pathway, curPathway);
+    user.pathway = Object.assign(curPathway, pathway);
 
     user.save((err) => {
       if (err) {

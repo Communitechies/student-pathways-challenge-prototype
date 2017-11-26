@@ -23,9 +23,10 @@ const userSchema = new mongoose.Schema({
     required: true,
   },
   pathway: {
-    type: mongoose.Schema.Types.Mixed,
-    unique: false,
-    required: true,
+    9: [mongoose.Schema.Types.Mixed],
+    10: [mongoose.Schema.Types.Mixed],
+    11: [mongoose.Schema.Types.Mixed],
+    12: [mongoose.Schema.Types.Mixed],
   },
 });
 

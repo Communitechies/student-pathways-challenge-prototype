@@ -39,10 +39,10 @@ UserController.getUser = (req, res, next) => {
  * Request Body:
  *   pathway -
  *     {
- *       9: {}
- *       10: {}
- *       11: {}
- *       12: {}
+ *       9: [{course: <>, grade: <>}]
+ *       10: []
+ *       11: []
+ *       12: []
  *     }
  *     each sub object has a grade and course field
  */
@@ -63,7 +63,7 @@ UserController.editPathway = (req, res, next) => {
     return res.status(400).json({ message: 'Pathway had invalid fields' });
   }
 
-  return UserService.editPathway(req.context.user.studentID)
+  return UserService.editPathway(req.context.user.studentID, pathway)
     .then(() => res.status(200).json({ message: 'Added node successfully' }))
     .catch(next);
 

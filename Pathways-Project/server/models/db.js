@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 
-//const dbURI = 'mongodb://communitech:LMkwBuaJt4Kk9cdo@spcmean.cleverhost.ca/communitech';
-const dbURI = 'mongodb://localhost/communitech';
+const dbURI = 'mongodb://communitech:LMkwBuaJt4Kk9cdo@spcmongo.cleverhost.ca/communitech';
+//const dbURI = 'mongodb://localhost/communitech';
 
 mongoose.connect(dbURI);
 
