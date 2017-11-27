@@ -39,6 +39,9 @@ class CreateNode extends PureComponent {
   }
 
   onMarkChange = (idx, evt) => {
+    /**
+     * @todo Validate this value
+     */
     const value = evt.target.value
     const numberGrade = parseInt(value) || 0
 
@@ -63,6 +66,10 @@ class CreateNode extends PureComponent {
   onCourseDelete = (idx) => {
     let newCourses = this.state.courses.filter((_, i) => i !== idx)
     this.setState({ courses: newCourses })
+  }
+
+  onAddCourse = () => {
+    this.setState({ courses: this.state.courses.concat(this.emptyCourse)})
   }
 
   renderTableBody = () => {
@@ -120,6 +127,9 @@ class CreateNode extends PureComponent {
           </thead>
           { this.renderTableBody() }
         </Table>
+        <Button
+          onClick={this.onAddCourse}
+          label='Add Course'/>
       </Box>
     )
   }
