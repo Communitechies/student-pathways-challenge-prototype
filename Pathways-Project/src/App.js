@@ -8,6 +8,7 @@ import Box from 'grommet/components/Box'
 
 import store, { history } from './store'
 
+import Login from './components/Login'
 import SideBar from './components/Sidebar'
 import MyPath from './components/MyPath'
 
@@ -20,14 +21,17 @@ export default class App extends React.Component {
       <Provider store={store}>
           <GrommetApp centered={false}>
             <ConnectedRouter history={history}>
-              <Split fixed flex='right'>
-                <SideBar/>
-                <Box full flex>
-                  <Switch>
-                    <Route path='/mypath' component={MyPath}/>
-                  </Switch>
-                </Box>
-              </Split>
+              <Switch>
+                <Route path='/' exact component={Login}/>
+                <Split fixed flex='right'>
+                  <SideBar/>
+                  <Box full flex>
+                    <Switch>
+                      <Route path='/mypath' component={MyPath}/>
+                    </Switch>
+                  </Box>
+                </Split>
+              </Switch>
             </ConnectedRouter>
           </GrommetApp>
       </Provider>
