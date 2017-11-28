@@ -72,6 +72,10 @@ class CreateNode extends PureComponent {
     this.setState({ courses: this.state.courses.concat(this.emptyCourse)})
   }
 
+  onAddNode = () => {
+    
+  }
+
   renderTableBody = () => {
     const courses = this.state.courses
 
@@ -130,6 +134,11 @@ class CreateNode extends PureComponent {
         <Button
           onClick={this.onAddCourse}
           label='Add Course'/>
+        <br/>
+        <Button
+          onClick={this.onAddNode}
+          label='Add Year'
+          primary/>
       </Box>
     )
   }

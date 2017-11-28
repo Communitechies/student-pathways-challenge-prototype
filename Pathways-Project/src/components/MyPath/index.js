@@ -4,7 +4,7 @@ import Title from 'grommet/components/Title'
 import Box from 'grommet/components/Box'
 
 import Pathway from './Pathway'
-import Sidebar from './Sidebar'
+import InfoBar from './InfoBar'
 
 export default class MyPath extends PureComponent {
   render () {
@@ -15,7 +15,7 @@ export default class MyPath extends PureComponent {
         </Header>
         <Box flex='grow' direction='row'>
           <Pathway/>
-          <Sidebar/>
+          <InfoBar/>
         </Box>
       </Box>
     )

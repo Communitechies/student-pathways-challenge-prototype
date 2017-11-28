@@ -20,6 +20,10 @@ export function sidebarSwitchToViewNode (nodeId) {
   return { type: SIDEBAR_VIEW_NODE, nodeId }
 }
 
+export function addNodeToPathway (node) {
+  
+}
+
 // Enums
 export const loadingStateEnum = Object.freeze({
   BEFORE_LOAD: 'BEFORE_LOAD',
