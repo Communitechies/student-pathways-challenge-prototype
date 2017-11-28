@@ -19,8 +19,17 @@ export function changeLoadState (state) {
 
 export function loadUserPathway () {
   return dispatch => {
-    const mockPathway = []
-    dispatch({ type: PATHWAY_LOADING_SUCCESS, pathway: mockPathway })
+    const mockPathway = {
+      9: [{
+        course: 'MATH4U',
+        grade: 20
+      }]
+    }
+
+    dispatch({ 
+      type: PATHWAY_LOADING_SUCCESS, 
+      pathway: mockPathway
+    })
   }
 }
 
@@ -35,16 +44,16 @@ export function sidebarSwitchToViewNode (nodeId) {
 export function uploadPathToServer () {
   return async (dispatch, getState) => {
     const state = getState()
-    dispatch(changeLoadState(loadingStateEnum.DURING_RELOAD))
-    const options = {
-      method: 'POST',
-      headers: { 'Content-type': 'application/json' },
-      data: JSON.stringify(state.pathway)
-    }
-    const fetchResult = await fetch('/v1/user/pathway', options)
-    if(!fetchResult.ok) {
-      dispatch({ type: ERROR, message: await fetchResult.text()})
-    }
+    // dispatch(changeLoadState(loadingStateEnum.DURING_RELOAD))
+    // const options = {
+    //   method: 'POST',
+    //   headers: { 'Content-type': 'application/json' },
+    //   data: JSON.stringify(state.pathway)
+    // }
+    // const fetchResult = await fetch('/v1/user/pathway', options)
+    // if(!fetchResult.ok) {
+    //   dispatch({ type: ERROR, message: await fetchResult.text()})
+    // }
     dispatch(changeLoadState(loadingStateEnum.AFTER_RELOAD))
   }
 }
