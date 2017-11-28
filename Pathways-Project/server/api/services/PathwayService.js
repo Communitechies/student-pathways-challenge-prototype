@@ -3,6 +3,7 @@ import BPromise from 'bluebird';
 // Configured Pathways
 import pilot from '../../pathways/pilot';
 import nurse from '../../pathways/nursing';
+import math from '../../pathways/mathematics';
 
 const PathwayService = {};
 
@@ -15,6 +16,8 @@ PathwayService.getPathway = (key) => {
       break;
     case '1':
       pathway = nurse;
+    case '2':
+      pathway = math;
     default:
       return BPromise.reject({ message: 'Invalid key' });
   }
@@ -31,6 +34,10 @@ PathwayService.getPathways = () => {
     {
       pathway: 'Nurse',
       key: 1,
+    },
+    {
+      pathway: 'Mathematics',
+      key: 2,
     }
   ];
 };
