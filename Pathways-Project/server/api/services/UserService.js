@@ -3,17 +3,6 @@ const User = mongoose.model('User');
 
 const UserService = {};
 
-UserService.getUser = (studentID) => {
-  return User.findOne({ studentID })
-    .then((user) => {
-      if (!user) {
-        throw new Error('No student belongs to this ID');
-      }
-
-      return user;
-    });
-};
-
 UserService.editPathway = (studentID, pathway) => {
   return User.findOne({ studentID }, (err, user) => {
     if (err) {
@@ -62,26 +51,6 @@ UserService.addFavourite = (studentID, key) => {
         throw new Error(err);
       }
     });
-  });
-};
-
-
-UserService.getUserPathways = (studentID, pathways) => {
-  return User.findOne({ studentID }, (err, user) => {
-    if (err) {
-      throw new Error(err);
-    }
-
-    if (!user) {
-      throw new Error('User not found');
-    }
-
-    const { favourites } = user;
-
-    return pathways.map(pathway => ({
-      ...pathway,
-      favourite: favourites.indexOf(pathway.key) !== -1,
-    }));
   });
 };
 
