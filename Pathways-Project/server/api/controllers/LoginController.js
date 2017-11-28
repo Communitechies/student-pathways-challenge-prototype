@@ -36,7 +36,6 @@ LoginController.register = (req, res) => {
   })(req, res);
 };
 
-
 /*
  * The route responsible for logging in
  *

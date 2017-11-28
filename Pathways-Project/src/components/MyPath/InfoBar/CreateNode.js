@@ -1,5 +1,6 @@
 import React, { PureComponent } from 'react'
 import { connect } from 'react-redux'
+import { bindActionCreators } from 'redux'
 
 import Box from 'grommet/components/Box'
 import Paragraph from 'grommet/components/Paragraph'
@@ -14,9 +15,9 @@ import TextInput from 'grommet/components/TextInput'
 import Button from 'grommet/components/Button'
 import CloseIcon from 'grommet/components/icons/base/Close'
 
-import { sidebarModeEnum } from '../../../store/pathway'
+import { sidebarModeEnum, addNodeToPathway } from '../../../store/pathway'
 
-const courseCodes = ['MATH4U', 'ENG301']
+const coursesList = ['MATH4U', 'ENG301']
 
 const grades = ['Grade 9', 'Grade 10', 'Grade 11', 'Grade 12']
 
@@ -26,16 +27,20 @@ class CreateNode extends PureComponent {
 
     this.state = {
       grade: undefined,
-      courses: [ this.emptyCourse ]
+      courses: [ this.emptyCourse ],
+      errors: {}
     }
   }
 
   get emptyCourse () { 
-    return { courseCode: undefined, grade: '' }
+    return { course: undefined, grade: '' }
   }
 
   onGradeChange = (evt) => {
-    this.setState({ grade: evt.value })
+    this.setState({ 
+      grade: evt.value,
+      errors: { ...this.state.errors, grade: null }
+    })
   }
 
   onMarkChange = (idx, evt) => {
@@ -54,10 +59,10 @@ class CreateNode extends PureComponent {
     this.setState({ courses: newCourses })
   }
 
-  onCourseCodeChange = (idx, evt) => {
+  onCourseChange = (idx, evt) => {
     let newCourses = this.state.courses.map((course, i) => {
       if(i !== idx) return course
-      return { ...course, courseCode: evt.value }
+      return { ...course, course: evt.value }
     })
 
     this.setState({ courses: newCourses })
@@ -69,11 +74,30 @@ class CreateNode extends PureComponent {
   }
 
   onAddCourse = () => {
-    this.setState({ courses: this.state.courses.concat(this.emptyCourse)})
+    this.setState({ 
+      courses: this.state.courses.concat(this.emptyCourse)
+    })
   }
 
   onAddNode = () => {
-    
+    if(!this.state.grade) {
+      return this.setState({ 
+        errors: {
+          ...this.state.errors,
+          grade: 'You must select a grade'
+        }
+      })
+    }
+
+    const [, grade] = this.state.grade.match(/^.* (\d*)$/)
+    const courses = this.state.courses
+
+    this.props.actions.addNodeToPathway(grade, courses)
+  }
+
+  getFormError = (field) => {
+    if (this.state.errors[field]) return this.state.errors[field]
+    return undefined
   }
 
   renderTableBody = () => {
@@ -83,15 +107,15 @@ class CreateNode extends PureComponent {
       <TableRow key={idx}>
         <td>
           <Select 
-            options={courseCodes} 
-            value={course.courseCode}
-            onChange={(evt) => this.onCourseCodeChange(idx, evt)}/>
+            options={coursesList} 
+            value={course.course}
+            onChange={(evt) => this.onCourseChange(idx, evt)}/>
         </td>
         <td>
           <input
             type='text'
             style={{width: '5em'}}
-            disabled={course.courseCode === undefined}
+            disabled={course.course === undefined}
             value={course.grade}
             onChange={(evt) => this.onMarkChange(idx, evt)}/>
         </td>
@@ -111,7 +135,7 @@ class CreateNode extends PureComponent {
     return (
       <Box>
         <Form>
-          <FormField label='Grade'>
+          <FormField label='Grade' error={this.getFormError('grade')}>
             <Select
               placeHolder='none'
               options={grades}
@@ -150,7 +174,7 @@ const stateToProps = (state) => ({
 })
 
 const dispatchToProps = (dispatch) => ({
-
+  actions: bindActionCreators({ addNodeToPathway }, dispatch)
 })
 
 export default connect(stateToProps, dispatchToProps)(CreateNode)
