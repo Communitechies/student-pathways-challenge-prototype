@@ -1,20 +1,5 @@
 export default [
     {
-        9: {
-            required: [
-                'ENG1D or ENG1P',
-                'SNC1D or SNC1P',
-                'MPM1D or MPM1P'
-            ],
-        },
-        10: {
-            required: [
-                'ENG2D',
-                'SNC2D',
-                'MPM2D',
-                'SNC2D'
-            ],
-        },
         11: {
             required: [
                 'ENG3U',
@@ -22,7 +7,6 @@ export default [
                 'SCH3U',
                 '1 of MCR3U or MCT4C or MHF4U',
                 'SBI3U'
-
             ],
         },
         12: {
@@ -48,13 +32,12 @@ export default [
                     average: '65%',
                 },
                 {
-                    course'MCR3U'
+                    course: 'MCR3U',
                     average: '65%',
                 },
             ],
         },
         SE: [
-
             {
                 programName: 'Nursing',
                 institution: 'University',
@@ -91,4 +74,4 @@ export default [
             ],
         },
     }
-    ];
+];
