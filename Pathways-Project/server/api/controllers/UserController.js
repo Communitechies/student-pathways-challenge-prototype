@@ -1,35 +1,7 @@
 import UserService from '../services/UserService';
 import PathwayService from '../services/PathwayService';
-import UserPresentation from './presentations/UserPresentation';
 
 const UserController = {};
-
-/*
- * The route responsible for getting a specific user
- *
- * Used by route:
- * GET /api/v1/user/:studentID
- *
- * Request Params:
- *   StudentID - The student ID of the user
- */
-UserController.getUser = (req, res, next) => {
-  const { studentID } = req.params;
-
-  if (!(studentID || isNaN(studentID))) {
-    return res.status(400).json({ message: 'Incorrect student ID provided' });
-  }
-
-  return UserService.getUser(studentID)
-    .then(UserPresentation.presentUser)
-    .then(user => res.status(200).json(user))
-    .catch((err) => {
-      if (err.message === 'No student belongs to this ID') {
-        return res.status(400).json({ message: err.message });
-      }
-      return next(err);
-    });
-};
 
 /*
  * The route responsible for adding a pathway node to a user
@@ -70,6 +42,17 @@ UserController.editPathway = (req, res, next) => {
 
 };
 
+/*
+ * The route responsible for getting the pathway of a specific user
+ *
+ * Used by route:
+ * GET /api/v1/user/pathway
+ *
+ */
+UserController.getPathway = (req, res) => {
+  return res.status(200).json({ pathway: req.context.user.pathway });
+};
+
 
 /*
  * The route responsible for adding a favourite pathway to a user
@@ -84,7 +67,7 @@ UserController.addFavourite = (req, res, next) => {
   const { key } = req.params;
 
   if (!key) {
-    return res.status(400).json({ message: 'No favourite was provided' })
+    return res.status(400).json({ message: 'No favourite was provided' });
   }
 
   return UserService.addFavourite(req.context.user.studentID, key)
@@ -102,15 +85,19 @@ UserController.addFavourite = (req, res, next) => {
  * The route responsible for getting all the pathways and if they've been favourited or not
  *
  * Used by route:
- * GET /api/v1/user/pathway
+ * GET /api/v1/user/favourite
  *
  */
-UserController.getUserPathways = (req, res, next) => {
+UserController.getFavourites = (req, res) => {
+
   const pathways = PathwayService.getPathways();
 
-  return UserService.getUserPathways(req.context.user.studentID, pathways)
-    .then(favPathways => res.status(200).json(favPathways))
-    .catch(next);
+  const { favourites } = req.context.user;
+
+  return res.status(200).json(pathways.map(pathway => ({
+    ...pathway,
+    favourite: favourites.indexOf(pathway.key) !== -1,
+  })));
 };
 
 export default UserController;
