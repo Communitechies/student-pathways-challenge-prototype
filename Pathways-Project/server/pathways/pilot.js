@@ -1,15 +1,5 @@
 export default [
   {
-    9: {
-      required: [
-        'ENG1D or ENG1P',
-      ],
-    },
-    10: {
-      required: [
-        'ENG2D',
-      ],
-    },
     11: {
       required: [
         'ENG3U',
@@ -45,19 +35,6 @@ export default [
     },
   },
   {
-    9: {
-      required: [
-        'ENG1D or ENG1P',
-        'SNC1D or SNC1P',
-      ],
-    },
-    10: {
-      required: [
-        'ENG2D',
-        'SNC2D',
-        'MPM2D',
-      ],
-    },
     11: {
       required: [
         'ENG3U',
