@@ -4,9 +4,11 @@ import { Route, Switch } from 'react-router'
 import { ConnectedRouter } from 'react-router-redux'
 import GrommetApp from 'grommet/components/App';
 import Split from 'grommet/components/Split'
+import Box from 'grommet/components/Box'
 
 import store, { history } from './store'
 
+import Login from './components/Login'
 import SideBar from './components/Sidebar'
 import MyPath from './components/MyPath'
 
@@ -19,12 +21,17 @@ export default class App extends React.Component {
       <Provider store={store}>
           <GrommetApp centered={false}>
             <ConnectedRouter history={history}>
-              <Split fixed seperator>
-                <SideBar/>
-                <Switch>
-                  <Route path='/mypath' component={MyPath}/>
-                </Switch>
-              </Split>
+              <Switch>
+                <Route path='/' exact component={Login}/>
+                <Split fixed flex='right'>
+                  <SideBar/>
+                  <Box full flex>
+                    <Switch>
+                      <Route path='/mypath' component={MyPath}/>
+                    </Switch>
+                  </Box>
+                </Split>
+              </Switch>
             </ConnectedRouter>
           </GrommetApp>
       </Provider>
