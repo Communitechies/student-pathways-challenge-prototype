@@ -20,7 +20,7 @@ export function changeLoadState (state) {
 export function loadUserPathway () {
   return dispatch => {
     const mockPathway = {
-      9: [{
+      '9': [{
         course: 'MATH4U',
         grade: 20
       }]
@@ -106,7 +106,7 @@ export default (state = defaultState, action) => {
     case SIDEBAR_VIEW_NODE:
       return { ...state, sidebar: { type: sidebarModeEnum.VIEW, nodeId: action.nodeId } }
     case PATHWAY_ADD_NODE:
-      return { ...state, pathway: { [action.grade]: action.courses } }
+      return { ...state, pathway: { ...state.pathway, [action.grade]: action.courses } }
     case CHANGE_LOAD_STATE:
       return { ...state, loading: action.state }
     default: return state

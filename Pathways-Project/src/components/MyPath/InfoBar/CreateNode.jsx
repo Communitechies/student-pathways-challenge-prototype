@@ -15,6 +15,8 @@ import TextInput from 'grommet/components/TextInput'
 import Button from 'grommet/components/Button'
 import CloseIcon from 'grommet/components/icons/base/Close'
 
+import CourseMarkTable from './CourseMarkTable'
+
 import { sidebarModeEnum, addNodeToPathway } from '../../../store/pathway'
 
 const coursesList = ['MATH4U', 'ENG301']
@@ -27,15 +29,15 @@ class CreateNode extends PureComponent {
 
     this.state = {
       grade: undefined,
-      courses: [ this.emptyCourse ],
+      courses: [],
       errors: {}
     }
   }
 
-  get emptyCourse () { 
-    return { course: undefined, grade: '' }
-  }
-
+  /**
+   * Called when the grade level for the node is changed
+   * eg. From grade 11 to grade 10
+   */
   onGradeChange = (evt) => {
     this.setState({ 
       grade: evt.value,
@@ -43,42 +45,10 @@ class CreateNode extends PureComponent {
     })
   }
 
-  onMarkChange = (idx, evt) => {
-    /**
-     * @todo Validate this value
-     */
-    const value = evt.target.value
-    const numberGrade = parseInt(value) || 0
-
-
-    let newCourses = this.state.courses.map((course, i) => {
-      if(i !== idx) return course
-      return { ...course, grade: numberGrade }
-    })
-
-    this.setState({ courses: newCourses })
-  }
-
-  onCourseChange = (idx, evt) => {
-    let newCourses = this.state.courses.map((course, i) => {
-      if(i !== idx) return course
-      return { ...course, course: evt.value }
-    })
-
-    this.setState({ courses: newCourses })
-  }
-
-  onCourseDelete = (idx) => {
-    let newCourses = this.state.courses.filter((_, i) => i !== idx)
-    this.setState({ courses: newCourses })
-  }
-
-  onAddCourse = () => {
-    this.setState({ 
-      courses: this.state.courses.concat(this.emptyCourse)
-    })
-  }
-
+  /**
+   * Called when the user clicks add year to add the 
+   * node to their pathway
+   */
   onAddNode = () => {
     if(!this.state.grade) {
       return this.setState({ 
@@ -88,47 +58,14 @@ class CreateNode extends PureComponent {
         }
       })
     }
-
     const [, grade] = this.state.grade.match(/^.* (\d*)$/)
     const courses = this.state.courses
-
     this.props.actions.addNodeToPathway(grade, courses)
   }
 
   getFormError = (field) => {
     if (this.state.errors[field]) return this.state.errors[field]
     return undefined
-  }
-
-  renderTableBody = () => {
-    const courses = this.state.courses
-
-    let rows = courses.map((course, idx) => (
-      <TableRow key={idx}>
-        <td>
-          <Select 
-            options={coursesList} 
-            value={course.course}
-            onChange={(evt) => this.onCourseChange(idx, evt)}/>
-        </td>
-        <td>
-          <input
-            type='text'
-            style={{width: '5em'}}
-            disabled={course.course === undefined}
-            value={course.grade}
-            onChange={(evt) => this.onMarkChange(idx, evt)}/>
-        </td>
-        <td>
-          <Button
-            icon={<CloseIcon/>}
-            plain
-            onClick={() => this.onCourseDelete(idx)}/>
-        </td>
-      </TableRow>
-    ))
-
-    return <tbody>{rows}</tbody>
   }
 
   render () {
@@ -145,19 +82,10 @@ class CreateNode extends PureComponent {
         </Form>
         <br/>
         <Title> Courses </Title>
-        <Table>
-          <thead>
-            <tr>
-              <th>Course Code</th>
-              <th>Mark(estimated)</th>
-              <th>Delete</th>
-            </tr>
-          </thead>
-          { this.renderTableBody() }
-        </Table>
-        <Button
-          onClick={this.onAddCourse}
-          label='Add Course'/>
+        <CourseMarkTable
+          onUpdate={courses => this.setState({ courses })}
+          courses={this.state.courses}
+          courseList={coursesList}/>
         <br/>
         <Button
           onClick={this.onAddNode}

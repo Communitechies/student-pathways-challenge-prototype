@@ -55,6 +55,7 @@ export default class PathwayGraph extends React.Component {
 
   componentWillReceiveProps (props) {
     this.updateStateDataSet(props)
+    this.setupNetwork()
   }
 
   shouldComponentUpdate () { return false }
