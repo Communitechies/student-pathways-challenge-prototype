@@ -22,7 +22,7 @@ class Pathway extends PureComponent {
   get addNode () {
     return {
       id: 'add-' + Math.random().toString(36).substr(6),
-      label: 'Click to create a new step'
+      label: 'Click to create\n a new step'
     }
   }
 
@@ -30,6 +30,8 @@ class Pathway extends PureComponent {
     const reg = /^add-/
     if (reg.test(nodeId)) {
       this.props.actions.sidebarSwitchToCreate()
+    } else {
+      this.props.actions.sidebarSwitchToViewNode(nodeId)
     }
   }
 

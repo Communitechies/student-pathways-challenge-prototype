@@ -8,6 +8,7 @@ import Header from 'grommet/components/Header'
 
 import { sidebarModeEnum } from '../../../store/pathway'
 import CreateNode from './CreateNode'
+import ViewNode from './ViewNode'
 
 class Sidebar extends PureComponent {
 
@@ -21,7 +22,12 @@ class Sidebar extends PureComponent {
   }
 
   renderView = () => {
-
+    return  (
+      <Box>
+        <Header><Title> Viewing a step </Title></Header>
+        <ViewNode/>
+      </Box>
+    )
   }
 
   renderNone = () => {

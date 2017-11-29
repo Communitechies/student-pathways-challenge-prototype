@@ -23,62 +23,31 @@ const coursesList = ['MATH4U', 'ENG301']
 
 const grades = ['Grade 9', 'Grade 10', 'Grade 11', 'Grade 12']
 
-class CreateNode extends PureComponent {
-  constructor () {
+class ViewNode extends PureComponent {
+  constructor (props) {
     super ()
 
     this.state = {
-      grade: undefined,
-      courses: [],
-      errors: {}
+      courses: props.courses
     }
   }
 
-  /**
-   * Called when the grade level for the node is changed
-   * eg. From grade 11 to grade 10
-   */
-  onGradeChange = (evt) => {
-    this.setState({ 
-      grade: evt.value,
-      errors: { ...this.state.errors, grade: null }
-    })
-  }
-
-  /**
-   * Called when the user clicks add year to add the 
-   * node to their pathway
-   */
-  onAddNode = () => {
-    if(!this.state.grade) {
-      return this.setState({ 
-        errors: {
-          ...this.state.errors,
-          grade: 'You must select a grade'
-        }
-      })
-    }
-    const [, grade] = this.state.grade.match(/^.* (\d*)$/)
+  onSaveChanges = () => {
+    const nodeId = this.props.nodeId
     const courses = this.state.courses
-    this.props.actions.saveNodeToPathway(grade, courses)
+
+    this.props.actions.saveNodeToPathway(nodeId, courses)
   }
 
-  getFormError = (field) => {
-    if (this.state.errors[field]) return this.state.errors[field]
-    return undefined
+  componentWillReceiveProps (nextProps) {
+    this.setState({ courses: nextProps.courses })
   }
 
   render () {
     return (
       <Box>
         <Form>
-          <FormField label='Grade' error={this.getFormError('grade')}>
-            <Select
-              placeHolder='none'
-              options={grades}
-              value={this.state.grade}
-              onChange={this.onGradeChange}/>
-          </FormField>
+          <Title>Grade {this.props.nodeId}</Title>
         </Form>
         <br/>
         <Title> Courses </Title>
@@ -88,17 +57,23 @@ class CreateNode extends PureComponent {
           courseList={coursesList}/>
         <br/>
         <Button
-          onClick={this.onAddNode}
-          label='Add Year'
+          onClick={this.onSaveChanges}
+          label='Save Changes'
           primary/>
       </Box>
     )
   }
 }
 
-const stateToProps = (state) => ({})
+const stateToProps = (state) => ({
+  courses: state.pathway.pathway[state.pathway.sidebar.nodeId],
+  nodeId: state.pathway.sidebar.nodeId
+})
+
 const dispatchToProps = (dispatch) => ({
   actions: bindActionCreators({ saveNodeToPathway }, dispatch)
 })
 
-export default connect(stateToProps, dispatchToProps)(CreateNode)
+
+
+export default connect(stateToProps, dispatchToProps)(ViewNode)

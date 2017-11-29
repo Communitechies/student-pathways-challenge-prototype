@@ -58,7 +58,7 @@ export function uploadPathToServer () {
   }
 }
 
-export function addNodeToPathway (grade, courses) {
+export function saveNodeToPathway (grade, courses) {
   return (dispatch) => {
     const event = {
       type: PATHWAY_ADD_NODE,
