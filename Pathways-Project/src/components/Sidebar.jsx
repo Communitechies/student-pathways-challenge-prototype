@@ -6,6 +6,7 @@ import Title from 'grommet/components/Title'
 import Box from 'grommet/components/Box'
 import Menu from 'grommet/components/Menu'
 import Footer from 'grommet/components/Footer'
+import Image from 'grommet/components/Image'
 
 import WaypointIcon from 'grommet/components/icons/base/Waypoint'
 import ClipboardIcon from 'grommet/components/icons/base/Clipboard'
@@ -17,7 +18,10 @@ export default class Sidebar extends PureComponent {
     return (
       <GrommetSidebar colorIndex='neutral-1' justify='between'>
         <Header pad='medium' justify='between'>
-          <Title> Student Pathways</Title>
+          <Image 
+            align='center' 
+            alt='student pathways logo' 
+            src='images/pathwayLogo.png'/>
         </Header>
         <Menu primary>
           <Anchor
