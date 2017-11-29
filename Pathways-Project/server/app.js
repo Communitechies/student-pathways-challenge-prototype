@@ -18,13 +18,13 @@ app.use(bodyParser.urlencoded({ extended: false }));
 app.use(cookieParser());
 app.use(passport.initialize());
 
-app.use(express.static(path.join(__dirname, '../', 'build')));
+app.use(express.static(path.join(__dirname, './../')));
 
-app.get('/', function (req, res, next) {
+app.get('/*', function (req, res, next) {
   if (req.url.includes('/api/')) {
     return next();
   }
-  res.sendFile(path.join(__dirname, '../', 'build', 'index.html'));
+  res.sendFile(path.join(__dirname, '../index.html'));
 });
 
 app.use('/api', routes);
