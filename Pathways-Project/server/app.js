@@ -3,6 +3,7 @@ const logger = require('morgan');
 const cookieParser = require('cookie-parser');
 const bodyParser = require('body-parser');
 const passport = require('passport');
+const path = require('path');
 
 
 require('./models/db');
@@ -16,6 +17,15 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(cookieParser());
 app.use(passport.initialize());
+
+app.use(express.static(path.join(__dirname, '../', 'build')));
+
+app.get('/', function (req, res, next) {
+  if (req.url.includes('/api/')) {
+    return next();
+  }
+  res.sendFile(path.join(__dirname, '../', 'build', 'index.html'));
+});
 
 app.use('/api', routes);
 
