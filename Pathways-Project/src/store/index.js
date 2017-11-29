@@ -7,12 +7,14 @@ import { composeWithDevTools } from 'redux-devtools-extension'
 // Reducers
 import user from './user'
 import pathway from './pathway'
+import jobPathway from './jobPathway'
 
 export const history = createHistory()
 
 const reducer = combineReducers({
   user,
   pathway,
+  jobPathway,
   routing: routerReducer
 })
 

@@ -11,6 +11,7 @@ import store, { history } from './store'
 import Login from './components/Login'
 import SideBar from './components/Sidebar'
 import MyPath from './components/MyPath'
+import Search from './components/Search'
 
 import './App.css';
 import 'grommet/grommet.min.css';
@@ -28,6 +29,9 @@ export default class App extends React.Component {
                   <Box full flex>
                     <Switch>
                       <Route path='/mypath' component={MyPath}/>
+                    </Switch>
+                    <Switch>
+                      <Route path='/search' component={Search}/>
                     </Switch>
                   </Box>
                 </Split>
