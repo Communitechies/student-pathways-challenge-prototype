@@ -39,7 +39,7 @@ export default [
       ],
       companies: [
         'Air Canada',
-        'West Jet'',
+        'West Jet',
         'United Airlines'
       ],
     },
@@ -98,7 +98,7 @@ export default [
       ],
       companies: [
         'Air Canada',
-        'West Jet'',
+        'West Jet',
         'United Airlines'
       ],
     },
