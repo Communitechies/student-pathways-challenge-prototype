@@ -20,7 +20,7 @@ export default class PostSecondarySidebar extends PureComponent {
 
     return (
       <TableRow key={key}>
-        <td style={{display: 'block'}}><b>{key}</b></td>
+        <td style={{display: 'block' }}><b>{key}</b></td>
         <td>{cellValue}</td>
       </TableRow>
     )
@@ -37,15 +37,12 @@ export default class PostSecondarySidebar extends PureComponent {
       programType
     } = this.props.info
 
-    const school = this.props.university || this.props.college
+    const school = this.props.info.university || this.props.info.college
 
     return (
       <Box>
-        <Header>
-          <Title>{programName}</Title>
-          <Title>{school}</Title>
-        </Header>
-        <br />
+        <h2 style={{wordWrap: 'break-word'}}><b>{programName}</b></h2>
+        <h3>{school}</h3>
         <Table>
           <thead>
             <tr>
