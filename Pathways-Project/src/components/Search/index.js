@@ -13,6 +13,8 @@ import Article from 'grommet/components/Article';
 import Paragraph from 'grommet/components/Paragraph'
 
 import { loadPathways } from '../../store/jobPathway'
+import blackHeart from '../../assets/blackHeart30x30.png'
+import redHeart from '../../assets/redHeart30x30.png'
 
 class SearchPathways extends PureComponent {
 
@@ -38,11 +40,10 @@ class SearchPathways extends PureComponent {
 
     generateTableRows = () => {
         let searchText = this.state.searchText.toLowerCase();
-        let pathways = this.props.pathways.pathways;
+        let pathways = this.props.pathways;
         if (searchText) {
             pathways = pathways.filter((pathway) => {
                 return pathway.pathway.toLowerCase().indexOf(searchText) !== -1;
-                // pathways.includes(pathway.pathway.toLowerCase(), searchText)
             });
         }
         return pathways ? pathways.map((pathway) => {
@@ -50,9 +51,34 @@ class SearchPathways extends PureComponent {
                 <TableRow>
                     <td>{pathway.pathway}</td>
                     <td>Job</td>
+                    <td>{pathway.career}</td>
+                    <td>
+                        <div className='thumb-container'>
+                            {this.favouritedImage(pathway)}
+                        </div>
+                    </td>
                 </TableRow>
             )
         }) : null
+    };
+
+    favouritedImage = (pathway) => {
+        if (pathway.favourite) {
+            return (<img src={redHeart} onClick={() => this.changeFavourite(pathway)}/>)
+        }
+        return (<img src={blackHeart} onClick={() => this.changeFavourite(pathway)}/>)
+    };
+
+    changeFavourite = (pathway) => {
+        const key = pathway.key;
+        fetch(`/api/v1/user/favourite/${key}`, {
+            method: 'POST',
+            headers: {
+                'Accept': 'application/json',
+                'Content-Type': 'application/json'
+            }
+        })
+            .then(() => this.props.actions.loadPathways());
     };
 
     handleSearchChange = (ev) => {
