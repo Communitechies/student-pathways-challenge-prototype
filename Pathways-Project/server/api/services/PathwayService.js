@@ -51,34 +51,42 @@ PathwayService.getPathways = () => {
   return [
     {
       pathway: 'Airline Pilot',
+      career: 'AeroSpace',
       key: 0,
     },
     {
       pathway: 'Nurse',
+      career: 'Health',
       key: 1,
     },
     {
       pathway: 'Mathematics',
+      career: 'Technology',
       key: 2,
     },
     {
       pathway: 'Accountant',
+      career: 'Business',
       key: 3,
     },
     {
       pathway: 'Engineer',
+      career: 'Technology',
       key: 4,
     },
     {
       pathway: 'Journalist',
+      career: 'Communications',
       key: 5,
     },
     {
       pathway: 'Social Worker',
+      career: 'Humanities',
       key: 6,
     },
     {
       pathway: 'Teacher',
+      career: 'Humanities',
       key: 7,
     },
   ];
