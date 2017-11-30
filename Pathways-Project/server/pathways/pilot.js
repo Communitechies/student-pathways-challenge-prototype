@@ -1,6 +1,6 @@
 export default [
   {
-    name:'Pilot',
+    name:'Airplane Pilot',
     11: {
       required: [
         'ENG3U',
@@ -45,7 +45,7 @@ export default [
     },
   },
   {
-    name:'pilot',
+    name:'Airplane Pilot',
     11: {
       required: [
         'ENG3U',
