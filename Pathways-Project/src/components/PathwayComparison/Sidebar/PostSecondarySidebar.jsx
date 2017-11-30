@@ -7,6 +7,25 @@ import Table from 'grommet/components/Table'
 import TableRow from 'grommet/components/TableRow'
 
 export default class PostSecondarySidebar extends PureComponent {
+  renderRow = (key, value) => {
+    if (!value) return null
+
+    let cellValue
+
+    if (typeof value === 'string') {
+      cellValue = value
+    } else if (Array.isArray(value)) {
+      cellValue = value.join('\n')
+    }
+
+    return (
+      <TableRow key={key}>
+        <td style={{display: 'block'}}><b>{key}</b></td>
+        <td>{cellValue}</td>
+      </TableRow>
+    )
+  }
+
   render () {
     const {
       programName,
@@ -15,7 +34,7 @@ export default class PostSecondarySidebar extends PureComponent {
       classSize,
       tuition,
       average,
-      ProgramType
+      programType
     } = this.props.info
 
     const school = this.props.university || this.props.college
@@ -30,10 +49,18 @@ export default class PostSecondarySidebar extends PureComponent {
         <Table>
           <thead>
             <tr>
-              <th>Course</th>
-              <th>Grade</th>
+              <th />
+              <th />
             </tr>
           </thead>
+          <tbody>
+            {this.renderRow('Institution Type', institution)}
+            {this.renderRow('Description', description)}
+            {this.renderRow('Class Size', classSize)}
+            {this.renderRow('Tuition Cost', tuition)}
+            {this.renderRow('Admission Average', average)}
+            {this.renderRow('Program Type', programType)}
+          </tbody>
         </Table>
       </Box>
     )

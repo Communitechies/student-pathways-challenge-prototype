@@ -1,15 +1,15 @@
 import React, { PureComponent } from 'react'
 
 import Box from 'grommet/components/Box'
-import Title from 'grommet/components/Title'
+import Paragraph from 'grommet/components/Paragraph'
 
 export default class GradeView extends PureComponent {
   render () {
     return (
       <Box alignSelf='center'>
-        <Title>
+        <Paragraph size='xlarge'>
           Click on a node to learn more about it
-        </Title>
+        </Paragraph>
       </Box>
     )
   }

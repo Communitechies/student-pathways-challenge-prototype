@@ -42,7 +42,7 @@ class Pathway extends PureComponent {
 
     grades.forEach(v => {
       if (v in pathway) {
-        nodes.push({ id: v, label: `Grade ${v}`})
+        nodes.push({ id: v, label: `Grade ${v}` })
         lastNodeMissing = false
       } else if (!lastNodeMissing) {
         nodes.push(this.addNode)

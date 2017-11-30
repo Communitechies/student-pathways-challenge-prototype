@@ -2,38 +2,58 @@ import React, { PureComponent } from 'react'
 
 import Box from 'grommet/components/Box'
 import Title from 'grommet/components/Title'
-import Form from 'grommet/components/Form'
+import Header from 'grommet/components/Header'
 import Table from 'grommet/components/Table'
 import TableRow from 'grommet/components/TableRow'
 
-export default class GradeView extends PureComponent {
-  renderTableBody = () => {
-    const rows = this.props.courses.map((course, idx) => (
-      <TableRow key={idx}>
-        <td>{course.course}</td>
-        <td>{course.grade}</td>
-      </TableRow>
-    ))
+export default class JobSidebar extends PureComponent {
+  renderRow = (key, value) => {
+    if (!value) return null
 
-    return <tbody>{rows}</tbody>
+    let cellValue
+
+    if (typeof value === 'string') {
+      cellValue = value
+    } else if (Array.isArray(value)) {
+      cellValue = value.join('\n')
+    }
+
+    return (
+      <TableRow key={key}>
+        <td style={{display: 'block'}}><b>{key}</b></td>
+        <td>{cellValue}</td>
+      </TableRow>
+    )
   }
 
   render () {
+    const {
+      name,
+      salaryRange,
+      automationRisk,
+      description,
+      otherJobs
+    } = this.props.info
+
     return (
       <Box>
-        <Form>
-          <Title>Grade {this.props.grade}</Title>
-        </Form>
+        <Header>
+          <Title>{name}</Title>
+        </Header>
         <br />
-        <Title> Courses </Title>
         <Table>
           <thead>
             <tr>
-              <th>Course</th>
-              <th>Grade</th>
+              <th />
+              <th />
             </tr>
           </thead>
-          {this.renderTableBody()}
+          <tbody>
+            {this.renderRow('Salary Range', salaryRange)}
+            {this.renderRow('Automation Risk', automationRisk)}
+            {this.renderRow('Description', description)}
+            {this.renderRow('Other Jobs', otherJobs)}
+          </tbody>
         </Table>
       </Box>
     )

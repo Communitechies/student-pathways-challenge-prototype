@@ -3,22 +3,14 @@ import { connect } from 'react-redux'
 import * as _ from 'lodash'
 
 import Box from 'grommet/components/Box'
-import Paragraph from 'grommet/components/Paragraph'
 import Title from 'grommet/components/Title'
 import Header from 'grommet/components/Header'
-import Form from 'grommet/components/Form'
-import FormField from 'grommet/components/FormField'
-import Select from 'grommet/components/Select'
-import Table from 'grommet/components/Table'
-import TableRow from 'grommet/components/TableRow'
-import TextInput from 'grommet/components/TextInput'
-import Button from 'grommet/components/Button'
-import CloseIcon from 'grommet/components/icons/base/Close'
+import Headline from 'grommet/components/Headline'
 
 import PathwayGraph from '../PathwayGraph'
 import PathwayDiffer from './PathwayDiffer'
 
-import GradeViewSidebar from './Sidebar/GradeSidebar'
+import GradeSidebar from './Sidebar/GradeSidebar'
 import DefaultSidebar from './Sidebar/Default'
 import RequiredGradeSidebar from './Sidebar/RequiredGradeSidebar'
 import JobSidebar from './Sidebar/JobSidebar'
@@ -85,7 +77,7 @@ class PathwayComparison extends PureComponent {
     const info = this.state.sidebarInfo
 
     switch (this.state.sidebarType) {
-      case 'HIGHSCHOOL': return <GradeViewSidebar grade={info.grade} courses={info.courses} />
+      case 'HIGHSCHOOL': return <GradeSidebar grade={info.grade} courses={info.courses} />
       case 'REQUIRED_HIGHSCHOOL': return <RequiredGradeSidebar grade={info.grade} required={info.required} />
       case 'JOB': return <JobSidebar info={info} />
       case 'POST_SECONDARY': return <PostSecondarySidebar info={info} />
@@ -99,17 +91,26 @@ class PathwayComparison extends PureComponent {
     return (
       <Box full='vertical'>
         <Header pad='medium' justify='between'>
-          <Title>Comparing your pathway</Title>
+          <Headline>Comparing your pathway</Headline>
         </Header>
-        <Box flex direction='row'>
-          <Box direction='column'>
-            <Header pad='medium'><Title>Your Current Pathway</Title></Header>
+        <Box flex direction='row' justify='between'>
+          <Box direction='column' separator='all'>
+            <Header pad='medium'>
+              <Title>Your Current Pathway</Title>
+            </Header>
             <PathwayGraph edges={edges} nodes={nodes} onSelectNode={this.onPersonalGradeClicked} />
           </Box>
-          {
-            this.renderComparisonPathways()
-          }
-          <Box style={{backgroundColor: 'lightgray'}} pad='medium'>
+          <Box direction='column' seperator='all' flex>
+            <Header pad='medium' flex justify='center'>
+              <Title> Pathways for this job </Title>
+            </Header>
+            <Box direction='row' flex>
+              {
+                this.renderComparisonPathways()
+              }
+            </Box>
+          </Box>
+          <Box style={{backgroundColor: 'lightgray'}} pad='medium' basis='1/4'>
             {
               this.renderSideBar()
             }

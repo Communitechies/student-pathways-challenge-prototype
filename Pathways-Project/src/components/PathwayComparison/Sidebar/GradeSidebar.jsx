@@ -26,7 +26,7 @@ export default class GradeView extends PureComponent {
         </Header>
         <br />
         <Title> Courses </Title>
-        <Table>
+        <Table responsive={false}>
           <thead>
             <tr>
               <th>Course</th>

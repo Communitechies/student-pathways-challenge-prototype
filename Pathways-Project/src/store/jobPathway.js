@@ -1,5 +1,5 @@
 import * as assert from 'assert'
-// import engineeringPathway from './Engineering'
+import engineeringPathways from './Engineering'
 
 // Actions
 const PATHWAY_LOADING_SUCCESS = 'pathways/jobpathway/PATHWAY_LOADING_SUCCESS'
@@ -8,7 +8,7 @@ const ERROR = 'pathways/jobpathway/ERROR'
 const CHANGE_LOAD_STATE = 'pathways/jobpathway/CHANGE_LOAD_STATE'
 
 // Action creators
-export function changeLoadState(state) {
+export function changeLoadState (state) {
   assert(state in loadingStateEnum, 'State not in enum')
   return {
     type: CHANGE_LOAD_STATE,
@@ -16,13 +16,13 @@ export function changeLoadState(state) {
   }
 }
 
-export function loadPathways() {
+export function loadPathways () {
   return async dispatch => {
     try {
-      const response = await fetch('/api/v1/user/favourite');
-      const data = await response.json();
+      const response = await fetch('/api/v1/user/favourite')
+      const data = await response.json()
       if (response.ok) {
-        console.log(data);
+        console.log(data)
         dispatch({
           type: PATHWAY_LOADING_SUCCESS,
           pathways: data
@@ -37,13 +37,13 @@ export function loadPathways() {
   }
 }
 
-export function loadPathwayDetails(key) {
+export function loadPathwayDetails (key) {
   return async dispatch => {
     try {
       const response = await fetch(`/api/v1/pathways/${key}`)
-      const data = await response.json();
+      const data = await response.json()
       if (response.ok) {
-        console.log(data);
+        console.log(data)
         dispatch({
           type: DETAILS_LOADING_SUCCESS,
           pathway: data
@@ -75,7 +75,7 @@ export const screenEnum = Object.freeze({
 
 // Default state
 const defaultState = {
-  pathways: [],
+  pathways: engineeringPathways,
   pathway: null,
   loading: loadingStateEnum.BEFORE_LOAD,
   selectedPathway: null,
