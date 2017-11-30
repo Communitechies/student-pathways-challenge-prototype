@@ -9,15 +9,15 @@ export default [
       required: [
         {
           course: 'MCV4U',
-          average: '70%',
+          minimum: 70,
         },
         {
           course: 'MHF4U',
-          average: '70%',
+          minimum: 70,
         },
         {
           course: 'ENG4U',
-          average: '70%',
+          minimum: 70,
         },
       ],
     },
@@ -75,11 +75,11 @@ export default [
       required: [
         {
           course: 'ENG4C',
-          average: '50%'
+          minimum: 50
         },
         {
           course: 'MCT4C',
-          average: '50%'
+          minimum: 50
         }
       ],
     },

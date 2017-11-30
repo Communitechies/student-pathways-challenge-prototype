@@ -10,11 +10,11 @@ export default [
       required: [
         {
           course: 'ENG4U',
-          average: '70%',
+          minimum: 70,
         },
         {
           course: 'MHF4U',
-          average: '70%',
+          minimum: 70,
         },
       ],
     },
