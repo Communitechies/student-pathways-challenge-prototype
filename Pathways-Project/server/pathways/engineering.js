@@ -1,6 +1,6 @@
 export default [
   {
-    name:'engineering',
+    name:'Engineering',
     11: {
       required: [
         'MCR3U or MCT4C',

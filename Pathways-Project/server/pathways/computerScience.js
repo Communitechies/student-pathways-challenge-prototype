@@ -1,6 +1,6 @@
 export default [
   { 
-    name: 'computerscience',
+    name: 'Computer Science',
     11: {
       required: [
         'MCR3U',

@@ -1,6 +1,6 @@
 export default [
   {
-    name:'nursing',
+    name:'Nursing',
     11: {
       required: [
         'ENG3U',

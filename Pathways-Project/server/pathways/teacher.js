@@ -1,6 +1,6 @@
 export default [
   {
-    name:'teacher',
+    name:'Teacher',
     11: {
       required: [
         'ENG3U',
