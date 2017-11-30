@@ -1,9 +1,10 @@
 export default [
   { 
-    name: computerscience,
+    name: 'computerscience',
     11: {
       required: [
-
+        'MCR3U',
+        'ENG3U'
       ],
     },
     12: {
@@ -66,7 +67,7 @@ export default [
     },
   },
   { 
-    name:computerscience
+    name:'computerscience'
 
     11: {
       required: [

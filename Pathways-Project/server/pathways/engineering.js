@@ -1,11 +1,12 @@
 export default [
   {
-    name:engineering,
+    name:'engineering',
     11: {
       required: [
         'MCR3U or MCT4C',
         'SCH3U',
         'SPH3U',
+        'ENG3U'
       ],
     },
     12: {
@@ -89,12 +90,13 @@ export default [
     },
   },
   {
-    name:engineering,
+    name:'engineering',
     11: {
       required: [
         'MCR3U or MCT4C',
         'SCH3U',
         'SPH3U',
+        'ENG3U'
       ],
     },
     12: {

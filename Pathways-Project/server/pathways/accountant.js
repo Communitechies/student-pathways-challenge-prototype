@@ -1,10 +1,10 @@
 export default [
   { 
-    name: accountant,
+    name: 'accountant',
     11: {
       required: [
         'ENG3U',
-        'MCT4C'
+        'MCR3U'
       ],
     },
     12: {

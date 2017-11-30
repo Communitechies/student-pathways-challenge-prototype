@@ -1,6 +1,6 @@
 export default [
   {
-    name:journalist,
+    name:'journalist',
     11: {
       required: [
         'ENG3U'
@@ -41,7 +41,7 @@ export default [
     },
   },
   {
-    name:journalist,
+    name:'journalist',
     11: {
       required: [
         'ENG3U',
