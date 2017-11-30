@@ -17,9 +17,9 @@ export function changeLoadState (state) {
 
 export function loadPathways () {
     return async dispatch => {
-        try {
-            const response = await fetch('/api/v1/user/favourite');
-            const data = await response.json();
+      try {
+        const response = await fetch('/api/v1/user/favourite');
+        const data = await response.json();
       if (response.ok) {
         console.log(data)
         dispatch({
