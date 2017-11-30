@@ -33,7 +33,7 @@ export default class App extends React.Component {
                     <Route path='/mypath' component={MyPath} />
                     <Route path='/search' component={Search} />
                     <Route path='/comparison' component={Comparison} />
-                    <Route path='/Favorites' component={Favourites} />
+                    <Route path='/Favourites' component={Favourites} />
                   </Switch>
                 </Box>
               </Split>
