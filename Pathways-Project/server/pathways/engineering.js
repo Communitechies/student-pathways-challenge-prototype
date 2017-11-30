@@ -1,37 +1,37 @@
 export default [
   {
-    name:'Engineering',
+    name: 'Engineering',
     11: {
       required: [
         'MCR3U or MCT4C',
         'SCH3U',
         'SPH3U',
         'ENG3U'
-      ],
+      ]
     },
     12: {
       required: [
         {
           course: 'MCV4U',
-          minimum: 70,
+          minimum: 70
         },
         {
           course: 'MHF4U',
-          minimum: 70,
+          minimum: 70
         },
         {
           course: 'SCH4U',
-          minimum: 70,
+          minimum: 70
         },
         {
           course: 'SPH4U',
-          minimum: 70,
+          minimum: 70
         },
         {
           course: 'ENG4U',
-          minimum: 70,
-        },
-      ],
+          minimum: 70
+        }
+      ]
     },
     SE: [
       {
@@ -43,7 +43,7 @@ export default [
         classSize: '101 -250 people',
         tuition: '$8,800/year',
         average: '93%',
-        ProgramType: 'Reg/Coop',
+        ProgramType: 'Reg/Coop'
       },
       {
         label: 'Engineering\nCarleton University',
@@ -54,7 +54,7 @@ export default [
         classSize: '101 - 250 people',
         tuition: '$8,800/year',
         average: '75%-85%',
-        ProgramType: 'Reg/Coop',
+        ProgramType: 'Reg/Coop'
       },
       {
         label: 'Enginnering\nUniversity of Toronto',
@@ -65,8 +65,8 @@ export default [
         classSize: '101 - 250 people',
         tuition: '$7,880/term',
         average: '87-89',
-        ProgramType: 'Reg/Coop/Int',
-      },
+        ProgramType: 'Reg/Coop/Int'
+      }
     ],
     J: {
       name: 'Engineering',
@@ -86,30 +86,30 @@ export default [
         'Mechatronics',
         'Nanotechnology',
         'Software',
-        'Systems Design',
+        'Systems Design'
       ],
       companies: [
         'Microsoft',
         'Amazon',
         'Samsung'
-      ],
-    },
+      ]
+    }
   },
   {
-    name:'engineering',
+    name: 'engineering',
     11: {
       required: [
         'MCR3U or MCT4C',
         'SCH3U',
         'SPH3U',
         'ENG3U'
-      ],
+      ]
     },
     12: {
       required: [
         {
           course: 'ENG4U',
-          minimum: 65,
+          minimum: 65
         },
         {
           course: 'SCH4U',
@@ -117,17 +117,17 @@ export default [
         },
         {
           course: 'SPH4U',
-          minimum: 65,
+          minimum: 65
         },
         {
           course: 'MCV4U',
-          minimum: 65,
+          minimum: 65
         },
         {
           course: 'MHF4U or MDM4U',
-          minimum: 65,
-        },
-      ],
+          minimum: 65
+        }
+      ]
     },
     SE: [
       {
@@ -139,8 +139,8 @@ export default [
         classSize: '',
         tuition: '$4,530.5/term',
         average: '65%',
-        programType: 'Reg/Coop/Int',
-      },
+        programType: 'Reg/Coop/Int'
+      }
     ],
     J: {
       salaryRange: '$65,000/year - $75,000/year',
@@ -148,13 +148,13 @@ export default [
       description: '',
       otherJobs: [
         'Building Systems Engineering',
-        'Mechanical Systems Engineering',
+        'Mechanical Systems Engineering'
       ],
       companies: [
         'Microsoft',
         'Amazon',
         'Samsung'
-      ],
-    },
+      ]
+    }
   }
-];
+]
