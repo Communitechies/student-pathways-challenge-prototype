@@ -18,33 +18,37 @@ export default class Sidebar extends PureComponent {
     return (
       <GrommetSidebar colorIndex='neutral-1' justify='between'>
         <Header pad='medium' justify='between'>
-          <Image 
-            align='center' 
-            alt='student pathways logo' 
-            src='images/pathwayLogo.png'/>
+          <Image
+            align='center'
+            alt='student pathways logo'
+            src='images/pathwayLogo.png' />
         </Header>
         <Menu primary>
           <Anchor
             label='My Pathway'
-            icon={<WaypointIcon/>}
-            path='/mypath'/>
+            icon={<WaypointIcon />}
+            path='/mypath' />
           <Anchor
             label='Recommendations'
-            icon={<ClipboardIcon/>}
-            path='/recommendations'/>
+            icon={<ClipboardIcon />}
+            path='/recommendations' />
           <Anchor
             label='Search'
-            icon={<SearchIcon/>}
-            path='/search'/>
+            icon={<SearchIcon />}
+            path='/search' />
           <Anchor
             label='Favourites'
-            icon={<FavouriteIcon/>}
-            path='/favourites'/>
+            icon={<FavouriteIcon />}
+            path='/favourites' />
+          <Anchor
+            label='Test'
+            icon={<FavouriteIcon />}
+            path='/comparison' />
         </Menu>
         <Footer>
           <Anchor
             label='Logout'
-            path='/logout'/>
+            path='/logout' />
         </Footer>
       </GrommetSidebar>
     )

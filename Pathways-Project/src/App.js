@@ -1,8 +1,8 @@
-import React from 'react';
-import { Provider } from 'react-redux';
+import React from 'react'
+import { Provider } from 'react-redux'
 import { Route, Switch } from 'react-router'
 import { ConnectedRouter } from 'react-router-redux'
-import GrommetApp from 'grommet/components/App';
+import GrommetApp from 'grommet/components/App'
 import Split from 'grommet/components/Split'
 import Box from 'grommet/components/Box'
 
@@ -12,33 +12,33 @@ import Login from './components/Login'
 import SideBar from './components/Sidebar'
 import MyPath from './components/MyPath'
 import Search from './components/Search'
+import Comparison from './components/PathwayComparison'
 
-import './App.css';
-import 'grommet/grommet.min.css';
+import './App.css'
+import 'grommet/grommet.min.css'
 
 export default class App extends React.Component {
-  render() {
+  render () {
     return (
       <Provider store={store}>
-          <GrommetApp centered={false}>
-            <ConnectedRouter history={history}>
-              <Switch>
-                <Route path='/' exact component={Login}/>
-                <Split fixed flex='right'>
-                  <SideBar/>
-                  <Box full flex>
-                    <Switch>
-                      <Route path='/mypath' component={MyPath}/>
-                    </Switch>
-                    <Switch>
-                      <Route path='/search' component={Search}/>
-                    </Switch>
-                  </Box>
-                </Split>
-              </Switch>
-            </ConnectedRouter>
-          </GrommetApp>
+        <GrommetApp centered={false}>
+          <ConnectedRouter history={history}>
+            <Switch>
+              <Route path='/' exact component={Login} />
+              <Split fixed flex='right'>
+                <SideBar />
+                <Box full flex>
+                  <Switch>
+                    <Route path='/mypath' component={MyPath} />
+                    <Route path='/search' component={Search} />
+                    <Route path='/comparison' component={Comparison} />
+                  </Switch>
+                </Box>
+              </Split>
+            </Switch>
+          </ConnectedRouter>
+        </GrommetApp>
       </Provider>
-    );
+    )
   }
 }

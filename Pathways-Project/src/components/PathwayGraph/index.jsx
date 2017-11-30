@@ -14,33 +14,45 @@ const defaultOptions = {
   },
   layout: {
     hierarchical: {
-      enabled: true
+      enabled: true,
+      sortMethod: 'directed',
+      blockShifting: false
     }
   },
   nodes: {
-    fixed: true,
-    shape: 'circle'
+    shape: 'circle',
+    font: {
+      multi: false
+    },
+    heightConstraint: 50,
+    borderWidth: 4
+  },
+  interaction: {
+    zoomView: false,
+    dragNodes: false,
+    dragView: false
   }
 }
 
 export default class PathwayGraph extends React.Component {
   constructor (props) {
     super()
-    
+
     // Generate random id so there are never id conflicts
     this.containerId = 'pathway-graph-' + Math.random().toString(36).substr(6)
     this.updateStateDataSet(props)
   }
 
   updateStateDataSet (props = this.props) {
-    const { nodes, edges } = props
+    let { nodes, edges } = props
+
     this.nodes = new vis.DataSet(nodes)
     this.edges = new vis.DataSet(edges)
   }
 
   setupNetwork () {
     const options = { ...defaultOptions, ...this.props.options }
-    this.network = new vis.Network(this.container, { nodes: this.nodes, edges: this.edges}, options)
+    this.network = new vis.Network(this.container, { nodes: this.nodes, edges: this.edges }, options)
 
     if (this.props.onSelectNode) {
       // Just return the id of the node clicked
@@ -62,7 +74,7 @@ export default class PathwayGraph extends React.Component {
 
   render () {
     return (
-      <div id={this.containerId} style={{flex: 1, display: 'flex'}}/>
+      <div id={this.containerId} style={{flex: 1, display: 'flex'}} />
     )
   }
 }

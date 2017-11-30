@@ -1,4 +1,4 @@
-import React, { PureComponent } from 'react';
+import React, { PureComponent } from 'react'
 
 import Box from 'grommet/components/Box'
 import LoginForm from 'grommet/components/LoginForm'
@@ -10,19 +10,19 @@ export default class Login extends PureComponent {
   }
   render () {
     return (
-      <Box 
-        justify='center' 
-        align='center' 
-        alignContent='center' 
-        flex='grow' 
+      <Box
+        justify='center'
+        align='center'
+        alignContent='center'
+        flex='grow'
         style={{height: '100vh', width: '100vw'}}
         texture='images/loginBackground.jpeg'>
-        <Box 
-          pad='medium' 
+        <Box
+          pad='medium'
           style={{backgroundColor: 'rgba(0,0,0,0.6)'}}
           align='center'>
           <Heading align='center' style={{color: 'white'}}>Ontario Student Pathways</Heading>
-          <LoginForm onSubmit={this.onSubmitLogin}/>
+          <LoginForm onSubmit={this.onSubmitLogin} />
         </Box>
       </Box>
     )
