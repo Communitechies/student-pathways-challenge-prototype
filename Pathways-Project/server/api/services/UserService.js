@@ -39,11 +39,12 @@ UserService.addFavourite = (studentID, key) => {
     const { favourites } = user;
 
     if (favourites.indexOf(key) !== -1) {
-      throw new Error('Key is already favourited');
+      const index = favourites.indexOf(key);
+      favourites.splice(index, 1);
+    } else {
+      favourites.push(key);
+      favourites.sort((a, b) => a > b);
     }
-
-    favourites.push(key);
-    favourites.sort((a, b) => a > b);
     user.favourites = favourites;
 
     user.save((err) => {
