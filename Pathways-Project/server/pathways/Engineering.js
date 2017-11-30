@@ -33,6 +33,7 @@ export default [
     },
     SE: [
       {
+        label: 'Engineering\nUniversity of Waterloo',
         programName: 'Engineering',
         institution: 'University',
         University: 'University of Waterloo',
@@ -43,6 +44,7 @@ export default [
         ProgramType: 'Reg/Coop',
       },
       {
+        label: 'Engineering\nCarleton University',
         programName: 'Engineering',
         institution: 'University',
         University: 'Carleton University',
@@ -53,6 +55,7 @@ export default [
         ProgramType: 'Reg/Coop',
       },
       {
+        label: 'Enginnering\nUniversity of Toronto',
         programName: 'Engineering',
         institution: 'University',
         university: 'University of Toronto',
@@ -118,6 +121,7 @@ export default [
     },
     SE: [
       {
+        label: 'Engineering\nConestoga College',
         programName: 'Bachelor of Engineering - Electronic Systems Engineering',
         institution: 'College',
         college: 'Conestoga College',

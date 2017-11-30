@@ -7,7 +7,6 @@ const SIDEBAR_VIEW_NODE = 'pathways/pathway/SIDEBAR_VIEW_NODE'
 const ERROR = 'pathways/pathway/ERROR'
 const CHANGE_LOAD_STATE = 'pathways/pathway/CHANGE_LOAD_STATE'
 
-
 // Action creators
 export function changeLoadState (state) {
   assert(state in loadingStateEnum, 'State not in enum')
@@ -26,8 +25,8 @@ export function loadUserPathway () {
       }]
     }
 
-    dispatch({ 
-      type: PATHWAY_LOADING_SUCCESS, 
+    dispatch({
+      type: PATHWAY_LOADING_SUCCESS,
       pathway: mockPathway
     })
   }
@@ -89,7 +88,10 @@ export const sidebarModeEnum = Object.freeze({
 
 // Default state
 const defaultState = {
-  pathway: {},
+  pathway: {
+    9: [],
+    10: []
+  },
   loading: loadingStateEnum.BEFORE_LOAD,
   sidebar: {
     type: sidebarModeEnum.NONE

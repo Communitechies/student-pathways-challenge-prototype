@@ -8,6 +8,7 @@ export default [
     },
     SE: [
       {
+        label: 'Teaching\nTrent University',
         programName: 'Teaching',
         institution: 'University',
         university: 'Trent University',
@@ -18,6 +19,7 @@ export default [
         ProgramType: 'Reg/Int/Prac',
       },
       {
+        label: 'Teaching\nUniversity of Windsor',
         programName: 'Teaching',
         institution: 'University',
         university: 'University of Windsor',
@@ -28,6 +30,7 @@ export default [
         ProgramType: 'Reg/Int/Prac',
       },
       {
+        label: 'Teaching\nLakehead University',
         programName: 'Teaching',
         institution: 'University',
         university: 'Lakehead University',

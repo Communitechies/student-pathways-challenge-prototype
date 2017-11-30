@@ -8,6 +8,7 @@ export default [
     },
     SE: [
       {
+        label: 'Social Work\nLakehead University',
         programName: 'Social Work',
         institution: 'University',
         university: 'Lakehead University',
@@ -18,6 +19,7 @@ export default [
         ProgramType: 'Reg',
       },
       {
+        label: 'Social Work\nBrock University',
         programName: 'Social Work',
         institution: 'University',
         university: 'Brock University',
@@ -28,6 +30,7 @@ export default [
         ProgramType: 'Reg',
       },
       {
+        label: 'Social Work\nCarleton University',
         programName: 'Social Work',
         institution: 'University',
         university: 'Carleton University',

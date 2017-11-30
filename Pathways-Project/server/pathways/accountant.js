@@ -20,6 +20,7 @@ export default [
     },
     SE: [
       {
+        label: 'Accounting\nBrock University',
         programName: 'Accounting',
         institution: 'University',
         university: 'Brock University',
@@ -30,6 +31,7 @@ export default [
         ProgramType: 'Reg',
       },
       {
+        label: 'Accounting\nUniversity of Guelph',
         programName: 'Accounting',
         institution: 'University',
         university: 'University of Guelph',
@@ -40,7 +42,7 @@ export default [
         ProgramType: 'Reg/Coop',
       },
       {
-        programName: 'Accounting',
+        programName: 'Accounting\nYork University',
         institution: 'University',
         university: 'York University',
         description: 'Study with one of Canada’s best accounting faculties to master accounting functions and hone the ability to make decisions within legal, financial, regulatory and ethical frameworks.',
