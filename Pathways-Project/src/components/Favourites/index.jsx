@@ -14,7 +14,7 @@ import Paragraph from 'grommet/components/Paragraph'
 
 import { loadPathways } from '../../store/jobPathway'
 import redHeart from '../../assets/redHeart30x30.png'
-// import './index.css';
+import './index.css'
 
 class SearchPathways extends PureComponent {
   constructor (props) {
@@ -68,14 +68,12 @@ class SearchPathways extends PureComponent {
       return pathways ? pathways.map((pathway) => {
         return (
 
-          <TableRow>
-            <tr onClick={() => {
-              // this.setState({ currentKey: pathway.key });
-              this.fetchDetails(pathway.key, pathway.pathway)
-            }
-            }>
-              <td style={{cursor: 'pointer'}} key={pathway.pathway}>{pathway.pathway}</td>
-            </tr>
+          <TableRow className='table-row' onClick={() => {
+            // this.setState({ currentKey: pathway.key });
+            this.fetchDetails(pathway.key, pathway.pathway)
+          }
+          }>
+            <td style={{cursor: 'pointer'}} key={pathway.pathway}>{pathway.pathway}</td>
             <td>Job</td>
             <td>{pathway.career}</td>
             <td><img src={redHeart} /> </td>
@@ -124,10 +122,10 @@ class SearchPathways extends PureComponent {
                 this.state.details
                   ? <div>
                     <h1 margin='small' align='Left' size='small' > {this.state.Job} </h1>
-                    <Paragraph id='stuff' margin='Small' align='Left' size='32px' style={{ fontWeight: 900 }}>
+                    <Paragraph id='stuff' margin='Small' align='Left' size='32px' style={{ fontWeight: 900, padding: 16 }}>
                                 Salaray Range: {this.state.details.salaryRange}</Paragraph>
-                    <Paragraph id='stuff' margin='Small' align='Left' size='small' style={{ fontWeight: 900 }}> Description {this.state.details.description} </Paragraph>
-                    <Paragraph id='stuff' margin='Small' align='Left' size='32px' style={{fontWeight: 900}}>  Automation Risk (Chances that computers may take over your job in the future) {this.state.details.automationRisk} </Paragraph>
+                    <Paragraph id='stuff' margin='Small' align='Left' size='small' style={{ fontWeight: 900, padding: 16 }}> Description {this.state.details.description} </Paragraph>
+                    <Paragraph id='stuff' margin='Small' align='Left' size='32px' style={{ fontWeight: 900, padding: 16 }}>  Automation Risk (Chances that computers may take over your job in the future) {this.state.details.automationRisk} </Paragraph>
                   </div>
 
                   : null
