@@ -37,6 +37,11 @@ export default [
         'flight engineers',
         'flying instructors',
       ],
+      companies: [
+        'Air Canada',
+        'West Jet'',
+        'United Airlines'
+      ],
     },
   },
   {
@@ -90,6 +95,11 @@ export default [
         'avionics mechanics',
         'flight engineers',
         'flying instructors',
+      ],
+      companies: [
+        'Air Canada',
+        'West Jet'',
+        'United Airlines'
       ],
     },
   },

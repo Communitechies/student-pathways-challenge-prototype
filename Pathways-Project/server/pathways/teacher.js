@@ -60,6 +60,11 @@ export default [
         'Middle School Teacher',
         'Elementary School Teacher'
       ],
+      companies: [
+        'Elementary School',
+        'High School',
+        'Day Care'
+      ],
     },
   },
 ];

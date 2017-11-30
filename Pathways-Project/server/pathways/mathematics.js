@@ -64,6 +64,11 @@ export default [
         'Acutary',
         'Cost estimator'
       ],
+      companies: [
+        'Government of Canada',
+        'Maple Leafs Sports and Entertainment',
+        'Facebook'
+      ],
     },
   },
 ];
