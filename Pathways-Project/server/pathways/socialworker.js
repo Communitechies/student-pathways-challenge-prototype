@@ -62,7 +62,7 @@ export default [
       ],
       companies: [
         'American Motor Association',
-        'YMCA,
+        'YMCA',
         'Government of Ontario'
       ],
     },
