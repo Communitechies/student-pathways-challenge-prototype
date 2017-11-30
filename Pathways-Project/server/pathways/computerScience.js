@@ -27,7 +27,7 @@ export default [
       {
         programName: 'Computer Science',
         institution: 'University',
-        University: 'University of Waterloo',
+        university: 'University of Waterloo',
         description: 'Study at one of the world’s best schools for computer science, where more than 80 professors are pushing the boundaries of the field.',
         classSize: '101 -250 people',
         tuition: '$14,557/year',
@@ -37,7 +37,7 @@ export default [
       {
         programName: 'Computer Science',
         institution: 'University',
-        University: 'University of Toronto',
+        university: 'University of Toronto',
         description: 'The Department of Computer Science at the University of Toronto is among the best in the world, consistently ranked top in Canada.',
         classSize: '101 - 250 people',
         tuition: '$6590/year',
