@@ -60,6 +60,11 @@ export default [
         'Therapists',
         'Clergy'
       ],
+      companies: [
+        'American Motor Association',
+        'YMCA,
+        'Government of Ontario'
+      ],
     },
   }
 ];
