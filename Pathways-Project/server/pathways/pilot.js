@@ -1,5 +1,6 @@
 export default [
   {
+    name:pilot,
     11: {
       required: [
         'ENG3U',
@@ -38,6 +39,7 @@ export default [
     },
   },
   {
+    name:pilot,
     11: {
       required: [
         'ENG3U',

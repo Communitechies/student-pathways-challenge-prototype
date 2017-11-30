@@ -1,5 +1,6 @@
 export default [
   {
+    name:engineering,
     11: {
       required: [
         'MCR3U or MCT4C',
@@ -88,6 +89,7 @@ export default [
     },
   },
   {
+    name:engineering,
     11: {
       required: [
         'MCR3U or MCT4C',

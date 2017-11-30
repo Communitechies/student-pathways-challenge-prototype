@@ -1,5 +1,6 @@
 export default [
   {
+    name:nursing,
     11: {
       required: [
         'ENG3U',

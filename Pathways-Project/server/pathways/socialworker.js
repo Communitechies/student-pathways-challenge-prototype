@@ -1,5 +1,6 @@
 export default [
   {
+    name:socialworker,
     11: {
       required: [
         'ENG3U',

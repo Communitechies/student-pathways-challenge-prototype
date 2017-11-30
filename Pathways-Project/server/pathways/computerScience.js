@@ -1,5 +1,6 @@
 export default [
-  {
+  { 
+    name: computerscience,
     11: {
       required: [
 
@@ -64,7 +65,9 @@ export default [
       ],
     },
   },
-  {
+  { 
+    name:computerscience
+
     11: {
       required: [
         'ENG3C',

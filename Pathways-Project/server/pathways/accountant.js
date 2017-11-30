@@ -1,5 +1,6 @@
 export default [
-  {
+  { 
+    name: accountant,
     11: {
       required: [
         'ENG3U',
