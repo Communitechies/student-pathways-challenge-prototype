@@ -5,7 +5,6 @@ import { bindActionCreators } from 'redux'
 import PathwayGraph from '../PathwayGraph'
 import { sidebarSwitchToCreate, sidebarSwitchToViewNode, loadUserPathway } from '../../store/pathway'
 
-
 class Pathway extends PureComponent {
   constructor (props) {
     super()
@@ -40,9 +39,9 @@ class Pathway extends PureComponent {
 
     const nodes = []
     const grades = ['9', '10', '11', '12']
-    
+
     grades.forEach(v => {
-      if(v in pathway){
+      if (v in pathway) {
         nodes.push({ id: v, label: `Grade ${v}`})
         lastNodeMissing = false
       } else if (!lastNodeMissing) {
@@ -53,19 +52,19 @@ class Pathway extends PureComponent {
 
     const edges = []
 
-    for (let x = 1; x < nodes.length; x ++ ) {
+    for (let x = 1; x < nodes.length; x++) {
       edges.push({ from: nodes[x - 1].id, to: nodes[x].id })
     }
 
     return { edges, nodes }
   }
 
-  componentWillReceiveProps(nextProps) {
+  componentWillReceiveProps (nextProps) {
     const { nodes, edges } = this.createNodesAndEdges(nextProps.pathway)
     this.setState({ nodes, edges })
   }
 
-  componentDidMount() {
+  componentDidMount () {
     this.props.actions.loadUserPathway()
   }
 
@@ -74,7 +73,7 @@ class Pathway extends PureComponent {
       <PathwayGraph
         nodes={this.state.nodes}
         edges={this.state.edges}
-        onSelectNode={this.onSelectNode}/>
+        onSelectNode={this.onSelectNode} />
     )
   }
 }

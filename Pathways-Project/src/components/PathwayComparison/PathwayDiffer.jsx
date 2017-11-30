@@ -8,15 +8,41 @@ export default class PathwayDiffer extends PureComponent {
     'UNKNOWN': 'UNKNOWN'
   }
 
-  getRequirementStatus (courses, required) {
-    return this.requirementStatus.MET
+  checkCourseSatisfied (courses, courseCode, grade = 50) {
+    const course = courses.find(c => c.course === courseCode)
+    return course && course.grade >= grade
+  }
+
+  getRequirementStatus (courses, requiredGrade) {
+    if (!courses) {
+      return this.requirementStatus.UNKNOWN
+    }
+    if (!requiredGrade) {
+      return this.requirementStatus.MET
+    }
+
+    const required = requiredGrade.required
+    const gradesMet = required.every(ele => {
+      if (typeof ele === 'string') {
+        if (ele.search(' or ')) {
+          const [, course1, course2] = ele.match(/(.*) or (.*)/)
+          return this.checkCourseSatisfied(courses, course1) ||
+            this.checkCourseSatisfied(courses, course2)
+        }
+        return this.checkCourseSatisfied(courses, ele)
+      }
+
+      return this.checkCourseSatisfied(courses, ele.course, ele.minimum)
+    })
+
+    return gradesMet ? this.requirementStatus.MET : this.requirementStatus.UNMET
   }
 
   getRequirementColor (requirement) {
     switch (requirement) {
       case this.requirementStatus.MET: return 'green'
       case this.requirementStatus.UNMET: return 'red'
-      case this.requirementStatus.UNKNOWN: return 'yellow'
+      case this.requirementStatus.UNKNOWN: return null
       default: return undefined
     }
   }
@@ -50,7 +76,7 @@ export default class PathwayDiffer extends PureComponent {
 
     nodes.push({
       id: 'J',
-      label: 'Job'
+      label: '   Job'
     })
 
     this.props.selectedPathway.SE.forEach((program, i) => {
@@ -58,7 +84,7 @@ export default class PathwayDiffer extends PureComponent {
 
       nodes.push({
         id,
-        label: `${program.programName}`
+        label: `${program.label}`
       })
 
       edges.push({ from: '12', to: id }, { from: id, to: 'J' })
@@ -67,10 +93,14 @@ export default class PathwayDiffer extends PureComponent {
     return { nodes, edges }
   }
 
+  onSelectNode = (id) => {
+
+  }
+
   render () {
     const { nodes, edges } = this.parseNodesAndEdges()
     return (
-      <PathwayGraph nodes={nodes} edges={edges} />
+      <PathwayGraph nodes={nodes} edges={edges} onSelectNode={this.props.onSelectNode} />
     )
   }
 }

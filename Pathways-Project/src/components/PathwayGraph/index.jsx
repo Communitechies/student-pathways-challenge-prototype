@@ -16,7 +16,7 @@ const defaultOptions = {
     hierarchical: {
       enabled: true,
       sortMethod: 'directed',
-      blockShifting: false
+      nodeSpacing: 200
     }
   },
   nodes: {
@@ -25,7 +25,10 @@ const defaultOptions = {
       multi: false
     },
     heightConstraint: 50,
-    borderWidth: 4
+    borderWidth: 4,
+    chosen: {
+      node: false
+    }
   },
   interaction: {
     zoomView: false,

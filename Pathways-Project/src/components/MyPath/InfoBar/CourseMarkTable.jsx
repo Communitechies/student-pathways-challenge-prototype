@@ -13,7 +13,7 @@ import Button from 'grommet/components/Button'
 import CloseIcon from 'grommet/components/icons/base/Close'
 
 export default class CourseMarkTable extends PureComponent {
-  get emptyCourse () { 
+  get emptyCourse () {
     return { course: undefined, grade: '' }
   }
 
@@ -25,7 +25,7 @@ export default class CourseMarkTable extends PureComponent {
     const numberGrade = parseInt(value) || 0
 
     let newCourses = this.props.courses.map((course, i) => {
-      if(i !== idx) return course
+      if (i !== idx) return course
       return { ...course, grade: numberGrade }
     })
 
@@ -34,7 +34,7 @@ export default class CourseMarkTable extends PureComponent {
 
   onCourseChange = (idx, evt) => {
     let newCourses = this.props.courses.map((course, i) => {
-      if(i !== idx) return course
+      if (i !== idx) return course
       return { ...course, course: evt.value }
     })
 
@@ -81,8 +81,8 @@ export default class CourseMarkTable extends PureComponent {
     return <tbody>{rows}</tbody>
   }
 
-  render() {
-    return  (
+  render () {
+    return (
       <Box>
         <Table>
           <thead>
