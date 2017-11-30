@@ -97,14 +97,35 @@ class SearchPathways extends PureComponent {
       let pathway = this.props.pathway;
       return (
         <div>
-          <Paragraph margin='small' size='32px' style={{fontWeight: 900}}> Salary Range: {pathway.pathway[0].J.salaryRange} </Paragraph>
-          <Paragraph margin='small' size='32px' style={{fontWeight: 900}}> Description: {pathway.pathway[0].J.description} </Paragraph>
-          <Paragraph margin='small' size='32px' style={{fontWeight: 900}}> Automation Risk (Chances that computers may take over your job in the future): {pathway.pathway[0].J.automationRisk} </Paragraph>
+          <Title style={{padding: 16}}>{pathway.pathway[0].name}</Title>
+          <Paragraph
+            margin='small'
+            size='32px'
+            style={{fontWeight: 900, padding: 16}}>
+            Salary Range: {pathway.pathway[0].J.salaryRange}
+          </Paragraph>
+          <Paragraph
+            margin='small'
+            size='32px'
+            style={{fontWeight: 900, padding: 16}}>
+            Description: {pathway.pathway[0].J.description}
+          </Paragraph>
+          <Paragraph
+            margin='small'
+            size='32px'
+            style={{fontWeight: 900, padding: 16}}>
+            Automation Risk (Chances that computers may take over your job in the future): {pathway.pathway[0].J.automationRisk}
+          </Paragraph>
         </div>
       )
     } else {
       return (
-        <Paragraph margin='medium' size='large'> Select a pathway for more details.</Paragraph>
+        <Paragraph
+          margin='medium'
+          size='large'
+          style={{padding: 16}}>
+          Select a pathway for more details.
+        </Paragraph>
       )
     }
   };
