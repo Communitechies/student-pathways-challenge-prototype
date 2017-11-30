@@ -39,6 +39,7 @@ export default [
     },
     SE: [
       {
+        label: 'Nursing\nWestern University',
         programName: 'Nursing',
         institution: 'University',
         university: 'University of Western Ontario',
@@ -49,6 +50,7 @@ export default [
         ProgramType: 'Reg/Int/Prac',
       },
       {
+        label: 'Nursing\nBrock University',
         programName: 'Nursing',
         institution: 'University',
         university: 'Brock University',
@@ -59,6 +61,7 @@ export default [
         ProgramType: 'Reg/Int/Prac',
       },
       {
+        label: 'Nursing\nUniversity of Windsor',
         programName: 'Nursing',
         institution: 'University',
         university: 'University of Windsor',

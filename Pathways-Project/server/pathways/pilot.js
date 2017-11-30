@@ -15,6 +15,7 @@ export default [
     },
     SE: [
       {
+        label: 'Geo & Aviation\n University of Waterloo',
         programName: 'Geography and Aviation',
         institution: 'University',
         university: 'University of Waterloo',
@@ -65,6 +66,7 @@ export default [
     },
     SE: [
       {
+        label: 'Sci & Aviation\nUniversity of Waterloo',
         programName: 'Science and Aviation',
         institution: 'University',
         university: 'University of Waterloo',

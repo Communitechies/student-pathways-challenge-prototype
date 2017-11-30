@@ -20,6 +20,7 @@ export default [
     },
     SE: [
       {
+        label: 'Math\nLakehead University',
         programName: 'Mathematics',
         institution: 'University',
         university: 'Lakehead University - Thunder Bay',
@@ -30,6 +31,7 @@ export default [
         ProgramType: 'Reg',
       },
       {
+        label: 'Mth\nYork University',
         programName: 'Mathematics',
         institution: 'University',
         university: 'York University',
@@ -40,6 +42,7 @@ export default [
         ProgramType: 'Reg',
       },
       {
+        label: 'Math\nWilfred Laurier University',
         programName: 'Mathematics',
         institution: 'University',
         university: 'Wilfred Laurier University',

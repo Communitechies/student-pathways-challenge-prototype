@@ -15,9 +15,10 @@ export default [
     },
     SE: [
       {
+        label: 'Journlism\nCarleton',
         programName: 'Journalism',
         institution: 'University',
-        university: 'Carelton University',
+        university: 'Carleton University',
         description: 'Our Journalism program will prepare you for the exciting challenges that await you as a journalist, storyteller or communication professional skilled in all of the media formats, from digital to audio and video',
         classSize: '101 - 250 people',
         tuition: '$4500/year',
@@ -54,6 +55,7 @@ export default [
     },
     SE: [
       {
+        label: 'Journalism\nRyerson University',
         programName: 'Journalism (Bjourn)',
         institution: ' University',
         university: 'Ryerson',
