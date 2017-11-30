@@ -13,6 +13,7 @@ import SideBar from './components/Sidebar'
 import MyPath from './components/MyPath'
 import Search from './components/Search'
 import Comparison from './components/PathwayComparison'
+import Favourites from './components/Favourites'
 
 import './App.css'
 import 'grommet/grommet.min.css'
@@ -32,6 +33,7 @@ export default class App extends React.Component {
                     <Route path='/mypath' component={MyPath} />
                     <Route path='/search' component={Search} />
                     <Route path='/comparison' component={Comparison} />
+                    <Route path='/Favorites' component={Favourites} />
                   </Switch>
                 </Box>
               </Split>
