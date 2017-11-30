@@ -67,7 +67,7 @@ export default [
     },
   },
   { 
-    name:'computerscience'
+    name:'computerscience',
 
     11: {
       required: [
