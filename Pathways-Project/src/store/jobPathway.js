@@ -7,7 +7,7 @@ const ERROR = 'pathways/jobpathway/ERROR'
 const CHANGE_LOAD_STATE = 'pathways/jobpathway/CHANGE_LOAD_STATE'
 
 // Action creators
-export function changeLoadState (state) {
+export function changeLoadState(state) {
   assert(state in loadingStateEnum, 'State not in enum')
   return {
     type: CHANGE_LOAD_STATE,
@@ -15,11 +15,11 @@ export function changeLoadState (state) {
   }
 }
 
-export function loadPathways () {
-    return async dispatch => {
-      try {
-        const response = await fetch('/api/v1/user/favourite');
-        const data = await response.json();
+export function loadPathways() {
+  return async dispatch => {
+    try {
+      const response = await fetch('/api/v1/user/favourite');
+      const data = await response.json();
       if (response.ok) {
         console.log(data)
         dispatch({
@@ -65,9 +65,10 @@ const defaultState = {
 export default (state = defaultState, action) => {
   switch (action.type) {
     case PATHWAY_LOADING_SUCCESS:
-      return { ...state, pathways: action.pathways }
+      return {...state, pathways: action.pathways}
     case CHANGE_LOAD_STATE:
-      return { ...state, loading: action.state }
-    default: return state
+      return {...state, loading: action.state}
+    default:
+      return state
   }
 }
