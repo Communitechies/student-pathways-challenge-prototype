@@ -68,6 +68,7 @@ export default [
     ],
     J: {
       salaryRange: '$65,000 – $75,000',
+      automationRisk: '0.7%',
       description: 'Nurses provide and coordinate patient care, educate patients and the public about various health conditions, and provide advice and emotional support to patients and their family members.',
       otherJobs: [],
     },

@@ -49,6 +49,7 @@ export default [
     ],
     J: {
       salaryRange: '$$70,960-$122,760',
+      automationRisk: '15.9%',
       description: 'Mathematics seeks hidden patterns that help us to understand life and the complex problems that surround us.',
       otherJobs: [
         'Statistician',

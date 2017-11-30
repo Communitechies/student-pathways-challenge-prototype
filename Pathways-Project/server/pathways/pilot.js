@@ -26,6 +26,7 @@ export default [
     ],
     J: {
       salaryRange: 'I dont know yet',
+      automationRisk: '18%',
       description: 'A pilot is someone who is in the aviation industry, and who is able to operate aircraft in order to transport passengers or goods from one location to another. They are employed by commercial airlines, corporations, or governments.',
       otherJobs: [
         'avionics mechanics',
@@ -74,6 +75,7 @@ export default [
     ],
     J: {
       salaryRange: 'I dont know yet',
+      automationRisk: '18%',
       description: 'A pilot is someone who is in the aviation industry, and who is able to operate aircraft in order to transport passengers or goods from one location to another. They are employed by commercial airlines, corporations, or governments.',
       otherJobs: [
         'avionics mechanics',

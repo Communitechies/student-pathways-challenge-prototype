@@ -26,6 +26,7 @@ export default [
     ],
     J: {
       salaryRange: '$42,322/year',
+      automationRisk: '11%',
       description: 'The activity or profession of writing for newspapers, magazines, or news websites or preparing news to be broadcast',
       otherJobs: [
         'Advertising Copywriter',
@@ -63,6 +64,7 @@ export default [
     ],
     J: {
       salaryRange: '$42,322/year',
+      automationRisk: '11%',
       description: 'The activity or profession of writing for newspapers, magazines, or news websites or preparing news to be broadcast',
       otherJobs: [
         'Advertising Copywriter',

@@ -38,6 +38,7 @@ export default [
     ],
     J: {
       salaryRange: '$48,448-$61,381',
+      automationRisk: '1.2%',
       description: 'Social work is an academic discipline and profession that concerns itself with individuals, families, groups and communities in an effort to enhance social functioning and overall well-being.',
       otherJobs: [
         'Counsellors',

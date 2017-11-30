@@ -49,6 +49,7 @@ export default [
     ],
     J: {
       salaryRange: 'C$37,711 - C$72,496',
+      automationRisk: '94%',
       description: 'The primary task of accountants, which extends to all the others, is to prepare and examine financial records. They make sure that records are accurate and that taxes are paid properly and on time. ',
       otherJobs: [
         'Buisness Analyst',
