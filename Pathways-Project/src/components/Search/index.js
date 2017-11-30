@@ -11,10 +11,11 @@ import TableHeader from 'grommet/components/TableHeader';
 import TableRow from 'grommet/components/TableRow';
 import Article from 'grommet/components/Article';
 import Paragraph from 'grommet/components/Paragraph'
+import Heart from 'grommet/components/icons/base/Favorite'
 
-import {loadPathways} from '../../store/jobPathway'
-import blackHeart from '../../assets/blackHeart30x30.png'
-import redHeart from '../../assets/redHeart30x30.png'
+import { loadPathways, loadPathwayDetails } from '../../store/jobPathway'
+
+import './style.css'
 
 class SearchPathways extends PureComponent {
 
@@ -30,7 +31,7 @@ class SearchPathways extends PureComponent {
     ];
     this.state = {
       pathways: [],
-      searchText: ''
+      searchText: '',
     };
   }
 
@@ -43,12 +44,14 @@ class SearchPathways extends PureComponent {
     let pathways = this.props.pathways;
     if (searchText) {
       pathways = pathways.filter((pathway) => {
-        return pathway.pathway.toLowerCase().indexOf(searchText) !== -1;
+        return pathway.pathway.toLowerCase().indexOf(searchText) !== -1 ||
+          pathway.career.toLowerCase().indexOf(searchText) !== -1;
       });
     }
     return pathways ? pathways.map((pathway) => {
+      console.log(pathway);
       return (
-        <TableRow>
+        <TableRow className='table-row' onClick={() => {this.showPathwayDetails(pathway.key)}}>
           <td>{pathway.pathway}</td>
           <td>Job</td>
           <td>{pathway.career}</td>
@@ -62,11 +65,15 @@ class SearchPathways extends PureComponent {
     }) : null
   };
 
+  showPathwayDetails = (key) => {
+    this.props.actions.loadPathwayDetails(key);
+  };
+
   favouritedImage = (pathway) => {
     if (pathway.favourite) {
-      return (<img src={redHeart} onClick={() => this.changeFavourite(pathway)}/>)
+      return (<Heart colorIndex={'critical'} onClick={() => this.changeFavourite(pathway)}/>)
     }
-    return (<img src={blackHeart} onClick={() => this.changeFavourite(pathway)}/>)
+    return (<Heart onClick={() => this.changeFavourite(pathway)}/>)
   };
 
   changeFavourite = (pathway) => {
@@ -83,6 +90,23 @@ class SearchPathways extends PureComponent {
 
   handleSearchChange = (ev) => {
     this.setState({searchText: ev.target.value})
+  };
+
+  generateSideBar = () => {
+    if (this.props.pathway) {
+      let pathway = this.props.pathway;
+      return (
+        <div>
+          <Paragraph margin='small' size='32px' style={{fontWeight: 900}}> Salary Range: {pathway.pathway[0].J.salaryRange} </Paragraph>
+          <Paragraph margin='small' size='32px' style={{fontWeight: 900}}> Description: {pathway.pathway[0].J.description} </Paragraph>
+          <Paragraph margin='small' size='32px' style={{fontWeight: 900}}> Automation Risk (Chances that computers may take over your job in the future): {pathway.pathway[0].J.automationRisk} </Paragraph>
+        </div>
+      )
+    } else {
+      return (
+        <Paragraph margin='medium' size='large'> Select a pathway for more details.</Paragraph>
+      )
+    }
   };
 
   render() {
@@ -114,10 +138,9 @@ class SearchPathways extends PureComponent {
           </Box>
           <Box style={{flex: 1, border: 'solid 1px black', direction: 'column'}}>
             <Header pad='medium' justify='between'>
-              <Title> Details Here</Title>
+              <Title> Details</Title>
             </Header>
-            <Paragraph margin='medium' align='center' size='large'> Testing this shit </Paragraph>
-            <Paragraph margin='medium' align='center' size='large'> Testing this shit </Paragraph>
+            {this.generateSideBar()}
           </Box>
         </Box>
       </Article>
@@ -126,11 +149,12 @@ class SearchPathways extends PureComponent {
 }
 
 const stateToProps = (state) => ({
-  pathways: state.jobPathway.pathways
+  pathways: state.jobPathway.pathways,
+  pathway: state.jobPathway.pathway
 });
 
 const dispatchToProps = (dispatch) => ({
-  actions: bindActionCreators({loadPathways}, dispatch)
+  actions: bindActionCreators({ loadPathways, loadPathwayDetails }, dispatch)
 });
 
 export default connect(stateToProps, dispatchToProps)(SearchPathways)
