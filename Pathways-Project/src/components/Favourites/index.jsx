@@ -68,14 +68,12 @@ class SearchPathways extends PureComponent {
       return pathways ? pathways.map((pathway) => {
         return (
 
-          <TableRow>
-            <tr onClick={() => {
-              // this.setState({ currentKey: pathway.key });
-              this.fetchDetails(pathway.key, pathway.pathway)
-            }
-            }>
-              <td style={{cursor: 'pointer'}} key={pathway.pathway}>{pathway.pathway}</td>
-            </tr>
+          <TableRow className='table-row' onClick={() => {
+            // this.setState({ currentKey: pathway.key });
+            this.fetchDetails(pathway.key, pathway.pathway)
+          }
+          }>
+            <td style={{cursor: 'pointer'}} key={pathway.pathway}>{pathway.pathway}</td>
             <td>Job</td>
             <td>{pathway.career}</td>
             <td><img src={redHeart} /> </td>
