@@ -1,6 +1,6 @@
 export default [
   {
-    name:'mathematics',
+    name:'Mathematics',
     11: {
       required: [
         'ENG3U',
