@@ -1,11 +1,5 @@
 export default [
   {
-    9: {
-      required: [],
-    },
-    10: {
-      required: [],
-    },
     11: {
       required: [],
     },
@@ -40,22 +34,17 @@ export default [
         average: '70',
         ProgramType: 'Reg',
       },
-
-
     ],
     J: {
       salaryRange: '$36,190-$85,550',
+      automationRisk: '0.8%',
       description: 'Undergraduate Studies in Education involves the study and practice of teaching and works to prepare you to be a effective educator.',
       otherJobs: [
         'Instructor',
         'High School Teacher',
         'Middle School Teacher',
         'Elementary School Teacher'
-
-
       ],
     },
-
   },
-
 ];
