@@ -50,6 +50,7 @@ export default [
       },
     ],
     J: {
+      name: 'Teacher',
       salaryRange: '$36,190-$85,550',
       automationRisk: '0.8%',
       description: 'Undergraduate Studies in Education involves the study and practice of teaching and works to prepare you to be a effective educator.',

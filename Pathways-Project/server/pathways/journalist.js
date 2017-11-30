@@ -38,6 +38,11 @@ export default [
         'Market Researcher',
         'Writer'
       ],
+      companies: [
+        'Toronto Sun',
+        'CBC',
+        'CTV'
+      ],
     },
   },
   {
@@ -69,6 +74,7 @@ export default [
       },
     ],
     J: {
+      name: 'Journalist',
       salaryRange: '$42,322/year',
       automationRisk: '11%',
       description: 'The activity or profession of writing for newspapers, magazines, or news websites or preparing news to be broadcast',
@@ -78,6 +84,11 @@ export default [
         'Information Officer',
         'Market Researcher',
         'Writer'
+      ],
+      companies: [
+        'Toronto Sun',
+        'CBC',
+        'CTV'
       ],
     },
   }

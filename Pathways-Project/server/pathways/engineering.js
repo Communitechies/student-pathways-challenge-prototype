@@ -69,6 +69,7 @@ export default [
       },
     ],
     J: {
+      name: 'Engineering',
       salaryRange: '$65,000/year - $85,000/year',
       automationRisk: '10.8%',
       description: 'Engineers work in a variety of fields to analyze, develop and evaluate large-scale, complex systems. This can mean and improve and maintaining current systems or creating brand new projects. Engineers will design and draft blueprints, visit systems in the field and manage projects',
@@ -86,6 +87,11 @@ export default [
         'Nanotechnology',
         'Software',
         'Systems Design',
+      ],
+      companies: [
+        'Microsoft',
+        'Amazon',
+        'Samsung'
       ],
     },
   },
@@ -143,6 +149,11 @@ export default [
       otherJobs: [
         'Building Systems Engineering',
         'Mechanical Systems Engineering',
+      ],
+      companies: [
+        'Microsoft',
+        'Amazon',
+        'Samsung'
       ],
     },
   }
