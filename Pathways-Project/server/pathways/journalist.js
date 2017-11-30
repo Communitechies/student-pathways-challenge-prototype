@@ -9,7 +9,7 @@ export default [
       required: [
         {
           course: 'ENG4U',
-          average: '85%-88%'
+          minimum: 70,
         }
       ]
     },
@@ -49,7 +49,7 @@ export default [
       required: [
         {
           course: 'ENG4U',
-          average: '70%',
+          minimum: 70,
         },
       ],
     },

@@ -13,27 +13,27 @@ export default [
       required: [
         {
           course: 'ENG4U',
-          average: '65%',
+          minimum: 65,
         },
         {
           course: 'SBI4U',
-          average: '65%',
+          minimum: 65,
         },
         {
           course: 'SCH4U',
-          average: '65%',
+          minimum: 65,
         },
         {
           course: 'MHF4U',
-          average: '65%',
+          minimum: 65,
         },
         {
           course: 'MCF3M',
-          average: '65%',
+          minimum: 65,
         },
         {
           course: 'MCR3U',
-          average: '65%',
+          minimum: 65,
         },
       ],
     },

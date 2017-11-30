@@ -9,7 +9,7 @@ export default [
       required: [
         {
           course: 'ENG4U',
-          average: '70%',
+          minimum: 70,
         },
       ],
     },
@@ -27,7 +27,7 @@ export default [
       },
     ],
     J: {
-      salaryRange: 'I dont know yet',
+      salaryRange: '$56,000 - $138,000',
       automationRisk: '18%',
       description: 'A pilot is someone who is in the aviation industry, and who is able to operate aircraft in order to transport passengers or goods from one location to another. They are employed by commercial airlines, corporations, or governments.',
       otherJobs: [
@@ -49,18 +49,19 @@ export default [
       required: [
         {
           course: 'ENG4U',
-          average: '70%',
+          minimum: 70,
         },
         {
           course: 'MHF4U',
-          average: '70%',
+          minimum: 70,
         },
         {
           course: 'MCV4U',
-          average: '70%',
+          minimum: 70,
         },
         {
           course: '2 of SBI4U, SCH4U, SES4U, MDM4U, or SPH4U',
+          minimum: 70,
         },
       ],
     },
@@ -78,7 +79,7 @@ export default [
       },
     ],
     J: {
-      salaryRange: 'I dont know yet',
+      salaryRange: '$56,000 - $138,000',
       automationRisk: '18%',
       description: 'A pilot is someone who is in the aviation industry, and who is able to operate aircraft in order to transport passengers or goods from one location to another. They are employed by commercial airlines, corporations, or governments.',
       otherJobs: [

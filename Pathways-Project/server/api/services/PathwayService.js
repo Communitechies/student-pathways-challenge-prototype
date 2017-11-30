@@ -9,6 +9,7 @@ import engineer from '../../pathways/engineering';
 import journalist from '../../pathways/journalist';
 import social from '../../pathways/socialworker';
 import teacher from '../../pathways/teacher';
+import computerScience from '../../pathways/computerScience';
 
 const PathwayService = {};
 
@@ -39,6 +40,9 @@ PathwayService.getPathway = (key) => {
       break;
     case '7':
       pathway = teacher;
+      break;
+    case '8':
+      pathway = computerScience;
       break;
     default:
       return BPromise.reject({ message: 'Invalid key' });
@@ -89,6 +93,11 @@ PathwayService.getPathways = () => {
       career: 'Humanities',
       key: 7,
     },
+    {
+      pathway: 'Computer Scientist',
+      career: 'Technology',
+      key: 8,
+    }
   ];
 };
 

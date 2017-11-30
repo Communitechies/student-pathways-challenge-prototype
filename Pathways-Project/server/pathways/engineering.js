@@ -11,23 +11,23 @@ export default [
       required: [
         {
           course: 'MCV4U',
-          average: '70%',
+          minimum: 70,
         },
         {
           course: 'MHF4U',
-          average: '70%',
+          minimum: 70,
         },
         {
           course: 'SCH4U',
-          average: '70%',
+          minimum: 70,
         },
         {
           course: 'SPH4U',
-          average: '70%',
+          minimum: 70,
         },
         {
           course: 'ENG4U',
-          average: '70%',
+          minimum: 70,
         },
       ],
     },
@@ -99,23 +99,23 @@ export default [
       required: [
         {
           course: 'ENG4U',
-          average: '65%',
+          minimum: 65,
         },
         {
           course: 'SCH4U',
-          average: '65%'
+          minimum: 65
         },
         {
           course: 'SPH4U',
-          average: '65%',
+          minimum: 65,
         },
         {
           course: 'MCV4U',
-          average: '65%',
+          minimum: 65,
         },
         {
           course: 'MHF4U or MDM4U',
-          average: '65%',
+          minimum: 65,
         },
       ],
     },
