@@ -1,10 +1,17 @@
 export default [
   {
     11: {
-      required: [],
+      required: [
+        'ENG3U',
+      ],
     },
     12: {
-      required: [],
+      required: [
+        {
+          course: 'ENG4U',
+          minimum: 70,
+        },
+      ],
     },
     SE: [
       {
