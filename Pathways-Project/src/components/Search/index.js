@@ -94,27 +94,31 @@ class SearchPathways extends PureComponent {
 
   generateSideBar = () => {
     if (this.props.pathway) {
+<<<<<<< HEAD
       let pathway = this.props.pathway
+=======
+      let firstPathway = this.props.pathway[0]
+>>>>>>> 7ffc4b46d171004469b084cdadb5bfc33f2cc629
       return (
         <div>
-          <Title style={{padding: 16}}>{pathway.pathway[0].name}</Title>
+          <Title style={{padding: 16}}>{firstPathway.name}</Title>
           <Paragraph
             margin='small'
             size='32px'
             style={{fontWeight: 900, padding: 16}}>
-            Salary Range: {pathway.pathway[0].J.salaryRange}
+            Salary Range: {firstPathway.J.salaryRange}
           </Paragraph>
           <Paragraph
             margin='small'
             size='32px'
             style={{fontWeight: 900, padding: 16}}>
-            Description: {pathway.pathway[0].J.description}
+            Description: {firstPathway.J.description}
           </Paragraph>
           <Paragraph
             margin='small'
             size='32px'
             style={{fontWeight: 900, padding: 16}}>
-            Automation Risk (Chances that computers may take over your job in the future): {pathway.pathway[0].J.automationRisk}
+            Automation Risk (Chances that computers may take over your job in the future): {firstPathway.J.automationRisk}
           </Paragraph>
           <Button
             accent

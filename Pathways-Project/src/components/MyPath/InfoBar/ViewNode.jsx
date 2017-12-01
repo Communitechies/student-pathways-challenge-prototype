@@ -36,7 +36,9 @@ class ViewNode extends PureComponent {
     const nodeId = this.props.nodeId
     const courses = this.state.courses
 
-    this.props.actions.saveNodeToPathway(nodeId, courses)
+    const filteredCourses = courses.filter(c => c.grade !== '')
+
+    this.props.actions.saveNodeToPathway(nodeId, filteredCourses)
   }
 
   componentWillReceiveProps (nextProps) {

@@ -50,7 +50,7 @@ export default [
       required: [
         'ENG3U',
         'MCR3U',
-        '1 of SBI3U, SCH3U, MCR3U or SPH3U',
+        'SBI3U or SCH3U or SPH3U',
       ],
     },
     12: {
@@ -68,7 +68,7 @@ export default [
           minimum: 70,
         },
         {
-          course: '2 of SBI4U, SCH4U, SES4U, MDM4U, or SPH4U',
+          course: 'SBI4U or SCH4U or SES4U or MDM4U or SPH4U',
           minimum: 70,
         },
       ],

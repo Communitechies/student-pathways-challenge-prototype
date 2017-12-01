@@ -4,11 +4,10 @@ export function checkCourseSatisfied (courses, courseCode, grade = 50) {
 }
 
 export function matchSingleRequirement (requirement, courses) {
-  if (typeof ele === 'string') {
-    if (requirement.search(' or ')) {
-      const [, course1, course2] = requirement.match(/(.*) or (.*)/)
-      return checkCourseSatisfied(courses, course1) ||
-        checkCourseSatisfied(courses, course2)
+  if (typeof requirement === 'string') {
+    if (requirement.search(' or ') !== -1) {
+      const orCourses = requirement.split(' or ')
+      return orCourses.some(v => checkCourseSatisfied(courses, v))
     }
     return checkCourseSatisfied(courses, requirement)
   }

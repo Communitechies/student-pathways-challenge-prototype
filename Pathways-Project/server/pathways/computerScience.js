@@ -77,7 +77,7 @@ export default [
     11: {
       required: [
         'ENG3C',
-        'one of MCF3M or MCR3U'
+        'MCF3M or MCR3U'
       ],
     },
     12: {

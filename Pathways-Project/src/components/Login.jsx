@@ -22,7 +22,9 @@ export default class Login extends PureComponent {
           style={{backgroundColor: 'rgba(0,0,0,0.6)'}}
           align='center'>
           <Heading align='center' style={{color: 'white'}}>Ontario Student Pathways</Heading>
-          <LoginForm onSubmit={this.onSubmitLogin} />
+          <LoginForm
+            onSubmit={this.onSubmitLogin}
+            defaultValues={{username: 'TestUser1 (Click login)'}} />
         </Box>
       </Box>
     )

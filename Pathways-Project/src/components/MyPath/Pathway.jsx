@@ -64,10 +64,6 @@ class Pathway extends PureComponent {
     this.setState({ nodes, edges })
   }
 
-  componentDidMount () {
-    this.props.actions.loadUserPathway()
-  }
-
   render () {
     return (
       <PathwayGraph

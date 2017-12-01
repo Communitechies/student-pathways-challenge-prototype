@@ -17,18 +17,17 @@ export function changeLoadState (state) {
 }
 
 export function loadUserPathway () {
-  return dispatch => {
-    const mockPathway = {
-      '9': [{
-        course: 'MATH4U',
-        grade: 20
-      }]
+  return async (dispatch, getState) => {
+    dispatch(changeLoadState(loadingStateEnum.DURING_LOAD))
+
+    const fetchResult = await fetch('/api/v1/user/pathway')
+
+    if (!fetchResult.ok) {
+      return dispatch({ type: ERROR, message: await fetchResult.text() })
     }
 
-    dispatch({
-      type: PATHWAY_LOADING_SUCCESS,
-      pathway: mockPathway
-    })
+    const data = await fetchResult.json()
+    dispatch({ type: PATHWAY_LOADING_SUCCESS, pathway: data.pathway })
   }
 }
 
@@ -43,16 +42,16 @@ export function sidebarSwitchToViewNode (nodeId) {
 export function uploadPathToServer () {
   return async (dispatch, getState) => {
     const state = getState()
-    // dispatch(changeLoadState(loadingStateEnum.DURING_RELOAD))
-    // const options = {
-    //   method: 'POST',
-    //   headers: { 'Content-type': 'application/json' },
-    //   data: JSON.stringify(state.pathway)
-    // }
-    // const fetchResult = await fetch('/v1/user/pathway', options)
-    // if(!fetchResult.ok) {
-    //   dispatch({ type: ERROR, message: await fetchResult.text()})
-    // }
+    dispatch(changeLoadState(loadingStateEnum.DURING_RELOAD))
+    const options = {
+      method: 'POST',
+      headers: { 'Content-type': 'application/json' },
+      body: JSON.stringify({ pathway: state.pathway.pathway })
+    }
+    const fetchResult = await fetch('/api/v1/user/pathway', options)
+    if (!fetchResult.ok) {
+      dispatch({ type: ERROR, message: await fetchResult.text() })
+    }
     dispatch(changeLoadState(loadingStateEnum.AFTER_RELOAD))
   }
 }
@@ -108,7 +107,7 @@ const defaultState = {
 export default (state = defaultState, action) => {
   switch (action.type) {
     case PATHWAY_LOADING_SUCCESS:
-      return { ...state, pathway: action.pathway }
+      return { ...state, pathway: action.pathway, loading: loadingStateEnum.AFTER_LOAD }
     case SIDEBAR_CREATE:
       return { ...state, sidebar: { type: sidebarModeEnum.CREATE } }
     case SIDEBAR_VIEW_NODE:

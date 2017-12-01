@@ -46,7 +46,7 @@ export function loadPathwayDetails (key) {
         console.log(data)
         dispatch({
           type: DETAILS_LOADING_SUCCESS,
-          pathway: data
+          pathway: data.pathway
         })
       } else {
         throw new Error('Could not load pathway')
