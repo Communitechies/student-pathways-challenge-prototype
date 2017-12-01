@@ -78,7 +78,7 @@ class PathwayComparison extends PureComponent {
 
     switch (this.state.sidebarType) {
       case 'HIGHSCHOOL': return <GradeSidebar grade={info.grade} courses={info.courses} />
-      case 'REQUIRED_HIGHSCHOOL': return <RequiredGradeSidebar grade={info.grade} required={info.required} />
+      case 'REQUIRED_HIGHSCHOOL': return <RequiredGradeSidebar grade={info.grade} required={info.required} courses={this.props.userPathway[info.grade]} />
       case 'JOB': return <JobSidebar info={info} />
       case 'POST_SECONDARY': return <PostSecondarySidebar info={info} />
       default: return <DefaultSidebar />
@@ -87,6 +87,7 @@ class PathwayComparison extends PureComponent {
 
   render () {
     const { edges, nodes } = this.createNodesAndEdges()
+    const jobName = this.props.jobPathways[0].name
 
     return (
       <Box full='vertical'>
@@ -102,7 +103,8 @@ class PathwayComparison extends PureComponent {
           </Box>
           <Box direction='column' seperator='all' flex>
             <Header pad='medium' flex justify='center'>
-              <Title> Pathways for this job </Title>
+              <Title> Pathways for
+                <span style={{textDecoration: 'underline'}}>{jobName}</span> </Title>
             </Header>
             <Box direction='row' flex>
               {

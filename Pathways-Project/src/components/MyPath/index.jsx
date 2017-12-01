@@ -14,8 +14,8 @@ export default class MyPath extends PureComponent {
           <Title> My Pathway</Title>
         </Header>
         <Box flex='grow' direction='row'>
-          <Pathway/>
-          <InfoBar/>
+          <Pathway />
+          <InfoBar />
         </Box>
       </Box>
     )

@@ -15,12 +15,12 @@ export default class PostSecondarySidebar extends PureComponent {
     if (typeof value === 'string') {
       cellValue = value
     } else if (Array.isArray(value)) {
-      cellValue = value.join('\n')
+      value.forEach(v => cellValue.push(v, <br />))
     }
 
     return (
       <TableRow key={key}>
-        <td style={{display: 'block' }}><b>{key}</b></td>
+        <td style={{display: 'block'}}><b>{key}</b></td>
         <td>{cellValue}</td>
       </TableRow>
     )

@@ -8,10 +8,9 @@ import Form from 'grommet/components/Form'
 import Button from 'grommet/components/Button'
 
 import CourseMarkTable from './CourseMarkTable'
+import courses from './courses'
 
-import { sidebarModeEnum, saveNodeToPathway } from '../../../store/pathway'
-
-const coursesList = ['MATH4U', 'ENG301']
+import { saveNodeToPathway } from '../../../store/pathway'
 
 class ViewNode extends PureComponent {
   constructor (props) {
@@ -20,6 +19,17 @@ class ViewNode extends PureComponent {
     this.state = {
       courses: props.courses
     }
+  }
+
+  getCourseSuggestions () {
+    const grade = `Grade ${this.props.nodeId}`
+    const allCourses = courses[grade]
+
+    if (!allCourses) return []
+
+    return allCourses.filter(course => (
+      this.state.courses.findIndex(c => c.course === course) === -1
+    ))
   }
 
   onSaveChanges = () => {
@@ -36,15 +46,12 @@ class ViewNode extends PureComponent {
   render () {
     return (
       <Box>
-        <Form>
-          <Title>Grade {this.props.nodeId}</Title>
-        </Form>
-        <br />
-        <Title> Courses </Title>
+        <h2><b>Grade {this.props.nodeId}</b></h2>
+        <h3> Courses </h3>
         <CourseMarkTable
           onUpdate={courses => this.setState({ courses })}
           courses={this.state.courses}
-          courseList={coursesList} />
+          courseList={this.getCourseSuggestions()} />
         <br />
         <Button
           onClick={this.onSaveChanges}

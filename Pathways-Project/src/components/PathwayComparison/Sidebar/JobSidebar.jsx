@@ -15,7 +15,8 @@ export default class JobSidebar extends PureComponent {
     if (typeof value === 'string') {
       cellValue = value
     } else if (Array.isArray(value)) {
-      cellValue = value.join('\n')
+      cellValue = []
+      value.forEach(v => cellValue.push(v, <br />))
     }
 
     return (
@@ -32,14 +33,13 @@ export default class JobSidebar extends PureComponent {
       salaryRange,
       automationRisk,
       description,
-      otherJobs
+      otherJobs,
+      companies
     } = this.props.info
 
     return (
       <Box>
-        <Header>
-          <Title>{name}</Title>
-        </Header>
+        <h2>{name}</h2>
         <br />
         <Table>
           <thead>
@@ -53,6 +53,7 @@ export default class JobSidebar extends PureComponent {
             {this.renderRow('Automation Risk', automationRisk)}
             {this.renderRow('Description', description)}
             {this.renderRow('Other Jobs', otherJobs)}
+            {this.renderRow('Companies', companies)}
           </tbody>
         </Table>
       </Box>

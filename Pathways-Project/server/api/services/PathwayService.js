@@ -64,7 +64,7 @@ PathwayService.getPathways = () => {
       key: 1,
     },
     {
-      pathway: 'Mathematics',
+      pathway: 'Mathematician',
       career: 'Technology',
       key: 2,
     },

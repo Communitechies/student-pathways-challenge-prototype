@@ -3,29 +3,22 @@ import { connect } from 'react-redux'
 import { bindActionCreators } from 'redux'
 
 import Box from 'grommet/components/Box'
-import Paragraph from 'grommet/components/Paragraph'
 import Title from 'grommet/components/Title'
-import Header from 'grommet/components/Header'
 import Form from 'grommet/components/Form'
 import FormField from 'grommet/components/FormField'
 import Select from 'grommet/components/Select'
-import Table from 'grommet/components/Table'
-import TableRow from 'grommet/components/TableRow'
-import TextInput from 'grommet/components/TextInput'
 import Button from 'grommet/components/Button'
-import CloseIcon from 'grommet/components/icons/base/Close'
 
 import CourseMarkTable from './CourseMarkTable'
 
-import { sidebarModeEnum, saveNodeToPathway } from '../../../store/pathway'
-
-const coursesList = ['MATH4U', 'ENG301']
+import { saveNodeToPathway } from '../../../store/pathway'
+import courses from './courses'
 
 const grades = ['Grade 9', 'Grade 10', 'Grade 11', 'Grade 12']
 
 class CreateNode extends PureComponent {
   constructor () {
-    super ()
+    super()
 
     this.state = {
       grade: undefined,
@@ -34,24 +27,43 @@ class CreateNode extends PureComponent {
     }
   }
 
+  getGradeSuggestions () {
+    const pathway = this.props.pathway
+    const currentGrades = Object.keys(pathway).map(v => `Grade ${v}`)
+
+    return grades.filter(grade => (
+      currentGrades.indexOf(grade) === -1
+    ))
+  }
+
+  getCourseSuggestions () {
+    const allCourses = courses[this.state.grade]
+
+    if (!allCourses) return []
+
+    return allCourses.filter(course => (
+      this.state.courses.findIndex(c => c.course === course) === -1
+    ))
+  }
+
   /**
    * Called when the grade level for the node is changed
    * eg. From grade 11 to grade 10
    */
   onGradeChange = (evt) => {
-    this.setState({ 
+    this.setState({
       grade: evt.value,
       errors: { ...this.state.errors, grade: null }
     })
   }
 
   /**
-   * Called when the user clicks add year to add the 
+   * Called when the user clicks add year to add the
    * node to their pathway
    */
   onAddNode = () => {
-    if(!this.state.grade) {
-      return this.setState({ 
+    if (!this.state.grade) {
+      return this.setState({
         errors: {
           ...this.state.errors,
           grade: 'You must select a grade'
@@ -75,28 +87,30 @@ class CreateNode extends PureComponent {
           <FormField label='Grade' error={this.getFormError('grade')}>
             <Select
               placeHolder='none'
-              options={grades}
+              options={this.getGradeSuggestions()}
               value={this.state.grade}
-              onChange={this.onGradeChange}/>
+              onChange={this.onGradeChange} />
           </FormField>
         </Form>
-        <br/>
+        <br />
         <Title> Courses </Title>
         <CourseMarkTable
           onUpdate={courses => this.setState({ courses })}
           courses={this.state.courses}
-          courseList={coursesList}/>
-        <br/>
+          courseList={this.getCourseSuggestions()} />
+        <br />
         <Button
           onClick={this.onAddNode}
           label='Add Year'
-          primary/>
+          primary />
       </Box>
     )
   }
 }
 
-const stateToProps = (state) => ({})
+const stateToProps = (state) => ({
+  pathway: state.pathway.pathway
+})
 const dispatchToProps = (dispatch) => ({
   actions: bindActionCreators({ saveNodeToPathway }, dispatch)
 })
