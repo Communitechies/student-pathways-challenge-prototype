@@ -40,15 +40,11 @@ export default class Sidebar extends PureComponent {
             label='Favourites'
             icon={<FavouriteIcon />}
             path='/favourites' />
-          <Anchor
-            label='Test'
-            icon={<FavouriteIcon />}
-            path='/comparison' />
         </Menu>
         <Footer>
           <Anchor
             label='Logout'
-            path='/logout' />
+            path='/' />
         </Footer>
       </GrommetSidebar>
     )
