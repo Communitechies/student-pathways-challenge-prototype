@@ -19,7 +19,7 @@ export default class GradeView extends PureComponent {
 
   getAverage = () => {
     const total = this.props.courses.reduce((pre, curr) => pre + curr.grade, 0)
-    const avg = total / (this.props.courses.length | 1)
+    const avg = total / (this.props.courses.length || 1)
 
     return Math.round(avg * 10) / 10
   }
