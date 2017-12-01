@@ -11,6 +11,7 @@ import TableHeader from 'grommet/components/TableHeader'
 import TableRow from 'grommet/components/TableRow'
 import Article from 'grommet/components/Article'
 import Paragraph from 'grommet/components/Paragraph'
+import JobSidebar from './JobSidebar'
 
 import { loadPathways } from '../../store/jobPathway'
 import redHeart from '../../assets/redHeart30x30.png'
@@ -46,13 +47,12 @@ class SearchPathways extends PureComponent {
       })
   }
 
-  fetchDetails (ev, pathway) {
-    fetch('/api/v1/pathways/' + ev)
+  fetchDetails (pathway) {
+    fetch('/api/v1/pathways/' + pathway.key)
       .then(data => data.json())
       .then(data => {
         console.log(data.pathway)
-        this.setState({ details: data.pathway[0].J })
-        this.setState({ Job: pathway })
+        this.setState({ details: data.pathway[0].J, Job: pathway.pathway })
       })
   }
 
@@ -70,7 +70,7 @@ class SearchPathways extends PureComponent {
 
           <TableRow className='table-row' onClick={() => {
             // this.setState({ currentKey: pathway.key });
-            this.fetchDetails(pathway.key, pathway.pathway)
+            this.fetchDetails(pathway)
           }
           }>
             <td style={{cursor: 'pointer'}} key={pathway.pathway}>{pathway.pathway}</td>
@@ -89,51 +89,37 @@ class SearchPathways extends PureComponent {
 
     render () {
       return (
-        <Article id='Search'>
-          <Box flex='grow' direction='row'>
-            <Box style={{flex: 3}} direction='column'>
-              <Box direction='column'>
-                <Header pad='medium' justify='between'>
-                  <Title> Favourites</Title>
-                </Header>
-                <Box flex='grow' direction='row'>
-                  <Search
-                    fill
-                    inline
-                    placeHolder='Search'
-                    size='large'
-                    iconAlign='start'
-                    value={this.state.searchText}
-                    onDOMChange={this.handleSearchChange} />
-                </Box>
-              </Box>
-              <Table>
-                <TableHeader labels={this.columns.map(v => v.label.toUpperCase())} />
-                <tbody>
-                  {this.generateTableRows()}
-                </tbody>
-              </Table>
-            </Box>
-            <Box style={{flex: 1, border: 'solid 1px black', direction: 'column'}}>
+        <Box direction='row' full='vertical'>
+          <Box direction='column' flex>
+            <Box direction='column'>
               <Header pad='medium' justify='between'>
-                <Title> Details Here</Title>
+                <Title> Favourites</Title>
               </Header>
-              {
-                this.state.details
-                  ? <div>
-                    <h1 margin='small' align='Left' size='small' > {this.state.Job} </h1>
-                    <Paragraph id='stuff' margin='Small' align='Left' size='32px' style={{ fontWeight: 900, padding: 16 }}>
-                                Salaray Range: {this.state.details.salaryRange}</Paragraph>
-                    <Paragraph id='stuff' margin='Small' align='Left' size='small' style={{ fontWeight: 900, padding: 16 }}> Description {this.state.details.description} </Paragraph>
-                    <Paragraph id='stuff' margin='Small' align='Left' size='32px' style={{ fontWeight: 900, padding: 16 }}>  Automation Risk (Chances that computers may take over your job in the future) {this.state.details.automationRisk} </Paragraph>
-                  </div>
-
-                  : null
-              }
-
+              <Box flex='grow' direction='row'>
+                <Search
+                  fill
+                  inline
+                  placeHolder='Search'
+                  size='large'
+                  iconAlign='start'
+                  value={this.state.searchText}
+                  onDOMChange={this.handleSearchChange} />
+              </Box>
             </Box>
+            <Table>
+              <TableHeader labels={this.columns.map(v => v.label.toUpperCase())} />
+              <tbody>
+                {this.generateTableRows()}
+              </tbody>
+            </Table>
           </Box>
-        </Article>
+          <Box basis='1/3' pad='medium' style={{backgroundColor: 'lightgray'}}>
+
+            <JobSidebar details={this.state.details} />
+
+          </Box>
+
+        </Box>
       )
     }
 }

@@ -94,7 +94,11 @@ class SearchPathways extends PureComponent {
 
   generateSideBar = () => {
     if (this.props.pathway) {
+<<<<<<< HEAD
+      let pathway = this.props.pathway
+=======
       let firstPathway = this.props.pathway[0]
+>>>>>>> 7ffc4b46d171004469b084cdadb5bfc33f2cc629
       return (
         <div>
           <Title style={{padding: 16}}>{firstPathway.name}</Title>
