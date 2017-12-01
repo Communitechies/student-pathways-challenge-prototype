@@ -28,7 +28,7 @@ export default [
         description: 'Goodman’s BAcc program has been designed specifically for future accountants, and has rigorous academic courses integrated with a professional orientation.',
         classSize: '101 - 250 people',
         tuition: '$3340.64/term',
-        average: '84-86',
+        average: '84 - 86',
         ProgramType: 'Reg',
       },
       {
@@ -39,7 +39,7 @@ export default [
         description: 'The program provides a strong foundation of accounting and general business knowledge while allowing significant opportunity to develop breadth and depth of knowledge in related areas of study.',
         classSize: '101 - 250 people',
         tuition: '$3285.29/term',
-        average: '76-81',
+        average: '76 - 81',
         ProgramType: 'Reg/Coop',
       },
       {
@@ -49,7 +49,7 @@ export default [
         description: 'Study with one of Canada’s best accounting faculties to master accounting functions and hone the ability to make decisions within legal, financial, regulatory and ethical frameworks.',
         classSize: '101 - 250',
         tuition: '$3,761.51/term',
-        average: '74-76',
+        average: '74 - 76',
         ProgramType: 'Reg/Coop/Int',
       },
     ],

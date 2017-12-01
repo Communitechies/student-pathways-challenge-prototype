@@ -23,7 +23,7 @@ export default [
         description: 'Our faculty is experienced and enthusiastic bringing a range of practice and research experience to the classroom. The result is a program that is truly exceptional. ',
         classSize: '101 - 250 people',
         tuition: '$3,134.60/term',
-        average: '70%',
+        average: '70',
         ProgramType: 'Reg',
       },
       {
@@ -34,7 +34,7 @@ export default [
         description: 'A Social Sciences degree from Brock prepares you for a range of career options, and nurtures visionaries who will have great impact on advancing humanity and making the world a better place.',
         classSize: '101 - 250 people',
         tuition: '$3,284.60/term',
-        average: '74%-76%',
+        average: '74 - 76',
         ProgramType: 'Reg',
       },
       {
@@ -45,14 +45,14 @@ export default [
         description: 'Our faculty and some 2000 alumni are leaders in the development of a structural approach to social work practice that is rooted in social justice and social change. ',
         classSize: '101 - 250 people',
         tuition: '$3,896.91/term',
-        average: '75%',
+        average: '75',
         ProgramType: 'Reg/Int/Prac',
       },
 
     ],
     J: {
       name: 'Social Worker',
-      salaryRange: '$48,448-$61,381',
+      salaryRange: '$48,448 - $61,381',
       automationRisk: '1.2%',
       description: 'Social work is an academic discipline and profession that concerns itself with individuals, families, groups and communities in an effort to enhance social functioning and overall well-being.',
       otherJobs: [
