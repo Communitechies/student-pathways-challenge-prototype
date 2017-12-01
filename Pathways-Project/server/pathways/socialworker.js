@@ -1,18 +1,28 @@
 export default [
   {
-    name:'Social Worker',
+    name: 'Social Worker',
+    9: {
+      required: [
+        'ENG1D'
+      ]
+    },
+    10: {
+      required: [
+        'ENG2D'
+      ]
+    },
     11: {
       required: [
-        'ENG3U',
-      ],
+        'ENG3U'
+      ]
     },
     12: {
       required: [
         {
           course: 'ENG4U',
-          minimum: 70,
-        },
-      ],
+          minimum: 70
+        }
+      ]
     },
     SE: [
       {
@@ -24,7 +34,7 @@ export default [
         classSize: '101 - 250 people',
         tuition: '$3,134.60/term',
         average: '70',
-        ProgramType: 'Reg',
+        ProgramType: 'Reg'
       },
       {
         label: 'Social Work\nBrock University',
@@ -35,7 +45,7 @@ export default [
         classSize: '101 - 250 people',
         tuition: '$3,284.60/term',
         average: '74 - 76',
-        ProgramType: 'Reg',
+        ProgramType: 'Reg'
       },
       {
         label: 'Social Work\nCarleton University',
@@ -46,8 +56,8 @@ export default [
         classSize: '101 - 250 people',
         tuition: '$3,896.91/term',
         average: '75',
-        ProgramType: 'Reg/Int/Prac',
-      },
+        ProgramType: 'Reg/Int/Prac'
+      }
 
     ],
     J: {
@@ -64,7 +74,7 @@ export default [
         'American Motor Association',
         'YMCA',
         'Government of Ontario'
-      ],
-    },
+      ]
+    }
   }
-];
+]

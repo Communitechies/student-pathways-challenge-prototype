@@ -1,23 +1,33 @@
 export default [
-  { 
+  {
     name: 'Accountant',
+    9: {
+      required: [
+        'ENG1D'
+      ]
+    },
+    10: {
+      required: [
+        'ENG2D'
+      ]
+    },
     11: {
       required: [
         'ENG3U',
         'MCR3U'
-      ],
+      ]
     },
     12: {
       required: [
         {
           course: 'ENG4U',
-          minimum: 70,
+          minimum: 70
         },
         {
           course: 'MHF4U',
-          minimum: 70,
-        },
-      ],
+          minimum: 70
+        }
+      ]
     },
     SE: [
       {
@@ -29,7 +39,7 @@ export default [
         classSize: '101 - 250 people',
         tuition: '$3340.64/term',
         average: '84 - 86',
-        ProgramType: 'Reg',
+        ProgramType: 'Reg'
       },
       {
         label: 'Accounting\nUniversity of Guelph',
@@ -40,7 +50,7 @@ export default [
         classSize: '101 - 250 people',
         tuition: '$3285.29/term',
         average: '76 - 81',
-        ProgramType: 'Reg/Coop',
+        ProgramType: 'Reg/Coop'
       },
       {
         programName: 'Accounting\nYork University',
@@ -50,8 +60,8 @@ export default [
         classSize: '101 - 250',
         tuition: '$3,761.51/term',
         average: '74 - 76',
-        ProgramType: 'Reg/Coop/Int',
-      },
+        ProgramType: 'Reg/Coop/Int'
+      }
     ],
     J: {
       name: 'Accountant',
@@ -68,6 +78,6 @@ export default [
         'PwC',
         'Ernst & Young'
       ]
-    },
-  },
-];
+    }
+  }
+]

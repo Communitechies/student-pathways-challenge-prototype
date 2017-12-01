@@ -1,6 +1,16 @@
 export default [
   {
-    name:'Nurse',
+    name: 'Nurse',
+    9: {
+      required: [
+        'ENG1D'
+      ]
+    },
+    10: {
+      required: [
+        'ENG2D'
+      ]
+    },
     11: {
       required: [
         'ENG3U',
@@ -8,35 +18,35 @@ export default [
         'SCH3U',
         'MCR3U or MCT4C or MHF4U',
         'SBI3U'
-      ],
+      ]
     },
     12: {
       required: [
         {
           course: 'ENG4U',
-          minimum: 65,
+          minimum: 65
         },
         {
           course: 'SBI4U',
-          minimum: 65,
+          minimum: 65
         },
         {
           course: 'SCH4U',
-          minimum: 65,
+          minimum: 65
         },
         {
           course: 'MHF4U',
-          minimum: 65,
+          minimum: 65
         },
         {
           course: 'MCF3M',
-          minimum: 65,
+          minimum: 65
         },
         {
           course: 'MCR3U',
-          minimum: 65,
-        },
-      ],
+          minimum: 65
+        }
+      ]
     },
     SE: [
       {
@@ -48,7 +58,7 @@ export default [
         classSize: '101 - 250 people',
         tuition: '$4,033.60/term',
         average: '85',
-        ProgramType: 'Reg/Int/Prac',
+        ProgramType: 'Reg/Int/Prac'
       },
       {
         label: 'Nursing\nBrock University',
@@ -59,7 +69,7 @@ export default [
         classSize: '101 - 250 people',
         tuition: '$6,377.65term',
         average: '87 - 89',
-        ProgramType: 'Reg/Int/Prac',
+        ProgramType: 'Reg/Int/Prac'
       },
       {
         label: 'Nursing\nUniversity of Windsor',
@@ -70,8 +80,8 @@ export default [
         classSize: '101 - 250 people',
         tuition: '$3,143.60/term',
         average: '85',
-        ProgramType: 'Reg/Int/Prac',
-      },
+        ProgramType: 'Reg/Int/Prac'
+      }
     ],
     J: {
       name: 'Nurse',
@@ -83,7 +93,7 @@ export default [
         'Family Clinics',
         'Hospitals',
         'Retirement Homes'
-      ],
-    },
+      ]
+    }
   }
-];
+]

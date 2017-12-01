@@ -1,18 +1,28 @@
 export default [
   {
-    name:'Airplane Pilot',
+    name: 'Airplane Pilot',
+    9: {
+      required: [
+        'ENG1D'
+      ]
+    },
+    10: {
+      required: [
+        'ENG2D'
+      ]
+    },
     11: {
       required: [
-        'ENG3U',
-      ],
+        'ENG3U'
+      ]
     },
     12: {
       required: [
         {
           course: 'ENG4U',
-          minimum: 70,
-        },
-      ],
+          minimum: 70
+        }
+      ]
     },
     SE: [
       {
@@ -24,8 +34,8 @@ export default [
         classSize: '101 - 250 people',
         tuition: '$3,210/term',
         average: '80 - 83',
-        ProgramType: 'Reg/Int/Prac',
-      },
+        ProgramType: 'Reg/Int/Prac'
+      }
     ],
     J: {
       name: 'Pilot',
@@ -35,43 +45,53 @@ export default [
       otherJobs: [
         'avionics mechanics',
         'flight engineers',
-        'flying instructors',
+        'flying instructors'
       ],
       companies: [
         'Air Canada',
         'West Jet',
         'United Airlines'
-      ],
-    },
+      ]
+    }
   },
   {
-    name:'Airplane Pilot',
+    name: 'Airplane Pilot',
+    9: {
+      required: [
+        'ENG1D'
+      ]
+    },
+    10: {
+      required: [
+        'ENG2D'
+      ]
+    },
     11: {
       required: [
         'ENG3U',
         'MCR3U',
-        'SBI3U or SCH3U or SPH3U',
-      ],
+        'SBI3U or SCH3U or SPH3U'
+      ]
     },
     12: {
       required: [
         {
           course: 'ENG4U',
-          minimum: 70,
+          minimum: 70
         },
         {
           course: 'MHF4U',
-          minimum: 70,
+          minimum: 70
         },
         {
           course: 'MCV4U',
-          minimum: 70,
+          minimum: 70
         },
         {
           course: 'SBI4U or SCH4U or SES4U or MDM4U or SPH4U',
-          minimum: 70,
-        },
-      ],
+          minimum: 70
+        }
+      ]
     },
     SE: [
       {
@@ -83,8 +103,8 @@ export default [
         classSize: '101 - 250 people',
         tuition: '$3,210/term',
         average: '80 - 83',
-        ProgramType: 'Reg/Int/Prac',
-      },
+        ProgramType: 'Reg/Int/Prac'
+      }
     ],
     J: {
       name: 'Pilot',
@@ -94,13 +114,13 @@ export default [
       otherJobs: [
         'avionics mechanics',
         'flight engineers',
-        'flying instructors',
+        'flying instructors'
       ],
       companies: [
         'Air Canada',
         'West Jet',
         'United Airlines'
-      ],
-    },
-  },
-];
+      ]
+    }
+  }
+]

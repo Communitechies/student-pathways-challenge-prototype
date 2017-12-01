@@ -1,18 +1,28 @@
 export default [
   {
-    name:'Teacher',
+    name: 'Teacher',
+    9: {
+      required: [
+        'ENG1D'
+      ]
+    },
+    10: {
+      required: [
+        'ENG2D'
+      ]
+    },
     11: {
       required: [
-        'ENG3U',
-      ],
+        'ENG3U'
+      ]
     },
     12: {
       required: [
         {
           course: 'ENG4U',
-          minimum: 70,
-        },
-      ],
+          minimum: 70
+        }
+      ]
     },
     SE: [
       {
@@ -24,7 +34,7 @@ export default [
         classSize: '101 - 250 people',
         tuition: '$3823.41/term',
         average: '75',
-        ProgramType: 'Reg/Int/Prac',
+        ProgramType: 'Reg/Int/Prac'
       },
       {
         label: 'Teaching\nUniversity of Windsor',
@@ -35,7 +45,7 @@ export default [
         classSize: '101 - 250 people',
         tuition: '$3,935.58/term',
         average: '75 - 80',
-        ProgramType: 'Reg/Int/Prac',
+        ProgramType: 'Reg/Int/Prac'
       },
       {
         label: 'Teaching\nLakehead University',
@@ -46,8 +56,8 @@ export default [
         classSize: '101 - 250 people',
         tuition: '$3,134.41/term',
         average: '70',
-        ProgramType: 'Reg',
-      },
+        ProgramType: 'Reg'
+      }
     ],
     J: {
       name: 'Teacher',
@@ -64,7 +74,7 @@ export default [
         'Elementary School',
         'High School',
         'Day Care'
-      ],
-    },
-  },
-];
+      ]
+    }
+  }
+]

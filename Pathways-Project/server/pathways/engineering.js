@@ -1,6 +1,16 @@
 export default [
   {
-    name:'Engineer',
+    name: 'Engineer',
+    9: {
+      required: [
+        'ENG1D'
+      ]
+    },
+    10: {
+      required: [
+        'ENG2D'
+      ]
+    },
     11: {
       required: [
         'MCR3U or MCT4C',
@@ -96,7 +106,17 @@ export default [
     }
   },
   {
-    name:'Engineer',
+    name: 'Engineer',
+    9: {
+      required: [
+        'ENG1D'
+      ]
+    },
+    10: {
+      required: [
+        'ENG2D'
+      ]
+    },
     11: {
       required: [
         'MCR3U or MCT4C',

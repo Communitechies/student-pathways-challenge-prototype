@@ -1,18 +1,28 @@
 export default [
   {
-    name:'journalist',
+    name: 'journalist',
+    9: {
+      required: [
+        'ENG1D'
+      ]
+    },
+    10: {
+      required: [
+        'ENG2D'
+      ]
+    },
     11: {
       required: [
-        'ENG3U',
-      ],
+        'ENG3U'
+      ]
     },
     12: {
       required: [
         {
           course: 'ENG4U',
-          minimum: 70,
-        },
-      ],
+          minimum: 70
+        }
+      ]
     },
     SE: [
       {
@@ -24,7 +34,7 @@ export default [
         classSize: '101 - 250 people',
         tuition: '$4,000/year',
         average: '77 - 80',
-        ProgramType: 'Reg/Int/Prac',
+        ProgramType: 'Reg/Int/Prac'
       },
       {
         label: 'Journlism\nCarleton',
@@ -35,8 +45,8 @@ export default [
         classSize: '101 - 250 people',
         tuition: '$4500/year',
         average: '85 - 88',
-        ProgramType: 'Reg/Int/Prac',
-      },
+        ProgramType: 'Reg/Int/Prac'
+      }
     ],
     J: {
       name: 'Journalist',
@@ -54,7 +64,7 @@ export default [
         'Toronto Sun',
         'CBC',
         'CTV'
-      ],
-    },
+      ]
+    }
   }
-];
+]

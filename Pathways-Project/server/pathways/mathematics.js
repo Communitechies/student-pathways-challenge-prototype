@@ -1,23 +1,33 @@
 export default [
   {
-    name:'Mathematician',
+    name: 'Mathematician',
+    9: {
+      required: [
+        'ENG1D'
+      ]
+    },
+    10: {
+      required: [
+        'ENG2D'
+      ]
+    },
     11: {
       required: [
         'ENG3U',
         'MCT4C'
-      ],
+      ]
     },
     12: {
       required: [
         {
           course: 'ENG4U',
-          minimum: 70,
+          minimum: 70
         },
         {
           course: 'MHF4U',
-          minimum: 70,
-        },
-      ],
+          minimum: 70
+        }
+      ]
     },
     SE: [
       {
@@ -29,7 +39,7 @@ export default [
         classSize: '101 - 250 people',
         tuition: '$3227.89/term',
         average: '70',
-        ProgramType: 'Reg',
+        ProgramType: 'Reg'
       },
       {
         label: 'Mth\nYork University',
@@ -40,7 +50,7 @@ export default [
         classSize: '101 - 250 people',
         tuition: '$3 761.50/term',
         average: '74-76',
-        ProgramType: 'Reg',
+        ProgramType: 'Reg'
       },
       {
         label: 'Math\nWilfred Laurier University',
@@ -51,8 +61,8 @@ export default [
         classSize: '101 - 250 people',
         tuition: '$3,637.41/term',
         average: '74-76',
-        ProgramType: 'Reg/Coop/Int',
-      },
+        ProgramType: 'Reg/Coop/Int'
+      }
     ],
     J: {
       name: 'Mathematician',
@@ -68,7 +78,7 @@ export default [
         'Government of Canada',
         'Maple Leafs Sports and Entertainment',
         'Facebook'
-      ],
-    },
-  },
-];
+      ]
+    }
+  }
+]

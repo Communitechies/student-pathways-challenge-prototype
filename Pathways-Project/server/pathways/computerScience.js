@@ -1,27 +1,37 @@
 export default [
-  { 
+  {
     name: 'Computer Scientist',
+    9: {
+      required: [
+        'ENG1D'
+      ]
+    },
+    10: {
+      required: [
+        'ENG2D'
+      ]
+    },
     11: {
       required: [
         'MCR3U',
         'ENG3U'
-      ],
+      ]
     },
     12: {
       required: [
         {
           course: 'MCV4U',
-          minimum: 70,
+          minimum: 70
         },
         {
           course: 'MHF4U',
-          minimum: 70,
+          minimum: 70
         },
         {
           course: 'ENG4U',
-          minimum: 70,
-        },
-      ],
+          minimum: 70
+        }
+      ]
     },
     SE: [
       {
@@ -33,7 +43,7 @@ export default [
         classSize: '101 - 250 people',
         tuition: '$14,557/year',
         average: '90 - 93',
-        ProgramType: 'Reg/Coop',
+        ProgramType: 'Reg/Coop'
       },
       {
         label: 'Comp Sci\nUniversity of Toronto',
@@ -44,7 +54,7 @@ export default [
         classSize: '101 - 250 people',
         tuition: '$6590/year',
         average: '80 - 85',
-        ProgramType: 'Reg/Coop',
+        ProgramType: 'Reg/Coop'
       },
       {
         label: 'Comp Sci\nUniversity of Western Ontario',
@@ -55,8 +65,8 @@ export default [
         classSize: '101 - 250 people',
         tuition: '$8,050/term',
         average: '80 - 85',
-        ProgramType: 'Reg/Int/Prac',
-      },
+        ProgramType: 'Reg/Int/Prac'
+      }
     ],
     J: {
       name: 'Computer Scientist',
@@ -73,15 +83,25 @@ export default [
         'Apple',
         'Electronic Arts'
       ]
-    },
+    }
   },
-  { 
-    name:'Computer Scientist',
+  {
+    name: 'Computer Scientist',
+    9: {
+      required: [
+        'ENG1D'
+      ]
+    },
+    10: {
+      required: [
+        'ENG2D'
+      ]
+    },
     11: {
       required: [
         'ENG3C',
         'MCF3M or MCR3U'
-      ],
+      ]
     },
     12: {
       required: [
@@ -93,7 +113,7 @@ export default [
           course: 'MCT4C',
           minimum: 50
         }
-      ],
+      ]
     },
     SE: [
       {
@@ -104,11 +124,11 @@ export default [
         classSize: '',
         tuition: '$1,460/term',
         average: '65',
-        programType: '',
-      },
+        programType: ''
+      }
     ],
     J: {
-      name:'Computer Scientist',
+      name: 'Computer Scientist',
       salaryRange: '$53,000 - $75,000',
       automationRisk: '4.8%',
       description: 'Computer scientists often work as part of a research team with computer programmers, information technology professionals, and mechanical or electrical engineers.',
@@ -122,6 +142,6 @@ export default [
         'Apple',
         'Electronic Arts'
       ]
-    },
+    }
   }
-];
+]
