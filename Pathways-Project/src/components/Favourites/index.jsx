@@ -113,7 +113,7 @@ class SearchPathways extends PureComponent {
               </tbody>
             </Table>
           </Box>
-          <Box basis='1/3' pad='medium' style={{backgroundColor: 'lightgray'}}>
+          <Box basis='1/3' pad='medium' style={{border: 'solid 1 px black', backgroundColor: 'lightgray', overflowY: 'scroll'}}>
 
             <JobSidebar details={this.state.details} />
 

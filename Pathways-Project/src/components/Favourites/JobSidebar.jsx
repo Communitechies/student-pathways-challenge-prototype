@@ -6,6 +6,7 @@ import Header from 'grommet/components/Header'
 import Table from 'grommet/components/Table'
 import TableRow from 'grommet/components/TableRow'
 import Button from 'grommet/components/Button'
+import Paragraph from 'grommet/components/Paragraph'
 export default class JobSidebar extends PureComponent {
   renderRow = (key, value) => {
     if (!value) return null
@@ -33,8 +34,15 @@ export default class JobSidebar extends PureComponent {
       return (
         <Box>
           <Header>
-            <Title>Select a row to continue!</Title>
+            <Title>Details</Title>
           </Header>
+          <Paragraph
+            margin='medium'
+            size='large'
+            style={{padding: 16}}>
+          Select a pathway for more details.
+          </Paragraph>
+
         </Box>
       )
     }

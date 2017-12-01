@@ -22,7 +22,7 @@ class SearchPathways extends PureComponent {
   constructor (props) {
     super()
 
-    const {pathways} = props
+    // const {pathways} = props
     this.columns = [
       {label: 'Job Title/Program Name', sort: 'name'},
       {label: 'Type', sort: 'type'},
@@ -94,11 +94,8 @@ class SearchPathways extends PureComponent {
 
   generateSideBar = () => {
     if (this.props.pathway) {
-<<<<<<< HEAD
       let pathway = this.props.pathway
-=======
       let firstPathway = this.props.pathway[0]
->>>>>>> 7ffc4b46d171004469b084cdadb5bfc33f2cc629
       return (
         <div>
           <Title style={{padding: 16}}>{firstPathway.name}</Title>
@@ -166,7 +163,7 @@ class SearchPathways extends PureComponent {
               </tbody>
             </Table>
           </Box>
-          <Box style={{flex: 1, border: 'solid 1px black', direction: 'column'}}>
+          <Box basis='1/3' pad='medium' style={{border: 'solid 1 px black', backgroundColor: 'lightgray'}}>
             <Header pad='medium' justify='between'>
               <Title> Details</Title>
             </Header>

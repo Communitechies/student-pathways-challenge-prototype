@@ -7,7 +7,6 @@ import Box from 'grommet/components/Box'
 import Menu from 'grommet/components/Menu'
 import Footer from 'grommet/components/Footer'
 import Image from 'grommet/components/Image'
-
 import WaypointIcon from 'grommet/components/icons/base/Waypoint'
 import ClipboardIcon from 'grommet/components/icons/base/Clipboard'
 import SearchIcon from 'grommet/components/icons/base/Search'
