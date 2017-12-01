@@ -96,14 +96,16 @@ class PathwayComparison extends PureComponent {
     return (
       <Box full='vertical'>
         <Header pad='medium' justify='between'>
-          <Headline>Comparing your pathway</Headline>
+          <Headline size='small'><b>Comparing your pathway</b></Headline>
         </Header>
-        <Box flex direction='row' justify='between'>
-          <Box direction='column' separator='all'>
+        <Box flex direction='row' alignContent='stretch'>
+          <Box direction='column' separator='all' basis='1/4'>
             <Header pad='medium'>
               <Title>Your Current Pathway</Title>
             </Header>
-            <PathwayGraph edges={edges} nodes={nodes} onSelectNode={this.onPersonalGradeClicked} />
+            <Box flex direction='row'>
+              <PathwayGraph edges={edges} nodes={nodes} onSelectNode={this.onPersonalGradeClicked} />
+            </Box>
           </Box>
           <Box direction='column' seperator='all' flex>
             <Header pad='medium' flex justify='center'>
@@ -116,7 +118,7 @@ class PathwayComparison extends PureComponent {
               }
             </Box>
           </Box>
-          <Box style={{backgroundColor: 'lightgray'}} pad='medium' basis='1/4'>
+          <Box style={{backgroundColor: 'lightgray', overflowY: 'scroll'}} pad='medium' basis='1/3'>
             {
               this.renderSideBar()
             }
