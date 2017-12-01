@@ -4,9 +4,9 @@ export default [
     11: {
       required: [
         'ENG3U',
-        '1 of MCV4U or MHF4U',
+        'MCV4U or MHF4U',
         'SCH3U',
-        '1 of MCR3U or MCT4C or MHF4U',
+        'MCR3U or MCT4C or MHF4U',
         'SBI3U'
       ],
     },
