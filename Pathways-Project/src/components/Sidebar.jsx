@@ -2,8 +2,6 @@ import React, { PureComponent } from 'react'
 import GrommetSidebar from 'grommet/components/Sidebar'
 import Header from 'grommet/components/Header'
 import Anchor from 'grommet/components/Anchor'
-import Title from 'grommet/components/Title'
-import Box from 'grommet/components/Box'
 import Menu from 'grommet/components/Menu'
 import Footer from 'grommet/components/Footer'
 import Image from 'grommet/components/Image'
@@ -39,15 +37,11 @@ export default class Sidebar extends PureComponent {
             label='Favourites'
             icon={<FavouriteIcon />}
             path='/favourites' />
-          <Anchor
-            label='Test'
-            icon={<FavouriteIcon />}
-            path='/comparison' />
         </Menu>
         <Footer>
           <Anchor
             label='Logout'
-            path='/logout' />
+            path='/' />
         </Footer>
       </GrommetSidebar>
     )

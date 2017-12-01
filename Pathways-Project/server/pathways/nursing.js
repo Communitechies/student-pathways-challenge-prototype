@@ -47,7 +47,7 @@ export default [
         description: 'Develop clinical skills and confidence in a lab setting in one of our state-of-the-art simulation suites before embarking on your first practical placement.',
         classSize: '101 - 250 people',
         tuition: '$4,033.60/term',
-        average: '85%',
+        average: '85',
         ProgramType: 'Reg/Int/Prac',
       },
       {
@@ -58,7 +58,7 @@ export default [
         description: 'Brock University’s nursing program is known for its rigorous curriculum, knowledgeable faculty and demanding standards.',
         classSize: '101 - 250 people',
         tuition: '$6,377.65term',
-        average: '87%-89%',
+        average: '87 - 89',
         ProgramType: 'Reg/Int/Prac',
       },
       {

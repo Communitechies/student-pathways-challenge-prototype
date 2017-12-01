@@ -42,7 +42,7 @@ export default [
         description: 'Biomedical, Chemical, Civil, Computer, Electrical, Environmental, Geological, Management, Mechanical, Mechatronics, Nanotechnology, Software, Systems Design',
         classSize: '101 -250 people',
         tuition: '$8,800/year',
-        average: '93%',
+        average: '93',
         ProgramType: 'Reg/Coop'
       },
       {
@@ -53,7 +53,7 @@ export default [
         description: 'Biomedical, Chemical, Civil, Computer, Electrical, Environmental, Geological, Management, Mechanical, Mechatronics, Nanotechnology, Software, Systems Design',
         classSize: '101 - 250 people',
         tuition: '$8,800/year',
-        average: '75%-85%',
+        average: '75 - 85',
         ProgramType: 'Reg/Coop'
       },
       {
@@ -64,7 +64,7 @@ export default [
         description: 'U of T Engineering is a world-renowned faculty known for leading-edge research and discovery.',
         classSize: '101 - 250 people',
         tuition: '$7,880/term',
-        average: '87-89',
+        average: '87 - 89',
         ProgramType: 'Reg/Coop/Int'
       }
     ],
@@ -138,7 +138,7 @@ export default [
         description: 'The Bachelor of Engineering - Electronic Systems Engineering (ESE) program, delivered at the honours level, is accredited by the Canadian Engineering Accreditation Board (CEAB) allowing students to start on the path to becoming a professional engineer',
         classSize: '',
         tuition: '$4,530.5/term',
-        average: '65%',
+        average: '65',
         programType: 'Reg/Coop/Int'
       }
     ],
