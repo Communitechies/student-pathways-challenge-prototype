@@ -29,7 +29,7 @@ export default [
     ],
     J: {
       name: 'Journalist',
-      salaryRange: '$42,322/year',
+      salaryRange: '$35,228-$49,338',
       automationRisk: '11%',
       description: 'The activity or profession of writing for newspapers, magazines, or news websites or preparing news to be broadcast',
       otherJobs: [
@@ -76,7 +76,7 @@ export default [
     ],
     J: {
       name: 'Journalist',
-      salaryRange: '$42,322/year',
+      salaryRange: '$35,228-$49,338',
       automationRisk: '11%',
       description: 'The activity or profession of writing for newspapers, magazines, or news websites or preparing news to be broadcast',
       otherJobs: [
