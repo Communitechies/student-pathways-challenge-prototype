@@ -12,7 +12,7 @@ import TableRow from 'grommet/components/TableRow'
 import Article from 'grommet/components/Article'
 import Paragraph from 'grommet/components/Paragraph'
 import JobSidebar from './JobSidebar'
-
+import Button from 'grommet/components/Button'
 import { loadPathways } from '../../store/jobPathway'
 import redHeart from '../../assets/redHeart30x30.png'
 import './index.css'
@@ -114,8 +114,15 @@ class SearchPathways extends PureComponent {
             </Table>
           </Box>
           <Box basis='1/3' pad='medium' style={{backgroundColor: 'lightgray'}}>
+            <Button
+              accent
+              label='View Pathway'
+              style={{marginLeft: '16px'}}
+              path={`/comparison`} />
             <JobSidebar details={this.state.details} />
+
           </Box>
+
         </Box>
       )
     }
