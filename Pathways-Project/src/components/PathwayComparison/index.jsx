@@ -125,7 +125,7 @@ class PathwayComparison extends PureComponent {
 
 const stateToProps = (state) => ({
   userPathway: state.pathway.pathway,
-  jobPathways: state.jobPathway.pathways
+  jobPathways: state.jobPathway.pathway
 })
 const dispatchToProps = (dispatch) => ({})
 

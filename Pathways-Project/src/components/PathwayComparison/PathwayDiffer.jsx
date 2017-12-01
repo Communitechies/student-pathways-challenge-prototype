@@ -46,10 +46,6 @@ export default class PathwayDiffer extends PureComponent {
     return { nodes, edges }
   }
 
-  onSelectNode = (id) => {
-
-  }
-
   render () {
     const { nodes, edges } = this.parseNodesAndEdges()
     return (
