@@ -12,6 +12,7 @@ import TableRow from 'grommet/components/TableRow';
 import Article from 'grommet/components/Article';
 import Paragraph from 'grommet/components/Paragraph'
 import Heart from 'grommet/components/icons/base/Favorite'
+import Button from 'grommet/components/Button'
 
 import { loadPathways, loadPathwayDetails } from '../../store/jobPathway'
 
@@ -116,6 +117,11 @@ class SearchPathways extends PureComponent {
             style={{fontWeight: 900, padding: 16}}>
             Automation Risk (Chances that computers may take over your job in the future): {pathway.pathway[0].J.automationRisk}
           </Paragraph>
+          <Button
+            accent
+            label='View Pathway'
+            style={{marginLeft: '16px'}}
+            path={`/comparison`}/>
         </div>
       )
     } else {

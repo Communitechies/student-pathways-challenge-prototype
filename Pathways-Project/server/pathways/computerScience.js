@@ -57,7 +57,7 @@ export default [
     ],
     J: {
       name: 'Computer Scientist',
-      salaryRange: '$53,000/year - $75,000/year',
+      salaryRange: '$53,000 - $75,000',
       automationRisk: '4.8%',
       description: 'Computer scientists often work as part of a research team with computer programmers, information technology professionals, and mechanical or electrical engineers.',
       otherJobs: [
