@@ -5,7 +5,7 @@ import Title from 'grommet/components/Title'
 import Header from 'grommet/components/Header'
 import Table from 'grommet/components/Table'
 import TableRow from 'grommet/components/TableRow'
-
+import Button from 'grommet/components/Button'
 export default class JobSidebar extends PureComponent {
   renderRow = (key, value) => {
     if (!value) return null
@@ -67,6 +67,11 @@ export default class JobSidebar extends PureComponent {
             {this.renderRow('Other Jobs', otherJobs)}
           </tbody>
         </Table>
+        <Button
+          accent
+          label='View Pathway'
+          style={{marginLeft: '16px'}}
+          path={`/comparison`} />
       </Box>
     )
   }

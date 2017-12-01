@@ -6,10 +6,10 @@ import Header from 'grommet/components/Header'
 import Title from 'grommet/components/Title'
 import Box from 'grommet/components/Box'
 import Search from 'grommet/components/Search'
-import Table from 'grommet/components/Table';
-import TableHeader from 'grommet/components/TableHeader';
-import TableRow from 'grommet/components/TableRow';
-import Article from 'grommet/components/Article';
+import Table from 'grommet/components/Table'
+import TableHeader from 'grommet/components/TableHeader'
+import TableRow from 'grommet/components/TableRow'
+import Article from 'grommet/components/Article'
 import Paragraph from 'grommet/components/Paragraph'
 import Heart from 'grommet/components/icons/base/Favorite'
 import Button from 'grommet/components/Button'
@@ -19,40 +19,39 @@ import { loadPathways, loadPathwayDetails } from '../../store/jobPathway'
 import './style.css'
 
 class SearchPathways extends PureComponent {
+  constructor (props) {
+    super()
 
-  constructor(props) {
-    super();
-
-    const {pathways} = props;
+    const {pathways} = props
     this.columns = [
       {label: 'Job Title/Program Name', sort: 'name'},
       {label: 'Type', sort: 'type'},
       {label: 'Career Field', sort: 'field'},
       {label: 'Favourite', sort: 'favourite'}
-    ];
+    ]
     this.state = {
       pathways: [],
-      searchText: '',
-    };
+      searchText: ''
+    }
   }
 
-  componentDidMount() {
+  componentDidMount () {
     this.props.actions.loadPathways()
   }
 
   generateTableRows = () => {
-    let searchText = this.state.searchText.toLowerCase();
-    let pathways = this.props.pathways;
+    let searchText = this.state.searchText.toLowerCase()
+    let pathways = this.props.pathways
     if (searchText) {
       pathways = pathways.filter((pathway) => {
         return pathway.pathway.toLowerCase().indexOf(searchText) !== -1 ||
-          pathway.career.toLowerCase().indexOf(searchText) !== -1;
-      });
+          pathway.career.toLowerCase().indexOf(searchText) !== -1
+      })
     }
     return pathways ? pathways.map((pathway) => {
-      console.log(pathway);
+      console.log(pathway)
       return (
-        <TableRow className='table-row' onClick={() => {this.showPathwayDetails(pathway.key)}}>
+        <TableRow className='table-row' onClick={() => { this.showPathwayDetails(pathway.key) }}>
           <td>{pathway.pathway}</td>
           <td>Job</td>
           <td>{pathway.career}</td>
@@ -67,18 +66,18 @@ class SearchPathways extends PureComponent {
   };
 
   showPathwayDetails = (key) => {
-    this.props.actions.loadPathwayDetails(key);
+    this.props.actions.loadPathwayDetails(key)
   };
 
   favouritedImage = (pathway) => {
     if (pathway.favourite) {
-      return (<Heart colorIndex={'critical'} onClick={() => this.changeFavourite(pathway)}/>)
+      return (<Heart colorIndex={'critical'} onClick={() => this.changeFavourite(pathway)} />)
     }
-    return (<Heart onClick={() => this.changeFavourite(pathway)}/>)
+    return (<Heart onClick={() => this.changeFavourite(pathway)} />)
   };
 
   changeFavourite = (pathway) => {
-    const key = pathway.key;
+    const key = pathway.key
     fetch(`/api/v1/user/favourite/${key}`, {
       method: 'POST',
       headers: {
@@ -86,7 +85,7 @@ class SearchPathways extends PureComponent {
         'Content-Type': 'application/json'
       }
     })
-      .then(() => this.props.actions.loadPathways());
+      .then(() => this.props.actions.loadPathways())
   };
 
   handleSearchChange = (ev) => {
@@ -95,7 +94,7 @@ class SearchPathways extends PureComponent {
 
   generateSideBar = () => {
     if (this.props.pathway) {
-      let pathway = this.props.pathway;
+      let pathway = this.props.pathway
       return (
         <div>
           <Title style={{padding: 16}}>{pathway.pathway[0].name}</Title>
@@ -121,7 +120,7 @@ class SearchPathways extends PureComponent {
             accent
             label='View Pathway'
             style={{marginLeft: '16px'}}
-            path={`/comparison`}/>
+            path={`/comparison`} />
         </div>
       )
     } else {
@@ -136,7 +135,7 @@ class SearchPathways extends PureComponent {
     }
   };
 
-  render() {
+  render () {
     return (
       <Article id='Search'>
         <Box flex='grow' direction='row'>
@@ -153,13 +152,13 @@ class SearchPathways extends PureComponent {
                   size='large'
                   iconAlign='start'
                   value={this.state.searchText}
-                  onDOMChange={this.handleSearchChange}/>
+                  onDOMChange={this.handleSearchChange} />
               </Box>
             </Box>
             <Table>
-              <TableHeader labels={this.columns.map(v => v.label.toUpperCase())}/>
+              <TableHeader labels={this.columns.map(v => v.label.toUpperCase())} />
               <tbody>
-              {this.generateTableRows()}
+                {this.generateTableRows()}
               </tbody>
             </Table>
           </Box>
@@ -178,10 +177,10 @@ class SearchPathways extends PureComponent {
 const stateToProps = (state) => ({
   pathways: state.jobPathway.pathways,
   pathway: state.jobPathway.pathway
-});
+})
 
 const dispatchToProps = (dispatch) => ({
   actions: bindActionCreators({ loadPathways, loadPathwayDetails }, dispatch)
-});
+})
 
 export default connect(stateToProps, dispatchToProps)(SearchPathways)
