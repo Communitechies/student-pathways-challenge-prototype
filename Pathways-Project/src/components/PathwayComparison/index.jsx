@@ -98,7 +98,7 @@ class PathwayComparison extends PureComponent {
         <Header pad='medium' justify='between'>
           <Headline>Comparing your pathway</Headline>
         </Header>
-        <Box flex direction='row' justify='between'>
+        <Box flex direction='row'>
           <Box direction='column' separator='all'>
             <Header pad='medium'>
               <Title>Your Current Pathway</Title>

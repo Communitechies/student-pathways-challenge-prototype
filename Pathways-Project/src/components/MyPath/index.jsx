@@ -9,11 +9,11 @@ import InfoBar from './InfoBar'
 export default class MyPath extends PureComponent {
   render () {
     return (
-      <Box flex='grow'>
+      <Box flex>
         <Header pad='medium' justify='between'>
           <Headline> My Pathway</Headline>
         </Header>
-        <Box flex='grow' direction='row'>
+        <Box flex direction='row'>
           <Pathway />
           <InfoBar />
         </Box>
