@@ -86,6 +86,10 @@ class PathwayComparison extends PureComponent {
   }
 
   render () {
+    if (!this.props.jobPathways) {
+      return <h3> Loading </h3>
+    }
+
     const { edges, nodes } = this.createNodesAndEdges()
     const jobName = this.props.jobPathways[0].name
 

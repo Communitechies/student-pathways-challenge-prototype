@@ -6,7 +6,7 @@ import { composeWithDevTools } from 'redux-devtools-extension'
 
 // Reducers
 import user from './user'
-import pathway from './pathway'
+import pathway, { loadUserPathway } from './pathway'
 import jobPathway from './jobPathway'
 
 export const history = createHistory()
@@ -22,5 +22,7 @@ const store = createStore(
   reducer,
   composeWithDevTools(applyMiddleware(ReduxThunk, routerMiddleware(history)))
 )
+
+store.dispatch(loadUserPathway())
 
 export default store
