@@ -34,7 +34,7 @@ export default [
         description: 'Our mission is shaped by a commitment to equity and social justice, and at Windsor we offer specialized programming to enrich your experience.',
         classSize: '101 - 250 people',
         tuition: '$3,935.58/term',
-        average: '75-80',
+        average: '75 - 80',
         ProgramType: 'Reg/Int/Prac',
       },
       {
@@ -51,7 +51,7 @@ export default [
     ],
     J: {
       name: 'Teacher',
-      salaryRange: '$36,190-$85,550',
+      salaryRange: '$36,190 - $85,550',
       automationRisk: '0.8%',
       description: 'Undergraduate Studies in Education involves the study and practice of teaching and works to prepare you to be a effective educator.',
       otherJobs: [
