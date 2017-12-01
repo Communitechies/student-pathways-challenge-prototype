@@ -15,7 +15,8 @@ export default class JobSidebar extends PureComponent {
     if (typeof value === 'string') {
       cellValue = value
     } else if (Array.isArray(value)) {
-      cellValue = value.join(<br />)
+      cellValue = []
+      value.forEach(v => cellValue.push(v, <br />))
     }
 
     return (
@@ -38,9 +39,7 @@ export default class JobSidebar extends PureComponent {
 
     return (
       <Box>
-        <Header>
-          <Title>{name}</Title>
-        </Header>
+        <h2>{name}</h2>
         <br />
         <Table>
           <thead>

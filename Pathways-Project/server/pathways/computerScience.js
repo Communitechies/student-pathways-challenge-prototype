@@ -1,6 +1,6 @@
 export default [
   { 
-    name: 'Computer Science',
+    name: 'Computer Scientist',
     11: {
       required: [
         'MCR3U',
@@ -56,7 +56,7 @@ export default [
       },
     ],
     J: {
-      name: 'Computer Science',
+      name: 'Computer Scientist',
       salaryRange: '$53,000/year - $75,000/year',
       automationRisk: '4.8%',
       description: 'Computer scientists often work as part of a research team with computer programmers, information technology professionals, and mechanical or electrical engineers.',
@@ -73,7 +73,7 @@ export default [
     },
   },
   { 
-    name:'computerscience',
+    name:'Computer Scientist',
 
     11: {
       required: [
@@ -106,7 +106,7 @@ export default [
       },
     ],
     J: {
-      name: 'Computer Science',
+      name:'Computer Scientist',
       salaryRange: '$53,000 - $75,000',
       automationRisk: '4.8%',
       description: 'Computer scientists often work as part of a research team with computer programmers, information technology professionals, and mechanical or electrical engineers.',
