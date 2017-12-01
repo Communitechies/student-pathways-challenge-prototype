@@ -46,11 +46,8 @@ class ViewNode extends PureComponent {
   render () {
     return (
       <Box>
-        <Form>
-          <Title>Grade {this.props.nodeId}</Title>
-        </Form>
-        <br />
-        <Title> Courses </Title>
+        <h2><b>Grade {this.props.nodeId}</b></h2>
+        <h3> Courses </h3>
         <CourseMarkTable
           onUpdate={courses => this.setState({ courses })}
           courses={this.state.courses}

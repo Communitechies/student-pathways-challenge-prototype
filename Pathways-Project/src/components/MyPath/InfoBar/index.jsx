@@ -23,7 +23,6 @@ class Sidebar extends PureComponent {
   renderView = () => {
     return (
       <Box>
-        <Header><Title> Grade info </Title></Header>
         <ViewNode />
       </Box>
     )
