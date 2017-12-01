@@ -58,14 +58,20 @@ export function uploadPathToServer () {
 }
 
 export function saveNodeToPathway (grade, courses) {
-  return (dispatch) => {
+  return async (dispatch) => {
     const event = {
       type: PATHWAY_ADD_NODE,
       grade,
       courses
     }
     dispatch(event)
-    return dispatch(uploadPathToServer())
+    try {
+      await dispatch(uploadPathToServer())
+    } catch (e) {
+      return dispatch({ type: ERROR, message: e.message })
+    }
+
+    dispatch(sidebarSwitchToViewNode(grade))
   }
 }
 
@@ -111,6 +117,8 @@ export default (state = defaultState, action) => {
       return { ...state, pathway: { ...state.pathway, [action.grade]: action.courses } }
     case CHANGE_LOAD_STATE:
       return { ...state, loading: action.state }
+    case ERROR:
+      return { ...state, error: action.message }
     default: return state
   }
 }

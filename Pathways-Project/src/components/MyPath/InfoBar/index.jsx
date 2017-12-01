@@ -11,21 +11,20 @@ import CreateNode from './CreateNode'
 import ViewNode from './ViewNode'
 
 class Sidebar extends PureComponent {
-
   renderCreate = () => {
     return (
       <Box>
         <Header><Title> Creating a new step </Title></Header>
-        <CreateNode/>
+        <CreateNode />
       </Box>
     )
   }
 
   renderView = () => {
-    return  (
+    return (
       <Box>
         <Header><Title> Grade info </Title></Header>
-        <ViewNode/>
+        <ViewNode />
       </Box>
     )
   }
@@ -40,7 +39,6 @@ class Sidebar extends PureComponent {
       message = 'Click on a node to get started'
     }
 
-
     return (
       <Box flex alignContent='center' align='center' justify='center'>
         <Paragraph margin='medium' align='center' size='large'> {message} </Paragraph>
@@ -53,13 +51,13 @@ class Sidebar extends PureComponent {
     switch (this.props.sidebar.type) {
       case sidebarModeEnum.CREATE:
         content = this.renderCreate()
-        break;
+        break
       case sidebarModeEnum.VIEW:
         content = this.renderView()
-        break;
+        break
       case sidebarModeEnum.NONE:
         content = this.renderNone()
-        break;
+        break
     }
 
     return (
