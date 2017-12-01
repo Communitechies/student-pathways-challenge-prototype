@@ -87,6 +87,9 @@ class PathwayComparison extends PureComponent {
 
   render () {
     if (!this.props.jobPathways) {
+      if (this.props.loading === 'BEFORE_LOAD') {
+        this.props.history.push('/search')
+      }
       return <h3> Loading </h3>
     }
 
@@ -131,7 +134,8 @@ class PathwayComparison extends PureComponent {
 
 const stateToProps = (state) => ({
   userPathway: state.pathway.pathway,
-  jobPathways: state.jobPathway.pathway
+  jobPathways: state.jobPathway.pathway,
+  loading: state.jobPathway.loading
 })
 const dispatchToProps = (dispatch) => ({})
 
