@@ -74,7 +74,6 @@ export default [
   },
   { 
     name:'Computer Scientist',
-
     11: {
       required: [
         'ENG3C',
