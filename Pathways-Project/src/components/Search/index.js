@@ -138,39 +138,37 @@ class SearchPathways extends PureComponent {
 
   render () {
     return (
-      <Article id='Search'>
-        <Box flex='grow' direction='row'>
-          <Box style={{flex: 3}} direction='column'>
-            <Box direction='column'>
-              <Header pad='medium' justify='between'>
-                <Title> Search Pathways</Title>
-              </Header>
-              <Box flex='grow' direction='row'>
-                <Search
-                  fill
-                  inline
-                  placeHolder='Search'
-                  size='large'
-                  iconAlign='start'
-                  value={this.state.searchText}
-                  onDOMChange={this.handleSearchChange} />
-              </Box>
-            </Box>
-            <Table>
-              <TableHeader labels={this.columns.map(v => v.label.toUpperCase())} />
-              <tbody>
-                {this.generateTableRows()}
-              </tbody>
-            </Table>
-          </Box>
-          <Box basis='1/3' pad='medium' style={{border: 'solid 1 px black', backgroundColor: 'lightgray'}}>
+      <Box flex='grow' direction='row'>
+        <Box style={{flex: 3}} direction='column'>
+          <Box direction='column'>
             <Header pad='medium' justify='between'>
-              <Title> Details</Title>
+              <Title> Search Pathways</Title>
             </Header>
-            {this.generateSideBar()}
+            <Box flex='grow' direction='row'>
+              <Search
+                fill
+                inline
+                placeHolder='Search'
+                size='large'
+                iconAlign='start'
+                value={this.state.searchText}
+                onDOMChange={this.handleSearchChange} />
+            </Box>
           </Box>
+          <Table>
+            <TableHeader labels={this.columns.map(v => v.label.toUpperCase())} />
+            <tbody>
+              {this.generateTableRows()}
+            </tbody>
+          </Table>
         </Box>
-      </Article>
+        <Box basis='1/3' pad='medium' style={{border: 'solid 1 px black', backgroundColor: 'lightgray'}}>
+          <Header pad='medium' justify='between'>
+            <Title> Details</Title>
+          </Header>
+          {this.generateSideBar()}
+        </Box>
+      </Box>
     )
   }
 }
