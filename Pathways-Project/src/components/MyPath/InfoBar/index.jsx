@@ -60,7 +60,7 @@ class Sidebar extends PureComponent {
     }
 
     return (
-      <Box style={{flex: 0.3, border: 'solid 1px black'}} pad='medium'>
+      <Box style={{border: 'solid 1px black'}} pad='medium' flex>
         {content}
       </Box>
     )

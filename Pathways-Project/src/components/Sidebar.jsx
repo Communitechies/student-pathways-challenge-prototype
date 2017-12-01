@@ -14,12 +14,13 @@ import FavouriteIcon from 'grommet/components/icons/base/Favorite'
 export default class Sidebar extends PureComponent {
   render () {
     return (
-      <GrommetSidebar colorIndex='neutral-1' justify='between'>
-        <Header pad='medium' justify='between'>
+      <GrommetSidebar colorIndex='neutral-1' justify='between' size='small'>
+        <Header pad='medium' justify='center'>
           <Image
             align='center'
             alt='student pathways logo'
-            src='images/pathwayLogo.png' />
+            src='images/pathwayLogo.png'
+            size='small' />
         </Header>
         <Menu primary>
           <Anchor

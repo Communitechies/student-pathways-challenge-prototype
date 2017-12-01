@@ -39,8 +39,7 @@ export default class JobSidebar extends PureComponent {
 
     return (
       <Box>
-        <h2>{name}</h2>
-        <br />
+        <h2><b>{name}</b></h2>
         <Table>
           <thead>
             <tr>
