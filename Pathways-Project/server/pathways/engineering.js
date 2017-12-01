@@ -1,10 +1,6 @@
 export default [
   {
-<<<<<<< HEAD
-    name: 'Engineering',
-=======
     name:'Engineer',
->>>>>>> 7117dc3f93411d958969a123ab8024d299c95d37
     11: {
       required: [
         'MCR3U or MCT4C',
