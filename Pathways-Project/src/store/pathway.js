@@ -1,9 +1,12 @@
 import * as assert from 'assert'
+import * as _ from 'lodash'
 // Actions
 const PATHWAY_LOADING_SUCCESS = 'pathways/pathway/PATHWAY_LOADING_SUCCESS'
 const PATHWAY_ADD_NODE = 'pathways/pathway/PATHWAY_ADD_NODE'
+const PATHWAY_DELETE_NODE = 'pathways/pathway/PATHWAY_DELETE_NODE'
 const SIDEBAR_CREATE = 'pathways/pathway/SIDEBAR_CREATE'
 const SIDEBAR_VIEW_NODE = 'pathways/pathway/SIDEBAR_VIEW_NODE'
+const SIDEBAR_VIEW_NONE = 'pathways/pathway/SIDEBAR_VIEW_NONE'
 const ERROR = 'pathways/pathway/ERROR'
 const CHANGE_LOAD_STATE = 'pathways/pathway/CHANGE_LOAD_STATE'
 
@@ -39,6 +42,10 @@ export function sidebarSwitchToViewNode (nodeId) {
   return { type: SIDEBAR_VIEW_NODE, nodeId }
 }
 
+export function sidebarSwitchToDefault () {
+  return { type: SIDEBAR_VIEW_NONE }
+}
+
 export function uploadPathToServer () {
   return async (dispatch, getState) => {
     const state = getState()
@@ -71,6 +78,24 @@ export function saveNodeToPathway (grade, courses) {
     }
 
     dispatch(sidebarSwitchToViewNode(grade))
+  }
+}
+
+export function deleteNodeFromPathway (grade) {
+  return async (dispatch) => {
+    dispatch(sidebarSwitchToDefault())
+
+    const event = {
+      type: PATHWAY_DELETE_NODE,
+      grade
+    }
+
+    dispatch(event)
+    try {
+      await dispatch(uploadPathToServer())
+    } catch (e) {
+      return dispatch({ type: ERROR, message: e.message })
+    }
   }
 }
 
@@ -112,8 +137,12 @@ export default (state = defaultState, action) => {
       return { ...state, sidebar: { type: sidebarModeEnum.CREATE } }
     case SIDEBAR_VIEW_NODE:
       return { ...state, sidebar: { type: sidebarModeEnum.VIEW, nodeId: action.nodeId } }
+    case SIDEBAR_VIEW_NONE:
+      return { ...state, sidebar: { type: sidebarModeEnum.NONE } }
     case PATHWAY_ADD_NODE:
       return { ...state, pathway: { ...state.pathway, [action.grade]: action.courses } }
+    case PATHWAY_DELETE_NODE:
+      return { ...state, pathway: _.omit(state.pathway, action.grade) }
     case CHANGE_LOAD_STATE:
       return { ...state, loading: action.state }
     case ERROR:

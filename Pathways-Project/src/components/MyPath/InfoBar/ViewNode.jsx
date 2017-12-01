@@ -10,7 +10,7 @@ import Button from 'grommet/components/Button'
 import CourseMarkTable from './CourseMarkTable'
 import courses from './courses'
 
-import { saveNodeToPathway } from '../../../store/pathway'
+import { saveNodeToPathway, deleteNodeFromPathway } from '../../../store/pathway'
 
 class ViewNode extends PureComponent {
   constructor (props) {
@@ -41,6 +41,11 @@ class ViewNode extends PureComponent {
     this.props.actions.saveNodeToPathway(nodeId, filteredCourses)
   }
 
+  onDeleteNode = () => {
+    const nodeId = this.props.nodeId
+    this.props.actions.deleteNodeFromPathway(nodeId)
+  }
+
   componentWillReceiveProps (nextProps) {
     this.setState({ courses: nextProps.courses })
   }
@@ -48,7 +53,14 @@ class ViewNode extends PureComponent {
   render () {
     return (
       <Box>
-        <h2><b>Grade {this.props.nodeId}</b></h2>
+        <Box justify='between' align='center' alignContent='center' direction='row'>
+          <h2 style={{padding: 0, margin: 0}}><b>Grade {this.props.nodeId}</b></h2>
+          <Button
+            onClick={this.onDeleteNode}
+            label='Delete Node'
+            critical />
+        </Box>
+        <br />
         <h3> Courses </h3>
         <CourseMarkTable
           onUpdate={courses => this.setState({ courses })}
@@ -70,7 +82,7 @@ const stateToProps = (state) => ({
 })
 
 const dispatchToProps = (dispatch) => ({
-  actions: bindActionCreators({ saveNodeToPathway }, dispatch)
+  actions: bindActionCreators({ saveNodeToPathway, deleteNodeFromPathway }, dispatch)
 })
 
 export default connect(stateToProps, dispatchToProps)(ViewNode)
