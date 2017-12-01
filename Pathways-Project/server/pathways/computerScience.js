@@ -25,6 +25,7 @@ export default [
     },
     SE: [
       {
+        label: 'Comp Sci\nUniversity of Waterloo',
         programName: 'Computer Science',
         institution: 'University',
         university: 'University of Waterloo',
@@ -35,6 +36,7 @@ export default [
         ProgramType: 'Reg/Coop',
       },
       {
+        label: 'Comp Sci\nUniversity of Toronto',
         programName: 'Computer Science',
         institution: 'University',
         university: 'University of Toronto',
@@ -45,6 +47,7 @@ export default [
         ProgramType: 'Reg/Coop',
       },
       {
+        label: 'Comp Sci\nUniversity of Western Ontario',
         programName: 'Computer Science',
         institution: 'University',
         university: 'University of Western Ontario',
