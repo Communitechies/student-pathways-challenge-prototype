@@ -103,7 +103,7 @@ class PathwayComparison extends PureComponent {
             <Header pad='medium'>
               <Title>Your Current Pathway</Title>
             </Header>
-            <Box flex>
+            <Box flex direction='row'>
               <PathwayGraph edges={edges} nodes={nodes} onSelectNode={this.onPersonalGradeClicked} />
             </Box>
           </Box>
