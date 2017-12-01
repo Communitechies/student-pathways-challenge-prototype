@@ -50,7 +50,7 @@ export default [
       required: [
         'ENG3U',
         'MCR3U',
-        'SBI3U or SCH3U or MCR3U or SPH3U',
+        'SBI3U or SCH3U or SPH3U',
       ],
     },
     12: {
